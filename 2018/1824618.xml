@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conference Title: WHIM and Cluster Outskirts: Lost and Found Baryons in the Local Universe</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Benacquista</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The warm-hot intergalactic medium (WHIM) is thought to be a reservoir of a large fraction of the ordinary matter in the universe. Observations of the WHIM in the far ultraviolet and x-ray bands of the spectrum can reveal highly ionized atoms using absorption spectroscopy. However, these observations reveal fewer atoms than are theoretically predicted. The conference "WHIM and Cluster Outskirts: Lost and Found Baryons in the Local Universe" will bring together theorists and observers to better understand the discrepancy between observation and theory. Funds for this project will support travel, lodging, and registration expenses for 20 graduate students and early-career scientists so that they can attend this international conference.&lt;br/&gt;&lt;br/&gt;The WHIM conference will bring together 80 researchers from observation, theory, and instrumentation to better understand current observations and to plan and develop future X-ray and FUV instruments and missions. The conference will also develop strategies for taking advantage of multiwavelength observations and improved X-ray spectroscopy capabilities to perform more complete surveys of highly ionized oxygen. The project will support the participation of graduate students and early-career scientists at this meeting.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824618</AwardID>
+<Investigator>
+<FirstName>Massimiliano</FirstName>
+<LastName>Bonamente</LastName>
+<EmailAddress>bonamem@uah.edu</EmailAddress>
+<StartDate>03/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama in Huntsville</Name>
+<CityName>Huntsville</CityName>
+<ZipCode>358051911</ZipCode>
+<PhoneNumber>2568242657</PhoneNumber>
+<StreetAddress>301 Sparkman Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

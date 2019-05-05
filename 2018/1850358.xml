@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: RI: Self-Attention through the Bayesian Lens</AwardTitle>
+<AwardEffectiveDate>03/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>174980.00</AwardTotalIntnAmount>
+<AwardAmount>174980</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Self-attention, a recently introduced augmentation to neural network architectures, has greatly improved neural network performance in a range of applications, particularly natural language processing and computer vision. Based conceptually on the way the human brain processes complex visual information by learning to selectively focus on the most salient elements, self-attention improves network ability to capture long-range relations in data. However, there is limited study in quantifying uncertainties of the outputs of self-attention networks, though uncertainty quantification is critically important for reliable learning models. The uncertainty of a self-attention network highly depends on where the network pays its attention to. This project will model the uncertainties associated with attention placement, and thereby better quantify the uncertainty in network outputs. The research will also convert part of the architecture design to standard computational procedures by utilizing statistical methods, and thus facilitate the design of new network architectures. This project has a secondary aim of applying the self-attention mechanism to statistical inference for computational efficiency. Ultimately, this project will produce new network architectures that are more reliable and more broadly applicable. This research will also support the development of a deep learning course for both graduate and undergraduate students at Tufts University. &lt;br/&gt;&lt;br/&gt;This project examines self-attention networks using a Bayesian approach and proposes a new modification - Bayesian Self-Attention Networks (BSANs). While self-attention networks use "attention weights" to take information from a special range of the data, BSANs assign probabilities to attention weights. By modeling uncertainties in the attention, BSANs naturally inherit desirable properties of Bayesian methods, such as better estimations of uncertainties and less overfitting of data. BSANs will automate the computation of attention probabilities as statistical inference procedures, simplifying the design of new attention-based neural networks, which will only need to determine where to place the attention structure. The study of BSANs will result in new network architectures, with the potential to improve reliability over a wide span of tasks in both natural language processing and graph data analysis. In addition to BSANs, this project will also use the self-attention mechanism to construct probability distributions that involve large numbers of variables. Being flexible and computationally efficient, the constructed distributions will be suitable for distribution approximation in large-scale statistical inference. This project will produce computationally efficient inference methods for Gaussian processes, a widely used model in machine learning and other related areas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/14/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850358</AwardID>
+<Investigator>
+<FirstName>Liping</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>liping.liu@tufts.edu</EmailAddress>
+<StartDate>03/14/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tufts University</Name>
+<CityName>Boston</CityName>
+<ZipCode>021111817</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress>136 Harrison Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

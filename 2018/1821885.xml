@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Improving our understanding of vorticity development in supercells through novel thermodynamic observations and an improved treatment of the near-surface layer in simulations</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>1168436</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chungu Lu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research seeks to improve our understanding of the processes occurring within severe "supercell" thunderstorms that control the development of near-surface vertical vorticity (or "spin"), possible intensification to tornado strength, and the evolution thereafter.  This project targets two aspects of supercell storms that are notoriously difficult to simulate and observe: (1) the influence of the buoyancy field and its horizontal gradients and (2) the influence of the underlying surface.  The observational and numerical modeling methods are innovative and have the potential to be transformative, not only in the severe storms community, but in other scientific communities as well.  This work will address a long-standing, critical need in the severe storms community, obtaining fine-scale 3D thermodynamic observations within storms? The PIs will also develop a permanent exhibit at a local, non-profit museum educating the public on severe storms, which will be a valuable contribution to the community. Historically, the PIs have been involved in a broad range of outreach activities, including K-12 and public education, the participation as science advisors for government groups and media, and publishing articles accessible to a broad audience. &lt;br/&gt;&lt;br/&gt;The PIs plan to undertake the following tasks: 1) sample supercell storms using pseudo-Lagrangian drifters and 2) use improved turbulence methods to study frictionally generated vorticity; both approaches are novel and creative.  The use of pseudo-Lagrangian drifters to observe the 3D structure of the boundary layer surrounding and within supercells, capable of obtaining observations within the most dangerous and critical parts of the storm with minimal safety risks to the observer, is novel.   This new observational tool will be used to obtain quasi-Lagrangian observations of wind and thermodynamic characteristics in the boundary layer extending into the core of the supercell, including in the cold pools which have been shown to be critical in developing sufficient near surface streamwise vorticity for tornadogenesis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821885</AwardID>
+<Investigator>
+<FirstName>Yvette</FirstName>
+<LastName>Richardson</LastName>
+<EmailAddress>yrichardson@ou.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Markowski</LastName>
+<EmailAddress>pmarkowski@psu.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ying</FirstName>
+<LastName>Pan</LastName>
+<EmailAddress>yyp5033@psu.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>034Y</Code>
+<Text>PREEVENTS - Prediction of and</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

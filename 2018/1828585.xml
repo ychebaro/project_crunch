@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Three Component Particle-Image Velocimetry System to Enable Fundamental Research in Wind Engineering and Fluid Mechanics</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>466076</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanne D. Culbertson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation (MRI) award supports the acquisition of a three-component particle-image velocity velocimetry (PIV) system to enable previously unavailable wind flow field measurements at the Wall-of-Wind (WOW) Natural Hazards Engineering Research Infrastructure (NHERI) facility.  These data will enable improved understanding of the correlation of peak wind loads on buildings and turbulent flows around buildings in urban settings. Enhanced understanding of the physics of turbulent wind flows may lead to major breakthroughs in both fluid mechanics and wind engineering. This knowledge enables more resilient designs that enhance economic competitiveness and reduce property loss and loss of life during severe wind events such as hurricanes.  The instrumentation will also spur new cross disciplinary research collaborations at WOW in areas ranging from pollutant dispersion in urban areas to energy systems and aerodynamics of unmanned aerial vehicles.  The instrumentation will provide enhanced student research training with hands-on PIV measurements, new experimental modules, and exposure to a broad range of fluid dynamics research.  The data from WOW experiments will be made available to community researchers through NHERI DesignSafe.&lt;br/&gt;&lt;br/&gt;There are fundamental knowledge gaps in characterizing turbulent wind flows at high Reynolds numbers-- particularly at complex fluid-structure interfaces.  This high spatio-temporal resolution PIV system will enable simultaneous measurements of small-scale transient and turbulent flow characteristics, as well as of large-scale mean velocity field features. This will permit whole-flow-field measurements (rather than just the impact of wind on the built environment) to study fluid-structure interaction at high Reynolds numbers that cannot be achieved in conventional wind tunnels. The PIV will also provide an important tool for the validation of numerical models for turbulent flow simulations, and the fundamentals of fluid-structure interactions-- potentially leading to breakthroughs in wind engineering, fluid dynamics and high-fidelity computational fluid dynamics simulation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828585</AwardID>
+<Investigator>
+<FirstName>Arindam</FirstName>
+<LastName>Chowdhury</LastName>
+<EmailAddress>chowdhur@fiu.edu</EmailAddress>
+<StartDate>09/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ioannis</FirstName>
+<LastName>Zisis</LastName>
+<EmailAddress>izisis@fiu.edu</EmailAddress>
+<StartDate>09/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Irwin</LastName>
+<EmailAddress>peairwi@fiu.edu</EmailAddress>
+<StartDate>09/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amal</FirstName>
+<LastName>Elawady</LastName>
+<EmailAddress>aelawady@fiu.edu</EmailAddress>
+<StartDate>09/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maryam</FirstName>
+<LastName>Refan</LastName>
+<EmailAddress>mrefan@fiu.edu</EmailAddress>
+<StartDate>09/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>Miami</CityName>
+<ZipCode>331990001</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>039E</Code>
+<Text>STRUCTURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

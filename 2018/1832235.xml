@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Symposium on Moduli Spaces in Algebraic Geometry</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>22000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Manes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports participation in the 2018 Yamabe Memorial Symposium on "Moduli Spaces in Algebraic Geometry" held at the University of Minnesota on September 28-30, 2018. Spurred by developments in algebraic geometry, as well as in other areas of mathematics and physics, new and exciting aspects of the theory of moduli have emerged. The purpose of this symposium is to bring participants a deeper understanding of recent discoveries in these areas. At the same time, the meeting will provide a valuable opportunity for graduate students and junior researchers to interact with, and learn from, leading mathematicians.&lt;br/&gt;&lt;br/&gt;Developments in birational geometry and the minimal model program have led to progress in the study of moduli of higher-dimensional varieties. Another source of inspiration has come from string theory in physics, in particular from its predictions about enumerative geometry of curves in algebraic varieties. Yet another newer strand resulting in part from the same influence is the study of moduli in logarithmic geometry and in tropical geometry. The goal of the symposium is to help participants gain a wider perspective of these new developments. It is anticipated that a long-lasting benefit of the conference will be the stimulation of innovative developments in mathematics research.&lt;br/&gt;&lt;br/&gt;More information can be found at the symposium web site &lt;br/&gt;https://math.umn.edu/news-events/yamabe-2018&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832235</AwardID>
+<Investigator>
+<FirstName>Anar</FirstName>
+<LastName>Ahmadov</LastName>
+<EmailAddress>akhmedov@math.umn.edu</EmailAddress>
+<StartDate>06/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

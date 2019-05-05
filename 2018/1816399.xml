@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSR:Small:System Support for Edge Computing Applications</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>330095</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>M. Mimi McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Edge computing promises to enable many applications not readily supported by the cloud computing paradigm. By placing resource-rich nodes in close proximity to mobile or Internet of Things (IoT) devices, edge computing offers better responsive services, along with higher scalability and availability than traditional cloud platforms. Edge computing, as a new computing paradigm, also poses vastly different research challenges due to its distinct infrastructure from other systems. In this project, a number of novel technologies will be developed to run various applications on an edge computing system with less deployment effort and higher efficiency. &lt;br/&gt;&lt;br/&gt;Specifically, the project proposes a comprehensive architecture for edge computing application development and identifies task scheduling, service migration, data management as enabling techniques for edge computing to prevail. The project will focus on new algorithms and system design methodologies in (1) a task queue management and inter-edge collaboration system, (2) a highly efficient and robust service migration support based on Docker/Virtual Machine, and (3) a combined edge/cloud computing architecture for distributed data management. With respect to broader impacts, this project will advance the state of the art in emerging edge computing systems by designing system support to facilitate the development of a wide variety of edge computing applications, thereby having a positive impact on our daily lives. The new paradigm derived from the research will lead to a number of interesting problems that are not explored in traditional cloud or mobile systems. The findings of this research will be incorporated into new and existing undergraduate and graduate courses.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816399</AwardID>
+<Investigator>
+<FirstName>Qun</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>liqun@cs.wm.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>College of William and Mary</Name>
+<CityName>Williamsburg</CityName>
+<ZipCode>231878795</ZipCode>
+<PhoneNumber>7572213966</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

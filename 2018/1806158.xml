@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: High-Throughput Manufacturing of Three-Dimensional Nanostructured Materials</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita La Salle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact / commercial potential of this I-Corps project is to better identify the commercial opportunity for three-dimensional nanostructured materials made via high-throughput holographic methods. These materials have a truss-like structure at submicron length scales, giving them better properties like improved strength-to-weight ratio. An analogy would be how we use trusses for bridges instead of solid hunks of steel. This manufacturing method will enable industrial-scale manufacturing of materials useful in multiple US industries. For example, membrane separations are used, for example, in biomedical testing, drug and therapeutic production, scientific research, and water treatment. Optical devices such as cameras, microscopes, and lighting could also be improved by various types of these three-dimensional nanostructured materials.&lt;br/&gt;&lt;br/&gt;This I-Corps project will identify the particular advantages of CHISEL (coordinated holographic industrial-scale electromagnetic lithography), which has the potential to greatly reduce the cost of three-dimensional nanostructured materials. Conventional photolithography for making integrated circuits is high quality, but slow and costly. Techniques such as imprint lithography are faster and cheaper, but limited to making essentially two-dimensional structures. CHISEL will enable continuous nanoscale manufacturing with high throughput. The method controls the phase of several interfering optical beams to continuously pattern a photosensitive material. A first-generation CHISEL tool (i.e. alpha tool) can have a volume patterning rate several orders of magnitude greater than conventional projection lithography (and with comparable or less capital cost).</AbstractNarration>
+<MinAmdLetterDate>12/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806158</AwardID>
+<Investigator>
+<FirstName>Rhonda</FirstName>
+<LastName>Shrader</LastName>
+<EmailAddress>Rhonda_shrader@berkeley.edu</EmailAddress>
+<StartDate>12/18/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

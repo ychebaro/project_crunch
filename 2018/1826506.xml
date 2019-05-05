@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Designing Materials to Revolutionize and Engineer our Future March 26th &amp; 27th 2018 Meeting</AwardTitle>
+<AwardEffectiveDate>02/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>99997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Schlueter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical description: This grant funds a workshop to bring together Materials Genome Initiative (MGI) grantees and program managers from the National Science Foundation (NSF) and the Department of Energy (DOE), along with those from other federal agencies including the National Institute of Standards and Technology (NIST) and the Department of Defense (DoD). As NSF's response to the President's Materials Genome Initiative, the Designing Materials to Revolutionize and Engineer our Future (DMREF) program seeks to foster tight collaborations between materials researchers in experiment, theory, and computation. These collaborations are founded on highly iterative feedback loops in which experimental results directly inform theory and computation, and vice versa, with the goal of accelerating the discovery and development of new materials. The workshop provides researchers a forum to share their research results and discuss cross-cutting topics related to establishing and sustaining research collaborations, managing digital data, and supporting long-term simulation software development. &lt;br/&gt;&lt;br/&gt;Technical description: Researchers that are participating in Material Genome Initiative projects provide leadership to the broader materials research community by implementing strategies to achieve the goals set out by this Initiative, including reducing both the cost and time it takes to bring a new material to market. The goals of the workshop are to: 1) Identify successes of the MGI, 2) Promote data-driven research, artificial intelligence, and machine learning for materials discovery and development, 3) Transition fundamental research along the Materials Development Continuum toward eventual deployment, and 4) Identify mechanisms for MGI principal investigators (PIs) to partner with those at other laboratories. Overarching themes identified through presentations, break-out sessions, and discussions will be presented in a report for dissemination to the broader materials research community. MGI projects are developing tools that are made available to aid research of the larger community and this workshop presents the most effective ways to implement this task. The workshop, which will be held in College Park, Maryland on March 26-27, 2018, follows in a series of successful workshops, the latest being held in Bethesda, Maryland January 11-12, 2016.</AbstractNarration>
+<MinAmdLetterDate>02/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826506</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Payne</LastName>
+<EmailAddress>gpayne@umd.edu</EmailAddress>
+<StartDate>02/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Bentley</LastName>
+<EmailAddress>bentley@eng.umd.edu</EmailAddress>
+<StartDate>02/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8292</Code>
+<Text>DMREF</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8400</Code>
+<Text>DMREF</Text>
+</ProgramReference>
+</Award>
+</rootTag>

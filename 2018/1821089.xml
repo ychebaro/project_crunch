@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A resilient, wireless, mesh network for the Black Rock Forest field station</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>317787</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter H. McCartney</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>All biological field stations need modern communications and information networks tailored to their situations to optimally support ongoing research and education programs and facilitate new lines of research. Researchers need access to environmental data, sensors and sensor stations, remote access to field sites and equipment, access to the internet and servers, and the ability to efficiently upload and transmit data from remote locations via standardized data schemes. This project will update and expand an existing radiotelemetry network at the Black Rock Forest field station (http://blackrockforest.org) in New York. The expected impacts will be greater research productivity, increased future research capacity, expanded opportunities for collaboration through data sharing, and substantial broader community impacts through education and outreach. The new network will enable expansion of connectivity and data transmission in the more remote portions of the forest where new research efforts will be initiated.  These long-term enhancements to the Black Rock Forest's infrastructure will create opportunities for teaching and learning, dissemination of environmental information to a broader audience including the public, and for increasing the involvement of the diverse groups who interact with the field station.&lt;br/&gt;&lt;br/&gt;The improvements will consist of a new off-grid wireless mesh network, extending the old network with more than twenty new, self-powered wireless access points (store and forward mesh data nodes), two new transmission towers, an application programming interface (API) to support all users, and a new research-dedicated web portal. Based on open source software, this installation will simplify aggregation of a variety of sensor types and management of different data streams for use by a wide range of researchers and institutions. The system is designed to be simple and expandable through the use of foundational modules applicable to forest environments anywhere. The new network will enable expansion of connectivity and data transmission in the more remote western side of the forest where new research efforts have been proposed. It will contribute to increased science literacy and understanding of the natural world among the 13,000 students who visit Black Rock Forest each year, increased STEM training and college preparation, increased participation particularly of women and underrepresented minorities in STEM activities, and increased activity in BRFC public and citizen science programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821089</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Schuster</LastName>
+<EmailAddress>wschuster@blackrockforest.org</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Black Rock Forest Consortium, Inc</Name>
+<CityName>Cornwall</CityName>
+<ZipCode>125181483</ZipCode>
+<PhoneNumber>8455344517</PhoneNumber>
+<StreetAddress>65 Reservoir Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1104</Code>
+<Text>FIELD STATIONS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

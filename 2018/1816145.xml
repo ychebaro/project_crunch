@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CHS: Small: Collaborative Research:Toolkits for Aging in Place for Older Retirees (TAIPOR)</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>245461</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tonya Smith-Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>CHS: Small: Collaborative Research: Tools for Aging in Place for Older Retirees (TAIPOR)&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Many older people want to live in their homes for as long as possible. This research will find what technology retired older adults want to use in their homes. Toolkits will be created so people can make the technologies look and act the way they want them to. Older retirees will be able to design their own technologies. Workshops and reading materials will help people learn to design these technologies.&lt;br/&gt;    The aim of TAIPOR is to assess older adults? interest in pervasive computing while supporting them in designing and creating their own aging in place technologies. The TAIPOR research team will improve aging in place technologies by investigating the perceived usefulness and limitations of current Internet of Things (IoT). Findings will inform the development of a toolkit that enables older retirees to easily integrate electronics into everyday objects. The researchers will utilize in-home longitudinal, qualitative methods with short-term participatory design workshops to develop the toolkit.  TAIPOR will leverage the untapped potential of older retirees who are interested in learning about STEM, but do not currently have the opportunities or the workforce support that younger individuals often have.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816145</AwardID>
+<Investigator>
+<FirstName>Amanda</FirstName>
+<LastName>Lazar</LastName>
+<EmailAddress>lazar@umd.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: ENTeR: Enabling NeTwork Research and the Evolution of a Next Generation Midscale Research Infrastructure</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>854420</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Over the past decade the Global Environment for Networking Innovations (GENI) has supported a wide range of networking and computing systems research into future internet architectures, Software Defined Networking (SDN), wireless and mobile networks, network hardware and software approaches, network applications, network monitoring, network security, future clouds, distributed computing and edge clouds, and smart cities. GENI has been credited with key contributions including developing a federated approach for provisioning, accessing, and programming distributed cyberinfrastructure through standard abstractions, APIs, and security policies. &lt;br/&gt;&lt;br/&gt;Experimentation continues today, executed by a growing number of GENI users who are using it both as a research and an educational tool. Recent GENI experiments include work on evaluating future exascale systems, securing scientific workflows, defining and testing novel Software Define eXchange (SDX) architectures, network security research, and routing and transport protocol evaluations.&lt;br/&gt;&lt;br/&gt;This proposal, Enabling NeTwork Research and the Evolution of a Next Generation Midscale Research Infrastructure (ENTeR) seeks to update, adapt, operate and maintain the existing GENI infrastructure for a two year time period in order to support ongoing at-scale network research experiments. At the same time, the project will engage in planning for next generation experimental research infrastructure. ENTeR will facilitate the transition from GENI to a new platform capable of supporting a much larger experimental research community. The ENTeR team's primary focus will be to ensure that the critical portions of the GENI infrastructure needed by the majority of researchers remain available and relevant. GENI will expand its role as an interconnect fabric between various elements of national experimental cyber infrastructure like NSF Future Clouds (i.e., Chameleon Cloud and CloudLab) and the Platforms for Advanced Wireless Resesearch (PAWR), linking them to campus networks and offering a rich set of new experimental capabilities. This project will provide opportunities for students to work on live distributed infrastructure, troubleshoot real problems, and develop software solutions that will be used by a large community of researchers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836715</AwardID>
+<Investigator>
+<FirstName>Ilya</FirstName>
+<LastName>Baldin</LastName>
+<EmailAddress>ibaldin@renci.org</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2890</Code>
+<Text>CISE RESEARCH RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023F</Code>
+<Text>GENI PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

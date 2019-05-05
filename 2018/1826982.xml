@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a 400 MHz Nuclear Magnetic Resonance (NMR) Spectrometer to Support Research Projects from C-H Bond Oxidation to Engineered Molecular Materials</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>416212.00</AwardTotalIntnAmount>
+<AwardAmount>416212</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation and the Chemistry Research Instrumentation programs. Professor Duy Hua from Kansas State University and colleagues Daniel Higgins, Stefan Bossmann, Jun Li and Emily McLaurin have acquired a hybrid 400 MHz NMR spectrometer with solution and solid-state capabilities. This spectrometer allows research in a variety of fields such as those that accelerate chemical reactions of significant economic importance, as well as allow study of biologically relevant species. In general, Nuclear Magnetic Resonance (NMR) spectroscopy is one of the most powerful tools available to chemists for the elucidation of the structure of molecules. It is used to identify unknown substances, to characterize specific arrangements of atoms within molecules, and to study the dynamics of interactions between molecules in solution or in the solid state. Access to state-of-the-art NMR spectrometers is essential to chemists who are carrying out frontier research. The instrument positively impacts researchers across Kansas, particularly those primarily undergraduate institutions in the region. The team has cyber-infrastructure available to users to receive, manipulate and analyze the spectra remotely. &lt;br/&gt;&lt;br/&gt;The award of this hybrid NMR spectrometer is aimed at enhancing research and education at all levels. It especially impacts areas such as catalytic asymmetric C-H bond oxidation of alkanes and the synthesis of oligopeptides and fluorescent dyes. The spectrometer is used tocharacterize single molecule fluorescence of aldol condensation on heterogeneous catalysts and rapidly profilling protease using a multiplex method. In addition, it aids microwave-assisted ionic liquid etching of colloidal semiconductor nanocrystals and the synthesis of dye derivatives for studies of heterogeneous nanostructures. The instrument also serves researchers studyingf A- and B-class dye-decolorizing peroxidases lignin degradation mechanism and applications and supramolecular chemistry of chalcogen/halogen or hydrogen bonding.  Finally, the instrumentation is also used to identify bio-inspired metal-organic-framework (MOFs) for applications in nanotheranostics, and for mechanistic investigations of olefin methathesis catalysts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826982</AwardID>
+<Investigator>
+<FirstName>Duy</FirstName>
+<LastName>Hua</LastName>
+<EmailAddress>duy@ksu.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Higgins</LastName>
+<EmailAddress>higgins@ksu.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stefan</FirstName>
+<LastName>Bossmann</LastName>
+<EmailAddress>sbossman@ksu.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jun</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>junli@ksu.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emily</FirstName>
+<LastName>McLaurin</LastName>
+<EmailAddress>emilymclaurin@gmail.com</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kansas State University</Name>
+<CityName>Manhattan</CityName>
+<ZipCode>665061100</ZipCode>
+<PhoneNumber>7855326804</PhoneNumber>
+<StreetAddress>2 FAIRCHILD HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

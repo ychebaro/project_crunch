@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: A Novel Approach to Achieve Real-time Wireless Network Optimization</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monisha Ghosh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Resource optimization is a fundamental problem in wireless network research.  As wireless technologies become increasingly sophisticated, resource optimization problems also become more complex.  For example, a major technical challenge in the design of current and future cellular networks is to solve scheduling problems involving a large number of resource units in spectral and temporal domains.  Although some schedulers have been proposed to achieve optimal (or near-optimal) objectives, they typically cannot be used in the field due to excessive computation time.  Instead, operators have to adopt simple schedulers and settle for performance far from optimal.  This goal of this EAGER project is to tackle this fundamental problem by exploring a novel approach that could make real-time resource optimization possible.  By real time, we mean that a solution to the resource optimization problem can be found in a time resolution that can be readily used in the field. Our approach is to decompose a complex resource optimization problem into a large number of extremely simple subproblems that can be matched precisely into a given Graphical Processing Unit (GPU) computing platform.  By solving each small subproblem independently and all the sub-problems in parallel, it is possible to meet the stringent timing requirement for real-time scheduling. The proposed idea, if successful, has the potential to revolutionize how resource optimization is performed in the field.  The proposed research activities will have a profound impact on developing new educational curricula and broadening participation in computing from underrepresented groups.  New teaching materials will be developed from this research and will be used in classrooms at Virginia Tech and other universities.  Special efforts to broaden participation in computing by female and underrepresented students will be made through our Wireless@VT education and research programs.  Finally, the two investigators will continue their efforts to support N2 Women events at a networking conference to nurture female junior researchers to become leaders in the networking community.    &lt;br/&gt;&lt;br/&gt;Some major technical challenges must be carefully addressed before we can reap the benefits of our proposed idea.  In this project, the investigators plan to explore the following two thrust areas as proof-of-concept: (i) how to optimally decompose and map a resource optimization problem into a given state-of-the-art GPU platform so that the solution can be obtained in real time; (ii) how to apply the methodology for real-time optimal scheduling for next generation cellular networks as well as other (non-cellular) wireless networks. The proposed approach is interdisciplinary and involves exploring new methods and tools from the fields of computing (GPU) and optimization (decomposition) to address fundamental problems in wireless networks.  Validation of the proposed ideas will be carried out on off-the-shelf low-cost GPU platform.  Once the proposed idea is proven to be valid, we expect to see a new and practical methodology to achieve real-time resource optimization and significant performance improvement in the real world.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800650</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Hou</LastName>
+<EmailAddress>thou@vt.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wenjing</FirstName>
+<LastName>Lou</LastName>
+<EmailAddress>wjlou@vt.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

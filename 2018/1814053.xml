@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Exploring the physics of galaxy clusters with comprehensive cosmological simulations</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>269865.00</AwardTotalIntnAmount>
+<AwardAmount>87310</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Benacquista</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Galaxy clusters are some of the largest known structures in the universe. Modeling their growth over the age of the universe will give us insight on how matter, energy, and the laws of physics influence the universe that we see today. This project will add some more details to the computer modeling to provide better approximations to the physics governing the behavior of the gas in galaxy clusters. The results of these new models will be simulations that can be used by other researchers who are studying galaxies and galaxy clusters.&lt;br/&gt;&lt;br/&gt;Galaxy clusters are some of the largest structures in the universe. Modeling their growth over cosmological time scales gives us insight on how dark matter, ordinary matter, and the laws of physics influence the universe that we see today. The proposed project will add more detailed physics in the form of magnetic fields, anisotropic thermal conduction, and radiative feedback from active galactic nuclei (AGN). The project will use a moving mesh code known as AREPO to perform these simulations. The simulations will follow the IllustrisTNG cosmological models with the added physics. Zoom-ins of clusters will be used to compare the effects of the new physics models and to make observational predictions for future ground and space-based observatories. At the end of the project, the data and simulations will be made publicly available.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814053</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Vogelsberger</LastName>
+<EmailAddress>mvogelsb@MIT.EDU</EmailAddress>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

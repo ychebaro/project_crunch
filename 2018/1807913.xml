@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Ammonia, Acids and Environmental Surfaces</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>600543</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this project, the Environmental Chemical Sciences Program of the Division of Chemistry is funding Professor Mary Jane Shultz of Tufts University to investigate environmental reactions related to ammonia and acids. Synthesis of ammonia from atmospheric nitrogen has been called the greatest invention of the 20th century; indeed, it is responsible for feeding half the world?s population. It also consumes more than 2% of the World?s energy.  Unfortunately, only 15% of the ammonia created and converted into fertilizer is useful for food production. As much as 50% of the ammonia produced ends up in the air or in water supplies. The fate and impact of the ammonia released into the atmosphere is largely unknown however, mitigating the loss of ammonia produced could have a major economic impact on food producers as well as reducing negative effects of runoff on water supplies. Modeling results suggest a catalytic role for ammonia in transforming sulfur oxides into particles that generate clouds. Clouds in turn modulate Earth's radiation balance. Understanding particle formation is one of the grand challenges associated with climate and weather modeling. This work is aimed at understanding the role of ammonia in the environment, especially in terms of energy consumption, food production and clean water supplies.  The project is also expected to contribute to the technological workforce; students gain experience with inventing and applying forefront tools for probing surfaces. Data are shared with local secondary schools through the chemistry department COOP program; the Shultz laboratory is a host for COOP students.&lt;br/&gt;&lt;br/&gt;This project combines emerging spectroscopic techniques with surface science to probe ammonia-surface interactions. Surfaces play an outsized role both in soil-ammonia and ammonia-atmospheric-aerosol interactions. Probing complex mixtures that exist on these surfaces presents a challenge to most traditional surface science techniques. There is one technique that meets the challenge: nonlinear, surface-specific vibrational spectroscopy coupled with nonlinear interferometry. Applying this technique to soil and aerosol interfaces is expected to yield insight into interactions that impact water and air quality. Additionally, a deeper understanding of soil chemistry could lead to improved fertilizer formulations for controlled release impacting both food and water supplies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807913</AwardID>
+<Investigator>
+<FirstName>Mary Jane</FirstName>
+<LastName>Shultz</LastName>
+<EmailAddress>Mary.Shultz@Tufts.edu</EmailAddress>
+<StartDate>07/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tufts University</Name>
+<CityName>Boston</CityName>
+<ZipCode>021111817</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress>136 Harrison Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6882</Code>
+<Text>Environmental Chemical Science</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

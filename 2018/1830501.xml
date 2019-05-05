@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ATD: Forecasting Threats due to Polarization Using Spatio-Temporal Topic Flows</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>170000.00</AwardTotalIntnAmount>
+<AwardAmount>77973</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Information warfare and the purposeful spread of disinformation threatens to destabilize democratic processes by polarizing the population and depleting social capital. Information diffusion on social media is an important means by which polarization increases and spreads through society.  In this project, the investigators will address the following fundamental question: How do we measure, predict and mitigate the insidious threats resulting from extreme polarization due to information diffusion on social media?&lt;br/&gt;&lt;br/&gt;The investigators will build real-time algorithmic threat forecasting based on information diffusion patterns using topic flow modeling, primarily, of Twitter data. The investigators will extend the popular Latent Dirichlet Allocation (LDA) model to include spatio-temporal diffusion terms. The investigators will use this to build a 'polarization barometer' based on sentiment analysis of the data. The investigators will implement Bayesian inferential algorithms capturing essential features of the spatio-temporal information flows and link these quantitative results to the sociological concept of social capital.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830501</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Hawdon</LastName>
+<EmailAddress>hawdonj@vt.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scotland</FirstName>
+<LastName>Leman</LastName>
+<EmailAddress>leman@vt.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shyam</FirstName>
+<LastName>Ranganathan</LastName>
+<EmailAddress>shyam81@vt.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Hauck</LastName>
+<EmailAddress>phauck@vt.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>Sociology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>S100</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>6877</Code>
+<Text>ALGORITHMS IN THREAT DETECTION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

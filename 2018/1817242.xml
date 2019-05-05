@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Differential Policy Verification and Repair for Access Control in the Cloud</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>499992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Due to ubiquitous use of software services, protecting the confidentiality of private information stored in compute clouds is becoming an increasingly critical problem.  Users frequently trust sensitive personal information such as financial or medical records to software services.  Protection of such private data is of paramount importance for users. In order to prevent disastrous data breaches (which do happen), software developers must accurately specify who can access the data resources and in what ways. Although access control specification languages and libraries provide mechanisms for protecting confidentiality of information in software systems, without automated techniques that can assist developers in writing and checking access control policies, complex policy specifications are likely to have errors that lead to unintended and unauthorized access to data, possibly with disastrous consequences. This project will expose graduate and undergraduate students to security and analysis problems in cloud-based systems through a variety of educational activities including courses, seminars and individual research mentoring.&lt;br/&gt;&lt;br/&gt;This project develops automated techniques that help software developers in protecting users' data and preventing dangerous exposure of&lt;br/&gt;private information.  In particular, the investigators develop automated techniques that help software developers in identifying and eliminating errors in access control policies by converting policy specifications to logical constraints and identifying inconsistencies among policies using constraint solving techniques. The project also investigates methods to automatically generating inputs that demonstrate inconsistencies among policies, and automatically generating repairs that remove the inconsistencies among the policies. Within the scope of this project the investigators develop and use novel constraint solving techniques for policy analysis, particularly focusing on analysis of complex numeric and text manipulation operations that are error-prone.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817242</AwardID>
+<Investigator>
+<FirstName>Tevfik</FirstName>
+<LastName>Bultan</LastName>
+<EmailAddress>bultan@cs.ucsb.edu</EmailAddress>
+<StartDate>06/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+</Award>
+</rootTag>

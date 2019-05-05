@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  A Fully-Digital Transceiver Design for mmWave Communications</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>224493</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project covers a myriad of domains including wireless health-care, remote education, supply-chain management, public safety, anti-poverty initiatives, market-places, and entertainment. However, a more immediate work product from this effort is a powerful fully-digital mmWave software defined radio (SDR) platform that will be made available to academic researchers at very affordable rates; this will spur further research and make mmWave testbed experimentation within the reach of lightly-funded academic research groups. The ambitious goal of making this transformative technology the reference design of future mmWave radios represents a massive commercial opportunity which is not limited to the cellular ecosystem (base station, tablets and smartphones), but rather extends to new connected players such as cars, drones, virtual reality (VR) headsets and beyond.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project focuses on the development of millimeter-wave (mmWave) radio technologies for next generation wireless systems. The mmWave frequencies of above 28 GHz are necessary to alleviate the spectrum crunch in the traditional cellular bands, and to make ultra-fast 5th Generation (5G) cellular a reality. However, the uniquely challenging propagation characteristics at these frequencies necessitates the use of transceivers that not only operate over low power budgets, but also deliver the robustness that the cellular ecosystem demands. While existing transceivers allow the radio to look (i.e., transmit or receive) in only one direction or a small number of directions at a time, the proposed transceiver design allows the radio to look in all directions simultaneously. While seemingly simple, this unique ability - combined with a top-down implementation ? will provide enormous benefits to cellular systems at reasonable power budgets. The proposed technology forms the key technological bridge between the theoretical promise of mmWave and actually achieving it in the real world.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821150</AwardID>
+<Investigator>
+<FirstName>Marco</FirstName>
+<LastName>Mezzavilla</LastName>
+<EmailAddress>mezzavilla.marco@gmail.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PI RADIO INC</Name>
+<CityName>BROOKLYN</CityName>
+<ZipCode>112011016</ZipCode>
+<PhoneNumber>3475931161</PhoneNumber>
+<StreetAddress>155 Water Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ICE-T: RI:  Software Hardware Efficient Extensible Protocols (SHEEP)</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monisha Ghosh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wireless devices have become ubiquitous.  New devices are coming on line all the time, and protocols for these devices continue to evolve.  This research will investigate a flexible platform that can support a variety of different devices and protocols for both high data rate wireless networking and low power, low bandwidth devices that are part of the Internet of Things (IoT).  This represents a shift from the rigid networks of previous generations, towards greater versatility and adaptability.  The resulting research will enable new devices to integrate with existing systems more easily, and has the potential to change the way wireless networking is supported worldwide. Essential enablers for this versatility include: more flexible radio access technologies and dynamic management of resources at the edge of wireless networks.   &lt;br/&gt;&lt;br/&gt;This research represents a new collaboration between researchers in the US and in Ireland to pursue a common strategy to investigate physical layer wireless protocols.   Prototyping of new protocols as well as developing an agile approach to support existing protocols will be investigated.  The platform includes both hardware and software to enable prototyping and experimentation across a range of protocols especially at the physical layer.  The base platform will use state-of-the-art hardware that can easily be upgraded as new hardware becomes available.  In addition, supporting software packages will ease the use of the base hardware for researchers with wireless and communications backgrounds.  Hardware/software implementations will allow the support of a range of wireless applications at different performance points.   Run-time reconfiguration of hardware will enable rapidly adapting to the existing environment.  Flexibility and reconfigurability will ensure that real time implementations of future protocols can be experimented with.&lt;br/&gt;Shared test-beds for wireless networking research will be developed between Ireland and the US.  The test-beds will be flexible and reconfigurable and thus support novel designs in wireless protocols and edge computing.  The test-beds, which include both hardware and software, will be used for both research and educational purposes.  Educational materials that can be used in both the US and Ireland as well as worldwide will be developed and shared widely.  Material developed in this project will be shared with European Horizon 2020 researchers, as well as through the internet, conferences, and open source software.  The resulting platform will enable flexible, adaptable and scalable wireless networking.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836880</AwardID>
+<Investigator>
+<FirstName>Miriam</FirstName>
+<LastName>Leeser</LastName>
+<EmailAddress>mel@ece.neu.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

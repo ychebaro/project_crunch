@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Transmission pathways and immunological factors driving invasion potential of the recently discovered pathogen, Batrachochytrium salamandrivorans</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>1356964</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The recently discovered fungal pathogen, Batrachochytrium salamandrivorans (Bsal) is believed to be from Asia and was likely introduced into Europe through international trade, where it is emerging in fire salamander (Salamandra salamandra) populations. Bsal is a flesh-eating pathogen that causes necrotic skin ulcerations and can lead to death in susceptible salamanders in less than 2 weeks. Emergence of this pathogen in the United States would have devastating effects on biodiversity. Eastern North America is home to more than 100 salamander species that contribute to various ecosystem services, including control of disease-causing insects, nutrient cycling, and biomedical products for society. This award will fund research that will characterize the epidemiology, host immune responses, and pathogenesis of Bsal in one of the most widely distributed salamander species in North America, the eastern newt (Notophthalmus viridescens). By taking a proactive approach to studying Bsal now, this project will generate essential information aimed at developing predictive disease response tools that can be used by natural resource organizations to prevent or thwart an outbreak of Bsal in North America. Additionally, this project will provide broad training opportunities and capacity building for students and professionals at US academic institutions, agencies and organizations. &lt;br/&gt;&lt;br/&gt;The current knowledge of Bsal epidemiology is restricted mostly to European fire salamanders, which have different life history strategies than most North American salamander species. This project will parameterize Bsal epidemiological models using controlled experiments with adult and juvenile eastern newts that will: (1) include transmission pathways in both the aquatic and terrestrial environments for a range of ambient temperatures, (2) consider two unique forms of infectious Bsal zoospores, (3) identify the role of zoospore persistence in water and soil, and factors that affect it, (4) explicitly model zoospore shedding and between-host transmission as disease progresses, and (5) include a recovery stage as an infection outcome. The project also will quantify innate and adaptive immune responses to Bsal, identify the mechanisms of Bsal pathogenesis, and parameterize integral projection models that explore the impacts of host resistance and infection tolerance on salamander-Bsal dynamics. This award will significantly advance the foundational knowledge of Bsal epidemiology, immunology, and pathology, and will provide the basis for science-derived disease intervention strategies that are generalizable across similar at-risk species.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814520</AwardID>
+<Investigator>
+<FirstName>Debra</FirstName>
+<LastName>Miller</LastName>
+<EmailAddress>dmille42@utk.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Gray</LastName>
+<EmailAddress>mattjgray@utk.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Institute of Agriculture</Name>
+<CityName>Knoxville</CityName>
+<ZipCode>379964506</ZipCode>
+<PhoneNumber>8659747357</PhoneNumber>
+<StreetAddress>2621 Morgan Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7242</Code>
+<Text>ECOLOGY OF INFECTIOUS DISEASES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7374</Code>
+<Text>Systematics &amp; Biodiversity Sci</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7242</Code>
+<Text>ECOLOGY OF INFECTIOUS DISEASES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

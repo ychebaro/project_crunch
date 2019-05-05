@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Scalable Photonic Crystal Fabrication for Mesoscale Fuel to Electricity Conversion</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>224362</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the demonstration of the technical and economic feasibility of a photonic crystal enabled thermophotovoltaic (TPV) system at scales over 10 watts, which would have transformative effects in power generation for portable and remote applications. A small, high energy density TPV power source has the potential to transform multiple markets that currently rely on battery power by reducing the battery weight by 75%. For example, remote scientific instrumentation stations in polar regions rely on 1000-2000 pounds of batteries to operate through the six-month polar night, resulting in high installation costs. Dismounted warfighters carry 10-20 pounds of batteries and would have greater capability if they could carry ammunition and water instead. Small unmanned aerial vehicles would be more effective if they could fly themselves to remote and inaccessible locations, perform their mission for longer, and then return.&lt;br/&gt;&lt;br/&gt;The proposed project will develop a new approach to photonic crystal fabrication to greatly improve the efficiency of TPV energy generation - the conversion of fuel into electricity with heat and light as intermediaries. A TPV generator works by burning fuel to heat a selective emitter to incandescence, leading to infrared radiation which drives specialized photovoltaic cells to generate electricity. A photonic crystal selective emitter greatly improves the efficiency of the generator by almost perfectly matching its emission spectrum to the photovoltaic cell. Our photonic crystal is a square array of cylindrical micro-cavities etched into a refractory metal substrate. The research objectives of this project address the technical hurdles that limit the use of photonic crystals in TPV: scalable substrate preparation from commercial foils using a novel high-throughput process; nanofabrication over large flexible substrates using traditional semiconductor manufacturing tools; and integration with the generator by brazing. The anticipated technical results of this project are to develop a process capable of a breakthrough fifty-fold increase in photonic crystal emitter area, to enable photonic crystal fabrication on flexible substrates, and to reduce photonic crystal cost - all leading to a practical TPV generator that meets market demands.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843687</AwardID>
+<Investigator>
+<FirstName>Veronika</FirstName>
+<LastName>Stelmakh</LastName>
+<EmailAddress>stelmakh@mesodyne.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MESODYNE INC.</Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021442715</ZipCode>
+<PhoneNumber>6175003138</PhoneNumber>
+<StreetAddress>5 LESTER TER</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

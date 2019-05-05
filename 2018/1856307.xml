@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2019 Integer Programming and Combinatorial Optimization (IPCO)</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Balasubramanian Kalyanasundaram</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 2019 Conference on Integer Programming and Combinatorial Optimization(IPCO) and the associated IPCO Summer School runs annually under the auspices of the Mathematical Optimization Society, the leading organization for research in mathematical optimization. IPCO presents the latest ground-breaking results aimed at the solution of difficult decision and optimization problems that have strong ramifications throughout engineering, logistics, mathematics and science. It is a competitive refereed conference.  This award supports student travel, attendance and participation, including by members of under-represented groups.  Supporting students in this fashion is vital for the long-term success of the combinatorial-optimization community. &lt;br/&gt;&lt;br/&gt;IPCO 2019 will be held at the University of Michigan, Ann Arbor, Michigan, May 22-24, 2019. The IPCO Summer School, aimed at graduate students, will be at the University of Michigan, May 20-21, 2019. The subject of the IPCO Summer School are: Discrepancy and Combinatorial Optimization, Semidefinite Programming for Combinatorial Optimization, and Sums of Squares in Polynomial Optimization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1856307</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>jonxlee@umich.edu</EmailAddress>
+<StartDate>03/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Viswanath</FirstName>
+<LastName>Nagarajan</LastName>
+<EmailAddress>viswa@umich.edu</EmailAddress>
+<StartDate>03/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

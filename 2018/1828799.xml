@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a laser scanning robotic total station with differential GPS capability</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>135944</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Luciana Astiz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hawaii is a world-class setting for exploring changes associated with lava flows, ecological invasions, landscape disturbance, and sea level rise, but local researchers often lack access to data of sufficient resolution and positional accuracy to quantify changes of interest. This Major Research Instrumentation (MRI) award will make the acquisition of a laser scanning robotic system with differential GPS capability possible. This system can collect dense three-dimensional environmental datasets with survey-grade positional accuracy to measure environmental processes and changes that cannot presently be detected. The system will improve the accuracy and performance of existing instrumentation, including small unmanned aerial systems, and will also allow a rapid response to record changes produced by episodic events like earthquakes, landslides, and tsunamis. This system will advance current knowledge in Hawaiian terrestrial ecology, geomorphology, marine science, geology, and anthropology, with direct impacts on research, education, and interdisciplinary collaborations.&lt;br/&gt;&lt;br/&gt;The acquisition of this laser scanning robotic total station system with differential GPS capability and computational will allow repeat collection and processing of precise and accurately geo-located fine-scale spatial data This instrument can generate dense (10^6+), survey-grade, three-dimensional point cloud measurements and imagery of the landscape with sub-centimeter accuracy. This degree of accuracy is required for detecting fine-scale changes relating to geomorphology, vegetation dynamics, volcanology, archaeology, and sea-level rise, and is well beyond current institutional capacity. This instrument will boost the sensitivity and overall utility of existing instrumentation for spatial data collection, including the use of small unmanned aerial systems for high resolution mapping. The equipment and resulting datasets will be housed and maintained by the University of Hawaii at Hilo and will be made available to researchers at this institution as well as to the broader research community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828799</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Mills</LastName>
+<EmailAddress>millsp@hawaii.edu</EmailAddress>
+<StartDate>09/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rebecca</FirstName>
+<LastName>Ostertag</LastName>
+<EmailAddress>ostertag@hawaii.edu</EmailAddress>
+<StartDate>09/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ken</FirstName>
+<LastName>Hon</LastName>
+<EmailAddress>kenhon@hawaii.edu</EmailAddress>
+<StartDate>09/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Perroy</LastName>
+<EmailAddress>rperroy@hawaii.edu</EmailAddress>
+<StartDate>09/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii at Hilo</Name>
+<CityName>Hilo</CityName>
+<ZipCode>967204091</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>200 West Kawili Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

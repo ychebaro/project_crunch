@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Simulating the Multi-Messenger Emission from Merging Neutron Stars</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>130000.00</AwardTotalIntnAmount>
+<AwardAmount>130000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Marronetti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The recent observation by the LIGO detectors of gravitational waves produced in the collision of two neutron stars represents a giant step forward in both physics and astronomy. Neutron stars are extremely compact objects, and their collision provides us with an extraordinary laboratory to test the laws of gravity and nuclear physics. They also power some of the most energetic electromagnetic signals observed in the Universe, and may be the main production site of gold, platinum, and many other elements. This project will use numerical simulations to produce publicly available, high-accuracy predictions for the gravitational waves emitted by colliding neutron stars. With these results, models of the gravitational wave signal can be brought to an accuracy sufficient to avoid the introduction of significant errors in the analysis of upcoming LIGO results. This project will also lead to the development of novel methods to simulate the complex physical processes that determine the properties of the electromagnetic signals powered by colliding neutron stars, particularly the interaction of neutrinos with neutron star material. Understanding these interactions is critical to analyzing electromagnetic signals emitted after the collision, and to determine the role of neutron star collisions in the enrichment of the Universe in gold and other atomic nuclei. This project will leverage the power of joint observations of gravitational waves and electromagnetic signals to study the Universe. It also funds the training of graduate and undergraduate students with advanced skills in numerical modeling transferable to careers in either academia or industry.&lt;br/&gt;&lt;br/&gt;This project will use the general relativistic radiation-hydrodynamics SpEC code to simulate the late inspiral and merger of neutron star binaries. The main goal of the project is to generate a library of high-accuracy numerical waveforms covering the parameter space of merging neutron stars: the mass and spin of each star, and the equation of state of nuclear matter. The project will leverage one of the main strengths of the SpEC code: its ability to efficiently evolve neutron star binaries over many orbits, for sufficiently smooth equation of state models. As a result of this project, dozens of waveforms for neutron star binaries will be made publicly available. Particular attention will be paid to error estimates, in order to facilitate the use of the simulations for the calibration of analytical waveform models, and to the automation of the simulations. A secondary objective of this project will be the development of smooth approximations to the equation of state, as the SpEC code is significantly more efficient when evolving smooth equations of state than for the discontinuous approximations that are more commonly used today. Finally, this project will lead to the development and use in merger simulations of a recently proposed algorithm for neutrino transport, which combines the currently used "two-moment" transport formalism with a more advanced Monte-Carlo transport algorithm. In this hybrid scheme, the use of Monte-Carlo transport removes the need to use approximate analytical prescriptions to close the equations of radiation transport. This new scheme will be particularly powerful to determine the role of neutrinos in the production of relativistic polar outflows after a neutron star merger, and their impact on the composition of matter outflows and the properties of kilonovae.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806278</AwardID>
+</Award>
+</rootTag>

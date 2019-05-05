@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Fate, Transport and Transformation of Ammonia Emissions from Animal Feeding Operations and Their Impacts on Air-Soil Health</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>323019</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In the United States, animal feeding operations (AFOs) emit approximately 2.5 million tons of ammonia per year, contributing 85% of the total ammonia emissions in the nation. The fate, transport, and transformation of ammonia released from AFOs are an increasing concern due to the adverse effects of ammonia on air and water quality, soil health, and ecosystem health. This project will advance the scientific understanding of ammonia fate and transport to better understand the ecological and environmental impacts of ammonia emissions from AFOs. This knowledge will be transferred to students, industries, regulators, and the public through various educational and outreach programs that will increase the public's understanding of the environmental impacts of ammonia release from AFOs, as well as to inform policy makers to better protect human and ecological health.&lt;br/&gt;&lt;br/&gt;This project will accomplish three specific objectives: (1) Quantify ammonia and particulate ammonium ion dry deposition impacted by ammonia emissions, land usage and meteorological conditions in AFO environments; (2) Estimate the transformation of emitted ammonia to secondary inorganic fine particulate matter as impacted by ammonia emissions, distance from source, atmospheric chemical conditions, and meteorological conditions; and (3) Quantify the impacts of ammonia and ammonium ion depositions on soil chemical and biological properties, including the microbial biomass, thestoichimetry of nitrogen transformations, and pH. Ammonia emission, deposition and transformation, and air-soil properties will be simultaneously investigated through a multi-discipline, multi-media approach at a poultry facility in North Carolina. Micrometeorological and resistance methods will be used to determine nitrogen deposition rate. Response of the soil quality metrics and nitrogen cycling rates to nitrogen deposition will be examined. Based upon simultaneous measurements of acidic gases, ammonia, and secondary inorganic fine particulate matter ions, ammonia neutralization potential will be quantified to assess the potential for particulate matter formation. This work, if successful, will produce new knowledge about: (1) the impact of reduced nitrogen deposition on soil ecosystems in rural areas; (2) the formation of secondary inorganic fine particulate matter in response to AFO ammonia emissions and ambient meteorological and chemical conditions; (3) applicability of thermodynamic equilibrium model ISORROPIA-II for the simulation of secondary inorganic fine particulate matter formation in agricultural environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1804720</AwardID>
+<Investigator>
+<FirstName>Ken</FirstName>
+<LastName>Anderson</LastName>
+<EmailAddress>kanderso@ncsu.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Shi</LastName>
+<EmailAddress>Wei_Shi@ncsu.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lingjuan</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>lwang5@ncsu.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Classen</LastName>
+<EmailAddress>John_Classen@ncsu.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>ENVIRONMENTAL ENGINEERING</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FMitF: OpenRDC: A Framework for Implementing Open, Reliable, Distributed, Network Control</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computer networks, whether connecting servers across a data center or users across the globe, are an important part of society's critical infrastructure. However, existing network protocols and services are simply not worthy of the trust society now places in them. Today's networks suffer from poor performance, cyberattacks, configuration errors, software bugs, and more, leading to serious consequences for consumers, businesses, and governments alike. The goal of this project is to enable the design and operation of better networks which requires enabling both innovation (to create better protocols and services) and verification (to ensure these services work correctly). A major part of the functionality of the network depends on the software running in the control plane, which computes routes, collects and analyzes network measurement data, balances load over multiple paths or servers and even hosts in-network applications. This project involves the theory, design, and implementation of OpenRDC, a new platform constructed for programming reliable, distributed network control planes.  &lt;br/&gt;&lt;br/&gt;The technical core of OpenRDC centers around computations of Stable Information Trees (SITs) that communicate information (e.g., traffic conditions, failure information, available external routes, end-host job statistics, etc.) across a network, and then perform local actions to change network functionality or record information gathered. These structured computations suffice to express core control plane algorithms and yet can also be converted into logical representations that can be used to verify a variety of important properties of operational networks ranging from reachability to access control to multi-path consistency. The OpenRDC platform will simultaneously: (1) allow researchers to develop new control-plane algorithms, (2) enable automatic verification of network properties, and (3) make use of emerging programmable switch capabilities. The project involves acceleration of the development of new control-plane algorithms, via new abstractions for network programming. The project will also define new compiler technology for translating these abstractions to programmable network hardware. In addition, its open source infrastructure will lay a foundation for academic and industrial engagement and for the training of students. The project will also have impact on formal methods, with new algorithms for the verification of graph-oriented programming languages based on abstraction and modular decomposition.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837030</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Rexford</LastName>
+<EmailAddress>jrex@cs.princeton.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Walker</LastName>
+<EmailAddress>dpw@cs.princeton.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aarti</FirstName>
+<LastName>Gupta</LastName>
+<EmailAddress>aartig@princeton.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>094Y</Code>
+<Text>FMitF: Formal Methods in the F</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>071Z</Code>
+<Text>FMitF-Formal Methods in the Field</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

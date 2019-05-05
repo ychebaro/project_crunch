@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of Cloud Computing Infrastructure for Science and Engineering Research Innovations</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>517657</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefan Robila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides for the acquisition of the Island Science and Engineering Research Cloud (ISERC). ISERC will support major innovative research at Texas A&amp;M University-Corpus Christi (TAMUCC) and other institutions in South Texas. ISERC is an ideal base to tackle a multitude of research problems of regional, national and global significance by providing high capacity computing resources to empower science and engineering research. ISERC enabled projects include geospatial analytics, coastal resiliency, ecology, genomics, bio-informatics, environmental monitoring, health, geology, water resource management, remote sensing, unmanned systems, agriculture, and climate prediction. This research will have impact on the environmental sustainability, health and economic well-being of coastal communities across the globe. The instrument will be used by approximately 100 researchers comprising faculty, graduate and undergraduate students. It is estimated that, each year, more than 300 students enrolled in STEM related courses would also benefit from it.&lt;br/&gt;&lt;br/&gt;ISERC supports heterogeneous computing environments with low-latency, high-bandwidth, high computational power, and storage for large data sets. It provides users with a dynamically scalable, robust, heterogeneous, and virtualized architecture. By allowing confidential and secure execution of guest virtual machines, it ensures the privacy and security of data. The new cloud instrument can handle a wide variety of services simultaneously, including ones for real-time, compute-bound, as well as data intensive applications. Some of the major projects that are poised to commence include: hyper-spatial 3D data streams for coastal resiliency, high throughput phenotyping for agriculture, social media data analytics for security, cloud data migration, seagrass genetics, biomimetic catalysis, climate impact on water resources, genome sequencing, and predicting environmental factors for respiratory diseases. ISERC will propel the academic community's knowledge generation and provide research opportunities that will enable many further follow-up projects, including multi-institutional and cross-disciplinary collaborations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828380</AwardID>
+<Investigator>
+<FirstName>Dulal</FirstName>
+<LastName>Kar</LastName>
+<EmailAddress>dulal.kar@tamucc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>King</LastName>
+<EmailAddress>scott.king@tamucc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ajay</FirstName>
+<LastName>Katangur</LastName>
+<EmailAddress>Ajay.Katangur@tamucc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Starek</LastName>
+<EmailAddress>michael.starek@tamucc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jinha</FirstName>
+<LastName>Jung</LastName>
+<EmailAddress>jinha.jung@tamucc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University Corpus Christi</Name>
+<CityName>Corpus Christi</CityName>
+<ZipCode>784125844</ZipCode>
+<PhoneNumber>3618253882</PhoneNumber>
+<StreetAddress>6300 Ocean Drive, Unit 5844</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

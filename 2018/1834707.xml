@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Travel Grant for the 2018 Empirical Software Engineering International Week</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The grant supports travel for graduate students to attend the 2018 Empirical Software Engineering International Week, an international event, which this year will take place during October 2018 in Finland. It consists of several co-located events:  Annual meeting of the International Software Engineering Research Network (ISERN); International Doctoral Symposium on Empirical Software Engineering (IDoESE); International Advanced School on Empirical Software Engineering (IASESE); the International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE).&lt;br/&gt;&lt;br/&gt;This activity advances the field of Software Engineering through the exchange of information and collaborations.  The field is growing rapidly due to the emergence of big data code repositories, which enables empirical research.  The goal is to enable the research that will improve software engineering productivity and quality, while encouraging students to pursue a research career. The international dimension of the conference helps develop a globally-aware workforce.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834707</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Carver</LastName>
+<EmailAddress>carver@cs.ua.edu</EmailAddress>
+<StartDate>05/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>Tuscaloosa</CityName>
+<ZipCode>354870005</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>801 University Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

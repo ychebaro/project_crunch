@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-RP: Materials and Methods for Scalable Manufacturing of Flexible Resonant Sensors and their Wireless Readers.</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercialization potential of this PFI project is to enable commercialization of a platform sensor technology, flexible resonant sensors, that has many potential applications in consumer, agriculture, and health markets.  In the consumer market, the sensor system can be applied to wearable technologies to monitor stretch and strain such as in performance athletic wear.  In agriculture, the sensor system can be applied to soil and water quality monitoring.  In health, the sensor system can be applied to monitoring of biotherapeutics in manufacturing and health status of closed wounds. Advantages of this sensor platform are its passive unit architecture (no on-board power), potential low cost, and ability to measure in closed systems. This PFI will enable the founding of one or more startups in these market spaces, which will in turn lead to increased employment opportunities and economic development.  Moreover, this project will train two graduate students and 10 undergraduates with technical skills in materials, electronics, and characterizations tools in an interdisciplinary environment.  They will also receive valuable innovation skills in product design, reliability, robustness, and commercialization due to the project scope and inclusion of active industrial partners. These students with special attention to those underrepresented in STEM fields.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposed project addresses attributes needed to commercialize resonant sensors that are common to all market sectors, namely 1) the methods and materials to enable scalable fabrication of the sensors, 2) the materials and methods to encapsulate (package) the sensors, and 3) custom reader hardware and analysis software to lower the cost and improve read range of the resonant sensor.  For the first, screen-printable inks that are optimized for inductive resonance will be developed and large-batch (&gt;1000 unit) methods of printing and roll to roll fabrication will be demonstrated. For the second, elastomeric encapsulants and flexible, polymeric substrates will be evaluated for their performance with resonant sensors.  In the third, a low-cost (&lt;$100) custom reader will be developed to supplant the more expensive portable vector network analyzers currently in use and to improve sensor read range.  In each of these specific areas, performance will be assessed in actual end-use scenarios through existing research programs we have on resonant sensors for consumer, agriculture, and health applications.  The anticipated technical results include optimal material formulations for flexible resonant sensor fabrication and packaging, hardware specifications for low-cost readers, and methods to produce the sensors and readers at large scale, thus enabling commercialization entry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827578</AwardID>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Neihart</LastName>
+<EmailAddress>neihart@iastate.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nigel</FirstName>
+<LastName>Reuel</LastName>
+<EmailAddress>reuel@iastate.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lujia</FirstName>
+<LastName>Bu</LastName>
+<EmailAddress>LukeBu@dow.com</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sang-Hwan</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>Sanghwan.Kim@dupont.com</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

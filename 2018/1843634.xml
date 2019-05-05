@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Cloudseal: Software Testing with Deterministic Containers</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>224444</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will result from enabling efficient repeatable computing using commodity technology. While computers should, in principle, operate the same way each time, we have all seen how a program that ran fine yesterday somehow crashes today. Our current computing infrastructure betrays its fundamentally unrepeatable nature in a thousand careless ways, by letting processor and operating system details affect how programs run. Popular computing abstractions like containers and virtual machines improve repeatability, but do not provide any guarantees. This project conducts R&amp;D on a new repeatable container, which provides repeatability for arbitrary programs running inside it. Repeatable containers will allow for reproducible software builds, software testing that runs the same on all machines, and faster software debugging with "one click" reproduction of failures. Repeatable containers reduce software development and QA costs. Repeatable containers can also facilitate archiving software and scientific research, and trustless grid computing.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project involves the development of new container runtime systems that can enforce repeatability with low performance overhead. This project will focus on technical improvements that yield a robust container runtime which can handle a wide range of legacy software that collectively exercises the full range of processor and operating system behaviors. The container will integrate smoothly with both existing container technologies and existing container users, to facilitate easy adoption by software developers. Key technical results will include developing a "fingerprinting" technology to uniquely identify container executions, and a stress-testing methodology to increase confidence that the repeatability guarantee holds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843634</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Newton</LastName>
+<EmailAddress>rn@cloudseal.io</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CLOUDSEAL INC</Name>
+<CityName>BLOOMINGTON</CityName>
+<ZipCode>474089698</ZipCode>
+<PhoneNumber>6176428059</PhoneNumber>
+<StreetAddress>3814 E DEVONSHIRE CT</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

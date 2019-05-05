@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF MRI:  Development of a Multifocus Structured Illumination Microscope</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>697990</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Ellis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to the University of California, Santa Cruz to develop and construct a groundbreaking new imaging system for live 3D super-resolution microscopy and employ this instrument to study the dynamic processes of life beyond the classical resolution limit (~ 200 nm). The instrument will employ Multifocus Structured Illumination Microscopy, a transformative new imaging technique. The project team will construct and employ this powerful 3D  super-resolution imaging system in the University of California at Santa Cruz (UCSC) Life Sciences Microscopy Center in collaboration with biology research groups with an initial focus on studying chromatin dynamics. Our DNA genomes are stored in the nucleus of cells as a protein-DNA complex known as chromatin.  The basic repeating subunit of chromatin, the nucleosome, consists of a protein core with DNA wrapped twice around its outside, like thread around a spool. Our DNA genomes are organized into millions of regularly spaced nucleosomes which allow our DNA to be stored compactly and create new opportunities for regulation of gene expression.&lt;br/&gt;&lt;br/&gt;Multifocus Structured Illumination Microscopy is designed to enable 3D imaging of chromatin in living cells at nearly physiological conditions with super-resolution capability. Using specially designed diffractive optical components, which will be custom made by the project team in one of the University of California academic nanofabrication user facilities, the microscope will simultaneously capture, on a single camera, an entire 3D volume of the biological specimen, by multiplexing and focus shifting the beam of light exiting the microscope objective. Employing fast Structured Illumination super-resolution imaging, the microscope will furthermore provide improved contrast and resolution to allow visualization of structures smaller than 200 nm, which have classically been impossible to study in living specimens. Placement of this instrument in the UCSC Life Sciences Microscopy Center ensures direct availability of new and exciting optical technology for application in biological research. The microscope will open up new fields of research, initially in chromatin dynamics, and successively also in other fields of biological research, where live 3D imaging beyond the classical limit of resolution is needed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828636</AwardID>
+<Investigator>
+<FirstName>Needhi</FirstName>
+<LastName>Bhalla</LastName>
+<EmailAddress>nbhalla@ucsc.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Grant</FirstName>
+<LastName>Hartzog</LastName>
+<EmailAddress>hartzog@ucsc.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sara</FirstName>
+<LastName>Abrahamsson</LastName>
+<EmailAddress>sara@ucsc.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Sullivan</LastName>
+<EmailAddress>sullivan@biology.ucsc.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 High Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+</Award>
+</rootTag>

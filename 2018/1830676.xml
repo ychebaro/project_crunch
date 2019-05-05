@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ATD: Algorithms for Data Analysis on Abstract Manifolds</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>249988.00</AwardTotalIntnAmount>
+<AwardAmount>47025</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research program concerns the development of new mathematical algorithms for identifying critical information in data sets that has the potential to reveal biological or chemical threats to humans.  The starting point for this work is the observation that modeling a threat over variations in its appearance serves as the foundation of robust detection algorithms.  Mathematical tools from geometry and topology enable the design of algorithms for extracting information from sets of data that enhance traditional processing methods, leading to smarter sensors.  The graduate students trained in this program will earn doctorates in mathematics while the undergraduates will have the opportunity to be mentored on topics of national interest early in their careers. &lt;br/&gt;&lt;br/&gt;This research addresses the development of mathematical modeling algorithms for data on abstract manifolds.   In contrast to data clouds captured by sensors generating points that exist as a configuration in Euclidean space, this project encodes data as points on matrix manifolds.  The mathematical framework requires only three features: the geometric context, the notion of distance between two points, and the ability to compute the perturbation of one point in the direction of another.  Additionally, one can exploit information related to the statistics of points on matrix manifolds.  This research program aims to explore the geometry of these spaces for the purposes of anomaly detection and characterization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830676</AwardID>
+</Award>
+</rootTag>

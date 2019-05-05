@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Geometric Potential Theory</AwardTitle>
+<AwardEffectiveDate>08/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>430491.00</AwardTotalIntnAmount>
+<AwardAmount>64148</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Krishnan Shankar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This CAREER award will support a multifaceted program of research and education aiming at significant progress in both areas. The research goals center around a deeper understanding of shapes with uneven curvature. The distance between two points in the plane is given by the length of the segment joining them. The segment can be constructed with a ruler, however finding the distance between two points on an arbitrary geometric shape is much more difficult, partly because such shapes don't come with a ruler! Finding this "ruler", i.e., the best possible way to measure distances on geometric shapes, is rooted in deep problems of mathematical physics. In mathematics we measure distances using metrics. When trying to find ideal metrics, one often has to find a smooth function that solves a specific partial differential equation. This is an optimization problem with an action functional whose minimizers are exactly the solutions of the partial differential equation. It is possible to plug in non-smooth functions into the action functional, called potentials, opening the door to what is often referred to as the potential theory of the underlying equation. This project deals with problems in complex geometry where the potentials considered can be given a very specific metric geometry, leading to a much more delicate understanding than usual. In addition to the proposed research, the project will pursue a vertically integrated educational program that includes various forms of public outreach popularizing STEM fields (such as creating educational videos and posting them online), conducting undergraduate summer research and the involvement of graduate students.&lt;br/&gt;&lt;br/&gt;The research goals of the project can be split in three parts.  The first part is devoted to the geometric potential theory of the geodesic rays inside the space of Kahler metrics, with a view toward various characterizations for existence of canonical Kahler metrics in complex geometry. With the metric geometry of geodesic rays sufficiently developed, one can look at these conjectures as optimization problems on the space of geodesic rays, with various refinements on the regularity of the rays considered. The second part is devoted to the  geometric potential theory of the space of singularity types, with a view toward complex Monge-Ampere equations with prescribed singularity and variation of multiplier ideal sheaves. The metric space of singularity types is expected to be complete, and it will allow for a study of singular Kahler-Einstein metrics, under variation of the singularity. In the last part we study interactions of the investigations in Kahler geometry with other parts of geometric analysis, including Hermitian geometry and convex analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/05/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/05/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846942</AwardID>
+<Investigator>
+<FirstName>Tamas</FirstName>
+<LastName>Darvas</LastName>
+<EmailAddress>tdarvas@math.umd.edu</EmailAddress>
+<StartDate>03/05/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

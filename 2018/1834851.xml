@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Research Data: Activities of the U.S. National Committee for CODATA</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>99725</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The mission of the United States National Committee on Data for Science and Technology (U.S. CODATA) is to improve the stewardship, policy, and use of digital data and information for science and the broader society.  U.S. CODATA engages in planning, program development, and administrative oversight of projects launched under its auspices, and is responsible for a program of activities at the National Academies of Sciences, Engineering, and Medicine related to research data and information. This proposal supports U.S. CODATA activities and one major CODATA meeting.&lt;br/&gt;&lt;br/&gt;The digital revolution has created new opportunities in the management and use of all types of research and other data and information. Most areas of scientific research are currently data-driven and this has produced a broad range of quantitative and qualitative improvements in the research enterprise and in the communication of research results. While the technical systems in the digitally networked environment are progressing rapidly, they have also been a disruptive force in traditional way of scientific communication and impact evaluation. New models of scholarly exchange and knowledge production are quickly emerging, but they sufficiently established or understood, and their adoption depends on many social and scientific factors. Old endemic problems such as quality assurance, metadata and citation protocols, long-term digital preservation, reputation and reward systems, scientific integrity, and assessment methodologies for research data and information activities need to be addressed, especially in light of new digital knowledge technologies and applications.  U.S. CODATA acts through the National Academy of Sciences, the adhering body to the International Council for Science and its CODATA commission, representing the U.S. data community and coordinating with CODATA's international activities. It will enable US participation in the international CODATA and conduct a meeting of U.S. CODATA to identify an agenda of activities within its mission to advance data management challenges in the United States; serve as a neutral convener to encourage and facilitate collaboration across disciplines and sectors on common interests in research data and information activities; and monitor and contribute to the development of U.S. government and research community positions on these issues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834851</AwardID>
+<Investigator>
+<FirstName>A. Ester</FirstName>
+<LastName>Sztein</LastName>
+<EmailAddress>esztein@nas.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Boright</LastName>
+<EmailAddress>jboright@nas.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Academy of Sciences</Name>
+<CityName>Washington</CityName>
+<ZipCode>200012721</ZipCode>
+<PhoneNumber>2023342254</PhoneNumber>
+<StreetAddress>500 FIFTH STREET NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7726</Code>
+<Text>DATANET</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7484</Code>
+<Text>IIS SPECIAL PROJECTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7726</Code>
+<Text>DATANET</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

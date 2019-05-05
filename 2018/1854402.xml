@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Reproducible Developmental Science: Why and How</AwardTitle>
+<AwardEffectiveDate>06/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2019</AwardExpirationDate>
+<AwardAmount>6418</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chalandra Bryant</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Openness and transparency are foundational to a credible, reliable science. Openness and transparency allow for original research results to be reproduced (reproducibility) and replicated using new samples (replicability), which benefit science by making findings easier to verify. This award funds a day-long preconference preceding the 2019 Biennial Meeting of the Cognitive Development Society that will address this issue by helping cognitive development researchers adopt norms and practices at all stages of the research process that support reproducibility and replicability. This will enhance the robustness of the field and allow for the extension and translation of a more reliable basic research foundation. &lt;br/&gt;&lt;br/&gt;Norms that are consistent with reproducibility and replicability, such as pre-registering hypotheses and analyses, sharing data and analytic code, and powering studies sufficiently to effectively test hypotheses will enhance confidence in the published scientific literature. Training that will aid in embedding these norms and practices will guide social and behavioral science towards greater  reproducibility and replicability. This preconference will accomplish this goal for cognitive developmental science using presentations and tutorials on the 1) scientific evidence for the methodological and statistical challenges facing cognitive developmental science, 2) benefits of adopting tools such as the Open Science Framework for laboratory management, and 3) issues regarding multi-lab collaboration. The preconference will enhance the practical knowledge on ways in which reproducibility and replicability can be increased.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1854402</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Frank</LastName>
+<EmailAddress>mcfrank@stanford.edu</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sabine</FirstName>
+<LastName>Doebel</LastName>
+<EmailAddress>sabine.doebel@colorado.edu</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1698</Code>
+<Text>DS - Developmental Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>040Z</Code>
+<Text>Robust and Reliable Science</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1698</Code>
+<Text>DEVELOP&amp; LEARNING SCIENCES/CRI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

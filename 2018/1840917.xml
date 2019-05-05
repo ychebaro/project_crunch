@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Online Platform to Host Intra-District, Game-Based Math Competition</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project focuses on developing an educational platform for improving motivation levels in students with respect to the STEM disciplines, especially Mathematics. The core activity consists of live academic competition, students answering questions in a game-based, online arena. The platform will borrow the features and structures found in popular athletic sports, from points and rankings to leagues and championships, and reproduce them online so that students can compete academically in the classroom just like they compete athletically on the sports field, with similar performance gains and improvements to peer dynamics expected to follow. Leveraging classic game mechanics in an exciting online format, the platform has the potential to motivate students across the skill and demographic spectra where offline academic competitions have historically failed and input or output focused efforts have produced disappointing results. This project offers the chance to approach learning improvement from a new perspective. By focusing directly on student motivation with a structure only recently made possible by the advent of the internet age, this project leverages the power of competition to advance the stated NSF missions of developing a globally competitive STEM workforce and increasing economic competitiveness in the United States.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project entails the development of a web and mobile platform with the ability to host and engage every student across the U.S. in robust, online competition activity. As such, the proposed activity is expansive in its breadth and scope and therefore presents an immense challenge, both from a technical and a design perspective. Three distinct roles are imagined: an administrator of the platform will have the ability to create leagues, tournaments, and championships, team-based and individual-based, for students across the school district/network; a teacher on the platform will be able to arrange matches for a team/class of students by dividing them into multiple teams that play against each other or challenging another team in the same school district/network to a match; a student on the platform will be able to arrange individual-based matches with other students in the same school district/network or play against a personal best avatar. Bringing all such activity together into a single platform, one that can be integrated with existing online education platforms and replicated from school district to school district across the U.S. will seamlessly blending together the experiences of very different users.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/28/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/28/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840917</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Kelley</LastName>
+<EmailAddress>timothy@aretelabs.com</EmailAddress>
+<StartDate>01/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Interstellar Inc.</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606465023</ZipCode>
+<PhoneNumber>3129520436</PhoneNumber>
+<StreetAddress>6117 N. Kirkwood</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+</Award>
+</rootTag>

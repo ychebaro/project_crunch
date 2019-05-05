@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: RUI: Differentially Private Hypothesis Testing</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>344683</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In today's world, private companies, hospitals, governments, and other entities frequently maintain large databases that would be hugely valuable to researchers in many fields. However, privacy concerns prevent these databases from being fully utilized. Differential privacy defines conditions under which information about these databases can be released while provably protecting the privacy of the individuals whose data they contain. This project develops differentially private hypothesis tests. Hypothesis tests are common statistical tools that are widely used in data analysis for social sciences, medicine, and public policy. This project aims to give researchers the tools they need to conduct standard statistical analyses on data that was previously inaccessible due to privacy concerns. The project makes extensive use of undergraduate researchers, helping to train a new generation of privacy experts.&lt;br/&gt;&lt;br/&gt;Differentially private hypothesis tests allow researchers to answer relevant research questions without having direct access to sensitive data. This project develops private versions of many standard hypothesis tests like analysis of variance or survival analysis.  For each hypothesis test, there are three goals: (1) to develop a private test statistic, either by approximating the standard test statistic or by creating an entirely new test statistic, (2) to develop methods for converting this test statistic to a final, meaningful value such as a p-value, and (3) to conduct power analyses evaluating the utility of the hypothesis test. This project also aims to release a software package implementing these tests and explanatory materials to ease their adoption by non-specialists.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817245</AwardID>
+<Investigator>
+<FirstName>Anna</FirstName>
+<LastName>Ritz</LastName>
+<EmailAddress>aritz@reed.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Groce</LastName>
+<EmailAddress>agroce@reed.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Bray</LastName>
+<EmailAddress>abray@reed.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Reed College</Name>
+<CityName>Portland</CityName>
+<ZipCode>972028138</ZipCode>
+<PhoneNumber>5037711112</PhoneNumber>
+<StreetAddress>3203 S E Woodstock Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

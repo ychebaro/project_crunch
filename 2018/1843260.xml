@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Wireless Vibration Micro-Sensors for None Intrusive Real Time Monitoring</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>224916</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project is mainly in the area of machine condition monitoring. Vibration monitoring is an integral part of any machine condition monitoring regimen. All equipment that comprise belts, gears, bearings, drive motors, or other moving components have a specific vibration signature during normal operating cycles. Change in equipment vibration serves as an early warning of a decline in operating condition and signals the need for preventative maintenance to avoid more serious equipment faults and failure.  Due to extremely small form-factor and wireless signal detection scheme of the sensing tag in the proposed vibration monitoring system of this project, simple and cost-effective direct measurement of vibration from hard-to-access parts of machinery (e.g. rotor in an electric motor) is enabled. This will have a significant impact on widespread use of such vibration monitoring techniques, hence improving the performance and safety of the equipment, extend their lifetime and avoid any unplanned downtime or maintenance across a host of existing and new industries and applications. &lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project will initially focus on developing wireless battery-less accelerometers that can achieve very high resolution. The operating principle of the resonant accelerometer to be developed has never been demonstrated in the past and it is through this novel concept that high-sensitivity wireless measurement of acceleration is made possible. The proposed sensor consists of a piezoelectric resonant cavity coupled to an antenna that utilizes the piezoelectric stiffening effect to produce an acceleration-dependent resonance frequency. The center frequency of the resonator is wirelessly interrogated through pulsed excitation signals. One main and particularly attractive feature of the sensors is the simplicity of the sensor tag where no electronics are required. An acceleration detectivity of less than 50mg for a device operating in the 27.12MHz ISM band is targeted in this project which meets the requirement for a wide variety of application including motor vibration monitoring.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843260</AwardID>
+<Investigator>
+<FirstName>Reza</FirstName>
+<LastName>Abdolvand</LastName>
+<EmailAddress>reza@ece.ucf.edu</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sina</FirstName>
+<LastName>Moradian</LastName>
+<EmailAddress>Moradian@lorandtechnologies.com</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>LORAND TECHNOLOGIES INC</Name>
+<CityName>CORINTH</CityName>
+<ZipCode>762103619</ZipCode>
+<PhoneNumber>5805591064</PhoneNumber>
+<StreetAddress>2200 CREEKEDGE CT</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1185</Code>
+<Text>SENSORY SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

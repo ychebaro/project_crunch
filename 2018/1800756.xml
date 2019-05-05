@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Lightweight Aggregates from Waste Bottom Ash</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to produce lightweight aggregates (LWA) from unused waste bottom ash of coal electric power industry that can be used for concrete and geotechnical applications. Each year in the United States around 120 million tons of coal combustion products (e.g., fly ash and bottom ash) are generated of which 37% is reused. This has led to a large historical stock of unused coal ash stored in on-site surface impoundments.  Production of LWA from unused bottom ash will result in conversion of waste material to value-added product that can attract concrete and geotechnical markets. The produced LWA can be used as an aggregate in (a) structural lightweight concrete production, (b) internal curing of concrete, (c) production of concrete masonry blocks for buildings, retaining walls and landscape, (d) production of thermal/sound insulating concrete units, and (e) lightweight fill for highways, bridge abutments, retaining walls, and foundations.&lt;br/&gt;&lt;br/&gt;This I-Corps project will lead to significant understanding of market size and commercial potential of lightweight aggregates (LWA) produced from waste bottom ash. Bottom ash has high residual carbon and the innovative sintering technology is to use this residual carbon with appropriate fluxing agent to create a porous material encapsulated by a glassy layer that exhibits pozzolanic reactivity. This novel material will possess an active amorphous surface and an inert crystalline porous interior in a controlled ratio. The technology uses a thermodynamic model and can target a wide range of bottom coal ashes with various physical conditions and chemical compositions.</AbstractNarration>
+<MinAmdLetterDate>11/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800756</AwardID>
+<Investigator>
+<FirstName>Yaghoob</FirstName>
+<LastName>Farnam</LastName>
+<EmailAddress>yfarnam@coe.drexel.edu</EmailAddress>
+<StartDate>11/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Drexel University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191021119</ZipCode>
+<PhoneNumber>2158955849</PhoneNumber>
+<StreetAddress>1505 Race St, 10th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

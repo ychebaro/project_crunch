@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>HBCU-Excellence in Research: Radiative Effects of Biomass Burning Aerosols Laboratory and Field Measurements and Modeling of Climate and Health Impacts</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sherri W. Hunt</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project aims to improve understanding of the emissions of biomass burning and how this impacts air quality and climate. The work will focus on burning of fuels under a range of relative humidities. Further experiments will probe the light-absorbing properties of particles in these emissions and how those properties change when particles come in contact with mineral dust or when they undergo reactions as they age in the atmosphere. Finally, the research will investigate the impact that these particles have on cloud formation. All of this information will be useful for improving the ability to model the composition of the atmosphere.&lt;br/&gt;&lt;br/&gt;The project will also enhance the atmospheric chemistry and physics research and training capacity at two Historically Black Colleges and Universities (HBCUs), North Carolina A&amp;T State University (NCAT) and Howard University (HU) - two of only four HBCUs with a program in Atmospheric Sciences - by developing sustainable research collaborations with Colorado State University (CSU), a leading institution in Atmospheric Science. The specific research activities focus on understanding radiative properties of biomass burning aerosols and modeling their impacts on climate and health through involvement in laboratory and field campaigns. This effort will strengthen connections with multiple universities, national laboratories, and private companies while providing opportunities for a new generation of scientists to build cross-cultural relationships. The activities will enable underrepresented minorities to participate in large field measurement activities, to attend classes at a leading atmospheric science institution (CSU), and to work on aircraft based measurement systems.&lt;br/&gt;&lt;br/&gt;The primary objectives of the project are to:&lt;br/&gt;1. study the role of relative humidity in determining the optical properties of aerosols produced from biomass burning, &lt;br/&gt;2. determine whether the mineral dust or biomass burning components influence the optical properties of internally mixed particles more,&lt;br/&gt;3. investigate the potential importance of particulate emissions from biomass burning,&lt;br/&gt;4. quantify radiative and health impacts of biomass burning aerosols using the GEOS-Chem chemical transport model, and &lt;br/&gt;5. provide students the opportunity to participate in preparation for and analysis of data from biomass burning field campaigns.&lt;br/&gt;&lt;br/&gt;In addition to training several graduate students, this project will increase the research capacity at both NCAT and HU.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831013</AwardID>
+<Investigator>
+<FirstName>Solomon</FirstName>
+<LastName>Bililign</LastName>
+<EmailAddress>Bililign@ncat.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vernon</FirstName>
+<LastName>Morris</LastName>
+<EmailAddress>vmorris@howard.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marc</FirstName>
+<LastName>Fiddler</LastName>
+<EmailAddress>mnfiddle@ncat.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Pierce</LastName>
+<EmailAddress>jeffrey.pierce@colostate.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emily</FirstName>
+<LastName>Fischer</LastName>
+<EmailAddress>evf@rams.colostate.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina Agricultural &amp; Technical State University</Name>
+<CityName>Greensboro</CityName>
+<ZipCode>274110001</ZipCode>
+<PhoneNumber>3363347995</PhoneNumber>
+<StreetAddress>1601 E. Market Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>070Y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1594</Code>
+<Text>Hist Black Colleges and Univ</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

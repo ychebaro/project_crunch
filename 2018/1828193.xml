@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:  Acquisition of a Laser-Based Biomolecular Imager</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>156858</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Ellis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to Furman University to support the acquisition of a biomolecular imager for shared use amongst faculty, staff and students in the Biology and Chemistry departments. Faculty in the Biology and Chemistry departments at Furman University are committed to maintaining strong undergraduate research programs that positively impact the long-term training and development of the next generations of scientists. To provide these experiences, faculty are actively engaged in novel research programs and in the mentorship of undergraduate students in the lab. The new imager system will positively impact at least 35 undergraduate researchers each year and support programs funded through NSF-Research Experiences for Undergraduates. It will enable research experiences for high school teachers and students.  In addition, faculty and undergraduates from historically black colleges and universities in the region, two-year colleges, and other regional undergraduate institutions will have access to the bioimager for their research needs. &lt;br/&gt;&lt;br/&gt;Furman faculty have wide-ranging research projects that include the biophysical characterization of AT-hook containing proteins; the elucidation of the role for desmosomes in the coordination of cell migration; investigating compounds of sulfur and selenium for their ability to protect DNA from reactive oxygen species damage; characterizing the DNA adduct and DNA photocleavage properties of novel Cr (III)-diimine complexes; studying the stress response of a fungal pathogen; elucidating the roles of chromatin condensation and decondensation in T-cell activity; and conducting genetic fingerprinting of sea anemones exposed to environmental stressors. The new imager system will aid all of these efforts by improving data acquisition speed, sensitivity, quality, and flexibility.  Faculty research will result in presentations at meetings within their respective fields and publications in nationally-disseminated, peer-reviewed journals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828193</AwardID>
+<Investigator>
+<FirstName>Adi</FirstName>
+<LastName>Dubash</LastName>
+<EmailAddress>adi.dubash@furman.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Buchmueller</LastName>
+<EmailAddress>karen.buchmueller@furman.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Wheeler</LastName>
+<EmailAddress>john.wheeler@furman.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Furman University</Name>
+<CityName>Greenville</CityName>
+<ZipCode>296131000</ZipCode>
+<PhoneNumber>8642943470</PhoneNumber>
+<StreetAddress>3300 Poinsett Highway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

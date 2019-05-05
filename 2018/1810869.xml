@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Examining the Dynamics of Rainbands and Secondary Eyewall Formation in Tropical Cyclones</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>171160</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hurricane size and intensity can be affected by changes in the inner core of a storm.  One of the dramatic changes is the development of a secondary eyewall.  Despite the importance of the secondary eyewall, competing theories exist regarding how they develop and their interactions with hurricane rainbands.  This project will use a combination of observations from hurricane reconnaissance aircraft and the latest in numerical modeling to fill a critical gap in scientific understanding of tropical cyclone evolution.  The main societal impact from the award would be through improved tropical cyclone forecasts, especially in the crucial hours before landfall.  The project will also help to train the next generation of scientists.&lt;br/&gt;&lt;br/&gt;The research team plans to study the dynamics behind the transition of tropical cyclone inner core rainbands into a secondary eyewall.  The researchers contend that current theories for secondary eyewall formation (SEF) do not explain the exact dynamical pathway that connects rainbands to SEF.  To make progress on this topic, the team will combine observational analysis and numerical modeling.  The observational analysis will include data from a total of 38 SEF events that were well sampled by the NOAA P-3 Hurricane Hunter aircraft over the past two decades.  The modeling aspect will focus on more recent events, such as Harvey, Irma, and Maria, making use of the Penn State Weather Research Forecasting - Ensemble Kalman Filter (WRF-EnKF) system.  The main objectives of the project are to:   (1) Identify and characterize coherent rainband features that occurred in observations prior to secondary eyewall formation and compare to those rainbands in storms that did not develop secondary eyewalls, (2) Examine the rainband features leading to secondary eyewall formation in real-case model simulations and compare to those in observations, (3) Explore the ubiquity and predictability of rainband dynamics that lead to secondary eyewalls through systematic ensemble sensitivity experiments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810869</AwardID>
+<Investigator>
+<FirstName>Fuqing</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>fzhang@psu.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anthony</FirstName>
+<LastName>Didlake</LastName>
+<EmailAddress>acd171@psu.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

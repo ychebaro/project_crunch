@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  Removing barriers to macro-ecoevolutionary studies of the avian brain</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>149729</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George W. Gilchrist</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Why does brain size vary so much among closely related bird species? Why do some species rely heavily on cognitive solutions to life's challenges, whereas others do not? This research will take advantage of the considerable diversity of brain sizes and natural history among birds to investigate these fundamental questions. The researchers will generate a large dataset of within and between species variation in brain size to facilitate this comparative study in cognitive ecology. They will integrate these data with long-term datasets from other fields to investigate whether species with larger (and smaller) than expected brains have unique ecological roles. The project will also examine how different historical and natural history constraints can lead to fundamentally different pathways for brain size evolution. This approach is highly relevant to our own species, given that the conditions that drove the evolution of our exceptionally large brain are currently unclear. Broader impacts include engaging diverse citizens in accessible monthly presentations of this work at the farmer's market in Ferguson, MO. &lt;br/&gt;&lt;br/&gt;To increase the depth and breadth of the current sample of avian brain size estimates, data collection efforts will target North American songbirds. This group exhibits considerable variation in relative brain size, ecology and natural history, as well as strong correlations between brain size, behavioral flexibility, and neuron numbers. The North American region offers a wide variety of environmental conditions, well-characterized ecological communities, and a wealth of high-quality time-series data on local population dynamics, ecology and phenology. The researchers will evaluate how brain size relates to the breadth, mean overlap, and position of abiotic ecological niches, measured as the volume that a species occupies in multi-dimensional climate space. To investigate the possibility of alternative pathways for brain size evolution, the researchers will evaluate the extent to which species with small relative brain sizes in variable habitats differ in diet, size and reproductive output from those with relatively large brains. Data sharing will be achieved by developing and hosting an online repository that will provide free and unrestricted access to all available avian brain size data (and their associated metadata). This web page will also provide a mechanism for obtaining and vetting new data from community contributors from around the world.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841470</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Botero</LastName>
+<EmailAddress>cbotero@wustl.edu</EmailAddress>
+<StartDate>07/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington University</Name>
+<CityName>Saint Louis</CityName>
+<ZipCode>631304862</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress>CAMPUS BOX 1054</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

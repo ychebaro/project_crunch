@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Neurobiologically-informed risk assessment: An empirical examination</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>538827.00</AwardTotalIntnAmount>
+<AwardAmount>538827</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kurt Thoroughman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The need to anticipate who will reoffend, relapse, or recover is an important responsibility of clinical and legal practitioners and a prerequisite for the provision of effective healthcare and social services to adjudicated individuals with different risk-needs. It is widely accepted that the brain plays an essential role in shaping antisocial behaviors, but the precise nature of these processes is poorly understood. Previous scholarship has raised the possibility that methods of assessing risk in adjudicated individuals could be improved by including measures of brain function along with traditional behavioral and social measures. This project examines whether the inclusion of noninvasive brain measures can enhance the ability to correctly distinguish between those inmates most and least likely to experience antisocial outcomes, such as rearrest. The project also supports the training and professional development of students in cognitive neuroscience. The results of this project are expected to support the development of clinical tools, procedures and treatments for assessing and remediating risk in forensic populations, thereby reducing the associated costs to society. &lt;br/&gt; &lt;br/&gt;The objectives of this project are achieved by conducting the first large, out-of-sample longitudinal test of a neurocognitive model of persistent antisocial behavior. The model is developed in a sample of 600 adult criminal offenders who have undergone task-driven functional magnetic resonance imaging and been assessed for reoffense risk 12 months following release from prison (the training sample). This model is then used to classify a separate sample of 100 criminal offenders who are similarly scanned, released, and followed (the testing sample). The project employs both theory-driven (null hypothesis testing of a neurocognitive model of impulse control) and data-driven (e.g., whole-brain machine learning classification) analytical approaches. This project will advance basic and clinical knowledge of how neurobiological and behavioral risk factors interact to produce antisocial behavior by characterizing their combined and relative utility in assessing risk. This knowledge can, in turn, be used to inform the development of treatment approaches that are more sensitive to individual defendants' unique risk needs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829495</AwardID>
+<Investigator>
+<FirstName>Kent</FirstName>
+<LastName>Kiehl</LastName>
+<EmailAddress>kkiehl@mrn.org</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eyal</FirstName>
+<LastName>Aharoni</LastName>
+<EmailAddress>eaharoni@gsu.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia State University Research Foundation, Inc.</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303032921</ZipCode>
+<PhoneNumber>4044133570</PhoneNumber>
+<StreetAddress>58 Edgewood Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1321</Code>
+<Text>DECISION RISK &amp; MANAGEMENT SCI</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1372</Code>
+<Text>LAW AND SOCIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1321</Code>
+<Text>DECISION RISK &amp; MANAGEMENT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1372</Code>
+<Text>LAW AND SOCIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>S&amp;AS: COLLAB: Organization of the 2018 Smart and Autonomous Systems (S&amp;AS) PI Meeting</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50004.00</AwardTotalIntnAmount>
+<AwardAmount>50004</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The objective of this award is to organize the inaugural Principal Investigators (PI) meeting for the Smart and Autonomous Systems (S&amp;AS) program. As this is a new program, the PI meeting will set the intellectual tone for and create a community around this new NSF program, centered at intelligent physical systems that are cognizant, taskable, reflective, ethical, and knowledge-rich. The PI meeting will bring together researchers, companies, and program officers who are actively engaged in S&amp;AS to provide cross-project coordination in terms of common intellectual challenges, methods for education and training, best practices in terms of transition of results, and a lasting repository illustrating the research ideas explored and milestones achieved by the S&amp;AS projects. The PI meeting will take place during April 5-6, 2018, in Washington DC, and the format will include short presentations by all the attending PIs, poster sessions, keynote speeches, and panel discussions. Invitations to the meeting will include all PIs with active S&amp;AS grants, program managers involved with related programs, as well as industry representatives and members of the press.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821015</AwardID>
+<Investigator>
+<FirstName>Magnus</FirstName>
+<LastName>Egerstedt</LastName>
+<EmailAddress>magnus@ece.gatech.edu</EmailAddress>
+<StartDate>02/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>039Y</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Syst</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>046Z</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

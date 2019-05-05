@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Project Trident: A Three-Pronged Automated Solution to Satellite Derived Littoral Bathymetry Mapping</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>223655</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be the establishment of the analytical framework and software for a global bathymetry mapping system based upon freely available satellite imagery, three independent extraction methods, and ongoing data collection to create geospatial products for a wide range of applications.? Shallow water zones are crucial to the world?s ecology, economy, and culture.  An estimated 70% of the world?s littoral zone is not mapped to modern standards, and traditional methods of mapping these areas are prohibitively expensive and dangerous. Through remote sensing techniques, this innovation will produce detailed bathymetric data for shallow water areas around the globe at far lower costs than traditional methods. This is particularly significant for impoverished remote, low-lying islands which have scarce resources for mapping the natural environment on which their economies heavily rely. ?Additionally, shallow water bathymetry data is vital to geospatial intelligence and to accurately assessing the feasibility and environmental impact of projects relating to global trade/port development, aquaculture, tourism, and resource development.? The results of this innovation will provide a modern baseline of seabed topography for future scientific analysis, change detection, and greater understanding of the marine environment.&lt;br/&gt;&lt;br/&gt;The proposed project addresses the budgetary and health and safety challenges of nearshore bathymetry mapping by advancing three distinct methods of calculating satellite derived bathymetry. These methods rely on different parameters of measurement for water depth retrieval, enabling the advantages of one method to overcome the shortcomings of another. This will create a self-validating method for leveraging advanced remote sensing algorithms in an integrated software platform with ongoing data collection to produce 10-30m resolution bathymetry elevation models.? Extraction methods utilize underwater stereophotogrammetry from multiple overlapping images, wave kinematic detection from multispectral imagery, and measurement of variable attenuation of multispectral signals through the water column.? Research will be conducted on computer vision applications for assessing and allocating images based upon metocean and atmospheric parameters; seafloor spectral segmentation techniques and effects on subsequent multispectral depth retrieval; automation of stereophotogrammetric seafloor target identification and correlation, and integration and automation of wave kinematic derived depth values with multispectral depth retrieval values.? Statistical analysis of resulting data from this combined processing method, evaluated against in situ data for trial locations, will provide direct comparisons for accuracy reporting, algorithm refinements, computational optimization, and determine overall technical and commercial feasibility of future global implementation.?&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819367</AwardID>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Goodrich</LastName>
+<EmailAddress>kg@tcarta.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>TCarta Marine, LLC</Name>
+<CityName>Denver</CityName>
+<ZipCode>802043109</ZipCode>
+<PhoneNumber>3032846144</PhoneNumber>
+<StreetAddress>3015 W 9th Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

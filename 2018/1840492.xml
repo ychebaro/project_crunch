@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Comprehensive Energy Storage Solutions in Electrified Transportation</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Junhong Chen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.&lt;br/&gt;&lt;br/&gt;This planning grant will lay the groundwork for a new NSF Engineering Research Center, CESSET: Comprehensive Energy Storage Solutions in Electrified Transportation with the proposed mission to match the accelerating needs of our society for mobility and accessibility with sustainable and renewable energy. Given that fossil-fuel-based transportation is a major source of pollution worldwide, immense opportunities exist to deflect the planet's climate trajectory by electrifying transportation with renewable, decarbonized power sources assisted by dynamically controlled distributed energy resources. It is expected that the innovation CESSET is aiming to bring will reverse the stark projections of human-created climate change and air-pollution.  Beyond health benefits, such a transformation will have positive economic impact by dramatically reducing oil imports and by reconfiguring domestic manufacturing.&lt;br/&gt; &lt;br/&gt;This new transportation future requires research into advanced energy storage. Although the automotive industry has started the trend towards vehicle electrification and there is significant funding for energy storage, progress has been slow and compartmentalized. In preparation for a new Center-scale research effort, a rigorous scoping study is needed to reveal synergies, identify the most impactful research directions, develop strategies that will foster integration between disciplines, and secure the correct combination of expertise and partner institutions. In this planning grant, CESSET's strategy in achieving its vision will be formed with special emphasis on developing multidisciplinary course and training programs, and influencing national and international policy and market trends. In the context of the proposed planning grant, impact beyond university research will be pursued through a series of meetings and workshops with stakeholders.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840492</AwardID>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Lastoskie</LastName>
+<EmailAddress>cmlasto@umich.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anna</FirstName>
+<LastName>Stefanopoulou</LastName>
+<EmailAddress>annastef@umich.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Heath</FirstName>
+<LastName>Hofmann</LastName>
+<EmailAddress>hofmann@umich.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Mi</LastName>
+<EmailAddress>cmi@sdsu.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Siegel</LastName>
+<EmailAddress>djsiege@umich.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>112E</Code>
+<Text>CENTERS: ENGINEERED SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>127E</Code>
+<Text>CENTERS: ENERGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

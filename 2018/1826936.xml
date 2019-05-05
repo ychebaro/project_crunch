@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Development of Community Light Scattering Computational Capabilities</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>593862.00</AwardTotalIntnAmount>
+<AwardAmount>180003</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chungu Lu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This study seeks to develop theoretical and computational methods to improve simulations of optical properties of non-spherical particles over a broad range of size parameters.  Applications of the theoretical/computational work span many broad areas of physics, chemistry, and engineering; with specific importance in atmospheric and oceanic sciences, combustion science, astrophysics, bio-optics, manufacturing diagnostics and control, and many other fields.  This study will train graduate students and post-doctoral scholars.  After testing and optimization, this research group plans to release the computational programs as open-source codes to the research community. &lt;br/&gt;&lt;br/&gt;This study seeks to expand previous NSF-funded research to develop advanced capabilities based on the invariant imbedding T-matrix method (II-TM) for simulating the optical properties of non-spherical, inhomogeneous particles with small to moderate size parameters.  This study seeks to further improve the II-TM from both theoretical and numerical perspectives.  This group recently developed a preliminary version of a physical geometric optics model (PGOM) based on either an electromagnetic volume- or a surface-integral relation for large size parameters.  The suite of PGOM and II-TM will represent state-of-the-art light scattering computational capabilities, with a wide range of applications in atmospheric/oceanic radiative transfer and remote sensing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826936</AwardID>
+<Investigator>
+<FirstName>Ping</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>pyang@tamu.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Panetta</LastName>
+<EmailAddress>r-panetta@geos.tamu.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University Main Campus</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

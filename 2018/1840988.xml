@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>International Workshop on Numerical Modeling of Earthquake Motions: Waves and Ruptures, Smolenice, Slovakia June 30-July 4, 2019</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>28000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Zanzerkia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This is a travel award to promote participation in the Numerical modeling of earthquake motions: waves and ruptures workshop in Slovakia hosted by the Solvak Academy of Sciences. Earthquake rupture dynamics and ground motion simulation are central to seismology and earthquake engineering. Much excellent earthquake-source-related research occurs in Europe, Asia, and the rest of the world. International scientific exchange serves to enhance productivity and excellence, as well as train the next generation of seismologists and experts in earthquake source processes and computational seismology. Funding in this travel proposal will support approximately 24 U.S. students, early career scientists, and members of underrepresented groups.&lt;br/&gt;&lt;br/&gt;Ground motion simulation and, more recently, dynamic rupture modeling are at the heart of seismic hazard calculations and studies of earthquake source processes. A wide range of numerical methods are being used, and there are growing efforts to perform verification and validation of the simulation codes. In addition, researchers are now routinely performing dynamic rupture simulations of actual earthquakes and slow slip events, addressing questions about how ruptures navigate fault geometric complexities; the role of friction, pore fluid pressure, inelastic material response, and dynamic weakening mechanisms on rupture nucleation, propagation, and arrest; etc. This international workshop will bring together modelers from different countries with observational seismologists and experimentalists, facilitating exchange of scientific knowledge and ideas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/01/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840988</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Dunham</LastName>
+<EmailAddress>edunham@stanford.edu</EmailAddress>
+<StartDate>02/01/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1574</Code>
+<Text>GEOPHYSICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

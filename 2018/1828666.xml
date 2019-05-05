@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Development of a 100 kHz, Ultrafast Interfacial-Specific Two-Dimensional Vibrational Spectromicroscope</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>428357</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation (CRIF) Programs.  Professor Wei Xiong from University of California San Diego and colleagues Vicki Grassian, Neal Devaraj and Ping Liu have developed an ultrafast, one-dimensional/two-dimensional sum frequency generation (1D/2D SFG) spectromicroscope.  The microscope employs a laser to probe a sample. This produces a signal (or image) observed by the microscope. The spectral image provides information on the physical and chemical properties of the sample.  It is used to probe interfaces, for example, the surface of aerosol particles. Another use is to study the structure of water in confined spaces such as in water purification materials.  It is used to pinpoint domains where ice nucleation occurs. Development of artificial retinas and wearable solar cells are applications which can benefit from this instrument. Investigation of these and other processes leads to a better understanding of how to improve them or ameliorate undue consequences. Graduate students are involved with development and application of the instrument, receiving training in an important skill sought by commercial instrument firms. &lt;br/&gt;&lt;br/&gt;The instrument is used in a variety of investigations.  Water purification materials are being studied.  The electrochemical interface of energy storage devices (for example, lithium batteries) is being explored. Aerosols surfaces are receiving attention to understand formation mechanisms.  Materials which have heterogeneous surfaces are better understood using the microscope, for example biological fibrils.  It is being used to study artificial cells and neural networks.  Investigators at the University of California, Irvine and Spelman College have projects using the instrument.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828666</AwardID>
+<Investigator>
+<FirstName>PING</FirstName>
+<LastName>LIU</LastName>
+<EmailAddress>piliu@ucsd.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Neal</FirstName>
+<LastName>Devaraj</LastName>
+<EmailAddress>ndevaraj@ucsd.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Xiong</LastName>
+<EmailAddress>w2xiong@ucsd.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vicki</FirstName>
+<LastName>Grassian</LastName>
+<EmailAddress>vhgrassian@ucsd.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+</Award>
+</rootTag>

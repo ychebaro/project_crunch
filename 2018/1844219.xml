@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RoL: EAGER: DESYN-C3: Moving information across synthetic membranes via engineered sensors</AwardTitle>
+<AwardEffectiveDate>12/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Pseudocell engineering is the design and synthesis of structures that mimic real cell functions.  These structures can be useful for biotechnological applications or to advance our understanding of cellular processes. Cell membranes often isolate intracellular reactions from the extracellular environment. To enable pseudocells to control when and how reactions take place requires technologies to sense the external environment without requiring a flow of materials. Living cells accomplish this goal using sensor proteins installed within the cell's outer membrane. This project will coordinately design proteins and membranes to perform similar sensory and signaling roles. This project will also train students and will enhance ongoing outreach activities.  A diverse STEM workforce will be developed by engaging undergraduates in research through Northwestern University's iGEM team and its synthetic biology-focused REU, SynBREU.&lt;br/&gt;&lt;br/&gt;This project will develop strategies for embedding protein sensors in synthetic membranes. This will help uncover relationships between membrane and protein design features. Achieving productive biosensor performance will be integral to evaluating the design process. The approach taken is based on preliminary data that demonstrates the feasibility of using cell-free expression systems to insert a functional channel protein (MscL) into vesicle membranes. This will be combined with the Modular Extracellular Sensing Architecture (MESA) developed by the co-PI to generate novel biosensors that are orthogonal to native systems. Ligand binding induces dimerization of MESA chains triggering an internal response without transmembrane transport of material. This approach will be evaluated using rapamycin as the external signal and split green fluorescent protein as the internal reporter. If successful, the approach will be extended to using vascular endothelial growth factor as the signal molecule and split Nano-Luciferase as the reporter.  If successful, this project will benefit society by ultimately enabling the use of pseudocell technology for improved environmental stewardship, and for improved patient care and treatment. The technologies to be developed here will benefit the biotechnology and pharmaceutical industries by enabling the development of new classes of therapeutic and diagnostic products.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844219</AwardID>
+<Investigator>
+<FirstName>Neha</FirstName>
+<LastName>Kamat</LastName>
+<EmailAddress>nkamat@northwestern.edu</EmailAddress>
+<StartDate>11/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Leonard</LastName>
+<EmailAddress>j-leonard@northwestern.edu</EmailAddress>
+<StartDate>11/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

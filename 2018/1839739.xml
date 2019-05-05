@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Support for MVAPICH User Group (MUG) Meeting</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sushil K Prasad</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Modern High-Performance Computing (HPC) systems are rapidly evolving with respect to processor, networking, and I/O technologies. In such a rapidly changing environment it is critical that the next-generation engineers and scientists get exposed to the modern architectural trends of HPC systems and learn how to use the features of these technologies to design HPC software stacks, learn about the process of open-source software developments and its sustainability. The annual MVAPICH User Group (MUG) meeting provides an open forum to exchange information on the design and usage of MVAPICH2 libraries, which are open-source, high-performance and scalable MPI libraries to take advantage of the RDMA technology. Travel funding from this project will enable a set of students (undergraduates and graduates) to attend the MUG meeting. Their participation will help them to enter the next-generation HPC workforce with increased expertise on software design, reuse, and sustainability. The project thus serves the national interest, as stated by NSF's mission: to promote the progress of science.&lt;br/&gt;&lt;br/&gt;The MVAPICH project focuses on the design of high-performance MPI and PGAS runtimes for HPC systems. Over the years, this project has been able to incorporate new designs to leverage novel multi-/many-core platforms like Intel Xeon Phis, NVIDIA GPGPUs, Open POWER, and ARM architectures coupled with Remote Direct Memory Access (RDMA) enabled commodity networking technologies like InfiniBand, RoCE, Omni-Path, and 10/25/40/50/100GigE with iWARP. An annual MVAPICH User Group (MUG) meeting was created five years ago to provide an open forum to exchange information on MVAPICH2 libraries. The funding under this grant aims to achieve increased participation of undergraduate and graduate students working in the HPC area (systems and applications) in the annual MUG event. The requested student travel fund will help in attracting a set of students from a range of US institutions. The participation in an international event such as MUG will enable the students to get a global picture of the developments happening in the rapidly evolving HPC domain and open-source software design. The selection committee will stress on diversity to attract students from minority and under-represented groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839739</AwardID>
+<Investigator>
+<FirstName>Dhabaleswar</FirstName>
+<LastName>Panda</LastName>
+<EmailAddress>panda@cse.ohio-state.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hari</FirstName>
+<LastName>Subramoni</LastName>
+<EmailAddress>subramoni.1@osu.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Light Emitting Diode-based Smart Cue</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita La Salle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is in its capability to promote the safety of people with dementia. According to research, 70% of people with dementia will wander, which can result in a difficult experience for both missing people and care givers. The demand for protecting and recovering missing people with dementia has been increased over the past decades. Advancement of this tracking system has the potential for enhancing their safety and giving a peace of mind to care givers without compromising the effectiveness. The core set of methods and processes of the technology has the potential to be replicated, adapted and used in other crowd sensing applications globally.  Even before the care givers notice, the "crowd" can potentially be able to help.&lt;br/&gt;&lt;br/&gt;This I-Corps project is focused on technology to improve the tracking, and protecting paradigm of using mobile devices carried by the people with dementia as well as will also explore the commercial potential of an intelligent tracking system. This innovative system, LED-based Smart Cue (LESQ), can monitor the status of the wearer in addition to tracking the location. If an abnormal condition is detected, the LESQ system can ask for immediate help. If the wearer carries a smartphone, the LESQ system can send an alert message directly to the care giver. One important feature of the LESQ system is to improve the self-diagnosis of the potential for wandering by the people with dementia. A smart tag tracks the wearer's status by using the timer and gaits, in addition to the geo-location. Implementation of the cost and power efficient, lightweight, and flexible system may significantly improve the usability.</AbstractNarration>
+<MinAmdLetterDate>01/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810832</AwardID>
+<Investigator>
+<FirstName>Sejun</FirstName>
+<LastName>Song</LastName>
+<EmailAddress>sjsong@umkc.edu</EmailAddress>
+<StartDate>01/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Kansas City</Name>
+<CityName>Kansas City</CityName>
+<ZipCode>641102499</ZipCode>
+<PhoneNumber>8162355839</PhoneNumber>
+<StreetAddress>5100 Rockhill Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

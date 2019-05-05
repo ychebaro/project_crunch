@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A Novel Method for Atmospheric Correction of Earth Observation Satellite Data</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to provide software service to correct Earth observation satellite (EOS) data to at-ground reflectance. EOS must look through the Earth?s atmosphere that induces systematic error in measuring the actual reflectance of ground targets through scatter and attenuation of light. Atmospherically-induced error affects data utility because the atmospheric aerosol content, i.e., humidity, dust, pollen, smoke particles, etc., fluctuates greatly, impacting applications for global monitoring, defense and agriculture. The value of data could make this a significant and growing market opportunity if the specifications are met successfully.        &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to correct aerosol-induced error in EOS data by reversing the effect, found empirically to be structured, independent of aerosol type and potentially predictable through measurement of dark target-reflectance ? water bodies clear of aquatic vegetation, entrained sediment and specular reflectance from windblown waves. The method of study is extraction and statistical analysis of Landsat 8 data, the standard reference for calibration and validation of data from all other EOS platforms. This problem is approached through a series of heuristic investigations to (1) reconstruct relationships of blue, green and red bands to near infrared (NIR) originally fitted using Landsat 5 and 7 data (longer wavelengths may not be addressed because they are resistant to atmospheric affects), (2) use these relationships to reverse the error, (3) develop methods to select, proof and apply dark targets that calibrate the correction, and (4) measure residual error by comparing post-algorithm reflectance to at-ground reflectance measured by portable spectrometry. The residual error is likely due to uncertainty associated with dark targets. Once developed and proofed, the algorithm will be brought to the Landsat 8 Cal/Val team for validation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840196</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Groeneveld</LastName>
+<EmailAddress>david@advancedremotesensing.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ADVANCED REMOTE SENSING, INC.</Name>
+<CityName>HARTFORD</CityName>
+<ZipCode>570332315</ZipCode>
+<PhoneNumber>5056906864</PhoneNumber>
+<StreetAddress>407 N VANDEMARK AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

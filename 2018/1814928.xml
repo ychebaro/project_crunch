@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Collaborative Research: Harvesting Wasted Time and Existing Circuitry for Efficient Field Testing</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>391769</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Digital integrated circuits (ICs) are the "brains" in the electronic devices used throughout modern society.  It is essential that these devices work correctly and reliably - especially in critical applications such as autonomous vehicles, infrastructure, the financial system, and health care.  In such applications, highly effective and efficient testing should be done in the field to identify problems that may arise after the device has been sent to the customer.  Thus, in this project, new ways of using circuitry already present on modern ICs while efficiently creating, applying, and transporting field-based tests to different parts of the chip will be investigated. At the same time, educational opportunities made possible through the project will be pursued, including the use of research findings in courses, the involvement of graduate and undergraduate students in the research, and outreach to high school students through summer camps and research opportunities.  The inclusion of members of underrepresented groups in these educational opportunities will be a focus of the investigators, who already have a proven record in mentoring such students in research.  &lt;br/&gt;&lt;br/&gt;To address the field-testing issues, three major tasks will be performed in this research.  First, methods that use existing error-detection circuitry in an IC to make the field testing process more efficient will be explored.  In particular, times when the IC is operating in normal functional mode will be used to test for the presence of some faults.  Testing for those same faults in dedicated test sessions can then be avoided, reducing test time and the amount of time a circuit must be taken offline for test.  Next, methods for effectively using otherwise wasted time during dedicated test sessions to detect faults will be explored.  Finally, approaches that optimize the internal test network to efficiently send data used for test throughout a chip will be investigated.   Taken together, these approaches should enable field-based test to achieve high fault coverage while minimizing test time, thus enhancing the reliability of devices that so many people depend upon every day.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814928</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Dworak</LastName>
+<EmailAddress>jdworak@lyle.smu.edu</EmailAddress>
+<StartDate>05/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Theodore</FirstName>
+<LastName>Manikas</LastName>
+<EmailAddress>manikas@lyle.smu.edu</EmailAddress>
+<StartDate>05/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Southern Methodist University</Name>
+<CityName>Dallas</CityName>
+<ZipCode>752750302</ZipCode>
+<PhoneNumber>2147682030</PhoneNumber>
+<StreetAddress>6425 BOAZ</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

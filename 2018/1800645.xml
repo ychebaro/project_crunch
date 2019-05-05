@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Qualitative Properties of Solutions to Nonlinear Elliptic Partial Differential Equations</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>251680.00</AwardTotalIntnAmount>
+<AwardAmount>251680</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Holmer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on central problems in classical fields of analysis such as the calculus of variations and free boundary problems.  The problems under investigation share some common features and have roots in different areas like material sciences, fluid mechanics, geometry, cost optimization etc.  They are relevant to both pure and applied mathematics. The proposed problems require progress on the known methods and techniques and addressing them would be beneficial for mathematicians and possibly for the larger scientific community as well.  The outcome will be disseminated to the interested audience to invigorate the advancement of the theory.  &lt;br/&gt;&lt;br/&gt;A central part of the project deals with the stability of singular minimizing maps of smooth, convex energies that appear in nonlinear elasticity. The PI will investigate the singularity formation in the associated parabolic flow and the regularity of solutions to a class of elliptic systems with special structure.  Another part of the project is concerned with problems in nonlinear elliptic equations. The PI shall study the boundary behavior of some degenerate Monge-Ampere equations and optimal transportation problems, and to develop Pogorelov type estimates for some interesting model equation.  In free boundaries, the PI will study the two-phase free boundary problem for different operators together with various obstacle-type problems, and will also analyze the rigidity of boundary layer phase transitions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800645</AwardID>
+</Award>
+</rootTag>

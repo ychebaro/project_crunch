@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Small: Towards mmWave-based Vehicular Communications</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A new wave of industrial revolution is being witnessed, where vehicles evolve from being controlled by human beings to fully autonomous cyber-physical systems. Having connected vehicles that can communicate with each other, as well as with highway infrastructure and management, is vital to the success of such revolution. Therefore, the goal of this proposal is to design vehicular communications and networks that can provide high data-rate, low-latency, and security. Towards fulfilling this goal, the millimeter wave (mmWave) frequency band will be utilized as the fundamental enabler to achieve the required high data rates for vehicular communications. The proposed project will benefit the global society by helping to realize safe and secure self-driving cars. &lt;br/&gt;&lt;br/&gt;The main challenges facing the design and validation of the proposed vehicular communication system are spreading across the implementation of mmWave Radio Frequency (RF) front-ends, baseband processing, and the network management. The design of mmWave RF front-ends requires high-gain and low-profile antenna array for inconspicuous integration on the vehicular platforms, RF beamforming techniques, and finally low-cost, hardware-reduced, and power efficient electronics behind the antenna array. At the baseband processing level, the main obstacles include physical layer secrecy, RF impairment mitigation, and enabling simultaneous multi-vehicle to infrastructure communication. Finally at the network level, novel network architectures are needed to enable low-latency and fast local decision making. The proposed research is transformative as it will advance fundamental knowledge in: 1) High-data-rate RF transmission over mmWave through the design and validation of mmWave multiple-antenna transceiver architectures along with RF beamforming schemes that exploit both spatial and spectral diversity; 2) Enhanced physical layer processing through the design and validation of digital beamforming schemes that achieve physical layer secrecy, mitigate RF impairments, and achieve high-data-rate simultaneous multi-vehicle communication; and 3) Edge computing via a low-latency dynamic network management architecture by utilizing the emerging SDN paradigm, which involves intelligent nodes with local decision and machine learning capabilities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816112</AwardID>
+<Investigator>
+<FirstName>Elias</FirstName>
+<LastName>Alwan</LastName>
+<EmailAddress>ealwan@fiu.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ahmed</FirstName>
+<LastName>Ibrahim</LastName>
+<EmailAddress>aibrahim@fiu.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kemal</FirstName>
+<LastName>Akkaya</LastName>
+<EmailAddress>kakkaya@fiu.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>Miami</CityName>
+<ZipCode>331990001</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: BRAIDING: Braiding Majorana bound states in two-dimensional epitaxial semiconductor-superconductor structures</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Abstract: Physical properties of a semiconductor are modified when it is placed in proximity to a superconducting material. Interfacing semiconductors with superconductors in a controlled way allows to control such novel properties. When the conditions at the interface are right, new types of behavior may emerge. For example, emergent states known as Majorana zero modes can form at this interface, and manifest as a specific measurement feature called zero-bias peak. Such unique new states do not follow the usual quantum statistics governing the behavior of electrons or atoms, but rather conform to so-called non-Abelian statistics. Recently, impressive experimental progress in fabricating one-dimensional (1D) structures has led to indirect detection of such non-Abelian states relying on zero-bias peak. This work will enable using the non-Abelian states in future quantum computing.&lt;br/&gt;&lt;br/&gt;Technical Abstract: This project takes a new path to create and manipulate topological excitations on a two-dimensional (2D) epitaxial platform. It combines proximity-induced superconductivity in a 2D electron gas (2DEG) with magnetic textures originating from rotation of the magnetic field and/or fringing fields of nano-magnets. These magnetic textures engineer an effective Hamiltonian in the 2DEG that supports the creation of Majorana zero modes. The 2D geometry overcomes obstacles of one-dimensional Majorana zero modes allowing realization of ring, cross and T-junctions for braiding and fusing, opening a new path to topological quantum computing. The results of our fundamental research will provide important experimental advances to establish a new scalable platform to study topological excitations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836687</AwardID>
+<Investigator>
+<FirstName>Javad</FirstName>
+<LastName>Shabani</LastName>
+<EmailAddress>js10080@nyu.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

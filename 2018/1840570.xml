@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for EMpowering People to achieve Optimal Well-being through Engineering Research: EMPOWER Center</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>99998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eduardo A. Misawa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.&lt;br/&gt;&lt;br/&gt;Health inequities are not isolated but intricately interconnected with education and wealth as highlighted by complex problems such as the Flint water crisis. Disparities within these areas negatively affect the well-being of individuals, communities, and society. Community-based, private and public social-action agencies, such as soup kitchens and housing shelters, tend to operate in isolation and often have limited ability to communicate let alone collaborate with other agencies. The opportunities and challenges that lie within the intersection of health, education, and wealth require engineers, social scientists, and computer scientists working together to improve the well-being of individuals and communities. To address these disparities, this planning grant will bring together multiple, diverse interest groups to drive meaningful societal impacts and inform the development of a human-centered engineering research center. This proposed center will be focused on EMpowering People to achieve Optimal Well-being through Engineering Research (EMPOWER Center).  Regional planning meetings will connect non-profit agencies to each other, to potential industry partners, and to the engineering community. This will facilitate information sharing, idea generation, and foster the development of regional stakeholder community networks to revolutionize how our nation addresses well-being. &lt;br/&gt;&lt;br/&gt;The proposed EMPOWER Center will harness, synthesize, and learn from data. This data will be gathered from disparate sources that are distributed, historically disconnected, and have varied levels or a lack of structure. The goal of these activities is to help inform and empower communities to address disparities. We will develop a data-enabled intelligent community-wellness monitoring system that enables policy makers, community leaders, and individuals to make informed decisions that yields improved wellness. This planning grant will develop and engage community partners as members of the research team and establish an inclusive culture for all key stakeholders. To achieve our goals, the planning grant will: develop a network of research partners, non-profit agencies, and industry partners from the breadth of regions covered by the ERC partner institutions; form a convergent research team that integrates expertise within engineering, social sciences, ethnographic research, education, medicine, and business with community-based thought leadership; and identify specific community-centered and community-informed research goals for the EMPOWER center. The EMPOWER Center will capture the power of convergent research as engineers, ethnographic researchers, computer scientists, social and behavioral scientists, educational experts, and members of the medical, legal, and business communities collaborate to improve the wellness of individuals and communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840570</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Higle</LastName>
+<EmailAddress>higle@usc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harriet</FirstName>
+<LastName>Nembhard</LastName>
+<EmailAddress>harriet.nembhard@oregonstate.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julie</FirstName>
+<LastName>Ivy</LastName>
+<EmailAddress>jsivy@ncsu.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Cohn</LastName>
+<EmailAddress>amycohn@umich.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lauren</FirstName>
+<LastName>Davis</LastName>
+<EmailAddress>lbdavis@ncat.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

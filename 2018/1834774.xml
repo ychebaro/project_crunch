@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Student Travel Program for the 2018 International Conference on Case-Based Reasoning</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports travel costs for approximately 20 U.S. select students participating in the Doctoral Mentoring Consortium (DMC) at the 26th International Conference on Case-Based Reasoning (ICCBR), which will take place from the 9th to 12th of July 2018 in Stockholm, Sweden. This is the premier international conference for researchers in the field of case-based reasoning research across a fully international research community. This activity will bring together a broad community of researchers in the field of AI, and in particular, in research involving systems that encode, retrieve, and re-use experiences, enabling an automated form of reasoning-by-analogy.  The activity supports junior researchers at a critical early-career stage, and creates the opportunity to bring in participants who might not have attended an AI conference due to lack of resources. This is especially true for those at smaller institutions and those which have less developed AI programs. Engaging such participants has the potential to draw more talent into AI research, improve research ideas in their formative stage, and engender collaborations across the breadth of disciplines.  This event provides students with invaluable exposure to outside perspectives on their work at a critical time in their research and enables them to explore their career objectives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834774</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Cox</LastName>
+<EmailAddress>michael.cox@wright.edu</EmailAddress>
+<StartDate>05/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wright State University</Name>
+<CityName>Dayton</CityName>
+<ZipCode>454350001</ZipCode>
+<PhoneNumber>9377752425</PhoneNumber>
+<StreetAddress>3640 Colonel Glenn Highway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

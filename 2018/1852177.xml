@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: REU Site: Security Printing and Anti-counterfeit Technologies</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>95196.00</AwardTotalIntnAmount>
+<AwardAmount>95196</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Poats</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The South Dakota School of Mines and Technology, along with partner organizations, South Dakota State University, and the University of South Dakota will offer an innovative Research Experiences for Undergraduate (REU) Site focused on interdisciplinary research dedicated to Security Printing and Anti-Counterfeiting Technology (SPACT), to a diverse cohort of undergraduate students.  Counterfeiting is a growing issue in the U.S., posing serious economic, safety and national security concerns and impacting a wide variety of industries (e.g. pharmaceutics, semiconductors). REU participants will engage in interdisciplinary collaborative research that pairs physical scientists and engineers with social and behavioral scientists. This convergent approach is crucial for addressing and disrupting the complexity inherent to modern illicit supply networks. &lt;br/&gt;&lt;br/&gt;During this 10-week summer research experience, 10 REU students will conduct research on transformative anti-counterfeiting technology. SPACT is a field which demands development in four key areas: (i) advanced materials, (ii) advanced manufacturing and patterning, (ii) detection and encryption, and (iv) social/behavior science and systems engineering. The key objectives of the program are to (1) conduct transformative research in a collaborative, interdisciplinary environment, and (2) provide STEM professional development opportunities to a diverse group of undergraduate students, with a focus on Tribal Colleges and other institutions with limited STEM research opportunities. A talented team of faculty mentors from a variety of STEM disciplines, with a wide spectrum of experience and backgrounds, will implement a program in SPACT by engaging REU participants in interdisciplinary collaborative research that pairs physical scientists and engineers with social and behavioral scientists. Students will also participate in a highly integrated professional development and technical communications program designed to stimulate professional development and the development of research skills necessary to succeed in the 21st century. The faculty, alongside industry leaders, will deliver training seminars to broaden the students' existing academic training in the relevant SPACT areas. The long-term goal is to provide a diverse group of STEM researchers with the training and skills needed to pursue graduate studies at the highest levels and to advance the developing field of SPACT.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852177</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Logue</LastName>
+<EmailAddress>brian.logue@sdstate.edu</EmailAddress>
+<StartDate>04/17/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>South Dakota State University</Name>
+<CityName>Brookings</CityName>
+<ZipCode>570070001</ZipCode>
+<PhoneNumber>6056886696</PhoneNumber>
+<StreetAddress>1015 Campanile Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1360</Code>
+<Text>HUMAN RESOURCES DEVELOPMENT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Network Design and Implementation for Small Institutions: Rural Campus Connectivity for Research and Teaching on the Prairie</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>362589</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project provides cyberinfrastructure upgrades at Dordt College for an Internet2 connection and enhanced network connectivity between campus locations, data sources, and computing resources. Through the application of data-intensive multi-omics and biostatistics research (such as high-throughput genotyping and phenotyping) at agricultural and prairie sites, these upgrades are designed to equip ongoing research to better understand, first hand, land-use impacts on local ecology and microbiome, prairie genetics, soil erosion, nutrient uptake and loss, carbon sequestration, drought susceptibility, and water quality. The Rural Campus Connectivity for Research and Teaching on the Prairie project also connects Dordt College to national research and education resources and enhances its STEM education impact by providing cutting-edge research, teaching, and outreach opportunities through collaborative, interdisciplinary, and data-driven science for undergraduate students and STEM teachers-in-training.&lt;br/&gt; &lt;br/&gt;The primary goal of this cyberinfrastructure project is the installation and connection of a fiber optic line from the rurally-situated Dordt College campus to an Internet2 connection point. Campus network upgrades also include the development of a Science DMZ and associated services such as Federated ID Management, data transfer management, performance monitoring through the implementation of a PerfSONAR measurement node, and wireless connectivity to a rural satellite campus. A new network switch will be used as the hub of the 10Gbps DMZ to connect local storage, compute clusters and instrumentation to the existing campus network and Internet2.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827210</AwardID>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Tintle</LastName>
+<EmailAddress>nathan.tintle@dordt.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Channon</FirstName>
+<LastName>Visscher</LastName>
+<EmailAddress>cvisscher@dordt.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nick</FirstName>
+<LastName>Breems</LastName>
+<EmailAddress>Nick.Breems@dordt.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kari</FirstName>
+<LastName>Sandouka</LastName>
+<EmailAddress>kari.sandouka@dordt.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Van Donselaar</LastName>
+<EmailAddress>brian.vandonselaar@dordt.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dordt College</Name>
+<CityName>Sioux Center</CityName>
+<ZipCode>512501606</ZipCode>
+<PhoneNumber>7127226264</PhoneNumber>
+<StreetAddress>498 4th Avenue NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+</Award>
+</rootTag>

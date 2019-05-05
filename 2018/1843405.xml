@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Development of DNA-Encoded Peptidomimetic Library for High-Affinity Binders Against Disease-Related Proteins</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be the development of a new class of high affinity compounds that would be small enough to be delivered into challenging environments such as living cells. Inhibitors of disease-related proteins are central to modern therapeutics across the spectrum of diseases, from cancer to autoimmune diseases, to viral infections, and even to certain hereditary disorders.  Many of these drivers of disease are transcription factors or signal-transduction molecules, yet these proteins are commonly thought of as "undruggable," due to a lack of small pockets for drug binding or due to large protein-protein interaction interfaces. This proposal is aimed at developing an easily screenable library, consisting of DNA-encoded peptidomimetics, whose members have the necessary properties to inhibit these "yet-to-be-drugged" proteins.  Of highest commercial importance, these compounds could address many of the currently "undruggable" molecular drivers of diseases such as cancer and autoimmune disorders.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this SBIR Phase I project is to create a DNA-encoded library of constrained peptidomimetic compounds. Current DNA-encoded libraries are primarily limited to small molecules (DNA-encoded chemical libraries; DECLs) or to natural amino acids in the context of translated-protein display (e.g., phage display or mRNA display). In contrast, member molecules of this library will have a much larger binding surface than current small molecules from DECLs, and will be both protease resistant and have a wide range of chemical side chains, unlike the natural peptides from phage display. The goal of this project is to demonstrate the ability to synthesize compounds with conformational rigidity along with parallel DNA encoding.  A library of these compounds could be screened to discover new therapeutic candidates (human and veterinary), life sciences research tools, and heat-resistant diagnostic reagents.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843405</AwardID>
+<Investigator>
+<FirstName>Kurt</FirstName>
+<LastName>Gish</LastName>
+<EmailAddress>kurt@trilotx.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>TRILO THERAPEUTICS, INC.</Name>
+<CityName>BELMONT</CityName>
+<ZipCode>940021447</ZipCode>
+<PhoneNumber>6179211850</PhoneNumber>
+<StreetAddress>2723 MONSERAT AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Matching Problems in Refugee Resettlement</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>320427.00</AwardTotalIntnAmount>
+<AwardAmount>336427</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will promote the progress of science and contribute to the national prosperity and welfare by advancing analytical decision tools tackling the operational challenges of refugee resettlement in the United States. The goal of resettlement is to progressively integrate refugees into host societies, while balancing limitations of communities with the needs of refugees. This research will augment current manual refugee resettlement decision-making by using analytical methods that include machine learning and mathematical optimization. These technologies will improve humanitarian decision-making and have the potential to transform how domestic and worldwide resettlement decisions are made. Host communities will benefit by integrating refugees that bring new skills, youth and diversity to the matched communities. An established collaboration with a US-based refugee organization will guide the research and enable validation of the developed models in a real-world setting.&lt;br/&gt;&lt;br/&gt;This project will make two main methodological contributions. First, it will explore the algebraic and geometric properties of integral monoids to better understand and capitalize on their structure. It is believed that integral monoids can excel in contexts with flexible capacity and multiple objectives. This research will develop appropriate algorithms and data structures to efficiently and judiciously encode and retrieve monoid information, and will include algorithmic analyses to ensure the computational tractability. If successful, this research will contribute to new advances in optimization methodology, specifically the algorithmic use of integral monoids to solve other hard linear and nonlinear matching, knapsack, generalized assignment, and packing problems. Second, this research will construct novel objective functions by leveraging supervised machine learning techniques on existing refugee placement and integration (outcome) data. These new objective functions will guide the search toward more successful resettlement outcomes. The predictive modeling will also reveal previously undiscovered insights into how demographic and regional factors contribute to refugee integration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/08/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1825348</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Trapp</LastName>
+<EmailAddress>atrapp@wpi.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Worcester Polytechnic Institute</Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress>100 INSTITUTE RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>078E</Code>
+<Text>ENTERPRISE DESIGN &amp; LOGISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

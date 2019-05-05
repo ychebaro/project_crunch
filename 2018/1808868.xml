@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Reinforcement Learning Theory in the Digital Age</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>138000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Josie S. Welkom</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award was provided as part of NSF's Social, Behavioral and Economic Sciences Postdoctoral Research Fellowships (SPRF) program and supported by SBE's Science of Learning Program. The goal of the SPRF program is to prepare promising, early career doctoral-level scientists for scientific careers in academia, industry or private sector, and government. SPRF awards involve two years of training under the sponsorship of established scientists and encourage Postdoctoral Fellows to perform independent research. NSF seeks to promote the participation of scientists from all segments of the scientific community, including those from underrepresented groups, in its research programs and activities; the postdoctoral period is considered to be an important level of professional development in attaining this goal. Each Postdoctoral Fellow must address important scientific questions that advance their respective disciplinary fields. Under the sponsorship of Dr. Molly J. Crockett at Yale University, this postdoctoral fellowship award supports an early career scientist investigating how social media environments may amplify our expression and experience of moral outrage. More specifically, this project asks whether the positive social feedback received on social media can make outrage expression more rewarding and in turn, lead to the expression of outrage. This project will contribute to an understanding of the documented growth in polarization and decline of civil discourse by identifying specific characteristics of the social media environment and psychological processes that may contribute. Results can inform the development of interventions targeting the feedback delivery system of social media and people's tendency to infer social approval.&lt;br/&gt;&lt;br/&gt;This proposal aims to develop and test a foundational theory of moral outrage in the digital age, specifically proposing that social media environments amplify moral outrage because the positive social feedback received on social media is conducive to habit-forming outrage expression and internalization of perceived outrage expression norms. To test this theory, this project will use a multi-method approach that combines the ecological validity of studying naturally-formed social networks in social media with the precise control of experimental manipulations and reinforcement learning paradigms. This project seeks to expand psychological theory in several important ways. First, it expands upon functional theories of moral emotions in the affective sciences by articulating how the pervasive social media environment shapes the way emotions are experienced, expressed, and how their function may change. Second, this research expands theories of prosocial behavior and cooperation by highlighting how the function of moral outrage expression in the digital age may be better understood as ingroup signaling rather than norm enforcement. Third, this research expands theories of intergroup conflict by suggesting a new set of processes that may be antecedents of negative emotions felt toward certain groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808868</AwardID>
+<Investigator>
+<FirstName>Molly</FirstName>
+<LastName>Crockett</LastName>
+<EmailAddress/>
+<StartDate>05/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Brady</LastName>
+<EmailAddress/>
+<StartDate>05/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brady                   William</Name>
+<CityName>Brooklyn</CityName>
+<ZipCode>112381303</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>004Y</Code>
+<Text>Science of Learning</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>040Y</Code>
+<Text>(SPRF-FR) SBE Postdoctoral Res</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+</Award>
+</rootTag>

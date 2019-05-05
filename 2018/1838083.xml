@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BIGDATA: IA: Enabling Large-Scale, Privacy-Preserving Genomic Computing with a Hardware-Assisted Secure Big-Data Analytics Framework</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia J. Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Advances in DNA sequencing technologies are expected to make available a massive amount of human genomic data in the years to come, which need computation of a tremendous scale to process. This demand cannot be met by today's commercial clouds,  since they do not provide strong privacy guarantees,  or by using existing cryptography techniques, since they still cannot achieve the performance required for big-data analytics. The emergence of the new-generation hardware support for trusted execution environments presents a new opportunity for scalable data protection, through the processors designed to withstand the attacks even from a fully compromised operating system.  To seize this opportunity, this project aims at developing a distributed, parallel computing framework critical for executing data-intensive tasks on trusted execution environment-capable systems.  This research will be performed in collaboration with Intel, which will transfer the new methods developed for large-scale data protection to industry and genomic researchers.  Students from historically black colleges and universities will participate in the work.&lt;br/&gt;&lt;br/&gt;The project focuses on developing a big-data analytics framework built on Intel Software Guard Extensions (SGX) and applying it to support privacy-preserving, large-scale genomic data analyses and other computing tasks. Based upon the understanding of unique performance impacts of SGX systems, including those incurred by enclave creation, management, trust establishment, cross-enclave communication and others, a new MPI-based cluster computing framework is built to automatically optimize the deployment of computing nodes across enclaves and CPU packages under resource constraints. This new framework supports a set of fundamental genomic computing tasks, ranging from reads-mapping to peptide identification, as well as machine-learning based models.  Also, its potential risks, side-channel leaks in particular, are analyzed and effectively controlled to provide high privacy assurance. The work will enable broad sharing of previously inaccessible data and help drive the new insights of individualized health care.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838083</AwardID>
+<Investigator>
+<FirstName>Judy</FirstName>
+<LastName>Qiu</LastName>
+<EmailAddress>xqiu@indiana.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>XiaoFeng</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>xw7@indiana.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Haixu</FirstName>
+<LastName>Tang</LastName>
+<EmailAddress>hatang@indiana.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

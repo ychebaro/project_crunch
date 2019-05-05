@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Close Evaluation of Layer Potentials</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project addresses several outstanding questions in the numerical solution of boundary value problems using boundary integral equation methods. In addition to advancing knowledge within the field of computational mathematics, this research aims to lead to innovations that will provide an efficient and accurate research computing platform complementing ongoing experimental research in fluid mechanics and electromagnetics. The project includes an interdisciplinary, team-based approach with graduate training and education components that will also serve as recruiting tools to further promote women and underrepresented minority graduate students in science and engineering fields.&lt;br/&gt;&lt;br/&gt;The purpose of this project is to introduce, analyze, and implement new high-order numerical methods for the close evaluation of layer potentials. Layer potentials are used to represent solutions of linear elliptic partial differential equations in boundary integral equation methods. The close-evaluation problem refers to large errors incurred by high-order quadrature rules when evaluating layer potentials at points near the boundary of the domain despite being highly accurate elsewhere in the domain. Addressing the close-evaluation problem is important for many applications, including Stokes flow problems and the field of plasmonics. A current challenge is to develop efficient, easily-implementable methods that address the close-evaluation problem in three dimensions. This project will address the challenge by identifying and analyzing the nearly-singular behavior of these integral operators using asymptotic analysis. The main objectives of this project are to (1) develop new methods to address the close-evaluation problem, (2) analyze the error and investigate efficiency and computational issues, and (3) extend the methods to other linear elliptic partial differential equations. Results from this project are expected to enable development of novel, accurate, and efficient computational methods that address the close-evaluation problem.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819052</AwardID>
+</Award>
+</rootTag>

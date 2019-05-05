@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Small: Fundamentals of Assessing Occupancy Dynamics with Ubiquitous Wireless Signals</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>499999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monisha Ghosh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Robust and accurate occupancy assessment is key to many applications. Optimization of heating/cooling in buildings, smart lighting, retail business planning, smart home applications, smart city planning, and evacuation/emergency planning are just a few examples. The overall goal of this proposal is to introduce a new paradigm for occupancy assessment using ubiquitous wireless signals.  Not only are communication devices ubiquitous these days, but most smart devices whose main goal is not communication (e.g., smart speakers or thermostats) are now equipped with communication capabilities using cheap communication transceivers such as Wi-Fi or Bluetooth. This opens the possibility of using RF (Radio Frequency) signals for sensing and learning about the environment. This project proposes to use wireless links in a non-traditional manner: as a sensing mechanism for assessing the spatio-temporal occupancy dynamics in a large region. Spatio-temporal occupancy assessment refers to measuring several attributes of how people move and utilize their spaces, such as the total number of occupants in an area as a function of time, the average speed and dwell time of people, and the flow rate of people in between several areas, among other factors. More specifically, the project will develop the theoretical foundation and design tools for occupancy assessment with ubiquitous RF signals, with an emphasis on understanding the fundamental capabilities and limitations.  The proposed framework does not rely on people to carry any device, has through-wall sensing capabilities, and preserves the privacy.&lt;br/&gt;&lt;br/&gt;Accurate and robust occupancy assessment with everyday communication signals is considerably challenging.  The proposed effort has three major tasks to address the underlying challenges. The first major goal brings a foundational understanding to how a single link can be turned into an occupancy assessment sensor whose capabilities and limitations are well characterized. More specifically, it proposes a mathematical probabilistic modeling that reveals the relationship between the key attributes of occupancy dynamics and the key attributes of the wireless measurements.  The second major task then builds on the first one to develop the foundation of optimum joint processing of a number of links as an occupancy assessment sensor network.  The third major task develops the mathematical tools for designing an efficient occupancy assessment system over a large region that consists of several areas, with only a small number of wireless links.  Finally, the proposed theoretical foundation and design tools are extensively tested with several experiments in different areas, including local department stores.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816931</AwardID>
+<Investigator>
+<FirstName>Yasamin</FirstName>
+<LastName>Mostofi</LastName>
+<EmailAddress>ymostofi@ece.ucsb.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Unraveling Plasma-Assisted Catalysis: Toward Understanding Fundamental Molecule-Surface Interactions and Energy Partitioning Synergisms</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>350000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Triantafillos Mountziaris</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The proposed project seeks to explore the fundamental chemistry occurring in low temperature plasmas (LTPs) used for plasma-assisted catalytic (PAC) processes designed to remove atmospheric pollutants. Plasmas contain a broad spectrum of reactive species that can work synergistically with a catalyst to enhance the overall elimination of contaminants such as nitrogen oxides (NOx) and volatile organic compounds (VOCs). The mechanisms for these cooperative actions, however, are not well understood. The proposed work will combine electronic structure calculations with multiple spectroscopic analysis tools to unravel the complexity of reactions occurring in this system. &lt;br/&gt;&lt;br/&gt;The proposed research will combine experimental and theoretical approaches to decipher energy partitioning and inter-twined reactions to elicit predictive outcomes. These studies are designed to illuminate key factors that address critical foundational science challenges associated with LTP processes, including determining how energy is partitioned in LTPs and how reactive species are formed in these systems. On a molecular level, the project seeks to determine how substrate architecture (including micro- and nanostructure) affects plasma-surface interactions as well as the mechanisms for plasma-substrate interactions. The proposed experiments will provide robust experimental data to improve computer models of relevant LTPs that currently rely on either incomplete data or extrapolated information for plasma properties. A key element is a comprehensive approach that connects gas-phase chemistry with molecule-surface interactions to elucidate the underlying chemistry in PAC systems with enhanced performance. Spatially- and temporally-resolved absorption and emission spectroscopies along with mass spectrometry will be used to probe dynamics, energy partitioning and synergisms among chemical processes in LTPs.  Substrates and plasma processing systems selected for the proposed study are designed to improve performance of plasma-catalytic removal of atmospheric pollutants. The PI has a strong track record of mentoring groups traditionally underrepresented in STEM and is currently leading efforts to establish a cross-college, multidisciplinary School of Advanced Materials Discovery (SAMD) at Colorado State University. SAMD will house interdisciplinary degree programs and serve as an umbrella organization for materials-related education and outreach. Based on the proposed work, the PI and her trainees will further develop materials-focused kits for use in K-12 classrooms and demonstrations that emphasize materials chemistry and plasma processing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803067</AwardID>
+<Investigator>
+<FirstName>Ellen</FirstName>
+<LastName>Fisher</LastName>
+<EmailAddress>ellen.fisher@colostate.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1242</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004Z</Code>
+<Text>Innovations at the Nexus of Food-Energy-</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1062</Code>
+<Text>BASIC PLASMA SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

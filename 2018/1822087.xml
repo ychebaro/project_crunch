@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase II IUCRC The Catholic University of America: Broadband Wireless Access and Applications Center (BWAC)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Perkins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is Phase II of the Broadband Wireless Access Center (BWAC), a multi-university multi-industry organization composed of five universities (the University of Arizona, Virginia Tech, University of Notre Dame, University of Mississippi, and the Catholic University of America) and 20+ affiliates from industry and government. In the past decade, wireless communications has made major technological leaps. Wireless connectivity is pervasive in society, leading to a shortage in wireless spectrum, network congestion, cyber-attacks and personal security issues. The mission of BWAC is to address these challenges and offer creative solutions. &lt;br/&gt;&lt;br/&gt;In Phase II, BWAC will expand its research footprint to address timely and industry-relevant challenges in wireless networks. The CUA Site brings critical expertise and complementary research capabilities to BWAC for fulfilling the Center's mission. The Site will collaborate with the industry and academic partners to pursue advanced research on cooperative mobile edge computing systems, massive multiple-input and multiple-output (MIMO), millimeter-wave communications and networking protocols, Internet of Things platforms and mobile applications. Such cooperative research efforts will potentially make significant contributions to the advance in wireless technologies, wireless standards, software and hardware components, and network management.  &lt;br/&gt;&lt;br/&gt;The results of this collaborative industry-university center will have a direct effect on public well-being, enabling applications such as remote health, smart transportation, internet of things, and high speed broadband access in rural areas, to name a few. The partnering universities are committed to broadening participation in BWAC's activities. This is achieved through REU site programs, participation of under-represented minority students and faculty in research projects, and involvement of multidisciplinary projects. With its research, established partnerships, and long history of collaboration between its members, BWAC will likely create intellectual property and spin-off companies, leading to job growth.   &lt;br/&gt;&lt;br/&gt;The lead site, University of Arizona manages the central BWAC project website at www.bwac.arizona.edu. This website contains various information about the center including the overview of the center, mission, industry membership, projects, meeting announcements and technical data. Center proprietary documents are managed through secure internal pages requiring access credentials. The data repository will be managed at the main website with links to the other university sites. The repository will contain technical papers, project descriptions, relevant software, testbed details, etc. The repository will be maintained during the project and for an additional five years beyond its termination.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822087</AwardID>
+<Investigator>
+<FirstName>Nader</FirstName>
+<LastName>Namazi</LastName>
+<EmailAddress>namazi@cua.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lin-Ching</FirstName>
+<LastName>Chang</LastName>
+<EmailAddress>changl@cua.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hang</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>liuh@cua.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>George</FirstName>
+<LastName>Nehmetallah</LastName>
+<EmailAddress>nehmetallah@cua.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Catholic University of America</Name>
+<CityName>Washington</CityName>
+<ZipCode>200640001</ZipCode>
+<PhoneNumber>2026355000</PhoneNumber>
+<StreetAddress>620 Michigan Ave.N.E.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

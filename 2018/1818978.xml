@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Cloud-Based Voice Analysis and Machine Learning to Improve Teaching with Data</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project will study how teachers use data to improve their instruction. In response to widespread understanding that feedback is a necessary component to improvement, school districts are increasingly investing in teacher coaches to provide feedback critical for teachers. However, this is not scalable, and typically only new or underperforming teachers have access to coaching. Earshot seeks to scale and democratize some aspects of coaching so every teacher can have access to the personalized data and feedback necessary for improvement. The goal is for all teachers to maximize their potential, better engaging students in learning.&lt;br/&gt;&lt;br/&gt;Earshot has developed a cloud-based system using voice analysis to provide data about instruction. The core innovation is a machine learning process to listen to dialogue between teachers and students and analyze the quality of the educational exchange. Funding for this project would enable study of two critical questions: How does providing data about teacher behavior affect what teachers do in their classrooms? And, what kinds of resources, content, and support are necessary to help teachers improve? This research has the potential to transform the way teachers use data about their own performance and receive the necessary help to improve.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818978</AwardID>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Spinelli</LastName>
+<EmailAddress>amy@theearshotapp.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Earshot LLC</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981056605</ZipCode>
+<PhoneNumber>9178226074</PhoneNumber>
+<StreetAddress>1100 NE Campus Pkwy</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

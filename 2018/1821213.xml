@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  An E-Learning Program for High School Equivalency (GED) and Remedial Education for Prisoners</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>224999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project addresses the pressing need for providing incarcerated youth and adults with continual systematic and secure personal education and training opportunities, giving inmates the skills they need to productively re-enter society. It will also reduce recidivism rates, and increase their confidence and the potential for contributing to local communities. Every year, more than 700,000 state and federal prisoners are released back into their communities, often with no greater skills than when they went in. The majority of prisoners lack basic high school degrees. The goal of the project is to provide the most effective, secure and flexible offline e-Learning applications for acquiring high school equivalency, the area of greatest need, within the constraints of the prison environment; covering both instructor-led and self-directed learning sessions. At the completion of Phase I, correctional facilities will have an opportunity to utilize a secure, easy-to-administer, offline e-Learning solution for the General Education Development (GED) or for any other education and training in a digital format. A wealth of high-quality instructional programs will be incorporated into the platform that will ultimately lead to a high school equivalency diploma, and additional support to address technical and vocational skills.&lt;br/&gt;&lt;br/&gt;The Phase I project innovation is centered around the delivery of a single, highly-flexible, secure learning management platform, where multiple applications can be stored on a single server. It will provide the General Education Development (GED) content and will be expandable to incorporate additional e-Learning applications including those that can address recidivism. The adaptable learning management platform will automate the provisioning and installation of these GED and non-GED educational applications on private servers, either on-site at the correctional facility or on off-site private server networks. Different sets of content would be automatically customized for each prison, with no outside Internet connectivity required. Another key innovation will be the ability to have the e-Learning system follow the inmate as they are moved. They will always have access to their specific content and progress status as their data will be centrally-hosted on the fully secured prison servers. Their individual records can be confirmed and reviewed for parole evaluations. By providing uniform student analytics and continuous monitoring of learning outcomes with different content and educational application vendors, the system will advance the capability of offline learning to be a data-driven endeavor and will deliver a personalized experience comparable to systems in civilian life.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821213</AwardID>
+<Investigator>
+<FirstName>Noah</FirstName>
+<LastName>Freedman</LastName>
+<EmailAddress>noah@nucleos.com</EmailAddress>
+<StartDate>06/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Nucleos Incorporated</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>950622048</ZipCode>
+<PhoneNumber>4082096898</PhoneNumber>
+<StreetAddress>3912 Portola Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

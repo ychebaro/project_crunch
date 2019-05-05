@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Optimizing an autonomous point of care medical robot to improve central vascular access</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>224993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project enables key proof points behind the novel concept of a hand-held medical robot, i.e. use of a medical robot to autonomously perform a task during which neither the robot not the patient is fixed in space. The potential outcome of this project is a comprehensive line of robotic ultrasound transducers that enable a variety of interventional point-of-care robotic applications by enhancing the skills of a multitude of clinicians.  As a result, many technically challenging critical procedures will no longer be restricted to solely highly trained experts. Applications include central vascular access (pediatric and adult), biopsy, regional anesthesiology, precision extraction (e.g. thoracentesis), and precision injections (e.g. orthopedic biologics), creating an addressable market exceeding $2 billion. Benefits of man-machine teaming using hand-held medical robots include faster, simpler procedures that can be performed by a much broader group of clinicians, reduced medical complications and patient discomfort, and improved hospital infrastructure utilization, ultimately benefitting both clinical outcomes and total costs of care. Significant insights and implications for other man-machine teaming applications may also result from this project, with potential for robotic applications well outside of the medical realm. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this project centers on demonstrating the feasibility of first-of-kind hand-held robotic capabilities for autonomous needle placement. This project builds on two existing layers of innovation. First is the ability to use real-time ultrasound data to send a needle precisely to a point in the body. This differs significantly from other imaging modalities that require multiple images from different orientations integrated "off line." Next, this is an autonomous and powered system. Once a user selects a target, the needle path is calculated and the needle is advanced automatically. This project builds the third level of innovation through its research objectives - creating the real-time ability to i) recognize and track the target as an object, and ii) make automatic robotic corrections to maintain that target during user or patient movement or changes in target characteristics. The research involves novel image recognition and tracking technology and very precise novel sensing and control loop technology that interact in real time to maintain targeting accuracy in a dynamic environment. The anticipated technical result is to enable a non-expert clinician to reliably enter a clinically challenging "small" central blood vessel in a pediatric patient model with an introducer needle.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/01/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842423</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Dunki-Jacobs</LastName>
+<EmailAddress>rdunki_jacobs@xactmedical.com</EmailAddress>
+<StartDate>02/01/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>XACT MEDICAL, LLC</Name>
+<CityName>CINCINNATI</CityName>
+<ZipCode>452027118</ZipCode>
+<PhoneNumber>3178500442</PhoneNumber>
+<StreetAddress>1311 VINE ST STE 300</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

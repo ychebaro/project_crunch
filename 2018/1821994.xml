@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>An Open Science Platform for the Neurobiology of Language Community</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>114647</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The advent of non-invasive brain imaging at high spatial and temporal resolution in awake, behaving human beings has had a profound impact on the study of language in the  brain. It is now the ten-year anniversary of the first international conference on the Neurobiology of Language, a field that has grown substantially since then and continues to blossom. Studying the neurobiology of language requires highly specialized skills (e.g., brain imaging) and broad multidisciplinary knowledge (e.g., psychology, linguistics, neuroscience). In order to promote scientific inquiry of the highest quality, it is vital to promote dialogue and interaction among the relevant disciplines.  This project explores how to facilitate this interaction.&lt;br/&gt; &lt;br/&gt;The "neurobiology of language" is the biological implementation for representations and processes involved in the  production and understanding of speech,  sign, and language in context. Previously, brain structures and functions for language could only be  inferred from studying humans with brain injury. By monitoring the anatomical encodings and physiological dynamics of language processing  in awake, behaving human beings, researchers can now study human language at a biological precision previously possible only in  animal models (of functions other than language). Concomitant with these new approaches has been a  dramatic increase in the number of investigators dedicating their effort to understanding the biological  basis of language. The growth in the number of investigators and the use of expanded techniques and theoretical perspectives have driven the need for enhanced transparency, integrity, and robust and rapid research dissemination.  The PIs will explore these topics while developing systems and operations for open science, facilitating reproducibility and replicability of research, and dissemination of new findings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821994</AwardID>
+<Investigator>
+<FirstName>Alec</FirstName>
+<LastName>Marantz</LastName>
+<EmailAddress>marantz@nyu.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Emmorey</LastName>
+<EmailAddress>kemmorey@mail.sdsu.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Liina</FirstName>
+<LastName>Pylkkanen</LastName>
+<EmailAddress>liina.pylkkanen@nyu.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Small</LastName>
+<EmailAddress>small@uci.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Peelle</LastName>
+<EmailAddress>jpeelle@wustl.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>040Z</Code>
+<Text>Robust and Reliable Science</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Stochastic Constitutive Models for Nano-Scale Heat Transport</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>At the nano-mechanical scale, heat conduction processes exhibit a wide variety of phenomena that are different from macroscopic observations.  Conventional models, such as the Fourier's law,  are inadequate. In addition, there are overwhelming observations that suggest that heat conduction properties depend critically on the system size and geometry, creating a unique challenge for the portability of the mathematical models. This project aims to bridge the modeling gap by developing a first-principle based approach that leads to a hierarchy of generalized models. The new models have the potential capabilities to describe various important behavior of heat conduction processes, including the wave propagation characteristic, fluctuation, delay, and more. &lt;br/&gt;&lt;br/&gt;The proposed approach will derive new constitutive models from first-principle, and mathematically, the models are obtained from a microscopic many-particle description with three levels of reductions: A spatial reduction that eliminates atomic-level details and singles out the dynamics of the average energy, a temporal reduction that removes the nonlocality in time, and a statistical reduction that efficiently samples scale-dependent, statistical noises. Such a first-principle based approach derives its benefit from its combination of mathematical transparency, robustness, and amenability to error estimates. Unlike conventional theories, the current approach yields a stochastic constitutive model. Combined with energy balance, the constitutive models lead to stochastic partial differential equations, for which there is a wealth of interesting mathematical and computational issues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819011</AwardID>
+</Award>
+</rootTag>

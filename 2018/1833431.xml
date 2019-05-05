@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CONFERENCE:  2018 Intrinsically Disordered Proteins Gordon Research Seminar</AwardTitle>
+<AwardEffectiveDate>04/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>6050</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wilson Francisco</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 2018 Gordon Research Seminar (GRS) on Intrinsically Disordered Proteins (IDPs) in Les Diablerets, Switzerland on June 30 to July 1, 2018.  The third of a series of biannual conferences, the 2018 IDP GRS, which is primarily attended by graduate students and postdocs, will bring together trainees from a wide range of disciplines to explore the outstanding biological, biophysical, and technological challenges associated with the study of IDPs in the context of cellular organization.  The GRS provides an ideal setting to facilitate international and interdisciplinary collaboration. It will also provide key networking opportunities, as well as allowing a range of different perspectives to be discussed and compared - a key aspect for such a broad and diverse field.&lt;br/&gt;&lt;br/&gt;The 2018 IDP GRS is focused on understanding how and why intrinsically disordered proteins and protein regions (IDPs) can mediate cellular function.  The program will feature ten oral presentations accompanied by informal and formal discussions, as well as two poster sessions in which all participants are expected to participate. The meeting will feature a small number of attendees (up to 60 participants). The presentations will be divided into four sessions. The first session (IDPs and Macromolecular Assemblies) will be devoted to understanding emergent function of IDPs, including their ability to drive the formation of membrane-less organelles. The second session (Diversity of IDP Cellular Function and Regulation) will focus on how IDPs can mediate intermolecular interaction. The third (Sequence Determinants of IDP Function) will consider the fundamental relationship between amino acid sequence and an IDP's behavior in vitro and in vivo. The final session will be a mentorship and career panel featuring faculty from a range of institution types.  In addition to this formal career panel, we have several additional faculty mentors and individuals from industry, who will be in attendance to further enhance the career planning aspects of the meeting.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833431</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Holehouse</LastName>
+<EmailAddress>alex.holehouse@wustl.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shana</FirstName>
+<LastName>Elbaum</LastName>
+<EmailAddress>Shana.Elbaum@asrc.cuny.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>West Kingston</CityName>
+<ZipCode>028921502</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>512 Liberty Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

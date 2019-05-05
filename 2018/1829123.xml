@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Microfluidic platform for cell characterization and modification</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will make cutting edge cell therapies more affordable and accessible for a larger patient population. Cell therapies are among the most promising treatments for life-threatening diseases, such as cancer and severe immunodeficiency. While these cell therapies have been recently FDA approved, they remain extremely expensive, with single treatment costing hundreds of thousands of dollars. Manufacturing cell therapies requires expensive reagents and facilities and highly skilled labor, which drives up healthcare costs and makes cell therapies unattainable for many patients in greatest need. This I-Corps project aims to revolutionize the field of cell therapy manufacturing with an innovatively low-cost cell processing technology. This approach can efficiently modify normal cells into potent cell therapies and isolate desired cell populations for quality control. It benefits from low cost operation and eliminates the need in expensive skilled personal. This technology has a great potential to usher in a new era of affordable cell therapies and cost-effective healthcare.&lt;br/&gt;&lt;br/&gt;This I-Corps project utilizes a microfluidic platform that can sort and engineer cells with little to no impact on cell viability and function. Instead of relying on expensive and dangerous methods such as viruses or electric shock, the approach relies on natural cell response to rapid compressions to cause the processed cells to uptake molecules that can turn cells into life-saving cell therapies. This uptake can also be used to deliver labels to the cell interior to indicate desirable or undesirable cell traits for an easy and rapid readout for quality control. The entire technology is housed on a microfluidic chip that can process over 100,000 cells per second. The technology for cell sorting makes use of inherent cell mechanical properties and does not require any additional chemical or biological cell modification. This microfluidic platform can perform tasks that are normally extremely complicated, such as cell engineering, cell labeling, and cell sorting, providing efficient and cost-effective solutions for both making cell therapies and processing them into safe, high-quality treatments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829123</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Alexeev</LastName>
+<EmailAddress>alexander.alexeev@me.gatech.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

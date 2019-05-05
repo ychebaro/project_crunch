@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Support for ACM BCB 2018: Conference on Bioinformatics, Computational Biology, and Health Informatics</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project provides travel support for students (graduate, undergraduate, and high school) to attend ACM SIGBio (Associate Computing Machinery Special Interest Group in Bioinformatics, Computational Biology, and Health Informatics) annual International Conference on Bioinformatics, Computational Biology, and Health Informatics (ACMBCB) in Washington DC during Aug. 29-Sept. 01, 2018 (http://acm-bcb.org/). ACMBCB2018 aims to provide an interactive forum that bridges computer science, mathematics, statistics, with biology and health, and to support advanced research, training, and outreach. It brings together top researchers, educators, practitioners, and students around the world to share innovative biological and medical discoveries, new informatics algorithms, new computational tools that will advance biological and health science, and improve national health. It consists of systematically organized activities such as plenary keynotes, workshops, tutorials, research oral sessions, poster sessions, and panels for researchers and practitioners from different disciplines to interact, to discuss, and to collaborate. It will encourage diverse groups of students, especially the underrepresented minority (women, minority, and disabled) to actively participate in conference activities, to grow ACM SIGBio community, and to advance the fast-growing interdisciplinary education and research. &lt;br/&gt;&lt;br/&gt;As part of this award activity, ACMBCB2018 will organize a Student Forum and "Women in Bioinformatics" panel with senior academic and industrial experts serving as the mentors. These mentors will provide feedback to attending students' research, and will share their personal experience and wisdom in career development. These students will write a short summary to report their ACMBCB2018 experience.  Overall, the project will assist students in gaining knowledge, to improve their visibility and to advance novel advancements in bioinformatics, computational biology, and health informatics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844455</AwardID>
+<Investigator>
+<FirstName>Dongmei</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>maywang@bme.gatech.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

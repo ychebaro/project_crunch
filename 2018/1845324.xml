@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Audio RESCUE: Realistic Audio for RESponders in Complex Undetermined Environments</AwardTitle>
+<AwardEffectiveDate>08/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>549999.00</AwardTotalIntnAmount>
+<AwardAmount>118313</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>First responders save lives in hazardous conditions such as hurricanes, tsunamis, earthquakes, fires, and terror events, and their role is more important than ever. For firefighters, the greatest challenges in search and rescue tasks are low visibility, disorientation, and tracking other team members. Despite methods to overcome these challenges, firefighters are still plagued by getting lost in buildings, miscommunication of locations and spaces, and not being able to identify paths. This project investigates using spatial (or 3D) sound to represent targets of interest (for example, a lost child) in order to allow first responders to use sound to navigate to specific points that they are unable to see. Using 3D sound in this context is a promising solution because responders' hands are often occupied, and a visual display can increase cognitive load. In addition, the present work will develop supplemental augmented-reality modules for firefighter emergency medical service (EMS) training. This training will allow firefighters to practice EMS skills in a realistic environment outside of the classroom. The PI and team will engage a diverse pool of underrepresented minority students through recruitment from the Distributed Research Experiences for Undergraduates (DREU) program and the Institute for African American Mentoring in Computing Sciences (iAAMCS). University of Florida (UF) undergraduate students will also be recruited through the Emerging Scholars Program to participate in the proposed work. Furthermore, firefighters will receive more interactive educational training as a direct result of their collaboration in this research program.&lt;br/&gt;&lt;br/&gt;This research will pursue a novel research program to create a fundamental understanding of how to move 3D audio research out of the laboratory into the real world. Working closely with Gainesville Fire Rescue (GFR) as the testbed application domain, the project team will evaluate using 3D audio to support a search and rescue mission. The PI and team will evaluate firefighters' performance and use the results to inform data-driven and empirically validated 3D sound design guidelines that address the following challenges: Realistic 3D sound rendering - this is challenging due to the individualistic nature of 3D sound filters, sound delivery hardware, and perceptual qualities of sounds; Change detection - in real-world contexts, a user must be able to quickly detect 3D sound changes, however, limited literature exists in this area; Effects of competing sounds - real-world scenarios are filled with background noise that may hinder the listener from accurately distinguishing a 3D sound of interest.  Project outcomes will help first responders unobtrusively perceive the 360 degree world around them and maintain awareness of their surroundings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/14/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845324</AwardID>
+<Investigator>
+<FirstName>Kyla</FirstName>
+<LastName>McMullen</LastName>
+<EmailAddress>kyla@cise.ufl.edu</EmailAddress>
+<StartDate>03/14/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

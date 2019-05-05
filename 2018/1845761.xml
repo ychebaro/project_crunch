@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  Multicolor imaging of single mRNA translational heterogeneity in living cells</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardAmount>131568</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to understand how translation of mRNA to protein is orchestrated at the single molecule level in living cells. Through the creation of open-source tools for fluorescence microscopy, long-standing models of gene regulation will be tested by direct visualization, to better understand and ultimately control protein synthesis in both natural and engineered living systems. This project will provide students and junior scientists with an interdisciplinary and international research experience that will train them in advanced single-molecule microscopy, biosensor engineering, and biophysical modeling of gene regulation. This project will also incorporate inexpensive, open-source video microscopes into a multi-pronged STEM outreach and education effort designed to engage a diverse population of K-12 students and teachers with exciting citizen science.  &lt;br/&gt;&lt;br/&gt;Although protein synthesis is essential to life, the real-time dynamics of mRNA translation to protein have been difficult to capture in vivo. This problem has left many open questions about how protein synthesis is regulated in living systems, particularly at the level of mRNA translation initiation and elongation. This project will answer such questions by combining single-molecule microscopy with the creation of multicolor biosensors that literally light up the heterogeneity of protein synthesis in living cells, one protein at a time. With this powerful combination of technologies, conflicting models of codon usage and open reading frame selection at the level of single mRNA translation will be directly visualized and tested for the first time. This work will lay the foundation for real-time analysis of protein synthesis in vivo, with broad application to both basic research and the biotechnology industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845761</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Stasevich</LastName>
+<EmailAddress>Tim.Stasevich@colostate.edu</EmailAddress>
+<StartDate>11/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

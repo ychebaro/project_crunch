@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II: Establishing a Synthetic Niche to Reliably Colonize the Human Gut with Engineered Bacterial Therapeutics</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be to advance the use of engineered cell-based therapeutics in the human gut through the development of technologies for the reliable and reversible colonization of the gut with therapeutic bacterial strains. Engineered cellular therapeutics are poised to become the next major driver of pharmaceutical innovation due to their potential for sophisticated behavior and modular design. The gut is an ideal entry point for deploying engineered therapeutic cells, as it serves as our body's natural interface with foreign genetic material. A key impediment to bacterial drug development for the gut is the lack of strategies for achieving predictable colonization across the wide range of gut environments that patients can harbor. Furthermore, tools for on-demand clearance of therapeutic strains to ensure safety do not currently exist. The proposed innovation will overcome these challenges and allow the potential of engineered bacterial cells as therapies to be fully realized.&lt;br/&gt;&lt;br/&gt;This SBIR Phase II project will develop the technologies necessary to achieve predictable colonization of, and targeted clearance from, the human gut by engineered bacterial strains. Predictable colonization will be achieved through the use of a therapeutic strain that has been modified to consume a privileged prebiotic substrate that can be dosed alongside the strain to precisely control its abundance by giving it a competitive advantage. To ensure containment and enable targeted clearance, the therapeutic strain will be further modified such that it only can grow in environments where the prebiotic is present. This will allow for the generation of a robust synthetic niche within the gut that can be manipulated solely through the administration of this prebiotic control molecule. In addition, to enable the commercial deployment of these novel technologies, manufacturing protocols will be developed to ensure that a fully integrated therapeutic strain can be produced in sufficient quantities and stably formulated.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831185</AwardID>
+<Investigator>
+<FirstName>Weston</FirstName>
+<LastName>Whitaker</LastName>
+<EmailAddress>administration@novomebio.com</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Novome Biotechnologies, Inc.</Name>
+<CityName>Daly City</CityName>
+<ZipCode>940153046</ZipCode>
+<PhoneNumber>6504166863</PhoneNumber>
+<StreetAddress>15 Westmont Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

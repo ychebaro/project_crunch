@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Robotics Launchpad - A Design-Driven Educational Robotics Framework</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>224959</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This STTR Phase I project aims to bring together computational thinking, mechanism design, and design process to create a new framework for design-driven robotics education for K-12 schools and camps. This work would result in a platform for 1) teaching students Science, Technology, Engineering, and Mathematics (STEM) topics and 2) providing them critical hands-on experience designing, prototyping, and programming machines. By enabling students to exercise their creativity via an intuitive design interface and a minimalist novel robot kit, this project advances the students' ability to innovate and invent machines and robots. Driven by a need to keep pace with the evolving techno- and socio-economic requirements and remain competitive, schools and camps are increasingly adopting STEM and Robotics programs and products. This framework would fill that void that currently exists in the educational market. This project is closely aligned with the NSF's mandate to support development of a strong STEM workforce. The proposed design-driven educational robotics framework has the potential to fulfill these needs, improve public scientific literacy and engagement with science and technology, and positively impact the U.S. educational robotics market, which is expected to grow to $2.7 billion by 2021.&lt;br/&gt;&lt;br/&gt;The proposed research seeks to develop a novel design-driven educational robotics framework encompassing 1) a modular, customizable, and compatible with off-the shelf electronics hardware kit consisting of rigid and compliant parts for rapid prototyping of robot structures and mechanisms, 2) a multi-modal mobile app for synthesis and simulation of robot motions, 3) a web-based CAD interface for designing users' custom robot parts that interface seamlessly with the kit, and 4) instructional material and curriculum for middle and high-schools. The hardware would provide a suite of planar parts with unique design capabilities to support creation of 3D geometry of robots and structures. The novel structural elements would give rise to a new method of enforcing geometric and kinematic constraints and provide flexibility in choice of material and manufacturing process. While the new connection methods are much more intuitive and simpler, they also closely mirror the way engineered structures are created in practice. The mobile app based on the latest mechanism synthesis research imbued with a multi-modal graphical user interface will allow creation of robot assemblies and their motions before constructing their corresponding physical models and provide necessary skills and experience in the design process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843476</AwardID>
+<Investigator>
+<FirstName>Anurag</FirstName>
+<LastName>Purwar</LastName>
+<EmailAddress>anurag.purwar@stonybrook.edu</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Poyu</FirstName>
+<LastName>Chuang</LastName>
+<EmailAddress>purwar@gmail.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mechanismic Inc.</Name>
+<CityName>Dix Hills</CityName>
+<ZipCode>117468335</ZipCode>
+<PhoneNumber>6319432268</PhoneNumber>
+<StreetAddress>133 Village Hill Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: Perception of Social Mobility and Attitudes Related to Inequality</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>11507</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Toby Parcel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project examines how individual perceptions of social mobility affect attitudes toward inequality and resource redistribution. Survey data have shown that compared to individuals in other countries, Americans display higher tolerance toward outcome inequality and more aversion to redistributive policies. One influential explanation for this phenomenon is that Americans tend to believe they have been living in a mobile society in which individual success is only modestly determined by family background. However, considerable research shows that such perceptions of social mobility are not aligned with reality. This project will test whether correcting  misperceptions of social mobility can alter attitudes toward inequality and redistribution. By receiving accurate information about social mobility in the United States, individuals who turn out to have overestimated (underestimated) mobility will become less (more) tolerant of economic inequality and demand more (less) redistribution. Findings of this project will contribute to our understanding about social mobility and inequality by highlighting the importance of individual subjective perceptions, and provide input into social policies regarding redistribution.  &lt;br/&gt;&lt;br/&gt;The project will test hypotheses using an online survey experiment. Recruited subjects will first answer a series of survey questions regarding their perceptions of social mobility in the United States relative to some other developed countries. Subjects in the treatment group, but not in the control group, will immediately receive correct answers to these questions. All subjects, regardless of treatment status, will be asked to report their attitudes toward inequality and redistribution. Hypotheses suggest there will be attitudinal shifts when individual misperceptions are corrected. Six hundred subjects will be recruited via Amazon Mechanical Turk. Another 1,000 subjects will be recruited via a Qualtrics Online Sample, which will resurvey participants after one week of the initial contact to evaluate if the treatment effects persist. This research design allows causal inferences because the experiment randomly assigns subjects to conditions, which improves upon prior studies on similar topics using correlational designs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831484</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Hout</LastName>
+<EmailAddress>mikehout@nyu.edu</EmailAddress>
+<StartDate>05/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fangqi</FirstName>
+<LastName>Wen</LastName>
+<EmailAddress>fw531@nyu.edu</EmailAddress>
+<StartDate>05/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

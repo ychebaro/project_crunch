@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Building a Global Community to Crowdsource-Clean the Planet</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase II project focuses on litter - one of the world's most pervasive and toxic problems. To many, it's dirty, disgusting, and someone else's problem to solve. Unfortunately, we all suffer the consequences, as litter impacts our economy, degrades the environment, demoralizes community pride, kills wildlife, and poisons the food system. This project builds on the accomplishments of an SBIR Phase I project that developed a mobile technology empowering anyone to identify, map, and collect the world's litter, while simultaneously connecting to a broader community of associated brands, cities, schools. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The company has integrated image recognition and machine learning algorithms into its software to advance the crowdsourcing of litter data and cleanup activities. This advancement will allow for the identification of litter even if the item is in a deep state of decay and decomposition. This project also aims to continue building the Global Database of Litter, a technology platform that integrates the company's litter taxonomic classification with other data sets including location, time, retail locations, and the watershed. This data provides great potential to improve municipal infrastructure, resource allocation, brand packaging redesign, and individual responsibility that promotes positive behavioral change. Like the National Science Foundation, this project aims to promote the progress of science and advance our national health, prosperity, and welfare.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/05/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/05/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853170</AwardID>
+<Investigator>
+<FirstName>Jeff</FirstName>
+<LastName>Kirschner</LastName>
+<EmailAddress>jeff@litterati.org</EmailAddress>
+<StartDate>04/05/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Litterati, LLC</Name>
+<CityName>Oakland</CityName>
+<ZipCode>946022021</ZipCode>
+<PhoneNumber>4154845880</PhoneNumber>
+<StreetAddress>2545 Leimert Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

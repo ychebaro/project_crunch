@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>WORKSHOP: The Nexus of Climate Data, Insurance, and Adaptive Capacity: November 2018 - Asheville, NC</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>44190.00</AwardTotalIntnAmount>
+<AwardAmount>44190</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert O'Connor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Societies depend on insurance to help recover from natural disasters, and also to help guide the development of resilient infrastructure and markets. However, decision makers in the insurance industry are faced with rising climate risks, which must be properly measured and managed. Changes in the frequency or severity of hurricanes, floods, intense precipitation, droughts, wind storms, and other rare but influential natural events can massively impact total insured losses. Also, climate can lead to changes in human health through shifting exposures to heat or drought, changing air quality, and shifts towards more favorable conditions for disease. This workshop addresses how climate risks can be better measured and managed by the insurance industry. Specifically, this workshop facilitates a national, interdisciplinary scientific research discussion on modeling and managing climate risks among three different but related research communities: the climate modeling and data community, statisticians, and researchers within the insurance and reinsurance industries.&lt;br/&gt;&lt;br/&gt;This workshop aims at active scientific researchers in each community, with the goals of: sharing perspectives, methods, and databases; defining gaps of existing research; and forming actionable research paths which can only be addressed by teams which are new, collaborative and interdisciplinary. Topics discussed include: time scales for decision making and available data products; sources of uncertainty in climate data products; statements of "ideal" climate datasets and model projections from the perspectives of all research communities; extreme events as both a statistical challenge and a primary driver of losses in insurance and reinsurance; sub-grid cell phenomena such as hurricanes; and data-fusion of historical weather data products, climate model output, and insurance loss databases.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824394</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Erhardt</LastName>
+<EmailAddress>erhardrj@wfu.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wake Forest University</Name>
+<CityName>Winston Salem</CityName>
+<ZipCode>271098758</ZipCode>
+<PhoneNumber>3367585888</PhoneNumber>
+<StreetAddress>1834 Wake Forest Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1321</Code>
+<Text>DECISION RISK &amp; MANAGEMENT SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

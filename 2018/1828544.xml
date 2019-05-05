@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a High-Speed 3D Velocimetry System to Study Complex Flows</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>413082</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harsha Chelliah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will advance our understanding of the spread of fires, the design of drones, the treatment of aneurysms, the development of wind turbines and engines, designs for buildings in high winds, the dispersion of pollutants, and management of waterway ecosystems. A common feature of these disparate topics is their strong dependence on complex, three-dimensional fluid flows that change quickly in time. For example, the formation and rupture of aneurysms depends on stresses created by the unsteady swirling blood flow inside arteries. Similarly, the spread of atmospheric pollution is governed by how turbulence interacts with the pollutant particles. The next breakthroughs in these fields require measurements that can capture these 3D flows with high resolution in time and space, made possible with the acquired High-Speed 3D Velocimetry System. This equipment will be a shared resource for faculty and students, and will greatly improve the quality of research in a wide array of disciplines. Moreover, this exciting technology will be used to engage underrepresented students directly in hands-on research opportunities.&lt;br/&gt;&lt;br/&gt;This new instrumentation will provide the capability for data collection that will support a deeper understanding of the time-varying, often multi-phase flows in the situations described above by measuring the unsteady 3D velocity and particle dynamics. The system uses lasers to illuminate tracer particles placed in or already present in a flow, then the 3D velocity is determined from multiple high-speed cameras recording images of the particles from different viewpoints. These data will provide insights on swirling flows, turbulence-particle interactions, pressure fields, and fluid forces, revealing the underlying physics governing each problem. Acquiring data, such as the unsteady pressure, will allow the stresses to be connected to the flow behavior, yielding greatly-improved predictive models for a wide variety of problems, including developing the next generation of drone wings and wind turbine blades, and understanding how fish use schooling to navigate turbulent flow. The system will also substantially advance our knowledge of how sediment particles in rivers affect flow turbulence to better predict erosion and deposition. Further, the instrumentation will be used to capture 3D images of flames in turbulent combustion, measure combustion-gas emissions via an ultraviolet lens and filters, and infer temperature from flame color and intensity, enabling breakthroughs in efficiency and sustainability. In these ways, the new high-speed measurement system will engage researchers from a range of disciplines and have a transformative impact on a number of important fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828544</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Atkinson</LastName>
+<EmailAddress>atkinson@buffalo.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Bennett</LastName>
+<EmailAddress>seanb@buffalo.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hui</FirstName>
+<LastName>Meng</LastName>
+<EmailAddress>huimeng@buffalo.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Ringuette</LastName>
+<EmailAddress>ringum@buffalo.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jihyung</FirstName>
+<LastName>Yoo</LastName>
+<EmailAddress>jihyungy@buffalo.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Buffalo</Name>
+<CityName>Buffalo</CityName>
+<ZipCode>142282567</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress>520 Lee Entrance</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

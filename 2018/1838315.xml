@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: ISN: Modeling Operations of Human Trafficking Networks for Effective Interdiction</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2020</AwardExpirationDate>
+<AwardAmount>305669</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This EArly-concept Grant for Exploratory Research (EAGER) will enhance the national health, prosperity, and welfare by contributing to our understanding of and ability to disrupt the operations of illicit sex trafficking networks. Sex trafficking within the United States is a complex social and criminal enterprise interwoven within the illegal labor market for sex, and entails highly exploitative, often violent, means to extract profit. Because trafficking is hidden, illegal and dangerous it is difficult to gather the data needed to develop effective quantitative operational models of trafficking networks and their response to interventions. To tackle this challenge, the project will build a collaborative team of social scientists, operations researchers, law enforcement personnel, and sex trafficking survivors to analyze law enforcement data for network modeling. This award will support identification of unique aspects of sex trafficking networks that will inform mathematical models that can support effective decisions to disrupt these networks.  The project will produce sex trafficking network data that can be used as a basis for testing such models. Sex trafficking victims disproportionally come from our most vulnerable communities, including those who live in poverty and have had prior experiences of sexual assault, family violence, out of home placement, homelessness, and other traumatic experiences. This project is expected to have a particular impact on the health, prosperity, and welfare of these populations.&lt;br/&gt;&lt;br/&gt;This research will apply qualitative analysis of law enforcement case files and stakeholder interviews to identify the most important features of sex trafficking networks, including their composition, how they adapt to interdictions, and the dependencies between their physical and cyber networks. The research team will identify the underlying structure and key features of sex trafficking networks in these cases, construct node-arc network representations of the data, and identify key changes to current network interdiction models to ensure applicability in disrupting sex trafficking operations. The project will begin to fill the most significant gaps in the interdiction literature that limits its applicability to disrupting human trafficking networks. The resulting network data will be made publicly available and the study team will detail methods for replicating the network generation process to develop additional trafficking network datasets, including labor trafficking networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838315</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Sharkey</LastName>
+<EmailAddress>sharkt@rpi.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kelle</FirstName>
+<LastName>Barrick</LastName>
+<EmailAddress>kbarrick@rti.org</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lauren</FirstName>
+<LastName>Martin</LastName>
+<EmailAddress>Mart2114@umn.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kayse</FirstName>
+<LastName>Maass</LastName>
+<EmailAddress>k.maass@northeastern.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1372</Code>
+<Text>LAW AND SOCIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

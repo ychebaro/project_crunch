@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II: Orchestration of Multiple Robotic Subsystems into a Commercially Viable Robotic Strawberry Harvesting System</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>749720</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan S. Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project includes development of berry post-picking screening and handling that will provide a safe and efficient way to remove contaminated berries from the processing stream of an automated harvester. The project will advance machine vision technology for robotic harvesting and will be a key enabling technology leading to acceptance of automated harvesting as safe and effective. The market sector addressed by this project is strawberry farmers, though the technology will be applicable to other types of fruit and vegetable farming as well. The automated harvesting technology advanced by this project will alleviate chronic and worsening labor shortages faced by strawberry farmers and will ensure that strawberries remain affordable and available to consumers. Filling the need created by farming labor shortages is a $1 billion business opportunity.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will develop new vision processing and inspection methods vital to enabling use of an automated, robotic strawberry harvester. Acceptance of automated harvesting technology by strawberry farmers hinges on the ability of the harvester to remove bad berries from the plant without allowing the undesirable berries from entering the harvester packaging stream and potentially contaminating large quantities of berries. To achieve this, it will be necessary for the harvester to identify and eliminate diseased, rotten, damaged, or infested berries at multiple stages in the stream from automated picking to final packaging. The classification method that identifies the berries to be eliminated will be extremely accurate, with a very high detection rate and a low false alarm rate. The methods developed will be suitable for installation on a farming machine that is subject to a harsh outdoor environment as well as the shock and vibration environment found on a robotic harvesting device. New handling processes will be developed that will allow automated inspection of the entire berry without damaging the fruit or creating a risk of cross contamination from infected berries, significantly advancing the state of the art for automated strawberry processing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831161</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Pitzer</LastName>
+<EmailAddress>bob@harvestcroorobotics.com</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvest CROO, LLC</Name>
+<CityName>Plant City</CityName>
+<ZipCode>335635045</ZipCode>
+<PhoneNumber>8133447855</PhoneNumber>
+<StreetAddress>100 Stearns St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

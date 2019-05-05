@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Calculus and Virtual Reality (CalcVR)</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>294523</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Keene</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project, CalcVR, will explore the use of virtual reality (VR) in the teaching of multi-variable calculus. An important outcome is that the principal investigators will more than triple the number of lessons and demonstrations they have created so far on a cutting-edge educational platform based on the Unity software platform and freely available tools from Google. Additionally, the new materials may be extended to allow others to build VR materials that can be easily deployed. The design of the software will allow for distribution at no cost to the user through the Google Play Store and the Apple App Store. Further, the hardware costs are negligible, because Smartphones are almost universal. &lt;br/&gt;&lt;br/&gt;In multi-variable calculus, one of the greatest obstacles for students is the visualization of surfaces and other figures in three or more dimensions.  To support students' visualization in calculus, CalcVR has two overarching goals. The first is to create and improve demonstrations and lessons of multi-variable calculus concepts in an immersive virtual reality environment that can be easily accessed using mobile technology, via the freely-available CalcVR app. The second is to measure the effectiveness of the educational material in the CalcVR app and corresponding course materials. Formative assessments will include student interviews, feedback from an Advisory Board of experts, and broad student surveys. Additional research will include the analysis of student responses to specific exam questions on conceptual topics of importance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820724</AwardID>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Becnel</LastName>
+<EmailAddress>becneljj@sfasu.edu</EmailAddress>
+<StartDate>07/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Long</LastName>
+<EmailAddress>longne@sfasu.edu</EmailAddress>
+<StartDate>07/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stephen F. Austin State University</Name>
+<CityName>Nacogdoches</CityName>
+<ZipCode>759653940</ZipCode>
+<PhoneNumber>9364682201</PhoneNumber>
+<StreetAddress>Box 6078</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8244</Code>
+<Text>EHR CL Opportunities (NSF 14-302)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

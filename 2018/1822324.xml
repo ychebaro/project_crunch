@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Oceanographic Instrumentation 2018 - UGA/SKIO RV Savannah</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>49485.00</AwardTotalIntnAmount>
+<AwardAmount>49485</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Holik</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A request is made to fund Oceanographic Instrumentation for the Research Vessel Savannah, a 92-foot coastal research vessel, owned and operated by Skidaway Institute of Oceanography as part of the University-National Oceanographic Laboratory System (UNOLS) research fleet. With this proposal, Skidaway provides technical descriptions and rationale for the acquisition of the following Oceanographic Instrumentation:&lt;br/&gt;Vertical Profiling CTD/Fluorometer Upgrades $24,347&lt;br/&gt;Network and DAS Upgrades $6,813&lt;br/&gt;TSG Upgrade $12,812&lt;br/&gt;Deck Incubators $5,513&lt;br/&gt;      $49,485&lt;br/&gt;&lt;br/&gt;Broader Impacts&lt;br/&gt;The principal impact of the present proposal is under Merit Review Criterion 2 of the Proposal Guidelines (NSF 13-589). It provides infrastructure support for scientists to use the vessel and its shared-use instrumentation in support of their NSF-funded oceanographic research projects (which individually undergo separate review by the relevant research program of NSF).  The acquisition, maintenance and operation of shared-use instrumentation allows NSF-funded researchers from any US university or lab access to working, calibrated instruments for their research, reducing the cost of that research, and expanding the base of potential researchers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822324</AwardID>
+<Investigator>
+<FirstName>Clark</FirstName>
+<LastName>Alexander</LastName>
+<EmailAddress>clark.alexander@skio.uga.edu</EmailAddress>
+<StartDate>03/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Harvey</LastName>
+<EmailAddress>elizabeth.harvey@skio.uga.edu</EmailAddress>
+<StartDate>03/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Bichy</LastName>
+<EmailAddress>john.bichy@skio.uga.edu</EmailAddress>
+<StartDate>03/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zachary</FirstName>
+<LastName>Tait</LastName>
+<EmailAddress>Zachary.tait@skio.uga.edu</EmailAddress>
+<StartDate>03/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 East Campus Rd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5413</Code>
+<Text>OCEANOGRAPHIC INSTRUMENTATION</Text>
+</ProgramElement>
+</Award>
+</rootTag>

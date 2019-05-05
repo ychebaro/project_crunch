@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Robust Methods for High-Dimensional Signal Processing under Geometric Constraints</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>498488.00</AwardTotalIntnAmount>
+<AwardAmount>498488</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Our society is witnessing a surge of data-driven reforms that positively impact our lives in many aspects, thanks to technology advances that enable novel data acquisition modalities in medical and biological imaging, social and wireless sensor networks, internet-of-things, recommendation systems and so on. However, increasingly the large volume of data is acquired in an unreliable and poorly-calibrated manner, making it difficult to translate into actionable knowledge for decision making using existing methodologies. The objective of this CAREER project is to develop a unified framework, including design of provably robust and efficient algorithms, characterization of the fundamental limits, for signal reconstruction under a variety of practical considerations such as imperfect calibrations, sensor drifts, mutual coupling, corruptions and missing data during data acquisition. The success of this project will have far-reaching impacts on many applications in sensing and imaging science. &lt;br/&gt;&lt;br/&gt;This CAREER project will build upon recent advances in signal processing that exploit low-dimensional geometric constraints as a prior to regularize an otherwise ill-posed inference problem. Self-calibration models are introduced where the sensor perturbation is modeled as an unknown that needs to be recovered simultaneously with the signal of interest. The transformative aspect is to recognize that the perturbation also exhibits low-dimensional geometric structures, which shall be exploited in an integrated manner with the low-dimensional geometric structure of the signal of interest to render a well-posed inference problem to enable self-calibration. The CAREER program will advance STEM education by developing tailored educational components for students at all levels, designing signal processing modules that are appropriate for dissemination to K-12 students, and involving women and underrepresented students to promote their success through outreach activities.</AbstractNarration>
+<MinAmdLetterDate>01/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818571</AwardID>
+<Investigator>
+<FirstName>Yuejie</FirstName>
+<LastName>Chi</LastName>
+<EmailAddress>yuejiechi@cmu.edu</EmailAddress>
+<StartDate>01/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

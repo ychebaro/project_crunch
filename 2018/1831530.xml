@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Genes, physiology, and reproductive fitness in high altitude environments</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>245535</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Ferrell</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research tackles a long-standing question about the relationship between genotype and phenotype.  A gene called EPAS1 illustrates that complex relationship by modifying the expression of hundreds of target genes that cause biological responses to maintain oxygen homeostasis when oxygen supplies are low at high-altitude or relatively low after high-oxygen therapy.  Healthy people with a dampened response to high-altitude, reflected by an absence of the typical increase in hemoglobin concentration at high altitudes, provide a natural laboratory for discovery.  In addition to explaining the different ways to adapt successfully to low oxygen environments, this special case may improve understanding of genotype-phenotype relationships under other conditions.  Examples include inappropriately engaging oxygen homeostasis pathways by premature infants, people with wounds that will not heal, and fighter pilots who are all exposed for hours or days to extremely high oxygen levels and are at risk of pathologies including blindness upon return to normal oxygen levels.  Learning the balance of healthy levels of gene products and their associated physiological traits in the study population can provide a model for designing successful clinical interventions.  This project will also support international research collaborations, community science outreach, and undergraduate student training and mentoring. &lt;br/&gt;&lt;br/&gt;The relationship between genetic, phenotypic and reproductive variation is central to the goal of understanding the sources of human biological variation. This research is designed to determine pathways from the EPAS1 locus to biological adaptations in a sample of 400 women living above 3000m who participated in a previous study. The proposed research will revisit them to collect new hematological, cardiopulmonary, and respiratory traits and integrate them into the rich body of genomic, physiological, and reproductive data they have already provided.  Variation at the EPAS1 locus and its target genes and their proteins will be assessed for the extent to which they associate with the adaptive phenotypes and the lifetime reproductive success of these women.  An integrated genomic approach will choose a subset of target genes hypothesized to associate with physiological adaptations.  Analyses will consider factors such as sociocultural influences, iron, and infection status.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831530</AwardID>
+<Investigator>
+<FirstName>Anna</FirstName>
+<LastName>Di Rienzo</LastName>
+<EmailAddress>dirienzo@bsd.uchicago.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Quinn</LastName>
+<EmailAddress>equinn@wustl.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sienna</FirstName>
+<LastName>Craig</LastName>
+<EmailAddress>sienna.r.craig@dartmouth.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cynthia</FirstName>
+<LastName>Beall</LastName>
+<EmailAddress>cynthia.beall@case.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jiayang</FirstName>
+<LastName>Sun</LastName>
+<EmailAddress>jsun@case.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Case Western Reserve University</Name>
+<CityName>CLEVELAND</CityName>
+<ZipCode>441064901</ZipCode>
+<PhoneNumber>2163684510</PhoneNumber>
+<StreetAddress>Nord Hall, Suite 615</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1397</Code>
+<Text>CROSS-DIRECTORATE  ACTIV PROGR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

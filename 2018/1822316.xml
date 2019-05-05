@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Recent Advances in Numerical Wave Propagation</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>19999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miao-Jung Ou</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>FACM 2018 represents the fifteen meeting in a series on "Frontiers in Applied and Computational Mathematics"  at the New Jersey Institute of Technology and will focus on "Recent Advances in Numerical Wave Propagation".  Wave scattering problems are important in a variety of engineering and industrial applications such as the design of antennas and stealth aircraft; imaging and tomography; electromagnetic compatibility; and many others in particular in the aeronautic industry.  This workshop is a great occasion for researchers in this field to  present their most recent and effective work on industrial applications. The diversity of the methods presented in this meeting and its medium size will provide a unique opportunity to discuss limitations and advantages of each technique.  It is therefore expected that  the proposed 2018  conference will permit the development of  new collaborations in order to efficiently deal with difficult wave propagation problems. Substantial funds will be devoted to support the participation of graduate students, postdoctoral fellows, beginning faculty, and under-represented minorities. For students and postdocs in particular, FACM 2018 conference will provide a major learning and networking experience that will help them to develop their research and career paths. All plenary talks will be open to the public; see  https://m.njit.edu/Events/FACM18/ &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The FACM 2018 conference will be a two and a half day single-track session comprised of plenary lectures and standard workshop presentations in the field of numerical wave propagation problems.  Experts mainly on finite and boundary elements methods,  high frequency techniques, and domain decomposition algorithms will  present their most recent contributions.  The plenary presentations in the workshop will overview the state-of-the-art of the numerical techniques currently used to deal with wave propagation problems. This is an ideal occasion  for the participants to develop new methodologies for the ongoing challenging high-frequency problems in complex media, as well as new algorithms that couple numerical techniques using iterative solvers and high performance computing tools.  In addition, graduate students, postdocs, and junior researchers will be introduced to difficult problems motivated by industrial applications, and to the most widely used numerical solvers for wave propagation problems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822316</AwardID>
+<Investigator>
+<FirstName>Lou</FirstName>
+<LastName>Kondic</LastName>
+<EmailAddress>kondic@njit.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cyrill</FirstName>
+<LastName>Muratov</LastName>
+<EmailAddress>muratov@njit.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yassine</FirstName>
+<LastName>Boubendir</LastName>
+<EmailAddress>boubendi@njit.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Jersey Institute of Technology</Name>
+<CityName>Newark</CityName>
+<ZipCode>071021982</ZipCode>
+<PhoneNumber>9735965275</PhoneNumber>
+<StreetAddress>University Heights</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

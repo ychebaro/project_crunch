@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Travel Grant Support for Association for Computing Machinery (AC) WiSec 2018</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>9000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal supports six students for their travel to attend the 11th Association for Computing Machinery (ACM) Conference on Security and Privacy in Wireless and Mobile Networks (WiSec 2018) to be held at the KTH Royal Institute of Technology in Stockholm, Sweden, from June 18 to June 20, 2018. WiSec is one of the leading international conferences on the security and privacy of wireless communications and mobile networks, attracting students, researchers and industry specialists from all over the world. Participation in conferences such as WiSec is an extremely important part of graduate students' research and career development, providing the opportunity for them to present their own work, attend panel and keynote speech sessions, interact with peers and senior researchers, and exposure to leading edge work in the fields of wireless networks security and mobile privacy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823067</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Butler</LastName>
+<EmailAddress>butler@cise.ufl.edu</EmailAddress>
+<StartDate>03/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

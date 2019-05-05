@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Costumer Discovery for Demand-responsive Transverse Rumble Strips</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to provide a safety device to reduce traffic crashes, injuries, and fatalities. Existing alternative technologies alone are unable to address the existing demand. In the U.S, nearly 6,000 pedestrian fatalities and 70,000 pedestrian injuries occur each year. From 2016 to 2017 there was a 27% increase in pedestrian fatalities. Additionally, 130,000 schools across the United States need enhanced techniques to increase driver alertness. In 2017, over 2,000 crashes resulting in 289 deaths occurred at rail crossings. A strong global demand exists for the proposed traffic safety device because there are not alternatives with similar effectiveness. Because the proposed device will be active only when required, it has a much broader range of applications compared to alternative technologies. For example, the proposed devise provides redundancy in the case of autonomous vehicles to minimize the likelihood of crashes due to failures and/or malfunction in the detection or navigation systems. That is, the proposed device provides an alternative communication channel to alert the autonomous vehicle to slow down or stop. The concept behind the proposed device to enhance safety can be extended to other environments such as construction sites. &lt;br/&gt;&lt;br/&gt;This I-Corps project is about customer discovery for a Demand-Responsive Transverse Rumble Strip (DRTRS) mechanism, which becomes active (lowers an array of strips) only when necessary to alert drivers and vehicles through noise and vibration of downstream risks. Permanent transverse rumble strips are mainly used on approaches to intersections, toll plazas, horizontal curves, and work zones to slow down traffic. Traditional transverse rumble strips have been shown to be effective. However, drivers become familiar with their location over time and their effectiveness tends to diminish. Unnecessary noise, vehicle deterioration, and pavement wear out are additional concerns associated with traditional transverse rumble strips. The intellectual merits of our research are: (i) an effective and deployable DRTRS mechanism that addresses the above issues and (ii) evaluation of its effectiveness and required maintenance. The proposed intellectual merits required addressing simultaneously significant challenges including operability and reliability under extreme environmental and heterogeneous traffic conditions, small depth to minimize affecting the integrity of the existing pavement, easy and rapid maintenance and replacement, minimal maintenance schedules, and durability under snow plow operations. In addition, this project is helping us improve our understanding of using acoustic and haptic senses to prevent accidents.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852940</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Paz</LastName>
+<EmailAddress>apaz@unlv.edu</EmailAddress>
+<StartDate>09/18/2018</StartDate>
+<EndDate>02/11/2019</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brendan</FirstName>
+<LastName>Morris</LastName>
+<EmailAddress>brendan.morris@unlv.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nevada Las Vegas</Name>
+<CityName>Las Vegas</CityName>
+<ZipCode>891541055</ZipCode>
+<PhoneNumber>7028951357</PhoneNumber>
+<StreetAddress>4505 MARYLAND PARKWAY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

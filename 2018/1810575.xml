@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Algebraic K-Theory and Equivariant Homotopy Theory</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>217161.00</AwardTotalIntnAmount>
+<AwardAmount>112356</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynsk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will study foundational objects in topology and algebra, centering on the study of algebraic K-theory. Algebraic K-theory is an invariant which can be applied to study basic objects from several fields of mathematics. In particular, algebraic K-theory can be used to study properties of fundamental objects in algebra, called rings. Although higher algebraic K-theory was defined more than 40 years ago, computational progress has been slow. Even for many basic rings the K-theory groups still aren't known today. Despite the difficulties, interest in K-theory computations remains strong. Algebraic K-groups have significant applications to algebraic geometry, number theory, topology, and other mathematical areas. Many of these applications are quite surprising, and the role of algebraic K-theory across mathematical fields drives a great interest in the subject. In recent years, advances in the field of algebraic topology have made it possible to study questions in algebraic K-theory which were previously thought to be inaccessible. A goal of this project is to use tools from algebraic topology to not only produce new algebraic K-theory computations, but also to develop the framework and theory to facilitate future study of algebraic K-theory and related invariants. In addition to the mathematics research goals, the project also includes work in undergraduate and graduate education, undergraduate research, conference organization, and efforts to increase the participation of women and underrepresented groups in mathematics.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project uses the tools of equivariant stable homotopy to study algebraic K-theory and related invariants. Algebraic K-theory is an invariant of a ring which is generally very difficult to compute. However, there is a homotopy theoretic approach to K-theory computations that has been quite fruitful. Despite the fact that algebraic K-theory is not itself an equivariant object, the tools of equivariant stable homotopy theory have proven very useful for K-theory computations. This project explores the intricate relationship between equivariant homotopy theory, algebraic K-theory, and related invariants such as topological Hochschild homology. The project will produce new K-theory computations as well as deepening our understanding of the invariants and tools used to make such computations. Further, this research will provide important foundations, structures, and examples for further work in equivariant stable homotopy theory. Specific research goals of the project are organized into three broader objectives: One, use recent results and new methods from equivariant stable homotopy theory to compute algebraic K-theory groups which were previously inaccessible. Two, develop the theory around related invariants such as topological Hochschild homology and topological coHochschild homology. Three, define and study equivariant algebraic structures that arise in K-theory computations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810575</AwardID>
+</Award>
+</rootTag>

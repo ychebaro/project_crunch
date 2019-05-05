@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Advanced Chemistries for Energy and Sensing Applications at the University of Tennessee</AwardTitle>
+<AwardEffectiveDate>06/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>329840.00</AwardTotalIntnAmount>
+<AwardAmount>329840</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Melissa Olson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Research Experiences for Undergraduates site award to the University of Tennessee Knoxville, located in Knoxville, TN, supports the training of 10 undergraduate students for 10 weeks during the summers of 2019-2021. In this program, funded by the Division of Chemistry, participants engage in research projects and receive mentoring to develop complementary professional skills critical for successful scientific careers. The individual research projects center around the theme of advanced chemistries for energy and sensing applications. The professional development and mentoring component places an emphasis on building undergraduates' communication skills through collaboration with the English Department.  The students create high quality science writing. This program also exposes participants to a variety of possible careers in chemical research through interaction with neighboring institutions such as the Oak Ridge National Laboratory.&lt;br/&gt;&lt;br/&gt;Undergraduates' research projects, falling under the broad umbrella of advanced chemistries for energy and sensing, include studying shape-changing polymeric materials, characterizing single-molecule magnets and chemical qubits, computationally studying polymeric membranes for gas separation, understanding structure-property relationships of polymerization catalysts, and designing liposomes for triggered release of encapsulated contents. This REU Site emphasizes the inclusion of a diverse group of undergraduates to address the under-representation of demographic groups.  Ultimately, this site works to develop a well-trained and diverse set of talented chemists primed for future contributions to academics, government service or industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/27/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/27/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852160</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Best</LastName>
+<EmailAddress>best@ion.chem.utk.edu</EmailAddress>
+<StartDate>02/27/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shawn</FirstName>
+<LastName>Campagna</LastName>
+<EmailAddress>campagna@ion.chem.utk.edu</EmailAddress>
+<StartDate>02/27/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1986</Code>
+<Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+</Award>
+</rootTag>

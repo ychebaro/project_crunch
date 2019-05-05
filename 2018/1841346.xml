@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Three-wave mixing techniques to study and utilize nuclear quadrupole coupling effects in chiral molecules</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>59752</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colby A. Foss</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many molecules in nature, particularly biological molecules, exhibit a handedness in their geometric structure.  This is to say two molecules can have the same number and kinds of atoms and geometric arrangement, but they are mirror images of each other, as are one's left and right hands.  This "handedness" in chemistry is referred to as "chirality." In chemical measurements, distinguishing between the "hands"- known as enantiomers- and quantifying the amounts of each can be a difficult technological challenge.  This difficulty can limit our ability to synthesize and separate a given enantiomer. In this project, funded by the Chemical Structure, Dynamics, and Mechanism (CSDM-A) and Chemical Measurement and Imaging (CMI) Programs of the Chemistry Division, Professor Garry Grubbs II of the Missouri University of Science and Technology is using advanced microwave spectroscopy techniques to determine the type and concentration of enantiomers present in a sample. Microwave spectroscopy provides information about molecular structure based on how fast they can be made to rotate by the microwave radiation.  Professor Grubbs hypothesizes that "handedness" of a molecule can be determined if that molecule contains a very heavy atom like bromine or iodine.  The nuclei of these heavy atoms contain arrangements of electrical charge that can make the rotations of the overall molecule reveal more about its structure in a microwave experiment than it would otherwise.  If Professor Grubbs' hypothesis is correct, there may be new paths toward faster and more accurate synthesis and monitoring of chiral systems, which is particularly important to pharmaceutical research. The project is also training graduate students in currently unexplored areas of physical chemistry using state-of-the-art instrument design as well as new quantum theory development.&lt;br/&gt;&lt;br/&gt;This project focuses on utilizing the recent discovery of microwave three-wave mixing in chiral systems on nuclear electric quadrupole coupling interactions. These experiments are designed to establish, for the first time, experimental data and theoretical understanding for nuclear spin-based methodologies for identifying and quantifying enantiomeric species in mixtures. Microwave three-wave mixing involves utilizing rotational transitions involving excitation along two molecular axes while detecting along the third axis, creating closed-loop transition energy pathways very similar to a three-level maser system. Electric dipole-forbidden, quadrupole-facilitated transitions occur when off-diagonal nuclear electric quadrupole interactions are on the order of the molecular rotation constants and follow the same closed-loop pathway. These are then leveraged using microwave three-wave mixing because of the technique's sensitivity to phase rather than energy of traditional microwave spectroscopy, allowing for the determination of the off-diagonal sign in a singular experiment for the first time as well as insight into the enantiomer in question. Isotopic substitution spectra analysis are then used to validate the veracity of the experimental results.  In addition to the technological and educational impacts, this research may expand the reach of, and molecular information offered from, microwave spectroscopy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841346</AwardID>
+<Investigator>
+<FirstName>Garry</FirstName>
+<LastName>Grubbs</LastName>
+<EmailAddress>grubbsg@mst.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Missouri University of Science and Technology</Name>
+<CityName>Rolla</CityName>
+<ZipCode>654096506</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress>300 W 12th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9101</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms A</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

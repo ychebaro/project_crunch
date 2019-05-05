@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conference on Cognitive Computational Neuroscience (CCN): September 2018, Philadelphia, PA</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kurt Thoroughman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will provide three-years of support for the Conference on Cognitive Computational Neuroscience (CCN). This conference provides an annual scientific meeting for neuroscientists whose goal is to develop computationally defined models of brain information processing that explain rich measurements of brain activity and behavior. Historically, different disciplines have met subsets of these goals: Cognitive science has developed computational models at the cognitive level; computational neuroscience has developed neurobiologically plausible computational models at lower levels; cognitive neuroscience has mapped processes onto brain regions; and artificial intelligence has developed synthetic systems.  CCN is unique in its focus on the intersection between these fields.  In addition to advancing research, CCN seeks to contribute to the growing commercial use of biologically inspired hardware and software in Artificial Intelligence as well as being a vehicle for broadly impacting education and society.  One particular focus of CCN is increasing the visibility of women and scientists from underrepresented populations via speaking opportunities. This award will partially support travel grants for this purpose.  The conference will also include hands-on tutorials, and materials from these will propagate to various university curricula.  The award will support video recordings of the tutorials and talks.  These recordings will be made publicly available on the website to increase the broader impact of the conference to the wider community and those unable to attend. &lt;br/&gt;&lt;br/&gt;A central goal of neuroscience is to understand how vast populations of neurons give rise to complex behavior. Today, advances in various domains offer tangible possibilities to make fundamental conceptual breakthroughs. Modern neural recording technologies now provide opportunities to observe neural activity at unprecedented resolution and scale. At the same time, research in cognitive science has become increasingly sophisticated in identifying computational principles that may serve as the basis for human cognition, and machine learning and artificial intelligence have made great strides in building models to autonomously solve complex cognitive tasks. However, interactions among these distinct disciplines remain rare. This new conference may stimulate unifying frameworks that fully realize the cross-disciplinary potential of these individual advances. Concretely, the goal of CCN is to create and foster a community that will develop models of brain information processing with several key features. These models should (1) be fully computationally defined and implemented in computer simulations; (2) be neurobiologically plausible; (3) explain measurements of brain activity (and continue to do so as spatiotemporal resolution and scale improve); (4) explain behavior in the context of naturalistic stimuli and tasks; and (5) perform feats of intelligence such as recognition, internal modelling and representation of the environment, decision-making, planning, action, and motor control. Such models currently do not exist and are unlikely to emerge without greatly improved cross-disciplinary engagement.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848840</AwardID>
+<Investigator>
+<FirstName>Alyson</FirstName>
+<LastName>Fletcher</LastName>
+<EmailAddress>akfletcher@ucla.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Naselaris</LastName>
+<EmailAddress>tnaselar@musc.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+</Award>
+</rootTag>

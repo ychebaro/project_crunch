@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER SitS: Photonic Sensor Platform for Point of Interest Soil Sensing</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Jones</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Despite the importance of soil for food production, botany, water cycles, and environmental science, most information about soils remains inadequate. A leading constraint for better understanding of the subterranean environment in more detail is that current tools like collecting and analyzing soil core samples are costly, invasive, and slow. This proposal describes the development of a small, low-cost, high-sensitivity photonics based sensor platform which will be initially targeted to the detection of critical nutrients in the soil such as nitrate. These sensors will be able to operate noninvasively, buried underground with real-time sensing capabilities. Developing low-cost and high-sensitivity underground detection will enable visualization of previously mysterious processes in soil which nonetheless underpin critical aspects of life on Earth.&lt;br/&gt;&lt;br/&gt;The dynamic physical, chemical, biological changes that soil undergoes are not well understood today and this, in turn has implications for plant science, environmental science and food security. Developing understanding in these areas and building accurate predictive models require fine-grained knowledge of soils (in the vadose zone) in space and time. Present soil sensing capabilities do not meet these needs. In particular there is a lack of adequate sensing technologies that are field deployable, accurate and cheap. This proposal describes the development of a general sensing platform for subterranean analytes based upon micro-fabricated photonic structures which are exquisitely sensitive to changes in the local environmental refractive index with a particular focus on measuring micronutrients important for soil and plant science. These lithographically-fabricated photonic structures are made on silicon/silicon oxide using photo- or electron beam-lithography and therefore compatible with a wide array of surface functionalization chemistries. The use of photo- or electron beam-lithography ensures that the sensor design is both highly-reproducible and imminently scalable. To couple high affinity and specificity to this generalized detection platform, small peptides will be designed to bind inorganic analytes such as nitrate and phosphate with high specificity. Biomimetic sensing of inorganic analytes can achieve both high sensitivity and high specificity by engineering small peptide chains which mimic the binding sites of naturally-observed proteins. Thus far, this strategy has been used in metal sensing and remediation, but it has not been extended to more challenging sensing of weakly-interacting inorganic ions, nor has it been coupled with a detection platform compatible with soil sensing. The proposed sensing platform is general to a wide range of analytes. In the proposed work we will use nitrate detection as an example to demonstrate its sensing capability because nitrate is the most important micronutrient in soil. But in the meantime we will also apply the same peptide designing approach to develop peptides that are sensitive to other analytes such as phosphates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841652</AwardID>
+<Investigator>
+<FirstName>Supratik</FirstName>
+<LastName>Guha</LastName>
+<EmailAddress>guha@uchicago.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xufeng</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>xufeng.zhang@anl.gov</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019E</Code>
+<Text>SENSORS AND SENSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

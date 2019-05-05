@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Transgenerational Mobility</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>185217</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Toby Parcel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project investigates the effects of grandparents on the outcomes of their adult grandchildren, independent of parental influences.  Correlations due to genetics and family culture that may confound these effects also are taken into account.  This will give a more thorough analysis of social mobility than that obtained solely on the basis of parent-child relations.  This project will enhance the well-being of society by increasing understanding of the degree and pattern of intergenerational transmission of disadvantages and advantages in key sociodemographic outcomes, which affect the well-being of individuals, families, and society as a whole.&lt;br/&gt;&lt;br/&gt;This project eliminates bias due to unobserved multigenerationally-correlated endowments through use of data on five generations available in the Utah Population Database and an innovative modeling strategy. Causal effects of parents and grandparents on children are assessed across six major sociodemographic outcomes: schooling attainment, occupation, age at marriage, age at first birth, number of children, and age at death. The project makes four contributions.  First, models of multigenerational relations that incorporate controls for unobserved multigenerationally-correlated endowments will be developed and estimated. Second, measurement error biases will be reduced by including more complete sets of members of each previous generation, up to great-great grandparents, than in prior studies. Third, the effects of sex of children and of maternal versus paternal lineage on multigenerational effects will be analyzed. Finally, the importance of cross effects, that is, effects of including many parental and grandparental sociodemographic variables, and the extent to which they reduce analytical bias will be investigated.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824279</AwardID>
+<Investigator>
+<FirstName>Ken</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>ken.smith@fcs.utah.edu</EmailAddress>
+<StartDate>07/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

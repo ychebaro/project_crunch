@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2018 CRCNS Principal Investigators Meeting</AwardTitle>
+<AwardEffectiveDate>04/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>49700.00</AwardTotalIntnAmount>
+<AwardAmount>49700</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Whang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The PIs and Co-PIs of grants supported through the NSF-NIH-ANR-BMBF-BSF-NICT Collaborative Research in Computational Neuroscience (CRCNS) program meet annually to report on projects; to discuss scientific, educational, and program-related issues; and to develop a cohesive investigator community representing many different approaches to computational neuroscience. This fourteenth meeting of CRCNS investigators brings together a broad spectrum of computational neuroscience researchers supported by the program, and includes poster presentations, talks, plenary lectures, and workshops. &lt;br/&gt;&lt;br/&gt;The meeting is scheduled for June 13-15, 2018 and is hosted by the University of California, Berkeley.  More information is available at https://www.regonline.com/crcns2018.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822572</AwardID>
+<Investigator>
+<FirstName>Frederic</FirstName>
+<LastName>Theunissen</LastName>
+<EmailAddress>theunissen@berkeley.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Friedrich</FirstName>
+<LastName>Sommer</LastName>
+<EmailAddress>fsommer@berkeley.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ming</FirstName>
+<LastName>Hsu</LastName>
+<EmailAddress>mhsu@haas.berkeley.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7327</Code>
+<Text>CRCNS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7327</Code>
+<Text>CRCNS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+</Award>
+</rootTag>

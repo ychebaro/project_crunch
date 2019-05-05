@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Consortium at the 2018 International Conference on Robotics and Automation (ICRA)</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>35000.00</AwardTotalIntnAmount>
+<AwardAmount>35000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reid Simmons</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant provides funds to partially support U.S. Ph.D. students working in robotics the opportunity to attend a Doctoral Consortium at the International Conference on Robotics and Automation (ICRA), one of the major international robotics conferences. The conference, to be held May 21-25, 2018 in Brisbane, Australia, attracts an international audience that includes academics, industry, entrepreneurs, and funding agency leaders.&lt;br/&gt;&lt;br/&gt;Participation in the Doctoral Consortium will enable the students to share their knowledge and interact with each other and with senior researchers outside their own institutions, to learn about different sub-fields within robotics, to understand industry needs, and to become apprised of new technology that will be demonstrated by vendors. The Doctoral Consortium includes an afternoon of activities, including oral and poster presentations by students, focused breakout sessions, a keynote address, and two panels led by researchers in academia and industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828170</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Walter</LastName>
+<EmailAddress>mwalter@ttic.edu</EmailAddress>
+<StartDate>03/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Toyota Technological Institute at Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372803</ZipCode>
+<PhoneNumber>7738340409</PhoneNumber>
+<StreetAddress>6045 S Kenwood Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

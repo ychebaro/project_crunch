@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Implementation Project: The VESTEM Innovation and Collaboration (VESTEMic) Model</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2023</AwardExpirationDate>
+<AwardAmount>833824</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia Rankins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Implementation Projects provide support to Historically Black Colleges and Universities (HBCUs) to design, implement, study, and assess comprehensive institutional efforts to increase the number of students receiving undergraduate degrees in science, technology, engineering and mathematics (STEM) and enhance the quality of their preparation by strengthening STEM education and research. The project at Elizabeth City State University seeks to build on previous successful efforts to improve retention and academic quality of STEM majors, specifically in chemistry, computer science, mathematics and physics. The overall goals of this project are to increase the number of students pursuing STEM degrees and the quality of preparation for graduate school or entry into the STEM workforce. The theoretical framework is based upon the Louisiana State University model, which consist of three tenets; mentoring, research and education.&lt;br/&gt;&lt;br/&gt;The VESTMic project will address the retention and persistence of STEM students through early contact, beginning in the last semester of high school and continuing throughout the sophomore year. Activities include: the Pre-Viking Boot Camp, Self-Regulated Learning, sophomore bridge program STEM Innovation Research lab. The project will be advised and evaluated for effectiveness by internal and external advisory boards, an external evaluator and education researcher.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818774</AwardID>
+<Investigator>
+<FirstName>Harry</FirstName>
+<LastName>Bass</LastName>
+<EmailAddress>hsbass@ecsu.edu</EmailAddress>
+<StartDate>05/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gloria</FirstName>
+<LastName>Payne</LastName>
+<EmailAddress>gepayne@ecsu.edu</EmailAddress>
+<StartDate>05/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Elizabeth City State University</Name>
+<CityName>Elizabeth City</CityName>
+<ZipCode>279097806</ZipCode>
+<PhoneNumber>2523353222</PhoneNumber>
+<StreetAddress>1704 Weeksville Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

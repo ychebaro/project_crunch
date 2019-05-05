@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Support: IEEE Cluster 2018 Conference</AwardTitle>
+<AwardEffectiveDate>05/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sushil Prasad</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>It is important that the STEM community identifies and develops the next generation of scientists through engagement in premier scientific conferences. The IEEE Cluster conference series, an international event for presenting the research results, problem solutions, and insights on new challenges in high performance computing in general and cluster computing in particular, has been&lt;br/&gt;pursuing this mission by seeking to increase student participation in the conference and the cluster computing field. To this end, the student program at the Cluster conference has been established to provide a comprehensive means for students to improve their overall research skills and planning rather than just presenting posters and papers. By attending the student program, students can now obtain unique experiences and interactions with academic and industry researchers in the cluster computing community. The overall exposure to research through the IEEE Cluster student program promotes foundational understanding of scientific methods, which will serve the students well throughout their careers, and is aligned with NSF?s mission of promoting progress of science.&lt;br/&gt;&lt;br/&gt;This award supports the travel of up to 20 students from US-based institutions to participate in the student program at IEEE Cluster 2018. The student program at IEEE Cluster 2018 includes multiple sessions scheduled during the lunch breaks and after the end of the regular sessions. The sessions target research presentation training, research experience and career guidance, industry interaction, and feedback from the best paper candidates. Travel grants particularly encourage the research interests and the involvement of students in the field who are not well funded and those who are just beginning their participation in the field or are interested in entering it.&lt;br/&gt;Particular effort is made to solicit applications for the travel support from female students and students from under-represented communities by reaching out to graduate programs of computer science and engineering departments at universities who are members of the National Consortium for Graduate Degrees for Minorities in Engineering and Science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814225</AwardID>
+<Investigator>
+<FirstName>Amanda</FirstName>
+<LastName>Randles</LastName>
+<EmailAddress>amanda.randles@duke.edu</EmailAddress>
+<StartDate>05/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

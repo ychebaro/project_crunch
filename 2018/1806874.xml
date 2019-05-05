@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>IGE: Individualized Pathways and Resources to Adaptive Control Theory-Inspired Scientific Education (iPRACTISE)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>490804</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Laura Regassa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Big data and the data science skills to analyze data are critical in all science, technology, engineering, and mathematics (STEM) areas.  Within this data-rich context, incoming STEM graduate students with different levels of data science and STEM training can complicate curricular approaches for mastery of data science techniques.  Linear and uniform preparation models may even widen the performance gap among students with diverse levels of preparation. This issue might be circumvented by replacing traditional "one-size-fits-all" course content with personalized electronic training modules that are tailored to each student's unique strengths, weaknesses, and training goals.  This National Science Foundation Innovations in Graduate Education award to Penn State University aims to develop, test, and refine a set of digital educational tools brought together by the Individualized Pathways and Resources to Adaptive Control Theory-Inspired Scientific Education system (iPRACTISE). The goal of iPRACTISE is to direct each student toward a personally optimized training pathway for mastery of data science techniques. The iPRACTISE system will allow students to specify their own learning goals, provide customized assessments to evaluate their performance levels, and guide them to educational resources that help them reach their goals. In this way, the iPRACTISE system serves as an initial proof-of-concept for a personalized, digital graduate educational system that could be adapted for use in a broad array of educational settings to enhance individual learning.&lt;br/&gt;&lt;br/&gt;Personalized education can be viewed as a control theory problem in which students seek ongoing input, such as classes, curricular resources and training exercises to minimize the discrepancies between their actual and targeted levels of expertise. The iPRACTISE system will include: (1) digital training materials curated from existing teaching resources and a user-interface for instructors to populate the system with new training materials; (2) a user interface to specify training goals; (3) a computerized assessment system that evaluates students' current ability levels; and (4) control theory algorithms that automate the delivery of optimal, individualized training modules. The project will collect test data from a calibration sample consisting of graduate and advanced undergraduate students from multiple campuses at Penn State University to develop and test the assessment system (for evaluating student competency) and the control theory algorithm (for making personalized recommendations on training contents). After initial calibration, the iPRACTISE system offerings will be expanded and learning outcomes compared across diverse student cohorts. &lt;br/&gt;&lt;br/&gt;The Innovations in Graduate Education (IGE) program is focused on research in graduate education.  The goals of IGE are to pilot, test and validate innovative approaches to graduate education and to generate the knowledge required to move these approaches into the broader community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806874</AwardID>
+<Investigator>
+<FirstName>Sy-Miin</FirstName>
+<LastName>Chow</LastName>
+<EmailAddress>symiin@psu.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nilam</FirstName>
+<LastName>Ram</LastName>
+<EmailAddress>nur5@psu.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1997</Code>
+<Text>NSF Research Traineeship (NRT)</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7261</Code>
+<Text>PROGRAM EVALUATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

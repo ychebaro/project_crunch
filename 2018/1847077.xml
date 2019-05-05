@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Adaptive Investments for Resilience of Electricity Infrastructure Systems</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia Chen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Faculty Early Career Development (CAREER) Program project will: (i) generate new decision theories and models to help government policymakers in crafting the incentives to advance public-private enterprise capital formation and investments into electricity infrastructure systems; and (ii) investigate and provide self-organized restoration plans in the advent of a disruption. Inspired by the self-healing properties in biological systems such as morphogenesis (genes adapting to environmental changes) and wound healing (functional changes in cells due to regeneration), this CAREER project will expand the paradigms of complex adaptive systems by incorporating realism and empirical data into models that have practical implications such as how much to invest in a particular electricity technology portfolio in order to enhance system resilience. In addition to creating new decision theories in incentivizing players in the electricity market, one outcome will be a decision support platform for policymaking to enhance public-private enterprise participation in community resilience efforts. To integrate the research components into educational activities, this project will: (i) incorporate social innovation and entrepreneurship to reach students at all levels; (ii) create a hierarchical makerspace academy to provide high school and STEM students the knowledge to build empirical and analytical models of decision making by including project tasks in formal and informal learning processes; and (iii) integrate methods from economics, operations research, and biology with engineering knowledge. The multi-disciplinary approach will help broaden participation of underrepresented minorities in research and positively impact engineering education.&lt;br/&gt;&lt;br/&gt;This research is at the nexus of predictive analytics used to forecast electric power disruptions and robust stochastic optimization models used to determine investments into energy technology portfolios under sequential and multiple uncertainties in policy and technological performance. This project will integrate these approaches in a bio-inspired complex adaptive system framework to evaluate performance-oriented dynamic investments, and use scenario analysis to distill the thresholds of resilience-enhancing electricity technology portfolios. The PI will interpret the system healing process to be a dynamic function of infrastructural decay, operating status/environment, adaptation, redundancy, and the potential for assets decentralization to limit disaster propensity for damage propagation and downtime protraction. This framework will employ the multiple Taylor Series function with wide area measurement system data for system stability prediction within a modified IEEE bus test system. This project will evaluate the value of a resilient infrastructure system in the larger scheme of systems interdependence with the aid of Integrated Assessment Models such as Global Change Assessment Model (GCAM) and Computable General Equilibrium (CGE) models infused with mathematical representations of physical system degradation. If successful, this CAREER project will provide the first scientific test of the efficacy of the multi-disciplinary approach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847077</AwardID>
+<Investigator>
+<FirstName>Ekundayo</FirstName>
+<LastName>Shittu</LastName>
+<EmailAddress>eshittu@gwu.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200520086</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress>1922 F Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIVIL INFRASTRUCTURE SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EPCN:Solving Electricity-Expansion Problems Efficiently via Decomposition (SEEPED)</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>299203.00</AwardTotalIntnAmount>
+<AwardAmount>299203</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan Baheti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to transform the manner in which electric power system capacity-expansion problems are modeled. Capacity-expansion problems are large-scale and complex, due to the nature of power systems (spanning continents and including thousands of nodes and branches) and the numerous uncertainties plaguing long-term planning decisions. This includes large-scale uncertainties, such as long-term demand growth, changes in fuel prices, energy-policy choices, and technology development; and small-scale uncertainties, such as weather events affecting real-time demand and wind and solar availability. This project will develop modeling paradigms that capture the multiple scales of planning decisions and the uncertainties that affect them within a coherent framework. This is a timely and fundamentally important endeavor to ensure an efficient transition to more sustainable and resilient power system designs. &lt;br/&gt;&lt;br/&gt;We will tackle this challenging problem by developing two complementary approaches to modeling power system capacity expansion. Both approaches model multi-scale uncertainties and decisions and represent system operations in sufficient detail to capture system flexibility needs. The first approach uses a multi-stage stochastic optimization approach, in which investment decisions are made at coarse (e.g., decadal) timescales and operating decisions are made at fine (e.g., hourly) timescales, with full representation of the temporal sequence of these decisions. Large-scale uncertainties are modeled explicitly in the scenario tree, while small-scale uncertainties are captured through different operating conditions. The other approach is an adaptive robust stochastic model, in which planning decisions are made to be robust or distributionally robust to large-scale uncertainties and take stochastic operating conditions into account. These complex and large-scale models are accompanied by decomposition algorithms. The progressive hedging algorithm will be adapted to tractably solve the multi-stage stochastic optimization model while column-and-constraint algorithms will be developed for solving the robust model. We will also explore the use of clustering and importance sampling techniques to select representative operating periods to be modeled between investment epochs. The use, tractability, and power of the proposed modeling techniques will be demonstrated using large-scale case studies based on North American power systems. The PIs will also engage with electricity industry members. They will also use industry- and government-advisory positions to advance industry dissemination. These steps will ensure that the results of the research are used by industry members while at the same time industry can provide vital feedback and input to model and case study development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808169</AwardID>
+<Investigator>
+<FirstName>Ramteen</FirstName>
+<LastName>Sioshansi</LastName>
+<EmailAddress>sioshansi.1@osu.edu</EmailAddress>
+<StartDate>05/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Antonio</FirstName>
+<LastName>Conejo</LastName>
+<EmailAddress>conejonavarro.1@osu.edu</EmailAddress>
+<StartDate>05/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Photoionization and Photoelectron Spectroscopy of Transient Organometallic Complexes</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>390000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colby A. Foss</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Saturated hydrocarbons or alkanes constitute the most abundant feedstock for organic chemicals. Controlling which bonds in hydrocarbons react with other molecules (also known as "selective activation and functionalization") remains one of the grand challenges in the chemical sciences. In this project funded by the Chemical Structure, Dynamics and Mechanisms A (CSDM-A) Program of the Chemistry Division, Professor Dong-Sheng Yang of the University of Kentucky contributes to this task by examining the way metal atoms interact with the hydrocarbon compounds and detecting reactive chemical species in these reactions using laboratory-made instruments and sophisticated laser spectroscopic techniques. Professor Yang-s research shows how the hydrocarbons are activated by metals and converted into other chemicals. This work improves the fundamental understanding about how metal catalysts increase the rate of a chemical reaction and reduce the energy required for hydrocarbon conversion. The project provides technically challenging training for a diverse group of students at all levels and prepares them for careers in industry, academia, or the public sector.&lt;br/&gt;&lt;br/&gt;The projects focuses on spectroscopic characterization of transient organometallic complexes formed in metal-mediated alkane activation reactions. Emphasis is placed on the C-H and C-C bond activation of small alkanes and the remote functionalization of alkyl nitriles, amines, and alcohols by lanthanide metals. Expected results are the accurate ionization energies, metal-ligand and ligand-based vibrational frequencies, electronic states, spin-orbit splitting, and molecular structures of the short-lived species. The plan is to examine the electron configuration effects of the lanthanide elements and the reactivity-structural relationships of the linear, branched, and cyclic alkanes and functionalized alkane derivatives. Experimental methods include laser-assisted molecular beam reactions; time-of-flight mass spectrometry; mass-analyzed threshold ionization, zero electron kinetic energy, and infrared-ultraviolet photoionization spectroscopy; and slow electron velocity-map imaging. The experimental measurements are supplemented with quantum chemical calculations. The students engaged in this project are being trained not only in the aforementioned experimental techniques, but also quantum chemistry calculations, namely density functional theory, as well as other advanced tools through collaboration with other experts (e.g., Prof. Michael Schmidt, Iowa State).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800316</AwardID>
+<Investigator>
+<FirstName>Dong-Sheng</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>dyang0@uky.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kentucky Research Foundation</Name>
+<CityName>Lexington</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress>109 Kinkead Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9101</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms A</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

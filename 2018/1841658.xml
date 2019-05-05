@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshops:  Development of a roadmap for the next decade of microbial systematics research</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>99999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010206</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The microbial world is incredibly diverse and plays critical roles in all biogeochemical cycles. However, the process describing and classifying microorganisms continues to be very challenging. The dominant taxonomic system for Bacteria and Archaea relies on the careful description of single-species cultures, stemming from traditions rooted deeply in the history of microbiology. In recent decades, microbiologists have increasingly relied on molecular investigations, including single-cell genomics and metagenomics, which provide insight into prokaryotes without reliance on cultivation in the laboratory. In parallel, progress has been made to reframe microbial systematics in the genomics age, which in principle could enable expansion of the taxonomic structure to include uncultivated organisms. However, uncultivated microorganisms have no status within the code of nomenclature and currently there is no system to name uncultivated organisms. This project will involve three meetings over the course of ~18 months to convene a group of world experts to develop a cohesive plan to integrate uncultivated prokaryotes into a systematics framework. Ultimately, an actionable plan will be created to modify the code governing microbial nomenclature and to publish a blueprint for prokaryotic systematics for the next decade. The results of this project will impact all microbiologists, including microbial ecologists and clinicians, by providing a robust plan for a system of nomenclature for all prokaryotes. The project will also engage groups that are underrepresented in STEM fields and provide leadership opportunities for early-career scientists. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The project will involve three workshops. Workshop 1 will engage experts on the systematics and genomics of prokaryotes and eukaryotes, and will consider several existing proposals and to integrate uncultivated microorganisms into a system of nomenclature, including a call to modify guidelines for Candidatus status, a call to enable genomic material to be used as type material for taxonomic proposals, and more aggressive proposals to recalibrate all of microbial systematics using genomic data. The workshop will also review two different proposals for the standardization of genomic data for taxonomic purposes. Workshop 2 will discuss existing databases that are relevant to microbial taxonomy such as the List of Prokaryotic Names with Standing in Nomenclature, the Microbial Genomes Atlas, the Digital Protologue Database, and the Genome Taxonomy Database with a goal of better integration and development of systems to link diverse datasets directly to taxonomic data. Workshop 3 will engage a small working group to pull together the findings of the two workshops, synthesize recommendations and provide recommendations on how to proceed and implement these recommendations. The outcome of the workshops will be an actionable plan to integrate uncultivated organisms into a system of nomenclature and a roadmap to guide microbial systematics for the next decade.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841658</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Hedlund</LastName>
+<EmailAddress>brian.hedlund@unlv.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anna-Louise</FirstName>
+<LastName>Reysenbach</LastName>
+<EmailAddress>reysenbacha@pdx.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nevada Las Vegas</Name>
+<CityName>Las Vegas</CityName>
+<ZipCode>891541055</ZipCode>
+<PhoneNumber>7028951357</PhoneNumber>
+<StreetAddress>4505 MARYLAND PARKWAY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1171</Code>
+<Text>PHYLOGENETIC SYSTEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

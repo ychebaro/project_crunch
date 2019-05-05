@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Multi-User Cryo-Electron Microscope for the Cellular and Molecular Life Sciences Community in the Northern Rocky Mountain Region</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>2421477</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Ellis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to Montana State University and collaborating institutions to support the acquisition of a new 200kV cryo-electron microscopy system.  The last decade has seen a revolution in cryo-electron microscopy (cryo-EM). With increasing frequency, single particle analysis (SPA) is providing cryo-EM maps at resolutions on par with X-ray crystallography, resulting in atomic models for a growing number of macromolecular assemblies - ribosomes, transcription complexes, proteasomes, viruses, integral membrane proteins and CRISPR/Cas targeting complexes - all directly from cryo-EM data. Cryoelectron tomography (CET) can now provide 3D images of cellular structures at 2-5 nm resolution, and in favorable cases to sub-nanometer resolution. The new multi-user 200 kV cryo-electron microscope  will serve the regional cellular and molecular life sciences community in Montana and the surrounding states. The new system will immediately benefit investigators in at least 5 different departments on two different campuses within the Montana University System (UM and MSU), as well as investigators at regional institutions in a five-state area. In addition, the system will have a significant impact on undergraduate, graduate and post-doctoral education, allowing emerging scientists in the Northern Rockies to develop expertise with modern cryo-EM techniques. Finally, it will greatly enhance K-12 teacher education and outreach programs by MSUs Thermal Biology Institute, the Center for Biofilm Engineering, the Chemistry and Biochemistry REU program, and outreach to Montana's Tribal Colleges through MSU's MAP and Bridges to Baccalaureate Programs.&lt;br/&gt; &lt;br/&gt;Recent technical advances in cryo-EM allow the structures of macromolecular complexes to be modeled at the atomic level by SPA, and observation of these structures within the native cellular environment with CET. Combined, SPA and CET provide profound biological insight into the biochemical activities and mechanisms of cellular machinery. Toward this end, investigators across the Northern Rockies have initiated cryo-EM studies of CRISPR/Cas targeting complexes, G-protein coupled receptor signaling pathways, archaeal viruses in the "3rd domain" of life, new world hemorrhagic viruses, and iron transport in mammals and pathogenic bacteria. The new 200 kV cryo-EM in the Northern Rockies region will enable groundbreaking investigations of macromolecular and cellular structures at ultrahigh resolution.  Data and analyses from these studies will be published in peer-reviewed scientific journals, presented at scientific meetings, and used in both educational and public outreach activities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828765</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Young</LastName>
+<EmailAddress>myoung@montana.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Lawrence</LastName>
+<EmailAddress>lawrence@chemistry.montana.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Sprang</LastName>
+<EmailAddress>stephen.sprang@mso.umt.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Blake</FirstName>
+<LastName>Wiedenheft</LastName>
+<EmailAddress>bwiedenheft@gmail.com</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Montana State University</Name>
+<CityName>BOZEMAN</CityName>
+<ZipCode>597172470</ZipCode>
+<PhoneNumber>4069942381</PhoneNumber>
+<StreetAddress>309 MONTANA HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

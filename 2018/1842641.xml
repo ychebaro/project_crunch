@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAISE-EQuIP: Quantum mux/demux: the quantum optical frequency comb as a scalable quantum encoding resource</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>RAISE-EQuIP:Quantum Mux/Demux: The Quantum Optical Frequency Comb as a Scalable Quantum Encoding Resource&lt;br/&gt; &lt;br/&gt;Quantum information and quantum computing are emerging fields that have the potential to revolutionize various areas in science and technology. As first foreseen by Richard Feynman, quantum computers will enable calculations at currently unattainable scales and will bring unprecedented advances over classical computers. Examples include calculations of large biological molecules for revolutionary drug discovery, solving complex quantum mechanical systems, and factoring integers at a speed exponentially faster than classical computer to defeat current standard encryption methods. Quantum information is also fundamentally distinct from classical information. It cannot be cloned or hacked and therefore brings new power for cryptography, such as the method of quantum key distribution to create secure communications channels. The realization of practical systems capable of quantum computing and information is an extraordinary difficult task but will have profound impacts on national security and our society. To date, two primary challenges have been identified in making quantum technology a reality: achieving scalability and circumventing decoherence. At this juncture, many proof-of principle results have been experimentally demonstrated to address either decoherence (trapped-ion, superconducting, and cold atom qubits), or the scalability problem (field qumodes), but both requirements have not been met simultaneously yet. This project will address both of these challenges by a joint interdisciplinary effort between the Electrical and Computer Engineering and the Physics Departments at University of Virginia by ways of scalable integrated quantum photonics.&lt;br/&gt;&lt;br/&gt;The aim of this project is to marry scalable integrated photonics with quantum information and quantum computation over continuous variables in order to encode quantum information over the quantum optical frequency comb (QOFC). Such technology will empower unconditional quantum protocols such as quantum communication, quantum entanglement distillation, and quantum simulation. With NSF support, the quantum optics group at the University of Virginia has been pioneering the implementation of QOFC in optical parametric oscillator and has achieved record-levels of multipartite entanglements (60 qumodes). Integrated microresonator-based optical frequency combs, heterogeneous photonic integration and near unity quantum efficiency photodiodes have been in the focus of research in the micro-photonics, optoelectronic and photonics device groups at UVA for many years. The project aims to combine these efforts and create a unique integrated device on a chip with multimode quantum emitter, qumodes processing and detection. Such a realization enables numerous quantum applications on a chip, including massively scalable cluster entanglement, scalable deterministic quantum processing, quantum secret sharing over QOFC, and quantum mode sorting.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842641</AwardID>
+<Investigator>
+<FirstName>Joe</FirstName>
+<LastName>Campbell</LastName>
+<EmailAddress>jcc7s@virginia.edu</EmailAddress>
+<StartDate>09/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Olivier</FirstName>
+<LastName>Pfister</LastName>
+<EmailAddress>opfister@virginia.edu</EmailAddress>
+<StartDate>09/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Beling</LastName>
+<EmailAddress>ab3pj@virginia.edu</EmailAddress>
+<StartDate>09/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xu</FirstName>
+<LastName>Yi</LastName>
+<EmailAddress>xy3m@virginia.edu</EmailAddress>
+<StartDate>09/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229044195</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>P.O.  BOX 400195</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1385</Code>
+<Text>SPECIAL STUDIES AND ANALYSES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093E</Code>
+<Text>System fab/packaging &amp; assembly</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>095E</Code>
+<Text>Photonic integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096E</Code>
+<Text>High freq comm/sensing circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>106E</Code>
+<Text>Mixed signal technologies</Text>
+</ProgramReference>
+</Award>
+</rootTag>

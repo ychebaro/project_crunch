@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Risk-Aware Motion Planning for Autonomous Vehicles</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project is to enable autonomous vehicles to make risk-aware decisions at high-speed, by reasoning about the uncertain movements of the people and cars around them to anticipate risks and react defensively. This technology will make new technical approaches to safety and risk viable for the first time. It will enable autonomous cars to drive at regular speeds in dense, highly populated urban environments while reducing the likelihood of accidents - thereby resulting in faster, safer urban autonomous driving. This will increase public trust in autonomous cars and accelerate the development of a new industry which could reshape transportation, freeing people from the need to drive their own cars and increasing their free time and productivity.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to develop a specialized processor for risk-aware motion planning for autonomous vehicles. Motion planning is a critical problem for autonomous cars, which must decide how to move through space to reach a designated goal without colliding with a static obstacle, another vehicle, or a pedestrian. Existing approaches can only construct a few plans per second, and assume that the other road-users will continue on their current trajectories. This is acceptable for highways but not for urban driving, where distances are short and other road-users can change behavior suddenly. This project aims to develop a prototype of a specialized motion planning processor that plans in milliseconds, enabling it to consider all likely future movements of other road-users to anticipate risks and react defensively. This proposal aims to evaluate the feasibility of the processor by designing a prototype, demonstrating that it results in safer driving at normal speeds in urban environments, and quantifying its performance improvements over existing solutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819302</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Howard</LastName>
+<EmailAddress>peter@rtr.ai</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Realtime Robotics Inc</Name>
+<CityName>Boston</CityName>
+<ZipCode>022101625</ZipCode>
+<PhoneNumber>7815880142</PhoneNumber>
+<StreetAddress>27 Wormwood St Ste 110</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Exploring Introduction of High Performance Computing and Big Data in High Schools</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sushil Prasad</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many high schools across the nation offer programs in science, technology, mathematics, and engineering (STEM), and a lot of high school students pursue related majors in the post-secondary study. To meet the urgent workforce need, early exposure to high performance computing and big data in high schools can help attract more students to choose related majors in colleges. This requires the stakeholders including academia, industry, high school administration, and instructors to work together to address the concerns. This project has the experts from academia provide training support to high school instructors in high performance computing and big data, and the professionals from industry helping bring the cutting-edge technologies and real life examples and experience to high school administration and instructors. High school instructors are expected to develop and offer high performance computing and big data courses in their schools after the training. By inviting all the stakeholders and training high school instructors, the workshop aims to collect feedback about contents of materials, training effectiveness, and covered topics for developing a complete training model for high school instructors.  This project, thus, aligns with NSF's mission to promote the progress of science by exploring scientific workforce development pipeline.&lt;br/&gt;&lt;br/&gt;The workshop invites high school administration and instructors from New York Metropolitan Area in an effort to provide exposure of high performance computing and big data, especially instructors from science, technology, mathematics, and engineering, through carefully designed tutorials. In addition to improving the awareness via tutorials and invited talks, the workshop also aims to prepare for developing an informal and cross-training model for high school instructors and designing the related advanced placement or elective courses for high school students. By convening three parties including academia, industry, and high schools and looking at the problem from different perspectives, the organizers aim to gain new insight into the education of high performance computing and big data at high school level and obtain crucial evidences to design and implement the cross-training model. The trained high school teachers are expected to infuse the training materials into their computer science related courses and/or develop new advanced placement or elective high performance computing and big data courses. The findings from the workshop are broadly disseminated in the research and educational communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841694</AwardID>
+<Investigator>
+<FirstName>Feng</FirstName>
+<LastName>Gu</LastName>
+<EmailAddress>Feng.Gu@csi.cuny.edu</EmailAddress>
+<StartDate>08/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yumei</FirstName>
+<LastName>Huo</LastName>
+<EmailAddress>Yumei.Huo@csi.cuny.edu</EmailAddress>
+<StartDate>08/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY College of Staten Island</Name>
+<CityName>Staten Island</CityName>
+<ZipCode>103146609</ZipCode>
+<PhoneNumber>7189822254</PhoneNumber>
+<StreetAddress>2800 Victory Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

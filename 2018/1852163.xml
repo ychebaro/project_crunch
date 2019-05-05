@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Multidisciplinary Undergraduate Research Training in Wearable Computing</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>259199.00</AwardTotalIntnAmount>
+<AwardAmount>259199</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this Research Experience for Undergraduates (REU) site is to provide undergraduates with unique training, research, and education opportunities in an area of national priority, i.e., research in multidisciplinary technology development to enhance the healthcare system. The project will recruit eight undergraduates for eight weeks each year, primarily from communities traditionally underserved in computing, to carry out hands-on research in the field of wearable computing. The work will target computing research in the application areas of healthcare and wellbeing, such as monitoring, prevention, and/or management of chronic diseases. The participants will explore topics in pervasive computing, machine learning, data mining, circuits and system design. The undergraduates will gain knowledge about computing research, as well as how new technologies can be developed to improve health and wellbeing by providing health assistance and facilitating clinical decision making.&lt;br/&gt;&lt;br/&gt;The program will engage REU participants in research topics of emerging national interest; they will work in and learn from multidisciplinary teams with faculty, postdocs, and students from computer science and engineering and health sciences. The program benefits from a university-supported, campus-wide community of undergraduate scholars. The program will promote a feeling of community of scholars to enhance participants' experiences in the program. The community of scholars will live, work, and socialize among themselves as well as with students from other REU programs on campus. The participants will be engaged in regular team meetings, seminars, team work and mentoring, and social activities. This REU site will facilitate the training of a new generation of students with expertise in computing research for addressing significant healthcare challenges. The program is expected to have a positive impact on increasing the number of students who will pursue graduate degrees. The research results, program features, and benefits to the participating students will be disseminated via the program website and through publications and presentations in scholarly venues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/20/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852163</AwardID>
+<Investigator>
+<FirstName>Hassan</FirstName>
+<LastName>Zadeh</LastName>
+<EmailAddress>hassan.ghasemzadeh@wsu.edu</EmailAddress>
+<StartDate>02/20/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington State University</Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991641060</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress>280 Lighty</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+</Award>
+</rootTag>

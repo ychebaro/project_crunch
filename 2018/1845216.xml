@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Visual Representation Learning Using Mixed Labeled and Unlabeled Data</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>167041</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Recent advances in deep learning has led to great results in visual recognition and object detection. These deep learning models have various applications from self-driving cars to early disease diagnosis and household robots. However, most such models are supervised, meaning that they need large scale manually annotated datasets to tune the parameters, and obtaining the annotation may be expensive in many applications. This project explores a family of self-supervised learning algorithms where the learning is based on unlabeled data only. The new models can learn visual features that can be used for various visual recognition tasks including object detection and action recognition. This project provides research opportunities for under-represented groups and integrates research outcomes into the course curriculum.&lt;br/&gt;&lt;br/&gt;This project studies a family of self-supervised learning algorithms that can learn rich features from unlabeled images and videos. Self-supervised learning algorithms harvest the knowledge from unlabeled data by modeling some regularity in the space of natural images or videos. This project studies novel self-supervised learning algorithms based on constraining the learning by relating transformations of images to transformations of their representations. Moreover, this project studies a novel multi-task learning framework for aggregating the knowledge learned from multiple supervised and self-supervised learning algorithms. This algorithm uses quantization methods to ignore the task specific details of the representation in transferring the knowledge. This algorithm results in a rich set of representations that generalize well across various visual recognition tasks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845216</AwardID>
+<Investigator>
+<FirstName>Hamed</FirstName>
+<LastName>Pirsiavash</LastName>
+<EmailAddress>hpirsiav@umbc.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland Baltimore County</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212500002</ZipCode>
+<PhoneNumber>4104553140</PhoneNumber>
+<StreetAddress>1000 Hilltop Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

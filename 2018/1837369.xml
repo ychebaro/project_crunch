@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CPS: Small: Multi-Human Assisted Learning for Multi-Agent Systems using Intrinsically Generated Event-Related EEG Potentials</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Sprinkle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to allow humans to assist machine learning algorithms in a Cyber-Physical System. The approach involves the use of electroencephalogram (EEG) based brain waves of the human-in-the-loop to generate feedback for the learning algorithms. Machine learning solutions are particularly useful for the monitoring, instrumenting, and optimization of complex cyber physical systems (CPS). However, several important problems spanning domains such as natural language processing, automated language translation, and understanding what is in a scene or image remain beyond the scope of true machine learning algorithms, and require human participation. The project involves collaboration with Georgia Tech's Create-X and Venture Lab programs to commercialize the outcomes of the proposed research.&lt;br/&gt; &lt;br/&gt;This project considers recognizing the erroneous behavior of the machine intrinsically by the error related negativity (ERN) in the human EEG signals, which are then used as the reward function for the reinforcement learning (RL) algorithm of the machine to improve its intelligence. Another novel aspect of the research is the consideration of multiple humans-in-the-loop providing feedback that is used as a reward function by the learning algorithms embedded within the CPS. Finally, the project also is exploring the benefits of convergence time acceleration and deep learning techniques to extract features from EEG that are independent of canonical ERN component peaks. The research is evaluated using both a game proxy based analysis and experimental analysis within the context of real-world CPS.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837369</AwardID>
+<Investigator>
+<FirstName>Raghupathy</FirstName>
+<LastName>Sivakumar</LastName>
+<EmailAddress>siva@ece.gatech.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Faramarz</FirstName>
+<LastName>Fekri</LastName>
+<EmailAddress>fekri@ece.gatech.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Real-Time Assessment of Water Quality, Harmful Algal Blooms, and Toxins from Distributed, Networked Sensor Arrays</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project extends from years of research into the impact of Harmful Algal Blooms (HABs), and yet there is still no direct, field assay for toxic cells. The identification of HABs is critical to determine their patterns of occurrence, to protect water and food supplies, and to alert the general public when there is a problem. Harmful Algal Blooms are a world-wide fresh water, brackish water and marine phenomena that occur in every coastal and inland country and annually cause significant economic damage and take human lives. The detection of HABs and their toxins is currently completed by complex, expensive, and time consuming microscopic analyses that do not necessarily provide the critical and timely information that water quality mangers require. Raman spectroscopy provides a strong and distinct fingerprint of HAB cells and their toxins without the need for sample preparation, and can be used on-site at beaches, drinking water reservoirs, or within distributed networks of Raman sensors all communicating through the cloud to provide managers immediate and spatially distinct information on the presence and concentration of potentially toxic cells.&lt;br/&gt;&lt;br/&gt;This STTR Phase I project proposes to develop and market an in-situ 3D microscope with on-axis Raman spectroscopy to provide both morphological information and a chemical signature for identification of HAB cells to species, and in some cases specific strains, along with the presence and concentration of toxin on a per cell basis. The novel technical specifications include: 1) the use of Light Field (LF) microscopy to maximize the depth of field to allow for detection of low cell concentrations (&lt; 1 cell/ mL). LF microscopy also provides a 3D image for more complete and accurate morphological assessment of cells and particulates, 2) Advanced software for color and texture feature extraction and classification of cells using Gabor wavelets and a novel color angle feature, which provide 100% classification accuracy in many cases, 3) the use of Resonance Micro-Raman Spectroscopy (RMRS) to collect spectral fingerprints on the inorganic and organic content of cells, particulates and dissolved compounds, and 4) the integration of these technologies into sensor packages as part of the IoT cloud computing thrust that is sure to gain traction over the next few years, and will provide regional protection of both large and small drinking water reservoirs, globally.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820074</AwardID>
+<Investigator>
+<FirstName>scott</FirstName>
+<LastName>gallager</LastName>
+<EmailAddress>sgallager@coastaloceanvision.com</EmailAddress>
+<StartDate>07/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CoastalOceanVision, Inc</Name>
+<CityName>North Falmouth</CityName>
+<ZipCode>025562821</ZipCode>
+<PhoneNumber>5084725520</PhoneNumber>
+<StreetAddress>10 Edgerton Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

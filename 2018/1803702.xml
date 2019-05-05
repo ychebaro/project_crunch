@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Magnetospheric Resonances at Middle and Low Latitudes</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>269424</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020202</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lisa M. Winter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports an investigation into the dynamics behind the coupling of Earth's ionosphere and magnetosphere. It is important to understand how Earth's magnetic field couples to the outer layers of the atmosphere as a background to understanding how space weather effects the very near-Earth environment and ultimately societies most critical space and ground based assets. This study supports education and training in the fields of data analysis, numerical simulations and space plasma physics for one PhD student. In addition, it includes collaboration between national labs (Air Force Research Laboratory and U.S. Naval Research Laboratory) and an academic institution (Embry-Riddle Aeronautical University). The results of this study will be disseminated through public outreach events including lectures at local high schools.&lt;br/&gt;&lt;br/&gt;This project will specifically examine the relative importance of the field line resonator and the ionospheric Alfven resonator in generating Ultra Low Frequency waves at middle and low latitudes. This will be achieved through use of reduced two-fluid magnetohydrodynamics model in 2D and 3D which includes ionospheric conductance and collisions. SAMI is Another Model of the Ionosphere 3 (SAMI3) model data and Communication/Navigation Outage Forecasting System (C/NOFS) satellite data will provide ionospheric input to the model. The outcomes will be compared with magnetic observations conducted at South American Meridional B-Field Array (SAMBA) stations in Antarctica and Chile.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803702</AwardID>
+<Investigator>
+<FirstName>Anatoly</FirstName>
+<LastName>Streltsov</LastName>
+<EmailAddress>anatoly.streltsov@erau.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Embry-Riddle Aeronautical University</Name>
+<CityName>Daytona Beach</CityName>
+<ZipCode>321143966</ZipCode>
+<PhoneNumber>3862267695</PhoneNumber>
+<StreetAddress>Sponsored Research Adm</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5750</Code>
+<Text>MAGNETOSPHERIC PHYSICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

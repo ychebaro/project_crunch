@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Photoredox Polymerization of O-Carboxyanhydrides for Functionalized Polyesters</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>430000.00</AwardTotalIntnAmount>
+<AwardAmount>430000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Suk-Wah Tam-Chang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Polyesters are important biocompatible polymers that can degrade in human bodies. They are widely used in everyday applications ranging from clothing and packaging to agriculture and biomedicine.  However, the small number of structurally-different polyesters limit the range of materials properties and utility in applications that demand mechanical strength.  To address this challenge, the research group of Professor Rong Tong at the Virginia Polytechnic Institute and State University explores new synthetic strategies to produce polyesters from natural amino acids, that have a wider range of chemical structures and properties.  This research develops new reactions for preparing environmentally-friendly and biodegradable polyesters that can serve as alternatives to petroleum-based plastics in commercial applications. The multidisciplinary research project is integrated with educational and outreach activities for undergraduates and students of underrepresented groups. An outreach program that emphasizes hands-on demonstrations of biodegradable polyesters is developed for middle and high school students in Montgomery County, Virginia.&lt;br/&gt;&lt;br/&gt;With the support from the Macromolecular, Supramolecular and Nanochemistry Program of the Division of Chemistry, Professor Tong's group develops novel controlled polymerization chemistry to synthesize functionalized biodegradable polyesters from O-carboxyanhydries - an alternative class of highly active monomers with a rich variety of side-chain functionalities. Specifically, this research identifies  photoredox catalytic systems that enable efficient synthesis of functionalized polyesters at room-temperature using light.  Such polymers cannot be achieved using conventional methods. Using newly developed catalysts, stereoregular polyesters that possess improved thermal and mechanical properties compared with atactic homopolymers are synthesized. Additional research activities include the study of the photoredox ring-opening polymerization mechanisms and the exploration of one-pot, sequence-controlled, photoredox copolymerization of two monomers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807911</AwardID>
+<Investigator>
+<FirstName>Rong</FirstName>
+<LastName>Tong</LastName>
+<EmailAddress>rtong@vt.edu</EmailAddress>
+<StartDate>05/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

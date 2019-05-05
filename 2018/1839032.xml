@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Community Meeting on Scalable Data Publication Infrastructure</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>49888</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Beth Plale</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Disciplinary (non-institutional) data repositories have much higher rates of adoption than Institutional Repositories (IRs) in part because they are directly integrated with key points in researcher workflows, particularly during the publishing of scientific articles. But community repositories lack partnerships with institutional expertise found in librarians and data curators.  This project addresses researcher need through taking the first steps in an open, community-supported initiative in research data curation and publishing.  To effectively leverage institutional knowledge and serve researchers as end users, more and varied types of institutions need to have a say in the values and necessities. To build broad community support, this invitational workshop will explore community requirements, identify impediments, study sustainable business models, and make recommendations regarding the widespread promotion and adoption of effective, scalable, and sustainable institutional data publication infrastructure.&lt;br/&gt;&lt;br/&gt;This project is supported by the National Science Foundation?s Public Access Initiative which is managed by the NSF Office of Advanced Cyberinfrastructure on behalf of the Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839032</AwardID>
+<Investigator>
+<FirstName>Guenter</FirstName>
+<LastName>Waibel</LastName>
+<EmailAddress>guenter.waibel@ucop.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California, Office of the President, Oakland</Name>
+<CityName>Oakland</CityName>
+<ZipCode>946075200</ZipCode>
+<PhoneNumber>5109879850</PhoneNumber>
+<StreetAddress>1111 Franklin Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7414</Code>
+<Text>NSF Public Access Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ICE-T: RI: Multi-Element Mobile Visible Light Communication for Smart Cities</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monisha Ghosh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Prospective demands of next-generation wireless networks are ambitious and are projected to require cellular networks that support 1000 times higher data rates and 10 times lower round-trip latency. Visible light communication (VLC) is a promising technology to address the spectrum deficit problem in the legacy radio frequency bands. VLC technology can offer high speed data rates that can meet the exponential increase of wireless communications devices due to large modulation bandwidth of the Light Emitting Diodes (LEDs). Further, it can use the existing lighting infrastructure which may contain large number of LEDs for illumination, and therefore, it is cheaper than setting up new RF base stations.&lt;br/&gt;&lt;br/&gt;This project seeks to design a multi-element mobile VLC architecture that is able to simultaneously transmit multiple data streams to multiple mobile users while keeping the uniformity of illumination across a room. The project explores a novel framework by designing the multi-element architecture as a hemispherical bulb consisting of multiple LEDs.  The intellectual merit of this project is to investigate and develop a multi-element VLC architecture that facilitates joint and adaptive optimization of two conflicting goals: illumination quality and mobile wireless communication. The proposed approach's significance comes from its aim to explore designs of software-defined multi-element modules with (a) narrow-angle transmitters LEDs for high spatial reuse and high aggregate throughput and (b) software protocols performing electronic steering of light beams to support mobility. Novel aspects of this activity are (i) joint optimization of mobile aggregate throughput and illumination uniformity in a multi-element VLC architecture using LEDs with narrow divergence angles; (ii) approximation and heuristic algorithms for optimizing transmit power of LEDs and LED-user associations in order to maximize the aggregate mobile user spectral efficiency via higher spatial reuse while taking into account a certain illumination quality; and (iii) experimentation of multi-element VLC concepts in a smart city testbed in Europe. The project initiates a collaboration between Investigators at the University of Central Florida and Northumbria University in the United Kingdom.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836741</AwardID>
+<Investigator>
+<FirstName>Murat</FirstName>
+<LastName>Yuksel</LastName>
+<EmailAddress>murat.yuksel@ucf.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ahmad</FirstName>
+<LastName>Alsharoa</LastName>
+<EmailAddress>aalsharoa@vsu.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+</Award>
+</rootTag>

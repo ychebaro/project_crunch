@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Minimally Disruptive Optical Interrogation of Intracellular Signaling</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>299823</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This program will develop a minimally disruptive approach for using light to control enzymes in living cells. They will pick enzymes of importance in diabetes, obesity, and cancer to address current gaps in knowledge. They will develop a summer biotechnology training program for high school students underrepresented in STEM,  They will assist with the establishment of a core facility for teaching and research in biophotonics, generate publicly accessible educational resources in biochemical engineering and synthetic biology, and create research opportunities for high school students and undergraduates.&lt;br/&gt;&lt;br/&gt;They will develop (i) protein architectures (i.e., designs for protein-protein chimeras) that enable optical control of phosphorylation-regulating enzymes (i.e., protein tyrosine phosphatases and protein tyrosine kinases) without interfering with their native patterns of localization and interaction, and (ii) a set photo-switchable enzymes modulated by blue, red, and infrared light. They will supply a specific set of tools for studying the role of signaling networks associated with diabetes, obesity, and cancer, and develop a general approach for analyzing the contribution of spatially distinct phosphorylation events to cellular function and dysfunction.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1804897</AwardID>
+<Investigator>
+<FirstName>Jerome</FirstName>
+<LastName>Fox</LastName>
+<EmailAddress>Jerome.Fox@colorado.edu</EmailAddress>
+<StartDate>06/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+</Award>
+</rootTag>

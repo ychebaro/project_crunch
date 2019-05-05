@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Accelerating Public Access to Research Data by Research Universities</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>49687.00</AwardTotalIntnAmount>
+<AwardAmount>49687</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Beth Plale</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Creating a robust system for public access to research data and findings requires the active engagement of researchers and their institutions, research sponsors, community data repositories, disciplinary societies, and others.  Building on a widely recognized AAU/APLU Public Access Working Group report, this workshop will convene 20-30 teams of university leaders and researchers to learn about current data sharing practices and emerging tools, evaluate options for supporting and promoting public access to research data on their campuses, and begin cross-institutional discussions to create an interoperable system that accelerates progress in supporting public access to research data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837847</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Reecy</LastName>
+<EmailAddress>jreecy@iastate.edu</EmailAddress>
+<StartDate>06/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tobin</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>Toby_Smith@aau.edu</EmailAddress>
+<StartDate>06/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kacy</FirstName>
+<LastName>Redd</LastName>
+<EmailAddress>kredd@aplu.org</EmailAddress>
+<StartDate>06/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Association of Public and Land-Grant Universities</Name>
+<CityName>Washington</CityName>
+<ZipCode>200054722</ZipCode>
+<PhoneNumber>2024786040</PhoneNumber>
+<StreetAddress>1307 New York Ave NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7414</Code>
+<Text>NSF Public Access Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

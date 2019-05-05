@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>LEAP-HI: Investigation of coupled skull-brain vibroacoustics and ultrasound toward enhanced therapy and diagnosis</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce M. Kramer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Leading Engineering for America's Prosperity, Health, and Infrastructure (LEAP-HI) project promises important improvements in the diagnosis and treatment of brain cancer, brain trauma and cranial defects, the mapping of brain function, and neurostimulation. The award supports fundamental research to overcome current difficulties in guiding acoustical energy through the skull and into the brain in a controlled way.  It will investigate vibration and wave propagation characteristics of the skull-brain system over a broad frequency range, from low frequencies to the ultrasound regime, by using synergistic analytical, computational and experimental methods to thoroughly and systematically investigate the vibration, vibroacoustics, and wave propagation properties of the skull-brain system and explore their relevance to medical diagnosis and therapy. The investigation of the skull and brain as a combined dynamical system will not only advance understanding of ultrasound-based treatments, but also open new possibilities for diagnosis and therapy. Overall, the outcomes of this research project are expected to have broad societal impacts in areas related to the public health, especially for disorders and diseases related to the brain and central nervous system. &lt;br/&gt;&lt;br/&gt;The objective of this interdisciplinary research project is to explore the vibration and ultrasonic wave propagation characteristics of the skull-brain system to improve therapeutics and diagnosis. The specific research questions are: (1) can an in-depth understanding of the coupled vibroacoustics of the skull-brain system be leveraged to more effectively overcome the skull barrier; (2) can the use of Lamb waves and longitudinal bulk waves enable the targeting of currently inaccessible brain regions for therapy; (3) can parametric array effects coupled with modal vibrations of the skull-brain system lead to improved targeting over the therapeutic and imaging frequency ranges? Research activities will be concentrated on the following two major components: (1) feasibility demonstration of spatially phase- and amplitude-modulated Lamb waves for targeting of currently inaccessible brain regions for ultrasound-based treatments, and (2) investigation of parametric ultrasound and acoustic radiation force effects coupled with modal vibrations of the skull-brain system for improved targeting over the therapeutic and imaging frequency ranges. The interdisciplinary research team will be focused on tasks pertaining to Lamb wave-based trans-skull ultrasound transmission and focusing, ultrasound excitation of skull-brain system vibration modes, and finite-amplitude sound propagation effects in the brain.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830577</AwardID>
+<Investigator>
+<FirstName>Massimo</FirstName>
+<LastName>Ruzzene</LastName>
+<EmailAddress>ruzzene@gatech.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Levent</FirstName>
+<LastName>Degertekin</LastName>
+<EmailAddress>levent@gatech.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alper</FirstName>
+<LastName>Erturk</LastName>
+<EmailAddress>alper.erturk@me.gatech.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Konstantinos</FirstName>
+<LastName>Arvanitis</LastName>
+<EmailAddress>costas.arvanitis@gatech.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>068Y</Code>
+<Text>LEAP-HI Leading Engineering fo</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>004E</Code>
+<Text>BIOMEDICAL ENG AND DIAGNOSTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>087E</Code>
+<Text>SENSING &amp; CONTROL</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1051</Code>
+<Text>BIOLOGICAL PHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5345</Code>
+<Text>BIOMEDICAL ENGINEERING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

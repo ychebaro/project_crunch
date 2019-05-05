@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: An innovative virtual reality platform that accurately and rapidly assesses meaningful brain function outside the lab</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project lies not only with athletes, but with the 3 million Americans who suffer a traumatic brain injury each year, and the 40+ million more who are concerned about dementia and seek a way to measure their brain health. Current solutions (typically available only at facilities with trained professionals) assess only significant health changes to cognition. In contrast, our solution provides an affordable, reliable way to measure brain health and to monitor changes after treatment, training, and rehabilitation. Thus, it will be an excellent tool other companies can use to assess various interventions aimed at affecting brain function. The "quantified self" market sells technologies (wearables, DNA tests, software) that collect data to inform and guide health and self-improvement. The total addressable global market is estimated at ~$19B for 2019. The initial target market of customers are those seeking a competitive athletic edge by measuring, tracking, and training cognitive abilities such as reaction time, decision-making, and multitasking. These customers are coaches in high schools, colleges, and high-performance gyms across the US.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will address the need to combine and harness the power of eye-, hand-, and head-tracking instruments, virtual reality, and cognitive neuroscience to accurately measure and monitor brain function. This Phase I SBIR project will complete four technical objectives: (1) to develop a highly controlled testing environment that can accurately measure the time users (athletes) spend on detecting, processing, and acting on different cognitive tasks; (2) to develop software that can collect reliable data from naturalistic inputs; (3) to develop a set of tasks that users can complete within 30 minutes and that will generate sufficient data for analysis; and (4) quickly process, summarize, and contextualize the collected data and report meaningful results to the athletes and their trainers. Successful completion of these objectives will realize a first-of-its-kind product that provides meaningful insight into the brain with laboratory-quality cognitive assessment in a real-world context.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844085</AwardID>
+<Investigator>
+<FirstName>Jeff</FirstName>
+<LastName>Nyquist</LastName>
+<EmailAddress>jnyquist@neurotrainer.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NEUROTRAINER, INC</Name>
+<CityName>SAN FRANCISCO</CityName>
+<ZipCode>941291768</ZipCode>
+<PhoneNumber>8552187246</PhoneNumber>
+<StreetAddress>87 GRAHAM ST STE 160</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+</Award>
+</rootTag>

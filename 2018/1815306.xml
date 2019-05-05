@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Small: A Wireless Backhaul for Multi-Gigabit Picocells Using Steerable Free Space Optics</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>499087</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>It is widely expected that our need for data access and consumption will continue to grow rapidly; some projections estimate a 1000-fold increase in network demand within a decade. To keep pace with this increase, there is a pressing need to develop network infrastructure and technologies that can bring high data rate access to most geographies.  This project proposes to address that challenge by developing a wireless network architecture that facilitates easy deployment of short range cellular networks which can provide very high data rates (up to multiple Gbps) coverage.  Such ease of deployment is particularly useful for temporary-use applications such as natural disasters, wartime zones, etc.  The proposed network architecture is based on free-space optical (FSO) technology and is designed to provide both high bandwidth and high availability networks through the use of novel optical technologies and a richly-connected set of short range links.  This work has the potential to impact design of future cellular (e.g., 5G+) networks, which will enable a rich new set of services and applications for end-users. &lt;br/&gt;&lt;br/&gt;It is anticipated that next generation cellular networks will use picocells with ranges around 100 m and with multi-Gbps capacity. This project considers design of backhaul networks for such picocells to connect them to remote gateways. Unfortunately, known RF based backhaul solutions are unlikely to be able to provide the required data rates at desired ranges. This project explores a backhaul architecture based on free space optical (FSO) links, which can wirelessly deliver high data rates at long ranges, without creating any wireless interference, and thus enable a high-capacity network. To design an FSO-based picocell backhaul network that can effectively handle the outdoor effects, the project employs two strategies, viz., use of many robust short (&lt;100m) links that can handle most weather effects, and use of 'steerable' FSO links to embed sufficient network redundancy with minimal node interfaces.  The project will design and prototype outdoor bi-directional steerable links of varying range (100-500m) and develop a novel tracking and pointing mechanism based on received power strength to handle misalignments due to deployment platforms or atmospheric turbulence. The project addresses area coverage, connectivity to hubs, and tolerance of weather effects by developing efficient algorithms with provable guarantees building upon the researcher's preliminary heuristic-based work, and design techniques to estimate non-trivial upper-bounds for evaluation of developed techniques in practice. For the runtime problem of dynamic network reconfiguration, the project proposes to develop a theoretical framework which will be used to investigate design of provably efficient algorithms for various settings and objectives. Finally, the project will build and evaluate an end-to-end simulation of the proposed architecture, conduct a thorough comparison with other viable approaches, and perform requirements and cost-performance analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815306</AwardID>
+<Investigator>
+<FirstName>Himanshu</FirstName>
+<LastName>Gupta</LastName>
+<EmailAddress>hgupta@cs.stonybrook.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jon</FirstName>
+<LastName>Longtin</LastName>
+<EmailAddress>Jon.Longtin@stonybrook.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>Stony Brook</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>WEST 5510 FRK MEL LIB</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

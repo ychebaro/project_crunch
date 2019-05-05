@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Smart Community Big Data Co-op</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardAmount>295944</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alejandro Suarez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>While many communities have deployed key components needed to deliver smart community services, many cities currently lack the necessary data platforms or staff expertise to handle the complexities of gathering, analyzing, or sharing smart community data. This challenge will become significantly more difficult as sensors, vehicles, and other sources provide more real-time data. Without such platforms, along with modeling and visualization tools, the promise of smart city technologies will remain unattainable, especially for smaller or low-income communities. Big data analytic tools have become a critical missing link to smart community solutions and there is a growing demand from a variety of computer science disciplines, along with industry researchers and municipal governments, to share best practices and best-of-breed tools. Creating an approach that allows for the development of secure, open, flexible, and scalable smart community big data solutions will have lasting societal impact. &lt;br/&gt;&lt;br/&gt;Through the Smart Community Big Data Co-operative (the Co-op), US Ignite will leverage its 100 city, university, industry, and nonprofit partners to design, build and use the important capability of big data sharing to enhance local smart community efforts and generate enhanced community services. Communities are looking to quickly identify current gaps in their real-time data, applications, and modeling tools to design a cohesive smart community strategy with local partners. This current effort will extend this formula to launch new forms of smart community research, applications, and services that benefit end users through open data and data analytics. US Ignite will ensure alignment among all parties interests in supporting big data and smart community applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833146</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Dobler</LastName>
+<EmailAddress>gdobler@udel.edu</EmailAddress>
+<StartDate>04/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nick</FirstName>
+<LastName>Maynard</LastName>
+<EmailAddress>nick.maynard@us-ignite.org</EmailAddress>
+<StartDate>04/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>US Ignite, Inc.</Name>
+<CityName>Washington</CityName>
+<ZipCode>200363846</ZipCode>
+<PhoneNumber>2023659219</PhoneNumber>
+<StreetAddress>1150 18th Street NW, Suite 900</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>024Y</Code>
+<Text>BD Spokes -Big Data Regional I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

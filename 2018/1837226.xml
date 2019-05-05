@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Support for the 51st IEEE/ACM Symposium on Microarchitecture (MICRO)</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuanyuan Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The IEEE/ACM Symposium on Microarchitecture (MICRO) is a flagship conference in the area of computer architecture. The 2018 annual conference, along with several collocated workshops on related topics, will take place in Fukuoka, Japan. The conference is an important venue for reporting current research on important topics addressing grand challenges in computing resulting, e.g., from the impending Moore's law slowdown of performance of computing machines. The topic is the main focus of the program area of the SHF cluster of the CISE/CCF division at NSF, and thus MICRO is a venue where major results of research supported by the program gets presented, discussed, debated and future direction of research are charted. &lt;br/&gt;&lt;br/&gt;This award will support approximately 50 students by defraying part of their cost for travel and attendance for MICRO 2018. Since attendance to MICRO can be viewed as an integral part of computer systems design education and research in academia, the proposal would go a long way towards supporting workforce development in the important area information technology. The conference is also attended by leading researchers from technology companies (e.g., IBM, Intel, Microsoft etc.), and provides a basis for interaction between academia and industry, thus potentially enhancing technology transfer on problems of current and future societal needs. The grants to 50 students seek to enhance the diversity of the attendees, thus maintain a balance between underrepresented and other groups among the participants supported from the grant. Upon completion of the project, the awardee will submit a report to NSF with details of student experiences and the details of the expenditures towards supporting them to attend the conference and workshops collocated with it.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837226</AwardID>
+<Investigator>
+<FirstName>Xiaochen</FirstName>
+<LastName>Guo</LastName>
+<EmailAddress>xig515@lehigh.edu</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lehigh University</Name>
+<CityName>Bethlehem</CityName>
+<ZipCode>180153005</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress>Alumni Building 27</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

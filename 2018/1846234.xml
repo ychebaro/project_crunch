@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Mapping the proteomic landscape of neural systems</AwardTitle>
+<AwardEffectiveDate>02/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>824670.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090200</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Evan Balaban</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The purpose of this research is to reveal changes in the proteins expressed by brain cells of mice that control goal-directed planning, locomotion, and reward-seeking behaviors. Different types of these cells are located in a part of the brain called the striatum, where they are intermixed together. New molecular genetic tools will be used to isolate and characterize the sets of proteins (proteome) of these different striatal neuron types across development, and to track changes in the proteomes of these neurons in response to changes in the incoming information that they receive. Based on this work, new, genetically-modified mouse lines will be generated that will allow members of the wider scientific community to pursue proteomic studies with other cell types in both the brain and the body. A major educational goal involves the development of an enrichment course on imaging neuronal proteins for freshman in a Chicago public high school. Imaging offers young science students an intuitive way to learn about cell biology and cell function. This project will yield deep insights into the development of the striatum, and the ways in which brain circuit activity changes brain circuit function. The tools and analysis systems established by this project will be of broad use in diverse areas of developmental and cellular biology.&lt;br/&gt;&lt;br/&gt;There are few existing techniques for genetically-targeted proteomic studies within native neural circuits that preserve the cellular context of the neurons being studied. This proposal introduces a powerful suite of techniques for unlocking the proteome of any cell type in the brain or in the body. The approach leverages the power of peroxidases, enzymes that can be induced to biotinylate neighboring proteins. This approach is based on the development and application of a new set of flexible recombinant adeno-associated viral vectors (AAVs) that conditionally express a modified peroxidase throughout the cytosol or targeted to neuronal cell sub-compartments. These techniques will be used to address a critical question in neurobiology concerning the development and use-dependent neuromodulation of cell types in the striatum. In addition, new conditional proteomic reporter mouse lines will be created and made available to the scientific community that will have a lasting impact by enabling a new generation of proteomic studies of neurons, glia, and non-neuronal cells.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/04/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846234</AwardID>
+<Investigator>
+<FirstName>Yevgenia</FirstName>
+<LastName>Kozorovitskiy</LastName>
+<EmailAddress>yevgenia.kozorovitskiy@northwestern.edu</EmailAddress>
+<StartDate>02/04/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7712</Code>
+<Text>Organization</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1096</Code>
+<Text>NEURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

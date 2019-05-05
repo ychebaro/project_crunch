@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Medium: Collaborative: Countermeasures Against Side-Channels Attacks Targeting Hardware and Embedded System Implementations of Post-Quantum Cryptographic Algorithms</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardAmount>103888</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Kundu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Quantum computers are believed to have a potential to perform specialized calculations beyond the reach of any supercomputer in existence today, threatening today's major public-key cryptography standards. Post-Quantum Cryptography (PQC) is devoted to the design and analysis of cryptographic algorithms that are resistant against any known attacks using quantum computers, but by themselves can be implemented using classical computing platforms, based on current semiconductor technologies. This project aims to develop effective methods of protecting the implementations of emerging PQC schemes against powerful side-channel attacks based on exploiting power consumption of cryptographic devices and/or intentional transient faults affecting their operation.&lt;br/&gt;&lt;br/&gt;The algorithms to be investigated represent several major PQC families and three major categories of public-key cryptography applications: encryption, digital signature, and key encapsulation mechanism. The goal of the project is to determine the cost of effective countermeasures against power and fault attacks in terms of the commonly accepted software and hardware performance metrics. The research thrusts will (i) investigate the effects of countermeasures against fault attacks on resiliency to power attacks, and (ii) propose solutions to achieve combined fault and power analysis resiliency. The project will involve several significant extensions to preliminarily-developed experimental platform: Flexible Open-source workBench fOr Side-channel analysis (FOBOS).&lt;br/&gt;&lt;br/&gt;Power and fault attacks are real threats to practical implementation of PQC and may significantly thwart the successful transition to new standards. This project will investigate systematic, long-term study of countermeasures against these attacks, which may make transition to PQC more secure, benefiting Internet users worldwide. The outreach activities will include motivational lectures at high schools, promoting and supervising undergraduate research, and organizing a series of international competitions for graduate students. The knowledge and experience gained will be integrated into several course modules, developed jointly by all investigators and shared on-line.&lt;br/&gt;&lt;br/&gt;It is expected that multiple algorithms, computer-aided design tools, software programs, and hardware designs will be developed throughout the project period. Project deliverables will be made available to researchers and educators in the non-profit sector, such as universities, research institutions, and government laboratories. To make it easy to maintain, disseminate, and distribute code and data from this project, a single server will be dedicated to keeping all the draft and final copies of the deliverables. This server will be maintained through the project period and additional five years beyond. The project website will be continuously available at http://www.pqcSCA.com.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801341</AwardID>
+<Investigator>
+<FirstName>Mehrdad</FirstName>
+<LastName>Nojoumian</LastName>
+<EmailAddress>mnojoumian@fau.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Reza</FirstName>
+<LastName>Azarderakhsh</LastName>
+<EmailAddress>razarderakhsh@fau.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Atlantic University</Name>
+<CityName>BOCA RATON</CityName>
+<ZipCode>334316424</ZipCode>
+<PhoneNumber>5612970777</PhoneNumber>
+<StreetAddress>777 GLADES RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

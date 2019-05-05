@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Rejuvenating the English Lexicon Project</AwardTitle>
+<AwardEffectiveDate>01/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardAmount>23074</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty Tuller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Two decades ago, the National Science Foundation supported the development of the English Lexicon Project (ELP), a critical database for researchers exploring how people read. The ELP affords measures of word recognition for over 40,000 words across over 1200 participants that were collected at six universities. Importantly, these data are made available to the wider research community via a user-friendly website at elexicon.wust.edu.  Using the database, researchers can select stimuli with specific characteristics for experiments exploring the nature of reading and its neural underpinnings. Moreover, the database has been important in identifying new variables that influence the reading process.  The impact of this database on research is exemplified by the over 1600 (google scholar) citations to the original (2007) publication describing the project.  The website is accessed approximately 250 times each week from researchers worldwide.  This is a prime example of how big data can have a substantial impact on a theoretically important area that has clear applied implications, i.e., how individuals read words.  &lt;br/&gt;&lt;br/&gt;This ELP is being run on an outdated computer that has outlived its life expectancy and the original software interface is no longer supported.  This proposal is to rewrite the programs for the user interface using current  software supported by  a virtual computer system within the  Department of Psychological and Brain Sciences at Washington University.  This will ensure the database remains available to the psycholinguistic community.</AbstractNarration>
+<MinAmdLetterDate>01/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822232</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Balota</LastName>
+<EmailAddress>dbalota@wustl.edu</EmailAddress>
+<StartDate>01/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington University</Name>
+<CityName>Saint Louis</CityName>
+<ZipCode>631304862</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress>CAMPUS BOX 1054</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7252</Code>
+<Text>PERCEPTION, ACTION &amp; COGNITION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6867</Code>
+<Text>INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7252</Code>
+<Text>Perception, Action and Cognition</Text>
+</ProgramReference>
+</Award>
+</rootTag>

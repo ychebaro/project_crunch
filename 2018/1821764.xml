@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Support for the 2018 ACM International Conference on Management of Data (SIGMOD-2018)</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides support for about 16 students from U.S.-based institutions to attend the 2018 ACM SIGMOD International Conference on Management of Data, to be held in Houston, TX, USA (https://sigmod2018.org/) from June 10 to June 15, 2018. The provided support enables the students  to attend the conference and discuss and disseminate their work. The conference also provides an opportunity for the students to interact with other students and senior researchers and form future national and international scientific collaborators. One of the SIGMOD goals it to broader participation of underrepresented students in database research and an effort will be made to have a diverse group of the supported students.&lt;br/&gt;&lt;br/&gt;The SIGMOD conference, which was established in 1975, has a dynamic and comprehensive program for publication, education, and interaction, including research papers, tutorials, panels, industrial papers, technical demonstrations, and undergraduate research papers. The program includes publications relating to all aspects of data management defined broadly, and particularly encourages publications on topics of emerging interest in the research and development communities. The program also includes workshops on topics relevant to current data management research and development, industrial exhibits, and keynote talks by leaders in academia and industry. All these activities provide a unique opportunity for students to share their knowledge, experience, and research work with internationally recognized researchers from both academia and industry. In recent years, more than 600 researchers attended SIGMOD, and the same is expected this year. SIGMOD Proceedings will be accessible via the ACM Digital Library.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821764</AwardID>
+<Investigator>
+<FirstName>Parth</FirstName>
+<LastName>Nagarkar</LastName>
+<EmailAddress>nagarkar@nmsu.edu</EmailAddress>
+<StartDate>03/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico State University</Name>
+<CityName>Las Cruces</CityName>
+<ZipCode>880038002</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress>Corner of Espina St. &amp; Stewart</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

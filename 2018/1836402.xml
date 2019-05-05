@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel for 2018 USENIX Research Conferences: NSDI 2018, USENIX ATC 2018, USENIX Security Symposium 2018, and OSDI 2018</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>90000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>USENIX conferences gathers researchers from across the academic, government, and industry communities to foster cross-disciplinary approaches and to address shared research challenges. This cross-disciplinary emphasis makes it well-suited as a target for student participation, and the important topics addressed in these conferences encourage student research and collaboration in critical areas of&lt;br/&gt;advanced computing. The support requested in this proposal will enable the participation of students who would otherwise be unable to attend the conference, and extends the impact of research presented to a broad audience of young researchers from across the country.&lt;br/&gt;&lt;br/&gt;To help increase the representation and participation of these students, this proposal requests funding to assist approximately 20-25 US-based graduate students to attend each of the following events:&lt;br/&gt; &lt;br/&gt;15th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2018).&lt;br/&gt;&lt;br/&gt;USENIX Annual Technical Conference (ATC 2018). &lt;br/&gt;&lt;br/&gt;USENIX Security Symposium (Security 2018).&lt;br/&gt;&lt;br/&gt;13th USENIX Symposium on Operating Systems Design and Implementation (OSDI 2018). &lt;br/&gt;&lt;br/&gt;The knowledge shared and advanced at these conferences has practical and meaningful applications to a broad variety of things used in daily life such as household appliances, cars, cell phones, airplanes and public transit, as well as to the ethical, cultural, and social ramifications of computing technology&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836402</AwardID>
+<Investigator>
+<FirstName>Camille</FirstName>
+<LastName>Mulligan</LastName>
+<EmailAddress>camille@usenix.org</EmailAddress>
+<StartDate>05/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>USENIX Association</Name>
+<CityName>Berkeley</CityName>
+<ZipCode>947102565</ZipCode>
+<PhoneNumber>5105288649</PhoneNumber>
+<StreetAddress>2560 9th Street Suite 215</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

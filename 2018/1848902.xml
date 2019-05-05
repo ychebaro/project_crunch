@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Meeting Support for the 2018 OSA Defects by Design: Quantum Nanophotonics in Emerging Materials Incubator, To Be Held October, 28-30, 2018, Washington, DC</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>16000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique M. Dagenais</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The grant supports the 2018 OSA Defects by Design: Quantum Nanophotonics in Emerging Materials Incubator, held on 28-30 October 2018 in Washington, DC. Ideas generated in this meeting could aid in the discovery of new quantum interfaces that would facilitate the practical realization of large-scale networks for secure quantum communication and computation, improving national security and increasing the economic competitiveness of the US. This may lead to a number of commercially important areas of applied photonics, including nanophotonic devices, magnetometry, and biosensing, and will assure the continued growth of those application areas in the US.&lt;br/&gt;The goal of the Incubator is to establish new directions for research with optically-active semiconductor defects that take advantage of the unique properties afforded by emerging materials. This Incubator will consider the opportunities and challenges for predicting, identifying, isolating, and utilizing promising new defect systems, particularly those in materials with unique optical, electrical, and mechanical properties. The program includes experts&lt;br/&gt;in related areas of semiconductor defect science (e.g. for electronics, solid-state lighting, and laser physics), two-dimensional materials, and techniques for atomic-scale fabrication and characterization.&lt;br/&gt;The organizers expect that discussions between these experts will generate new ideas for predicting, creating, and identifying defects that will propel the field forward in coming years.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848902</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Duncan</LastName>
+<EmailAddress>mduncan@osa.org</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Optical Society of America</Name>
+<CityName>Washington</CityName>
+<ZipCode>200361012</ZipCode>
+<PhoneNumber>2024166102</PhoneNumber>
+<StreetAddress>2010 Massachusetts Avenue NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>091E</Code>
+<Text>Light generation &amp; detection</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>095E</Code>
+<Text>Photonic integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

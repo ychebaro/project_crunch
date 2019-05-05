@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Network Design and Implementation for Small Institutions: The Tommie Science Network- A dedicated research network for the University of St. Thomas</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>390671</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin L. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The University of St. Thomas, in conjunction with the University of Minnesota's Gopher Science Network Team, is building the Tommie Science Network, a dedicated research network that transforms the campus research environment by providing a reliable and secure high-speed research network capable of achieving sustained transmission rates of up to 100 Gigabits per second (Gbps) between campus research locations and Internet2 (I2). This project creates efficiencies in end-to-end workflows between existing instrumentation facilities and research centers, centralized computing and data storage facilities, and partner institutions. It significantly increases bandwidth available to researchers, allowing the St. Thomas community to fully participate in collaborative, global research activity, and provides a world-class working environment for professors and students to practice distributed research and collaboration techniques to learn skills they will use in their future employment.&lt;br/&gt;&lt;br/&gt;The Tommie Science Network connects Owens Science Hall, O'Shaughnessy Science Hall and the St. Thomas E-learning and Research center (STELAR) via high-speed access layer switches linked to the network core at 80Gbps. Traffic on the Tommie Science Network then bypasses the firewall to connect directly to I2 at 100Gbps via the Northern Lights Gigapop. Laboratories and research locations in the science halls and STELAR are connected at 10Gbps to the access layer switches. Globus File Transfer Protocol is used to allow secure, reliable high-speed transfers between the science buildings, the DMZ, and I2. PerfSonar is used to monitor performance between the science buildings and the and Science Demilitarized Zone (Science DMZ) as well as from the DMZ to Internet2. The St. Thomas networking staff is responsible for ongoing operations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827151</AwardID>
+<Investigator>
+<FirstName>Chih</FirstName>
+<LastName>Lai</LastName>
+<EmailAddress>clai@stthomas.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Tornoe</LastName>
+<EmailAddress>ejtornoe@stthomas.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edmund</FirstName>
+<LastName>Clark</LastName>
+<EmailAddress>edmund.clark@stthomas.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Bear</LastName>
+<EmailAddress>william.bear@stthomas.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kemal</FirstName>
+<LastName>Badur</LastName>
+<EmailAddress>kemal@umn.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of St. Thomas</Name>
+<CityName>St. Paul</CityName>
+<ZipCode>551051096</ZipCode>
+<PhoneNumber>6519626038</PhoneNumber>
+<StreetAddress>2115 Summit Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+</Award>
+</rootTag>

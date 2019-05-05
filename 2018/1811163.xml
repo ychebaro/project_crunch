@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Advancing the Design of Visualizations for Informal Science Engagement</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>249677.00</AwardTotalIntnAmount>
+<AwardAmount>249677</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chia Shen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As part of its overall strategy to enhance learning in informal environments, the Advancing Informal STEM Learning (AISL) program seeks to advance new approaches to, and evidence-based understanding of, the design and development of STEM learning in informal environments. This includes providing multiple pathways for broadening access to and engagement in STEM learning experiences, advancing innovative research on and assessment of STEM learning in informal environments, and developing understandings of deeper learning by participants.  This project is a two-day conference, along with pre- and post-conference activities, with the goal of furthering the informal science learning field's review of the research and development that has been conducted on data visualizations that have been used to help the public better understand and become more engaged in science.  The project will address an urgent need in informal science education, providing a critical first step towards a synthesis of research and technology development in visualization and, thus, to inform and accelerate work in the field in this significant and rapidly changing domain.&lt;br/&gt;&lt;br/&gt;The project will start with a Delphi study by the project evaluator prior to the conference to provide an Emerging Field Assessment on data visualization work to date. Then, a two-day conference at the Exploratorium in San Francisco and related activities will bring together AISL-funded PIs, computer scientists, cognitive scientists, designers, and technology developers to (a) synthesize work to date, (b) bring in relevant research from fields outside of informal learning, and (c) identify remaining knowledge gaps for further research and development. The project team will also develop a website with videos of all presentations, conference documentation, resources, and links to social media communities; and a post-conference publication mapping the state of the field, key findings, and promising technologies. &lt;br/&gt;&lt;br/&gt;The initiative also has a goal to broaden participation, as the attendees will include a diverse cadre of professionals in the field who contribute to data visualization work.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811163</AwardID>
+<Investigator>
+<FirstName>Joyce</FirstName>
+<LastName>Ma</LastName>
+<EmailAddress>joycem@exploratorium.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Frazier</LastName>
+<EmailAddress>jfrazier@exploratorium.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Exploratorium</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941111455</ZipCode>
+<PhoneNumber>4155284444</PhoneNumber>
+<StreetAddress>17 Pier</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7259</Code>
+<Text>AISL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

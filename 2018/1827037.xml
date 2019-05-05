@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CREST-Postdoctoral Research Fellowship: Magnetic Resonance Spectroscopy of Confined Fluids Using Nitrogen Vacancy Centers</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Regina Sievert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Centers of Research Excellence in Science and Technology-Postdoctoral Research Fellowship (CREST-PRF) track within the NSF-CREST program affords support to beginning CREST Center post-doctoral investigators with significant potential, funding opportunities for training and research experiences to broaden their perspectives, facilitate interdisciplinary interactions, and assist them in establishing positions of leadership within the scientific community. The CREST-PRF research project titled "Magnetic Resonance Spectroscopy of Confined Fluids Using Nitrogen Vacancy Centers" aligns with the goals of the PRF program and the CREST Center for Interface Design and Engineered Assembly of Low-Dimensional Systems (IDEALS) at CUNY City College of New York, where it is housed. The project's work focuses on the study of fluid dynamics at nanoscale volumes, an area of research of broad interest across scientific disciplines and with a high potential to generate benefits to society. Collaborations with other researchers, in both international and domestic laboratories, will enhance the progress of the work. Outreach to area schools will provide opportunities for high school students to be exposed to cutting edge STEM research.&lt;br/&gt;&lt;br/&gt;The project's main goal is the empirical characterization of confined fluids as the dynamic transitions from bulk-dominated to interface-dominated. The work employs a novel technique, utilizing Nitrogen Vacancy Centers (NVCs) in diamonds to confine nanoscale volumes of fluids, to enable their study using magnetic resonance spectroscopy. Extending previous work, the superb spin properties and unmatched spatial resolution of NVCs can be used to perform magnetic resonance spectroscopy on fluid volumes orders of magnitude smaller than what is feasible with standard means. With established techniques of dynamic decoupling and correlation spectroscopy, the diffusion dynamics of the fluid of interest can be probed, providing great insight into this poorly understood regime. Experiments with NVCs bring together specialized fields including semiconductor physics, atomic physics, magnetic resonance, quantum optics, and quantum information processing. Knowledge generated and processes developed through the project's work will be broadly applicable to innovations beneficial to society, ranging from energy storage to biomedical technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827037</AwardID>
+<Investigator>
+<FirstName>Jacob</FirstName>
+<LastName>Henshaw</LastName>
+<EmailAddress/>
+<StartDate>11/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Henshaw                 Jacob          D</Name>
+<CityName>New York</CityName>
+<ZipCode>100354012</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9131</Code>
+<Text>CENTERS FOR RSCH EXCELL IN S&amp;T</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

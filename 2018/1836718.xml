@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Defining a molecular mechanism for paralogous compensation</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>247758</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Arcady Mushegian</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to study gene-pairs, and how the expression of one gene changes when the expression of the other gene in the pair is reduced or lost. This process, called paralogous compensation, is commonly observed in biology, but is poorly understood. Understanding how this process works inside the cell will provide insight into how cells sense and respond to changes in gene expression, and more broadly will define how gene expression changes in the course of evolution. This project will also train students in new genome-editing technology, which is a method to alter the DNA sequence of cells in a very specific and controlled manner. The technology is expected to have a major impact upon biological research in the coming years, and the students trained will be among the first to learn this technology in a classroom setting.&lt;br/&gt;&lt;br/&gt;The specific goals for this project are to understand how expression of one gene changes when the function of a related gene is lost, a process termed paralogous compensation, and can contribute to genetic redundancy. This research will help to determine how the expression of duplicate genes changes during evolution, and will be informative in determining how cells detect and respond to changes in gene expression. To define what component of the first gene needs to be non-functional to trigger expression of the second gene (for example, accumulation of mRNA or of protein from the primary gene), different mutant versions of the primary gene will be created and expressed in a mutant background for the primary gene. The engineered lines will be analyzed to define the circumstances under which paralogous compensation is triggered in the cell. In parallel, the transcriptional regulation of the secondary gene will be analyzed, in order to define sequences and regulatory factors that control the different phases of the expression of the secondary gene. The studies will provide mechanistic insight into the common but relatively understudied process of paralogous compensation. In Broader Impacts, undergraduate and graduate students will learn new CRISPR-based genome editing technology, in a hands-on curriculum where students knock out Drosophila genes. The class trains students in molecular, genetic and genome editing techniques and approaches.</AbstractNarration>
+<MinAmdLetterDate>05/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836718</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Cripps</LastName>
+<EmailAddress>rcripps@unm.edu</EmailAddress>
+<StartDate>05/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Diego State University Foundation</Name>
+<CityName>San Diego</CityName>
+<ZipCode>921822190</ZipCode>
+<PhoneNumber>6195945731</PhoneNumber>
+<StreetAddress>5250 Campanile Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

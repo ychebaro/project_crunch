@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Community Planning for Scalable Cyberinfrastructure to Support Multi-Messenger Astrophysics</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>23301.00</AwardTotalIntnAmount>
+<AwardAmount>23301</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Multi-Messenger Astrophysics (MMA) is an exciting new field of science that combines traditional astronomy with the brand new ability to measure phenomena such as gravitational waves and high-energy neutrino particles that originate from celestial objects. MMA was galvanized when the collision of two neutron stars (labeled GW/GRB 170817A) was detected last year by multiple large science instruments including the NSF-funded Laser Interferometer Gravitational-wave Observatory (LIGO), its sister gravitational wave observatory VIRGO in Italy, NASA's Fermi gamma-ray telescope in space, and many other optical and radio telescopes world-wide. These multiple measurements of just one event improved our estimate of the speed of gravity to phenomenal precision, confirmed that neutron star mergers are the origin of the heavier atomic elements, and gave us a measurement of the radii of neutron stars to about one kilometer accuracy. Over the next decade, LIGO will identify dozens of such events per year. In parallel, the NSF-supported IceCube neutrino observatory at the U.S. South Pole Station and other neutrino and cosmic ray observatories are detecting high-energy cosmic rays from distant cosmological sources; and the new NSF-led Large Synoptic Survey Telescope and upcoming radio astronomy facilities will come online to survey the skies with unprecedented speed and depth throughout the Universe. While each kind of astronomical observing system will bring fascinating new discoveries, it is in their combination - through MMA - that transformative new insights into some of the most fundamental questions about the Universe can be realized: What is the nature of the highest-energy cosmic particle accelerators? What are the properties of cold and hot bulk matter at supra-nuclear densities? How do black holes form and evolve, across their full range of masses, and throughout cosmic time?&lt;br/&gt; &lt;br/&gt;The promise of Multi-Messenger Astrophysics can be realized only if sufficient cyberinfrastructure is available to rapidly handle, combine, and analyze the very large-scale distributed data from all the types of astronomical measurements. This project seeks to carry out community planning for scalable cyberinfrastructure to support MMA. The primary goal is to identify the key questions and cyberinfrastructure projects required by the community to take full advantage of the substantial investments in current facilities, and to realize the enormous potential of the multiple imminent next-generation projects over the decade to come. Two products of the project will be: 1) a community white paper that presents an in-depth analysis of the cyberinfrastructure needs and the opportunities for collaborations among astronomers, computer scientists, and data scientists; and 2) a strategic plan for a scalable cyberinfrastructure institute for multi-messenger astrophysics laying out its proposed mission, identifying the highest priority areas for cyberinfrastructure research and development for the US-based multi-messenger astrophysics community, and presenting a strategy for managing and evolving a set of services that benefits and engages the entire community.&lt;br/&gt; &lt;br/&gt;This project advances the objectives of the National Strategic Computing Initiative (NSCI) and the objectives of "Harnessing the Data Revolution" and "Windows on the Universe, two of the 10 Big Ideas for Future NSF Investments.&lt;br/&gt; &lt;br/&gt;This project is supported by the Office of Advanced Cyberinfrastructure in the Directorate for Computer &amp; Information Science &amp; Engineering and the Division of Astronomical Sciences and the Division of Physics in the Directorate of Mathematical &amp; Physical Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841586</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Brazier</LastName>
+<EmailAddress>abrazier@astro.cornell.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1798</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>7244</Code>
+<Text>COMPUTATIONAL PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7684</Code>
+<Text>CESER-Cyberinfrastructure for</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>020Z</Code>
+<Text>OAC Facility Cyberinfrastructure</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

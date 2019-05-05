@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAISE-EQuIP: Integrated Higher-Dimensional Quantum Photonic Platform</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>749999.00</AwardTotalIntnAmount>
+<AwardAmount>749999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical description:&lt;br/&gt;Quantum information science, which utilizes the inherent principles of quantum mechanics, is leading the next revolution of electronic and photonic technologies with application in computing, communication, and sensing. Integrated quantum communication systems that go beyond the individual devices and components, are crucial to continue pushing the frontier of quantum information science. Novel approaches towards effective device integration into quantum technologies become necessary. In this project, the investigators will leverage the state-of-the-art integrated photonics technology to develop a disruptive integrated quantum photonic platform. The developed higher-dimensional control of photons will deliver high-density information capacity and a higher level of security against quantum hacking, as needed for quantum communication. This research is closely integrated with the existing educational activities, providing both undergraduate and graduate students with the opportunity to participate in cutting-edge science and technology in an innovative way. The investigators also provide educational outreach activities to promote the interests and participations of K-12 students and broaden the participations from underrepresented groups. &lt;br/&gt;&lt;br/&gt;Technical description: &lt;br/&gt;With funding from the Electrical, Communications and Cyber Systems Division, the investigators from the University of Pennsylvania and Stevens Institute of Technology are developing a disruptive integrated higher-dimensional quantum photonic platform based upon twisted single photons, ranging from deterministic twisted single-photon emission, to transmission and high-fidelity detection. The elusive symmetry and topology of twisted single photons will be explored, together with their interplay with quantum materials and device geometry, to produce efficient signal generation and high-fidelity detection of quantum qudits. To engineer the media-links between qudits' emitter and receiver enabling the fully integrated quantum system, novel optical fiber configurations will be investigated to support simultaneous transmission of multiple twisted photons. The investigators have highly complementary expertise on deterministic quantum emitters, integrated lasing and photo-detection, which will be actively synergized to perform high-density quantum key distribution with twisted single-photons, featuring the increased information capacity and enhanced robustness against eavesdropping and quantum cloning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842612</AwardID>
+<Investigator>
+<FirstName>Ritesh</FirstName>
+<LastName>Agarwal</LastName>
+<EmailAddress>riteshag@seas.upenn.edu</EmailAddress>
+<StartDate>09/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stefan</FirstName>
+<LastName>Strauf</LastName>
+<EmailAddress>strauf@stevens.edu</EmailAddress>
+<StartDate>09/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Feng</LastName>
+<EmailAddress>fenglia@seas.upenn.edu</EmailAddress>
+<StartDate>09/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1385</Code>
+<Text>SPECIAL STUDIES AND ANALYSES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>093E</Code>
+<Text>System fab/packaging &amp; assembly</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>095E</Code>
+<Text>Photonic integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>096E</Code>
+<Text>High freq comm/sensing circuits</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>106E</Code>
+<Text>Mixed signal technologies</Text>
+</ProgramReference>
+</Award>
+</rootTag>

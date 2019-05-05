@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Reducing and Managing spring frost damage</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project focuses on maximizing resources for frost defense, reducing yield loss, improving quality, supporting decision-making, and reducing frost management cost for grapes and stone fruits.  Cold periods and frost episodes are still one of the worst enemies of grape and stone fruit production worldwide.  Grape and orchard production are highly linked to climatic conditions, making sub-seasonal weather variability and its connections to climate change a challenging issue for this economic sector. Growers may presently deploy fossil fuel heaters, sprinkler systems, the downward draft from helicopters and wind machines to fight spring frost damage. These methods are usually costly, some create environmental concerns, and in many cases they may be limited by water availability and area coverage.  Altering timing of bud break stages that are susceptible to frost injury appears to be a viable alternative to cope with current and emerging challenges of climate change. The proposed I-Corp program explores implementation and commercialization opportunities of an end-to-end solution. The innovation combines a bioactive, non-toxic biodegradable encapsulation technology (spray) that alters internal grapevine physiology and promotes bud break delay. A predictive analytic system provides recommendations to make informed decisions about frost risk management.&lt;br/&gt; &lt;br/&gt;This I-Corps project is based on a series of studies that have combined pruning management, biophysical and biochemical factors influencing the endogenous regulation of bud break, and resistance to cold injury.  In addition, the project combines this knowledge with an analytic data platform (software) that will analyze plant development as a function of environmental temperature (phenology), topographic and soil data, at the farm level.  Combination with global and regional patterns of climate patterns will aid understanding climate variability at high spatial and temporal scale. This platform will allow better prediction for decision making at the vineyard and orchard level to reduce some of the most significant challenges associated with prediction reliability about bud break and risk of frost.  Moreover, this predictive analytic system will be the foundation for continued innovation in tools and services to support decision-making to adapt growing practices, and to preserve sustainability due to already observed and worsening climate change impacts.  The I-Corp process will also be used to refine our understanding of customer value, willingness to pay and the cost of the best current alternatives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824074</AwardID>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>West</LastName>
+<EmailAddress>rwest@illinois.edu</EmailAddress>
+<StartDate>03/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>Champaign</CityName>
+<ZipCode>618207406</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>1901 South First Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

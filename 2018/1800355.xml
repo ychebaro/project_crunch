@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Local Cohomology and Related Questions</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janet Striuli</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports research into a number of striking connections between algebra and several other quite diverse areas of mathematics. The discovery of a connection between two different areas of mathematics holds a potential for enriching both of them by making available new sets of techniques for attacking old problems. This often yields striking results that even after many years remain inaccessible by old techniques. For example, twenty-five years ago the principal investigator solved a long standing open problem in algebra using techniques from a very different area. That has initiated a period of fruitful applications of those techniques to algebra. This award will support continuing research into these and  related questions. Advising students, mentoring postdocs, and giving invited talks at conferences are going to be part of the proposed activity.&lt;br/&gt;&lt;br/&gt;This project aims at achieving a better understanding of a number of interrelated problems such as the structure and algorithmic computation of local cohomology modules, De Rham homology and cohomology of algebraic varieties, the absolute integral closure of a local domain in mixed characteristic, Matlis duals of local cohomology modules, tight closure and some other. Local cohomology is the common thread that runs through all these problems and connects them to each other. The principal methods to be employed are D-modules and F-modules whose use in commutative algebra has been pioneered by the investigator. Advising students, mentoring postdocs, and giving invited talks at conferences are going to be part of the proposed activity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800355</AwardID>
+<Investigator>
+<FirstName>Gennady</FirstName>
+<LastName>Lyubeznik</LastName>
+<EmailAddress>gennady@math.umn.edu</EmailAddress>
+<StartDate>07/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

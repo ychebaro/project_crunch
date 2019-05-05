@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Intelligent Traffic Management System</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamular Mccauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will be significant reductions in traffic congestion, vehicle crash risk, and fuel consumption. This will potentially have large economic benefits as traffic congestion causes significant costs to the economy. It is anticipated that intelligent traffic incident management system will be used by state departments of transportation (DOTs) to reduce the duration and impacts of incidents and improve the safety of motorists, crash victims, and emergency responders. Additional benefits to the DOTs will be: reduced personnel training needs, improved workload conditions, and increased worker retention rates.  State, municipal and city agencies managing traffic will use this solution as a smart and reliable decision-assist system to monitor traffic conditions in real time, proactively control risk using advisory control, quickly detect traffic incidents, identify the location and potential cause of incidents, suggest traffic control alternatives, and minimize cognitive bottlenecks for traffic incident management operators.&lt;br/&gt;&lt;br/&gt;This I-Corps project is focused on understanding the product-market fit for intelligent traffic management systems. The proposed system uses novel machine learning techniques and graph-based trend filtering approaches for anomaly detection and state estimation for massive, spatially correlated, multi-dimensional time series data obtained from sensors that monitor the traffic networks. These approaches have been shown to be superior to the state-of-the-art approaches for detecting faulty sensors and quickly reporting traffic incidents. An advanced human-machine interface will also be provided for the Intelligent Traffic Management system with the aim to reduce the Visual, Auditory, Cognitive and Psychomotor (VACP) workload of the Traffic Incident Managers. The system data architecture uses state-of-the-art data pipelines for data ingestion, massively parallel methods for stream and batch analytics, distributed databases for scalable data storage, and GPU-augmented methods for fast data visualization of large volumes of data.</AbstractNarration>
+<MinAmdLetterDate>11/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800452</AwardID>
+<Investigator>
+<FirstName>Anuj</FirstName>
+<LastName>Sharma</LastName>
+<EmailAddress>anujs@iastate.edu</EmailAddress>
+<StartDate>11/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

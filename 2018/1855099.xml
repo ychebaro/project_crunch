@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BIGDATA: F: Collaborative Research: Taming Big Networks via Embedding</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>499879</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In the Internet Age, information entities and objects are interconnected, thereby forming gigantic information networks. Recently, network embedding methods, that create low-dimensional feature representations that preserve the structure of data points in their original space, have been shown to be greatly beneficial for many data mining and machine learning problems over networks. Despite significant research progress, we are still lacking powerful network embedding techniques with theoretical guarantees to effectively deal with massive, heterogeneous, complex and dynamic networks. The PIs aim to develop a new generation of network embedding methods for analyzing massive networks. The research project has the potential to significantly transform graph mining and network analysis. The PIs also plan to develop open course materials and open source software tools that integrate information network analysis and machine learning. &lt;br/&gt;&lt;br/&gt;This project consists of four synergistic research thrusts. First, it develops model-based network embedding to leverage the first-order and second-order proximity of networks. Second, it devises a family of inductive network embedding methods that are able to leverage both linkage information and side information. Third, it develops both local clustering and deep learning based network embedding methods to attack the complex structure of networks such as locality and non-linearity. Fourth, it develops online and stochastic optimization algorithms for different network embedding methods to tackle the fast growth and evolution of modern massive networks. The new methods developed in this project enjoy faster rates of convergence in optimization, lower computational complexities, and statistical learning guarantees. The targeted applications include but are not limited to semantic search and information retrieval in social/information network analysis, expert finding in bibliographical database, and recommendation systems.</AbstractNarration>
+<MinAmdLetterDate>10/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>10/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855099</AwardID>
+<Investigator>
+<FirstName>Quanquan</FirstName>
+<LastName>Gu</LastName>
+<EmailAddress>qgu@cs.ucla.edu</EmailAddress>
+<StartDate>10/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

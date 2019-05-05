@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Multidimensional Spectromicroscopy of Molecular Magnetism</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>184000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Abstract: The exchange coupling is a fundamental property of the electron spins. The magnitude and sign of exchange coupling define the strength and direction of the interaction between spins, essential for the understanding of a variety of magnetic and spintronic phenomena. But so far the spatial dependence of exchange coupling has not been measured. This project uses homemade instruments and advanced calculations to probe in unprecedented details the exchange interactions among magnetic atoms and molecules. These activities provide fertile grounds for the training of researchers. Results from this research are transferred into the classroom for the teaching of quantum mechanics to undergraduate students in physics and engineering. In addition, the goal is to increase impact by transfer of selected results to the textbooks, similarly to previous results from the scanning tunneling microscope obtained by the investigators. Results may be applied in future magnetic technologies. Extensive commitments are made in the training of undergraduate students as summer interns and outreaching activities with the Hispanic middle school students in Southern California.&lt;br/&gt;&lt;br/&gt;Technical Abstract: The Hamiltonian for a quantized spin system formed by interacting magnetic atoms and molecules adsorbed on a solid surface yields an energy spectrum (E) that depends on the exchange interaction J and the magnetic anisotropy (A). This project probes J and A between magnetic entities in four dimensions (E,x,y,z) with a homemade ultrahigh vacuum scanning tunneling microscope (STM) at 600 mK and up to 9 Tesla magnetic field. The study of the continuous interactions between two spin entities is achieved by attaching a magnetic molecule to the STM tip to sense different magnetic entities on the surface, from an isolated magnetic atom or molecule (such as metallocenes, porphyrins, and phthalocyanines) to nanoscale assemblies. The E-spectra at different tip locations, perpendicular and parallel to the surface, give the spatial dependence of J and A, and their visualization through spectromicroscopy. This project combines a joint experimental and theoretical effort to measure and understand the new information contained in the spin-spin coupling in four dimensions. The well-defined conditions of the probed systems enable rigorous comparison between experiment and theory to effectively understand spin-spin coupling at the most fundamental level. This effort has been impeded in the past due to unavailability of reliable, quantitative data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1809127</AwardID>
+<Investigator>
+<FirstName>Wilson</FirstName>
+<LastName>Ho</LastName>
+<EmailAddress>wilsonho@uci.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ruqian</FirstName>
+<LastName>Wu</LastName>
+<EmailAddress>wur@uci.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

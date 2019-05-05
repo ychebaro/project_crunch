@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Thiol-Thioester Dynamic Covalent Chemistry in Polymer Networks</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>455576</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Suk-Wah Tam-Chang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>There are two broad categories of synthetic polymers familiar to everyday use.  Thermoplastics (typically abbreviated simply as "plastics") are versatile and can be melted, dissolved, remolded and recycled.  In contrast, thermosets are typically harder materials that are solvent and heat resistant and but cannot generally be reprocessed or recycled after their initial formation.  Prof. Christopher Bowman at the University of Colorado is exploring the use of dynamic covalent chemistry approaches to transition between these two states of matter.  In dynamic covalent chemistry as implemented here, upon application of a desired stimulus such as exposure to light or heat, chemical bond structures become activated - repeatedly breaking and reforming the bonds within the polymer structure in a manner that converts one type of polymer to the other. This project investigates the fundamental relationships between the polymer structure and the inherent aspects of the dynamic covalent chemistry including the reactive chemical functional group, the catalysts used to facilitate the reaction, the kinetics of the reaction, and the concentration of the dynamic covalent bond. This project investigates fundamental phenomena of synthetic and polymer chemistry as well as demonstrable advancement of applied science all while providing profound educational experiences for graduate and undergraduate students alike.  Further, the project trains diverse personnel, comprising a large number of undergraduate and graduate students, in a unique combination of chemical synthesis, materials science, and polymer chemistry.&lt;br/&gt;&lt;br/&gt;Supported by the Macromolecular, Supramolecular and Nanochemistry Program of the NSF Chemistry Division, the Bowman research team aims to implement the thiol-thioester exchange reaction as a photoactivatable and photodeactivatable dynamic covalent chemistry in crosslinked polymer networks.  The project focuses on understanding chemical structure-property relationships that arise with changes to the thioester, catalyst and polymer molecular structures and their impact on the covalent bond exchange rate. Fundamental understanding of the thiol-thioester exchange reaction and the kinetics of its catalysis in a non-polar, relatively immobile environment allows researchers to fine-tune the desired bond exchange process and the corresponding dynamic polymer properties. Combinations of various exogenously delivered stimuli (i.e., different wavelengths of light, addition or removal of heat) are used to control the activation of compounds within the network that catalyze the dynamic covalent chemistry between pendant thiol groups and thioester crosslinks and to arrest the exchange reaction with orthogonal stimuli. Specifically, dual handles of light and heat-based stimuli for starting and stopping the dynamic covalent chemistry are developed. Taking advantage of the thiol/thioester exchange reaction the Bowman research team aims to create covalently crosslinked polymers that are capable of user-directed, reversible transitions from rigid thermoset to malleable thermoplastic that has applications in optical materials, additive manufacturing, and adhesives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808484</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Bowman</LastName>
+<EmailAddress>christopher.bowman@colorado.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

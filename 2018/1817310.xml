@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSHL Synthetic Biology Course</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>192579</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Devaki Bhaya</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Cold Spring Harbor Laboratory (CSHL) Synthetic Biology course is a two-week long immersion course designed to introduce scientists to the field of synthetic biology. It provides intensive instruction in synthetic biology methods, combining practical lectures, open-ended research projects, and seminars from leaders in the field. Through practical lectures, research projects and seminars, participants will be exposed to cutting-edge synthetic biology methods to provide them with a solid understanding of the challenges and opportunities available in the field of synthetic biology. The course attracts advanced PhD students, junior faculty, and researchers working at national labs and in industry. It serves scientists from a broad range of backgrounds, including biologists, physicists, and engineers from the US and around the world that are looking to transition into synthetic biology research and disseminate synthetic biology ideas and skillsets at their home institutions.&lt;br/&gt;&lt;br/&gt;The course provides a critical training opportunity for scientists looking to transition to the field of synthetic biology by offering a unique, immersive learning opportunity. Equally important, the course is proving to be a training ground for course instructors and teaching assistants, who learn invaluable teaching and community organizational skills, and earn recognition from leaders in the field as the emerging next generation next generation of synthetic biology leaders.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817310</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Stewart</LastName>
+<EmailAddress>stewart@cshl.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cold Spring Harbor Laboratory</Name>
+<CityName>COLD SPRING HARBOR</CityName>
+<ZipCode>117244220</ZipCode>
+<PhoneNumber>5163678307</PhoneNumber>
+<StreetAddress>1 BUNGTOWN ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

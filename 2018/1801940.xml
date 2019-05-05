@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Using APOGEE Chemical Abundances to Probe Formation Scenarios of the Milky Way Bulge</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Sten Hasselquist is awarded an NSF Astronomy and Astrophysics Fellowship to conduct a program of research and education at the University of Utah.  Using high quality spectra of thousands of stars observed with the Apache Point Observatory Galactic Evolution Experiment (APOGEE), Hasselquist will perform a detailed chemical analysis of the Milky Way's central bulge.  Because a central bulge seems to be a feature of most disk galaxies, understanding how the bulge of our galaxy formed and evolved will allow astronomers to understand how galaxy formation and evolution occurs across the Universe.  Alongside this research, Hasselquist will develop and run an inquiry-based high-altitude balloon program targeted at high school students from groups that are underrepresented in science.  &lt;br/&gt;&lt;br/&gt;Hasselquist will analyze how the mean chemical abundance tracks for each element provided by APOGEE compare between the Milky Way's bulge and inner disk.  He will explore chemical abundance correlations in N-dimensional space, analyzing how these correlations differ between bulge and inner disk.  From these analyses, conclusions can be drawn about formation mechanisms of the bulge.  He will also identify the origin of metal-poor stars in the bulge by invoking clustering algorithms to quantify chemical abundance similarities between the metal-poor bulge and the Milky Way's halo or satellite populations. Additionally, he will use carbon-to-nitrogen abundance ratios to assign a chemical clock to the Galaxy's stars, allowing for an in-depth study of the chemical abundance patterns of the Galaxy's bulge with an added time dimension that is not typically available in large-scale chemical evolution studies.  Working with outreach facilities at his host institution, Hasselquist will create a program in which high school students gain valuable critical thinking skills by designing and executing high-altitude balloon experiments to answer specific scientific questions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801940</AwardID>
+<Investigator>
+<FirstName>Sten</FirstName>
+<LastName>Hasselquist</LastName>
+<EmailAddress/>
+<StartDate>06/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hasselquist             Sten</Name>
+<CityName>Las Cruces</CityName>
+<ZipCode>880119998</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7480</Code>
+<Text>ARCHIVAL DATA ANALYSIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Support for the 2018 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS 2018)</AwardTitle>
+<AwardEffectiveDate>05/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 2018 Association for Computing Machinery (ACM) Special Interest Group on Measurement and Evaluation (SIGMETRICS) conference will be held at Beckman Center, Irvine, California on June 18-22, 2018. SIGMETRICS brings together professionals from academic and industrial backgrounds in what has become a premier forum for discussing the development and application of state-of-the-art, broadly applicable analytic, simulation, and measurement-based performance evaluation techniques. The SIGMETRICS conference presents innovative, exciting work related to all aspects of performance for all types of computer systems. Highly original ideas, new approaches, and/or ground breaking results are expected. &lt;br/&gt;&lt;br/&gt;Travel support will make possible the participation of students who would otherwise be unable to attend. Particular attention is paid to directing support towards under-represented groups, e.g., gender or ethnic minorities and students from smaller or less well-known institutions. The support will provide students who attend with the opportunity to interact with a diverse group of mentors and peers, furthering their education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830133</AwardID>
+<Investigator>
+<FirstName>Carlee</FirstName>
+<LastName>Joe-Wong</LastName>
+<EmailAddress>cjoewong@andrew.cmu.edu</EmailAddress>
+<StartDate>04/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

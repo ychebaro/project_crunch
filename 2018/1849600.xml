@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A New Bio-based Monomer for the Coatings Industry</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>224752.00</AwardTotalIntnAmount>
+<AwardAmount>224752</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project lies in the replacement of key petroleum-based chemicals used in the paints and coatings industry, representing a $7B industry that is growing at 7% per year. The total addressable market includes 3 similar diols: 1,4-butanediol (1,4-BDO), 1,5-pentanediol (1,5-PDO), and 1,6-hexanediol (1,6-HDO). In this project, 1,5-PDO is produced from furfural, a chemical made from renewable agricultural residues such as corn cobs and wood chips.  Bio-based 1,5-PDO can be readily substituted for 1,6-HDO in many applications due to its analogous molecular structure and is similar enough to 1,4-BDO that it can be substituted for it in some applications. Rigorous technoeconomic analysis shows that this "green" 1,5-PDO can be made at 3x lower costs than oil-derived 1,5-PDO, opening new opportunities for its use as a renewable monomer for paints, coatings, adhesives and plastics.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase 1 project will allow the technology to be developed with commercially available fixed bed pellet catalysts to prepare the technology for scale-up.  Thus far, the technology has been demonstrated in small scale fixed bed reactors with powder catalysts.  A commercial scale process requires the use of pelletized catalysts due to inoperable pressure drops over powder catalysts in commercial-scale reactors. The higher flowrates inherent with larger scale reactors cannot flow through the tightly packed powder catalysts and cause a large degree of backpressure upstream of the catalyst bed; thus, pelletized catalysts must be sourced from commercial vendors and tested for activity and stability prior to scaling.  The next phase in technology development is to scale up the process by &gt;100x, enabling testing and validation of larger amounts of the bio-based 1,5-PDO product in potential customers' product lines.  This SBIR Phase I project will also allow completion of the process design work needed to estimate the economics at commercial scale.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849600</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Barnett</LastName>
+<EmailAddress>kjbarnett@pyranco.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PYRAN LLC</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537033590</ZipCode>
+<PhoneNumber>2148863260</PhoneNumber>
+<StreetAddress>309 W WASHINGTON AVE UNIT 406</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+</Award>
+</rootTag>

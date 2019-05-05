@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Deformation Spaces of Geometric Structures</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>194242.00</AwardTotalIntnAmount>
+<AwardAmount>194242</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A geometric manifold is an abstract mathematical object designed to model the space we live in. The concept also encompasses the notion of a space-time in the theory of relativity, as well as phase spaces, configuration spaces, and other useful structures in physics. While empirical physics is dedicated to measuring the precise features (e.g. shape, size, etc.) of our universe, the question of what possible features could the universe have, subject to certain laws, is a mathematical one. The data comprising the answer to such a question is called a moduli space; it is a topological space whose points are the possible geometric manifolds of a certain type and whose topology organizes those geometric manifolds into families whose features vary continuously. This project addresses important questions about many different classes of low-dimensional geometric manifolds and their moduli. The main focus is the study of manifolds modeled on real projective geometry and affine geometry, two classical geometries with just the right amount of symmetry to allow for large interesting moduli spaces with mysterious but tractable behavior.&lt;br/&gt;&lt;br/&gt;This project weaves together ideas from a cross-section of mathematics and physics, including geometry, topology, group theory, dynamics, and relativity. A recently introduced notion of convex cocompactness for discrete subgroups of the real projective general linear group acting on projective space extends the definition of classical convex cocompact Kleinian groups and other examples, but is general enough to describe large open regions in the space of finitely generated discrete groups that were left unexplored by other methods.  A connection has been identified between this notion and Labourie's notion of Anosov subgroup, and the convex cocompact subgroups studied here involve many interesting deformation space for non-hyperbolic discrete subgroups. Another line of work studies Margulis spacetimes as geometric limits of anti de Sitter spacetimes, with consequences for geometry, topology, and deformation theory.  Connections between hyperbolic and anti de Sitter geometry in dimension three are particularly promising.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812216</AwardID>
+</Award>
+</rootTag>

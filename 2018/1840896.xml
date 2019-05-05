@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeuroDataRR: Replication of cortical microstructure correlations with face and object recognition</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>599920.00</AwardTotalIntnAmount>
+<AwardAmount>198980</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kurt Thoroughman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Face recognition is an important skill that most people begin to acquire early in life, while other human activities depend on expertise that only some of us learn as adults (e.g., recognizing cars or matching fingerprints). Prior work with a small sample of only men found that it is possible to predict behavioral performance in such tasks based on the thickness of the cortex in a part of the brain that responds preferentially to faces. Importantly, the manner in which face and non-face recognition abilities were predicted by brain structure was different, with individuals with thicker cortex being better at recognizing vehicles than those with thinner cortex, while individuals with thinner cortex performing better in face recognition tasks. In addition, for faces, only the thickness of the deeper, early developing, layers of the cortex predicted performance. This research will test whether these results replicate in a larger sample of men and women. It will investigate how connections between face-selective cortex and other parts of the brain sensitive to  social interactions could help explain how early experience with faces influences the thickness of deep cortical layers. A better understanding of how the structure of the brain relates to visual abilities could extend predictions to a wide range of occupations such as forensics, medical imaging, and homeland security. The work could also transform how we study cortical development in neurological disorders such as Autism Spectrum Disorders. The project will improve participation of underrepresented middle and high school students from Nashville public schools and increase scientific literacy, via the team's contributions to the School for Science and Math at Vanderbilt.&lt;br/&gt;&lt;br/&gt;This research seeks to advance our understanding of how the cortical microstructure of visual areas relates to individual differences in visual abilities. Using ultra-high resolution imaging at 7 Tesla and state-of-the-art psychometric measurement of visual abilities, the project will replicate and extend findings relating visual recognition of faces and objects to the laminar structure of cortex in the fusiform face area (FFA). The project will also test for replication of the relation between one's social network size and the size of the amygdala (AMG), and test whether AMG size mediates the correlation between face recognition and the thickness of FFA's deep layers. The work will generalize prior findings with men to a sample of women, expand behavioral testing to new object categories, and compare laminar effects in FFA to those in other visual areas. Studying the neuromarkers of visual abilities can increase our understanding of brain-behavior relationships beyond already successful domains like general intelligence or health-related behaviors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/26/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/26/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840896</AwardID>
+<Investigator>
+<FirstName>Isabel</FirstName>
+<LastName>Gauthier</LastName>
+<EmailAddress>isabel.gauthier@vanderbilt.edu</EmailAddress>
+<StartDate>02/26/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>040Z</Code>
+<Text>Robust and Reliable Science</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+</Award>
+</rootTag>

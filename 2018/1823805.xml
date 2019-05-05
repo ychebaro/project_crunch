@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Estimation and Inference Under Shape Restrictions</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>242262</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy A. Lutz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Standard approaches to analyzing relationships in empirical research in economics and related disciplines impose strong assumptions on the form of the relationships a priori. While these assumptions greatly simplify the statistical methods needed, if they are incorrect, conclusions obtained can be misleading. An alternative is to use so called nonparametric methods, which impose weaker assumptions, but consequently, the results obtained are often not precise enough to reach strong conclusions. This research explores the use of shape restrictions to impose additional structure, but without specifying a particular relationship. Shape restrictions, such as monotonicity or convexity, are often reasonable assumptions and they can be implied by basic economic theory. For example, the demand of a product is decreasing in its price.  The project proposes statistical methods to estimate relationships and summarize uncertainty under shape restriction, which keep the flexibility of nonparametric approaches, but can yield much more precise conclusions. These methods are appealing in a wide range of real world applications. In this research, they are applied to analyze demand functions, conduct inference in auctions models, and estimate quantile functions. &lt;br/&gt;&lt;br/&gt;At a technical level the project overcomes challenges in the statistical theory resulting from the use of shape restrictions. Specifically, the distribution of the restricted estimator depends on where the shape restrictions bind, which is unknown a priori. This research suggests an inference method based on test inversion, which yields uniformly valid confidence regions for unknown parameter vectors or functions. The method applies to a wide range of finite dimensional and nonparametric problems, to various nonparametric estimators, and to many different shape restrictions. Inference is based on the distribution of a shape restricted estimator, which is an approximate quadratic projection of an unrestricted estimator onto a restricted parameter space and this projection depends on a weight matrix. The investigator studies optimal choices of the weight matrix, which can have large effects on properties of the restricted estimators and the corresponding confidence regions. Next to proving uniform size control, the project also investigates power properties to quantity the gains from using shape restrictions. Finally, this research illustrate these gains and the wide applicability in Monte Carlo simulations and in various empirical applications, studying demand models under monotonicity, auction models with parameter dependent support, and non-crossing conditional quantile functions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823805</AwardID>
+<Investigator>
+<FirstName>Joachim</FirstName>
+<LastName>Freyberger</LastName>
+<EmailAddress>jfreyberger@ssc.wisc.edu</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

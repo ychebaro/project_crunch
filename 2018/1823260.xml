@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRI: CI-New: Collaborative Research: Extensible, Software Enabled Unmanned Aerial Vehicles</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>366251.00</AwardTotalIntnAmount>
+<AwardAmount>128247</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Unmanned aerial vehicles (UAVs) are an emerging computing platform increasingly becoming common in our society. Unfortunately, most UAV systems today are either proprietary, or specific to goals of aviation and robotic missions. This project will develop an open-source and extensible software infrastructure for UAVs to promote research and education of this exciting technology.&lt;br/&gt;&lt;br/&gt;The proposal will result in an infrastructure to allow for extensible UAV software design across the computing stack, spanning operating systems (OS), virtual machines (VM), compilers, programming languages, and applications. This significantly shifts the focus of state of the art of UAV software where refined support is limited to hardware drivers and robotics control, OS/VM support is primitive, and high-level Application Programming Interface is minimal. The resulting infrastructure will promote whole-stack extensibility, portability, resource awareness, and application friendliness of UAV systems. The infrastructure will enable researchers from non-UAV specific domains to conduct research on the platform.&lt;br/&gt;&lt;br/&gt;The infrastructure will impact researchers spanning areas of avionics, robotics, real-time systems, programming languages, and software engineering. Other beneficiaries of the proposed infrastructure include students and UAV users. The technologies developed under this award will provide training and research opportunities for Ph.D. students, master's students, and advanced undergraduates in UAV education. UAVs, robotics, and aviation are interesting and exciting to k-12 students. The artifacts from this project will be tailored for student outreach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823260</AwardID>
+<Investigator>
+<FirstName>Yu David</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>davidl@cs.binghamton.edu</EmailAddress>
+<StartDate>09/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Binghamton</Name>
+<CityName>BINGHAMTON</CityName>
+<ZipCode>139026000</ZipCode>
+<PhoneNumber>6077776136</PhoneNumber>
+<StreetAddress>4400 VESTAL PKWY E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Travel Support for student participation at the 2018 Electron Backscatter Diffraction Topical Conference</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Lambert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support student participation at a conference focused on Electron Backscatter Diffraction (EBSD) at the University of Michigan, under the sponsorship of the Microanalysis Society.  EBSD is a core microanalytical technique used by both the materials and geological sciences communities.  It utilizes the diffraction of high-energy electrons to determine phase types and orientations of crystals in natural and engineered materials. EBSD plays an important role in material science and geology for the understanding everything from crystallization processes to deformation mechanisms, seismic and viscous anisotropy and material properties (such as strength, fracture toughness, and thermal conductivity). EBSD is also becoming part of the data science realm, with a significant computing component to not only process large amounts of data but also model the acquisition of the data and interface with material behavior models. The award will support participation of students from diverse backgrounds, and will serve to broaden participation in the conference.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The format for EBSD 2018 will follow that of the overwhelmingly successful previous five EBSD meetings. The first day will offer all-day classroom and hands-on tutorials for beginners or more advanced tutorials for experienced users, with a focus on advanced data processing methods and data science, e.g. cross correlation EBSD, coupling crystal plasticity modeling, Matlab Texture Analysis and Dream3D platform.  Attendees will also have the opportunity to see live EBSD demonstrations by all the major EBSD vendors on UoM instruments.  The next two days of the workshop will proceed with invited talks addressing EBSD applications in geological deformation mechanisms, geochronology, and fossilization, metals manufacturing, transportation industry, and energy research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829336</AwardID>
+<Investigator>
+<FirstName>Elena</FirstName>
+<LastName>Miranda</LastName>
+<EmailAddress>elena.miranda@csun.edu</EmailAddress>
+<StartDate>03/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emmanuelle</FirstName>
+<LastName>Marquis</LastName>
+<EmailAddress>emarq@umich.edu</EmailAddress>
+<StartDate>03/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1580</Code>
+<Text>INSTRUMENTATION &amp; FACILITIES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8092</Code>
+<Text>Materials Eng. &amp; Processing</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

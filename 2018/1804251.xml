@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Thermal Radiation from Quantum Convection and Deterministic Quantum Mechanics</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>77574.00</AwardTotalIntnAmount>
+<AwardAmount>77574</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Lage</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is an early concept exploratory research. Predicting motion at the sub-atomic level, for example electrons moving around the nucleus of an atom has been attempted since early last century and led to a probabilistic approach. This approach can provide the odds of finding the electron in specific locations, but cannot specify a definitive explicit location. The applications of this field, called quantum mechanics, are extremely wide. One of the most important applications is radiation heat transfer, such as solar radiation. This type of random processes cannot in general be controlled. However, if quantum mechanics can be shown to be deterministic, then it is likely that it can be controlled, i.e. instead of random and uncontrollable, it might just be deterministically chaotic, and then controllable. Such an outcome may revolutionize a wide range of applications and lead to new engineering technologies.&lt;br/&gt;&lt;br/&gt;This is a fundamental transformative project aimed at quantum convection and radiation heat transfer. The premise of the research is that the electron is not a particle but rather a compressible fluid. Consequently, one can formulate the continuum set of governing equations for the electron compressible fluid surrounding the atom?s nucleus. The results will provide the quantum convective flow of the charges (the electron compressible fluid) around the nucleus. It is anticipated that the Planck?s constant  , which is a universal constant obtained only experimentally, will be derived theoretically as part of this project. The quantum nature of the sub-atomic phenomena will be retained, however it will not be imposed upfront but rather emerge as a result. The impact of the results on radiation heat transfer and the independent evaluation of radiation properties, such as the emissivity will be one of the engineering outcomes of the theory?s application.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1804251</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Vadasz</LastName>
+<EmailAddress>Peter.Vadasz@nau.edu</EmailAddress>
+<StartDate>06/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northern Arizona University</Name>
+<CityName>Flagstaff</CityName>
+<ZipCode>860110001</ZipCode>
+<PhoneNumber>9285230886</PhoneNumber>
+<StreetAddress>ARD Building #56, Suite 240</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>THERMAL TRANSPORT PROCESSES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

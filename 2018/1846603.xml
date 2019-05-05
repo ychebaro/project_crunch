@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Scalable Manufacturing Of Optical Lenses For Complex Systems Integration</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>173673</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the development of an advanced manufacturing technology that will enable the production of high-quality optical glass lenses that are customizable and affordable, without the use of laborious machining or expensive tooling common in traditional lens manufacturing. The technology aims to reduce lens production costs by at least 5x while increasing throughput by ~6-8x. In addition, the project will address a key industry need to improve integration of optical components with electro-mechanical systems such as those found in compact camera modules. The methods and tools developed here will enable systems integration at a wafer level, thereby simplifying assembly, reducing cost/weight/size and improving the overall performance of many next-generation devices. This outcome will have a significant impact on imaging technology used in smartphones, wearable electronics, miniature aerial vehicles, medical endoscopes, and advanced automotive driver assistance systems. Hence, the project has the potential to benefit a diverse number of industries and strengthen U.S. economic competitiveness within the optics sector. In a broader sense, the technology developed in this project will also help revitalize American manufacturing.&lt;br/&gt;&lt;br/&gt;The proposed project will demonstrate a new method of lens manufacturing by leveraging semiconductor processing techniques and developing an innovative lens fabrication tool. The new tool will measure key optical metrics in real-time during lens creation for on-the-fly process adjustments. Closed-loop feedback during fabrication will improve tolerances and yields and produce higher quality lenses compared to traditional methods. This approach represents a paradigm shift in manufacturing as all commercial lenses today are created through iterations of lens forming and ensuing optical metrology. Furthermore, the tool will enable rapid production of customizable lens shapes, including a novel planar lens. The flat lens will be compatible with surface modification technologies such as those used to create electronics and micro mechanical structures, thus enabling, for example, thin film transistors or sensors to be fabricated with the optics at a wafer level. Specific research activities will include (1) designing and constructing manufacturing tools and fixtures, (2) experimentally correlating tool configurations with lens shapes, (3) constructing and characterizing concave, convex and planar lenses and (4) developing a software model of the lenses based on realistic manufacturing constraints.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846603</AwardID>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Goeckeritz</LastName>
+<EmailAddress>jeremy@momentumoptics.com</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MOMENTUM OPTICS, LLC</Name>
+<CityName>LONGMONT</CityName>
+<ZipCode>805037871</ZipCode>
+<PhoneNumber>8018159981</PhoneNumber>
+<StreetAddress>2113 SEAWAY COURT</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

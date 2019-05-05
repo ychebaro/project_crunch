@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dissecting molecular mechanisms of plant cytokinesis and cell plate development</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>1174648</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthias Falk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This interdisciplinary project will increase the understanding of how plant cells divide. During plant cell division the formation of a novel structure, the cell plate which evolves into the new cell wall, separates the new daughter cells.  The development of new cell walls during cell division is of profound importance to all plant life on earth, yet fundamental questions about this process remain unanswered. This project focuses on dissecting   the highly dynamic process of cell plate formation by employing quantitative image analysis, computational modeling, biochemistry and genetics coupled with chemical inhibition of key players in cell division. The work should prove transformative, be applicable to a broad variety of plant species and hence contribute to both fundamental research and the development of more desirable cell wall properties for robust and productive crops. Overall, the work could form the basis for new strategies towards improving crop quality and yield, towards increasing food security and towards energy independence.  The produced models and animations of cell plate formation will be made widely available for free educational use. The project will provide research training across a broad range of cutting-edge research methodologies in modern cell biology for junior scientists at the high school, undergraduate, graduate and postgraduate level. Graduate students and postdocs will develop mentoring and teaching skills supervising high school and undergraduate students through the framework of this project.  &lt;br/&gt;&lt;br/&gt;The overarching goal of this project is to identify and quantitatively analyze new molecular mechanisms and pathways directing polysaccharide cargo during cell plate formation in cytokinesis, a process fundamental to all plant life on earth. Cytokinesis in plants is fundamentally different from that in animals and fungi. In plants de novo formation of a cell plate occurs via homotypic fusion of vesicles, which then develops into the new cell wall, partitioning the cytoplasm of the dividing cell. Cell plate formation takes place in multiple stages that involve highly orchestrated vesicle accumulation, fusion and membrane maturation concurrent with the time specific deposition of polysaccharides such as callose, cellulose and cross-linking glycans.   The project will use quantitative fluorescence imaging during cytokinesis to develop a spatiotemporal model of cell plate formation. Further, the use of biochemical, and genetic approaches combined with chemical biology will help in characterizing the polysaccharide components building the new cell wall during cytokinesis and identify novel molecular players involved in cell plate development. These studies will generate fundamental knowledge of mechanisms that control cell plate assembly and can form a reference framework for cell wall build up.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818219</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Cox</LastName>
+<EmailAddress>dlcox1958@gmail.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Georgia</FirstName>
+<LastName>Drakakaki</LastName>
+<EmailAddress>gdrakakaki@ucdavis.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPPLEMENTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Simultaneous characterization of near-field nanoplasmonic structure and function using super-resolved far-field optics: Solving the Inverse Problem</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lin He</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professors Shimon Weiss and Daniel Neuhauser at University of California-Los Angeles are studying light-matter interaction at the nanoscale. Specifically, the study explores how light-emitting nanoparticles or molecules interact with metal nanostructures underneath.  The gained knowledge could find applications in high resolution imaging in cells, high-speed integrated circuits, and quantum information science. Professors Weiss and Neuhauser work closely with graduate, undergraduate and high school students by providing them multidisciplinary training opportunities.  They also plan to make their software broadly available to other scientists who are working on super resolution imaging. &lt;br/&gt;&lt;br/&gt;Professors Weiss and Neuhauser merge super-resolution techniques, wide-field single photon detector, and multiscale simulations to understand the coupling strength of point emitters to plasmonic nanostructures. A novel probing technology is used to simultaneously resolve plasmonic structure and field strengths well below the diffraction limit, exploiting the dependence of the blinking statistics of quantum dots on the electric field strength for Stochastic Optical Fluctuation Imaging (SOFI). An additional layer of polarized excitation and emission is used to help understand emitter-metal coupling/scattering strengths in close proximity. They then plan to implement the method to solve the inverse problem, where structure and function can be simultaneously measured without any a priori knowledge of the underlying system.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808766</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Neuhauser</LastName>
+<EmailAddress>dxn@ucla.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shimon</FirstName>
+<LastName>Weiss</LastName>
+<EmailAddress>sweiss@chem.ucla.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

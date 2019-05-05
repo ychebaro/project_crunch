@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Excellence in Research:  Analyzing the Impact of Landscape Change on the Watershed Dynamics of a Flood-Prone Urban Region</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Antoinette WinklerPrins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will analyze the relationship between land-use/land-cover change, urban flooding, and water pollution.  Investigators will consider how increasing population growth, extensive urban development, and related landscape changes have altered natural watershed ecosystems, stressing natural resources and processes, thereby contributing to water pollution.  This project will benefit society by investigating basic scientific processes that have contributed to the vulnerability of a flood-prone region, so that these can be mitigated.  The project will also develop research capacity at a historically Black university, and by providing rigorous education, training, and hands-on research experiences for graduate and undergraduate students from under-represented minority groups, thereby building scientific human resource capacity.  The project promotes direct collaboration among the various disciplines and will have significant impact in analyzing long-term data and integrating it with geospatial data while monitoring natural resources.  The geospatial data and models that will be developed as part of this project will be useful resources for decision-makers within city and state governments, local communities, and non-profit organizations to better monitor and manage those resources. &lt;br/&gt;&lt;br/&gt;The specific objectives of the project are: (1) characterizing the landscape level spatiotemporal land use and land cover changes in the urban watersheds; (2) identifying and analyzing the environmental footprint of these urban watersheds on ecosystems by developing a comprehensive geospatial database; and (3) investigating the current and future environmental trends in urban watersheds using geospatial and system dynamic models.  The project will use an integration of various types of remotely sensed imagery to characterize land-use/land-cover change, and will use a GIS to integrate information at different scales.  It will also develop integrated hydro-landscape models that can be used to simulate anticipated scenarios.  A spatial interpolation analysis of nutrient and metal concentrations in the soil and water will be conducted to identify and map contamination in the urban watersheds. The project will generate new information on the extent of optimum watershed development that is necessary for minimal impact on natural resources and the tangible steps that might be taken to improve the quality of local watersheds. The research will reveal how landscape analysis using geospatial data can be used to develop remediation paths for the improved watershed management.  The project will focus on the greater Houston region, a region with a history of flooding and water pollution challenges.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831205</AwardID>
+<Investigator>
+<FirstName>Maruthi Sridhar</FirstName>
+<LastName>Balaji Bhaskar</LastName>
+<EmailAddress>bhaskarm@tsu.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Southern University</Name>
+<CityName>Houston</CityName>
+<ZipCode>770044501</ZipCode>
+<PhoneNumber>7133137457</PhoneNumber>
+<StreetAddress>3100 Cleburne Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>070Y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

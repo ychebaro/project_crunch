@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Software for Automated Real-time Electroencephalogram Seizure Detection in Intensive Care Units</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project is that it will lead to improved clinical outcomes for neurological patients in intensive care units (ICUs). Although the data acquired using continuous electroencephalography (EEG) in the ICU is inexpensive to record and a rich source of information for guiding clinical decision making, it is often not used because it takes too long to be analyzed manually. The proposed technology will be capable of evaluating EEGs in real-time in order to alert doctors when clinically relevant events such as seizures occur. This will improve patient outcomes by allowing doctors to intervene with medications in a timelier and more precise fashion. This work will also have the broader impact of improving science's understanding of the fundamentals of how machine learning can be applied specifically to neural signal processing, which is currently a poorly understood area. &lt;br/&gt;&lt;br/&gt;The proposed project will enable and accelerate the commercialization of software technology that detects seizures and abnormal brain activity in Intensive Care Unit patients. This will be accomplished with three main tasks. In the first task, the existing seizure detection software, which currently works offline, will be converted to work in real-time with a target latency of 20 seconds to detect a seizure. This will be accomplished through intelligent memory handling and by developing a low-latency, highly optimized post-processing algorithm. The second task will strengthen the existing seizure detection code to operate at clinically acceptable levels of sensitivity and false alarm rates. This will be achieved by retraining our algorithms on a significantly more diverse and complex EEG database in order to expose the software to as many variations of seizure presentation as possible. In the third and final task, extensive software testing will be conducted in order to optimize the machine learning configuration that maximizes the gains achieved in Tasks 1 and 2.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827565</AwardID>
+<Investigator>
+<FirstName>Iyad</FirstName>
+<LastName>Obeid</LastName>
+<EmailAddress>iobeid@temple.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Picone</LastName>
+<EmailAddress>joseph.picone@gmail.com</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Temple University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191226003</ZipCode>
+<PhoneNumber>2157077547</PhoneNumber>
+<StreetAddress>1801 N. Broad Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

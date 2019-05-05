@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Removing the Purification Bottleneck in Biopharmaceutical Production</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth M. Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop protein purification technology that will provide access to inexpensive, purified proteins for biological and life science applications by removing the purification bottleneck in biopharmaceutical production, and leveraging the innovative breakthroughs in protein engineering and gene editing.  Scale-up of this technology will transform the large-scale purification of biopharmaceuticals and lower prescription drug costs - the most important factor contributing to rising healthcare costs.  The major factor influencing the rising cost of healthcare is the skyrocketing costs of pharmaceuticals - up to 40% of the medical plan cost will be drugs by 2025.  Prescription drug costs are the fastest rising component of healthcare and are contributing to the dramatic increase in healthcare costs.  The worldwide focus of pharmacy and biotechnology is now on biopharmaceutical development and production to address this issue.  Direct benefits of this project include low-cost, use of green reagents, and the absence of heavy metal impurities in the purified protein.  In addition, the development of immobilized enzymes using this technology will open new frontiers in biocatalysis, biosensors, diagnostics and protein delivery.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop protein purification kits for small-scale and research-scale research. Bringing these kits to market will enable researchers to further validate the technology on a broader range of proteins in preparation for scale-up for biopharmaceutical production.  Synthetic biology has quickly begun to revolutionize drug discovery and design by providing a better overall molecular understanding of disease.  However, this potential has yet to be fully realized due to the challenges associated with purifying the target recombinant protein from the thousands of naturally-occurring proteins produced by the expression system.  The three specific aims of the project are: 1) validation of protein tag performance for multiple protein classes and expression systems, 2) development of low-cost methods for protein tag removal from purified proteins, and 3) development of solutions for the purification of low-expressing proteins and the parallel purification of small amounts of proteins.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820325</AwardID>
+<Investigator>
+<FirstName>Bob</FirstName>
+<LastName>Snyder</LastName>
+<EmailAddress>bob@proteios.com</EmailAddress>
+<StartDate>05/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Proteios, LLC</Name>
+<CityName>Issaquah</CityName>
+<ZipCode>980275621</ZipCode>
+<PhoneNumber>5037133339</PhoneNumber>
+<StreetAddress>580 Wilderness Peak Dr. NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

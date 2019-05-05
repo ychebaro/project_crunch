@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Celebration of Diversity in Computing Conference</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>164400.00</AwardTotalIntnAmount>
+<AwardAmount>164400</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fay Cobb Payton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The proposal is a request to support participants from underrepresented groups to attend the 2018 Richard Tapia Celebration of Diversity in Computing Conference, scheduled from September 18 to 22, in Orlando, Florida.  The grant funds will provide student scholarships (undergraduate and graduate students from groups underrepresented in computing) and faculty from Minority Serving Institutions.  This is a continuing conference effort which the PI has led for a number of years.  &lt;br/&gt;&lt;br/&gt;The Richard Tapia Celebration of Diversity in Computing Conference is the main conference for&lt;br/&gt;celebrating the diversity that exists in computing. The conference mission is to bring together&lt;br/&gt;undergraduate and graduate students, professionals, and faculty in computer science and computer engineering from all backgrounds and ethnicities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823052</AwardID>
+<Investigator>
+<FirstName>Valerie</FirstName>
+<LastName>Taylor</LastName>
+<EmailAddress>vtaylor2@uchicago.edu</EmailAddress>
+<StartDate>05/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Association Computing Machinery</Name>
+<CityName>New York</CityName>
+<ZipCode>101210799</ZipCode>
+<PhoneNumber>2128697440</PhoneNumber>
+<StreetAddress>2 Penn Plaza</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

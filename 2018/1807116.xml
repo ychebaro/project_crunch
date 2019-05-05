@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Layered Inorganic Solids as Building Blocks for Functional Materials</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>570000.00</AwardTotalIntnAmount>
+<AwardAmount>195789</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Birgit Schwenzer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>DMR-1807116:  Layered Inorganic Solids as Building Blocks for Functional Materials&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Non-Technical Summary&lt;br/&gt;&lt;br/&gt;In 2004 the discovery of graphene, monolayer sheets of graphite building blocks, alerted the scientific community that two-dimensional (2D) materials can have radically different properties from chemically similar solids in which the bonding is three-dimensional. 2D materials have emerging applications in microelectronics, catalysis, lubrication, desalination of salt water, and many other areas. One of the challenges in the field is to develop gentle chemistry that can separate 2D sheets from each other without damaging them, and connect them to other materials through chemical bonds. This project, funded by the Solid State and Materials Chemistry program in the Division of Materials Research at NSF, studies the fundamentals of these separation processes by measuring the energy of interactions between molecules, ions, and sheets of the major families of 2D materials:  both organic and inorganic in nature. The researchers also investigate chemical reactions that can transform one kind of 2D material into another. Education and outreach activities are part of the project by involving high school students and teachers in summer research programs.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Summary&lt;br/&gt;&lt;br/&gt;This project, funded by the Solid State and Materials Chemistry program in the Division of Materials Research at NSF, investigates the reaction chemistry of two-dimensionally bonded materials. The research follows on the unexpected discovery of strong covalent interactions between late transition metal hydroxides and early transition metal oxide nanosheets. The principle investigator and his research group explore this effect with bi- and trimetallic complexes of late transition metals aiming to understand trends in chemical bonding that are relevant to interfacial materials properties such as adhesion, electronic contacts, and electrochemical energy storage. Isothermal titration calorimetry is used to measure the enthalpy and entropy of cluster adsorption from solution and to gain a deeper understanding of the intercalation, exfoliation, and restacking reactions of layered oxides and van der Waals solids (graphite, boron nitride, and layered metal chalcogenides). New layered oxysulfide and chalcogenide nanosheets are synthesized in order to explore the interactions of chalcophilic elements with their surfaces. Another aspect of the project is to develop selective surface chemistry for nanosheets derived from van der Waals solids, based on preliminary results obtained with coordinatively unsaturated organometallic complexes. Research on this project is integrated with mentoring and outreach activities that benefit students at the K-12 and undergraduate levels and that provide summer research experiences for high school teachers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807116</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Mallouk</LastName>
+<EmailAddress>tom@chem.psu.edu</EmailAddress>
+<StartDate>04/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1762</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

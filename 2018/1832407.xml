@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI: The Multi-Dimensional Structure of Urban Landscapes and the Supply and Distribution of Ecosystem Services</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardAmount>200007</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>jacqueline vadjunec</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project will address the relationship between the spatial organization of urban components and the delivery and distribution of urban ecosystem services such as air filtration, local climate regulation, and noise reduction.  To better identify how the spatial organization of urban structure interacts with environmental and ecological phenomena to produce and distribute urban ecosystem services, this project will help build the scientific foundation for understanding urban structure-ecological function interaction by testing the relationship between common compositions of urban structure classes, including the integration of the vertical dimension of building, and indicators of ecosystem services.  Modeling of urban structure-ecological function relationships at a fine spatial scale-will provide geographers, urban planners, and engineers with the scientific foundation necessary for planning effective interventions to promote urban sustainability and human well-being.  Project findings will benefit researchers and public officials working in the fields of urban planning and design, environmental health, environmental justice, and environmental modeling.  To complement the basic research components of this project, special educational outreach activities will introduce students from a diverse set of urban backgrounds, including members of groups underrepresented in STEM, to concepts and hands-on data-collection and -analysis activities relating to ecosystems services in their localities. &lt;br/&gt;&lt;br/&gt;Rapid growth in the global urban population poses major challenges to the health and well-being of urban dwellers and requires innovative approaches to urban planning.  The investigators will conduct a multi-dimensional urban structure classification and comparative analysis of the relationships between urban structure and surface temperature in seven U.S. cities.  A more focused case study in Philadelphia will address the urban ecosystem services of air pollution and noise mitigation through a new mobile data-collection and analytic scheme. This project will explore answers to several critical questions regarding sustainable urban design:  Are common multi-dimensional urban structure classes similar across cities, and are they stable across scales of aggregation?  Are urban surface temperature signatures explained better by such urban classes than by individual land-cover classes?  How is urban structure associated with ecosystem services such as air pollution and noise mitigation?  How do different configurations of urban vegetation help mitigate air and noise pollution in cities such as Philadelphia?  The project will include the development and verification of the multi-dimensional, functional urban land-cover classification using multiple case study cities in the U.S.  Research activities will include spatial and statistical analysis of land use and land cover, elevation, and other remote sensing data as well as a stratified sampling scheme of fine-scale, spatially explicit measurements of a series of urban ecosystem service indicators, including surface and ambient temperature, air pollution, and noise.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832407</AwardID>
+<Investigator>
+<FirstName>Kabindra</FirstName>
+<LastName>Shakya</LastName>
+<EmailAddress>kabindra.shakya@villanova.edu</EmailAddress>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peleg</FirstName>
+<LastName>Kremer</LastName>
+<EmailAddress>peleg.kremer@villanova.edu</EmailAddress>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Villanova University</Name>
+<CityName>Villanova</CityName>
+<ZipCode>190851676</ZipCode>
+<PhoneNumber>6105196000</PhoneNumber>
+<StreetAddress>800 Lancaster Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9188</Code>
+<Text>AIR QUALITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9278</Code>
+<Text>HUMAN DIMENSIONS OF GLOBAL CHANGE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

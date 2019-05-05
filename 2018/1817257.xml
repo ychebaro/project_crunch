@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Integrating Science Needs with Advanced Seafloor Sensor Engineering to Provide Early Warning of Geohazards: Visioning Workshop and Roadmap for the Future</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace S. Binkley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The PIs request funding to support a workshop focused on understanding current seafloor and subseafloor sensing, and future needs for instrumenting the seafloor to provide real-time data and engineering needs for geohazards and early warning. They propose a two-day workshop is Seaside, Oregon. The proposed workshop will bring together leading science and engineering experts within the fields of marine geology and geophysics, oceanography, sensors, communications, visualization, computer science, robotics, geotechnical engineering, and marine geomatics from the academic, government, and private sectors to develop a robust plan for addressing seafloor sensor challenges. The final deliverables will include a final report and a paper for submission to the American Geophysical Union's EOS journal.&lt;br/&gt;&lt;br/&gt;Specific topics to be addressed include engineering needs for geohazards and early warning, development of sensors to measure seafloor deformation and temperature and fluid flow with high resolution over a large area. Strategies for transmitting data from the sensors to land quickly and efficiently (including advanced in situ data processing and data compression algorithms) will also be considered as well as methods for powering the stations using energy derived from the environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817257</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Selker</LastName>
+<EmailAddress>selkerj@engr.orst.edu</EmailAddress>
+<StartDate>03/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>H. Benjamin</FirstName>
+<LastName>Mason</LastName>
+<EmailAddress>ben.mason@oregonstate.edu</EmailAddress>
+<StartDate>03/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Geoffrey</FirstName>
+<LastName>Hollinger</LastName>
+<EmailAddress>geoff.hollinger@oregonstate.edu</EmailAddress>
+<StartDate>03/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Trehu</LastName>
+<EmailAddress>trehu@coas.oregonstate.edu</EmailAddress>
+<StartDate>03/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Parrish</LastName>
+<EmailAddress>christopher.parrish@oregonstate.edu</EmailAddress>
+<StartDate>03/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1680</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

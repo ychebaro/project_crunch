@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Type-Based Automation of Scientific Data Management</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>297796</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Beth Plale</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An approach to scientific data interoperability and reuse is through global, persistent, and uniquely identified data types that can be assembled to characterize research data sets.  This project proposes to identify data types using persistent identifiers (PIDs). The PIDs resolve to records that specify the way in which metadata, such as the provenance of the data, is structured and recorded.  The basic premise is that machine interpretable data is a critical goal to achieving FAIRness (findability, accessibility, interoperability, and reuse) of data as data discovery at a global scale depends on automated processing of the information in digital form.  A type based approach to data interpretability that utilizes persistent IDs at the granularity of data types can overturn the Internet and stimulate an ecosystem of new tools for FAIR data. This pilot effort involves evaluating the approach through, in part, by constructing a critical mass of use cases.&lt;br/&gt;&lt;br/&gt;This project is supported by the National Science Foundation Public Access Initiative which is managed by the NSF Office of Advanced Cyberinfrastructure on behalf of the Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838981</AwardID>
+<Investigator>
+<FirstName>Giridhar</FirstName>
+<LastName>Manepalli</LastName>
+<EmailAddress>gmanepalli@cnri.reston.va.us</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Corporation for National Research Initiatives (NRI)</Name>
+<CityName>Reston</CityName>
+<ZipCode>201915434</ZipCode>
+<PhoneNumber>7036208990</PhoneNumber>
+<StreetAddress>1895 Preston White Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7414</Code>
+<Text>NSF Public Access Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

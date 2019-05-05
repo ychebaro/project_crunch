@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a 400 MHz Nuclear Magnetic Resonance (NMR) Spectrometer for Research and Research Training at Barnard College</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>399000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation and the Chemistry Research Instrumentation programs.  Professor Michael Campbell from Barnard College and colleagues Christian Rojas, Dina Merrer and Marisa Buzzeo have acquired a 400 MHz NMR spectrometer equipped with an automatic sampler and low-temperature capabilities. This spectrometer allows research in a variety of fields such as those that accelerate chemical reactions of significant economic importance, as well as allow study of biologically relevant species. In general, Nuclear Magnetic Resonance (NMR) spectroscopy is one of the most powerful tools available to chemists for the elucidation of the structure of molecules. It is used to identify unknown substances, to characterize specific arrangements of atoms within molecules, and to study the dynamics of interactions between molecules in solution or in the solid state. Access to state-of-the-art NMR spectrometers is essential to chemists who are carrying out frontier research. The instrument positively impacts female students at this institution, who are trained in research and then go on to PhD programs at other institutions.&lt;br/&gt;&lt;br/&gt;The award of this 400 MHz spectrometer is aimed at enhancing research and education at all levels. It especially impacts studies on the syntheses of transition metal-based molecules capable of exhibiting cooperative interactions and in the development of metal-catalyzed amidoglycosylation reactions to prepare stereo-varied 2-amino sugars. The spectrometer is helpful in understanding the influence of nonstatistical dynamics on reactions of carbenes with strained carbon-carbon pi bonds and in carrying out electrochemical studies of selenium-containing biological molecules. The instrument also serves researchers developing catalysts for green chemistry and investigating mechanisms of metalloenzyme-mediated alkane transformations. The spectrometer benefits studies of small-molecules that inhibit the cytoskeletal regulatory proteins formins.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827936</AwardID>
+<Investigator>
+<FirstName>Dina</FirstName>
+<LastName>Merrer</LastName>
+<EmailAddress>dmerrer@barnard.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marisa</FirstName>
+<LastName>Buzzeo</LastName>
+<EmailAddress>mbuzzeo@barnard.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Campbell</LastName>
+<EmailAddress>mcampbel@barnard.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Rojas</LastName>
+<EmailAddress>crojas@barnard.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Barnard College</Name>
+<CityName>New York</CityName>
+<ZipCode>100276598</ZipCode>
+<PhoneNumber>2128542708</PhoneNumber>
+<StreetAddress>3009 BROADWAY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

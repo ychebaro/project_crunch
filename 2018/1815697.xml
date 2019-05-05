@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Small: Learning discrete structure from continuous spaces</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Weng-keen Wong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Science, medicine, business, and engineering are increasingly data-driven. Hypotheses, diagnoses, decisions, and designs are made by gathering and analyzing a wealth of data in search of meaningful patterns. It is the goal of the field of machine learning to develop methods for inferring and reasoning about patterns in the data. The research supported by this award addresses the question of learning from unlabeled data, one of the more vexing problems of data science.  The PI's analyze and develop algorithms for problems such as clustering, i.e., finding groups of similar objects, as well as understanding continuously changing attributes in data. By integrating machine learning, modeling and geometric data analysis, this work injects new ideas and methodologies to modern data analysis, helps build practical algorithms for unsupervised and unsupervised learning and analyze their properties and domains of applicability. Students working on this project have a unique opportunity to be exposed to a broad spectrum of topics including machine learning, statistics, geometry  and applied mathematics.&lt;br/&gt;&lt;br/&gt;On a more technical level, the unifying  perspective  for the proposed research is that many of these unsupervised learning problems can be viewed as recovering structure or invariants of the underlying continuous space through the lens of the discrete data. This work takes that point of view to consider  a number of important aspects of unsupervised learning including hierarchical clustering in the density model, data quantization, graphon clustering and estimation, as well as learning metric structure from data. The project also considers applications of these ideas to supervised learning, particularly in helping to scale algorithms to large data.   While the work on this project concentrates on theoretical analyses, these  are developed with a view toward practical algorithms, implementations and applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815697</AwardID>
+<Investigator>
+<FirstName>Yusu</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>yusu@cse.ohio-state.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mikhail</FirstName>
+<LastName>Belkin</LastName>
+<EmailAddress>mbelkin@cse.ohio-state.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

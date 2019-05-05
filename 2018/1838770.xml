@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCH: INT: The Virtual Assistant Health Coach: Learning to Autonomously Improve Health Behaviors</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardAmount>1192912</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana D. Korelsky</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Health coaching is an effective process for improving health behaviors by providing education on health-related topics, setting personalized and realizable health-related goals, monitoring and encouraging progress towards those goals, and sequencing or refining a progression of health goals over time. Though useful, its highly personalized and labor-intensive nature makes the cost of effective health coaching prohibitive for many underserved populations that could benefit significantly from it. This project will develop a virtual health coaching system that learns from human health coach demonstrations to interact with patients via the smart message system (SMS) to set appropriate health goals that are Specific, Measurable, Attainable, Relevant, and Timely (SMART). The virtual coach will become progressively more independent, but will not be fully autonomous for two reasons: first, at this stage of research, one cannot trust the system to always send appropriate messages when it encounters unique situations; second, the virtual coach would not substitute, but supplement/collaborate with a human coach. Successful development of these capabilities represents an important step towards more scalable health coaching systems that do not sacrifice the effectiveness realized by a human health coach.&lt;br/&gt;&lt;br/&gt;This project develops the two key components of a virtual health coaching system: a dialogue management and sentiment analysis component that guides and analyzes communication with users; and an imitation learning component for learning high-level SMART goal-setting and coaching strategies from the human health coach's interactions with users.  Significant technical advances that address the underlying problems from these sub-areas are needed to achieve human-level health coaching efficacy and positive health outcome rates. These include: novel natural language processing methods to process informal, concise SMS including the emotion and mood they convey; expression of increasing autonomy via linguistic proxies such as initiative; and inverse optimal control methods for rationalizing observed behavior. Building on an initial feasibility study, this project will assess the benefits of a developed virtual health coach with varying degrees of autonomy for SMART goal setting and additional health coaching for a diverse range of users through SMS and fitness tracking devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838770</AwardID>
+<Investigator>
+<FirstName>Ben</FirstName>
+<LastName>Gerber</LastName>
+<EmailAddress>bgerber@uic.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Sharp</LastName>
+<EmailAddress>sharpl@uic.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Ziebart</LastName>
+<EmailAddress>bziebart@uic.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Barbara</FirstName>
+<LastName>DiEugenio</LastName>
+<EmailAddress>bdieugen@uic.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bing</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>liub@cs.uic.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress>809 S. Marshfield Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8062</Code>
+<Text>SCH Type II: INT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

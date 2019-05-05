@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI Acquisition: A Reconfigurable Computing Infrastructure Enabling Interdisciplinary and Collaborative Research in Hampton Roads</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>1504396.00</AwardTotalIntnAmount>
+<AwardAmount>1504396</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rita Rodriguez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project acquires a reconfigurable computing system that wiil support a broad spectrum of research projects in an appropriately tailored computer environment using state-of the-art technologies. It offers substantial computational power to support a number of critical research initiatives at the institution.&lt;br/&gt;&lt;br/&gt;This infrastructure, named DISCOVER, enables big data and high-performance computing research. Three key thrusts are emphasized: Cybersecurity, Resilience, and Data Intensive Science and Engineering. Each thrust includes multiple applications, as follows. &lt;br/&gt;&lt;br/&gt;Cybersecurity: hardware security for cryptographic circuit verification; modeling learning with homomorphic encryption; malware and anomaly detection; and modeling cyber-attack paths and their mitigation.&lt;br/&gt;&lt;br/&gt;Resilience: computational simulations to model sea level rise; understanding social media for emergency preparedness for natural disasters; and data-driven understanding of massive geospatial traffic patterns.&lt;br/&gt;&lt;br/&gt;Data Intensive Science and Engineering: high-accuracy finite element mesh generation; analysis of brain imaging and image-guided surgery; and modelling of power-consumption and resource allocation for high-performance computing clusters.&lt;br/&gt;&lt;br/&gt;The acquired computing system will stimulate multi-disciplinary collaborations with other institutions in Hampton Roads, including Norfolk State University, Tidewater Community College, and Thomas Nelson Community College.  Training workshops and a summer institute will be organized to help students in various research fields to gain high-performance computing skills.  The insitution will leverage the National Initiative for Cybersecurity Education (NICE) framework to address cyber workforce needs by increasing the pipeline of students pursuing cybersecurity careers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828593</AwardID>
+<Investigator>
+<FirstName>Nikos</FirstName>
+<LastName>Chrisochoides</LastName>
+<EmailAddress>nikos@cs.odu.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Masha</FirstName>
+<LastName>Sosonkina</LastName>
+<EmailAddress>msosonki@odu.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hongyi</FirstName>
+<LastName>Wu</LastName>
+<EmailAddress>h1wu@odu.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jingwei</FirstName>
+<LastName>Huang</LastName>
+<EmailAddress>j2huang@odu.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Khan</FirstName>
+<LastName>Iftekharuddin</LastName>
+<EmailAddress>kiftekha@odu.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Old Dominion University Research Foundation</Name>
+<CityName>Norfolk</CityName>
+<ZipCode>235082561</ZipCode>
+<PhoneNumber>7576834293</PhoneNumber>
+<StreetAddress>4111 Monarch Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

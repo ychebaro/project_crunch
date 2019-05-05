@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BIGDATA: IA: Collaborative Research: Understanding the Financial Market Ecosystem</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>407585.00</AwardTotalIntnAmount>
+<AwardAmount>407585</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This is an interdisciplinary project involving computer science and economics. The big data problem to be addressed concerns how to analyze and understand financial trading, and its effects on the stock market. The project introduces new behavioral models of financial trading and applies big data techniques to implement them.  The project will foster research on the financial ecosystem of machine-machine and machine-human interactions by bringing financial economists and data scientists together in a series of workshops.&lt;br/&gt;&lt;br/&gt;The PIs will work with the National Center for Supercomputing and develop a new and more accurate taxonomy of trading frequencies by categorizing high frequency traders (HFT), buy-side algorithmic traders (BAT) and human traders using two proprietary high frequency datasets. The workshops will foster research on the implications of the new financial ecosystem for the overall financial system and the economy in general, as well as creating new metrics and data for the discipline of finance in economics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838215</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Towns</LastName>
+<EmailAddress>jtowns@ncsa.illinois.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>Champaign</CityName>
+<ZipCode>618207406</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>1901 South First Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

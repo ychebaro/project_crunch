@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Nearby Exoplanet Imaging Enabled by Active Speckle-Nulling Control Algorithms</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Kristina Davis is awarded an NSF Astronomy and Astrophysics Postdoctoral Fellowship to conduct a program of research and education at the University of California, Santa Barbara.  Davis will develop techniques to drastically enhance the contrast of detectors used with ground-based optical telescopes.  The enhancements will enable very sharp images of, for example, "exoplanets", or planets outside our solar system.  This new capability should significantly increase the number of exoplanets detected around nearby stars.  Davis will also develop lessons and hands-on activities that will introduce high school students to principles of physics and advanced astronomical instrumentation.&lt;br/&gt;&lt;br/&gt;By developing Microwave Kinetic Inductance Detector (MKID) technology, this project seeks to increase by nearly two orders of magnitude the contrast ratio of adaptive optics imaging of exoplanets.  Davis will accomplish this by developing algorithms that use the raw data stream to make corrections to the instrument control loop and thus cancel atmospheric 'speckles', which reduce the contrast of existing images.  By increasing the raw contrast level in observations, this project will improve the output of exoplanet surveys carried out by existing ground-based telescopes.   Davis will also develop lessons for high school students on the conversion of light into electrical energy and on the phenomenon of resonance.  She will use these lessons to engage students at local high schools and conduct teacher training workshops.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801983</AwardID>
+<Investigator>
+<FirstName>Kristina</FirstName>
+<LastName>Davis</LastName>
+<EmailAddress/>
+<StartDate>06/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Davis                   Kristina       K</Name>
+<CityName>Tempe</CityName>
+<ZipCode>852824929</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

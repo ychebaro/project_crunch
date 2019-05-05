@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning IUCRC at SDSMT:  Center for Solid-State Green Electric Power Generation and Storage (CEPS)</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The NSF IUCRC Center for Solid-State Green Electric Power Generation and Storage (CEPS) is based on long-term partnerships between universities, industry, national laboratories, and state and federal institutions.   The Center seeks to provide solutions for safe, high efficiency, and eco-friendly sustainable solid-state energy storage.  This all-solid-state energy storage technology is important for portable, automotive, space, and military applications.  The prospective Center will conduct research to expand the fundamental scientific knowledge related to charge transfer in solid state applications.   This research will enable, facilitate, and advance the design, synthesis, and manufacturing of the all-solid-state glass-ceramic materials used for solid-state energy storage.  The faculty associated with the Center will also mentor young scientists providing a broad multidisciplinary educational experience. &lt;br/&gt;&lt;br/&gt;The prospective Center focuses on advancing understanding of fundamental mechanisms that take place in novel super-fast solid-state glass-ceramic conductors under electric transient conditions and correlation of these mechanisms.  New knowledge and scientific contributions to the field of solid-state ionics will be generated through the following: 1) Mechanisms of micro- and nanostructural evolution of novel nano-architectures at atomic scale; 2) Understanding mass and charge transfer mechanisms by in-situ operando studies; 3) Self-charging mechanisms within intrinsically integrated solid-state energy storage multilayer structures involving perovskite solar cells; 4) New miniaturization technology leading to safe, human-friendly, and long-lasting solid-state energy storage systems for medical applications; and 5) Solid-state energy storage integration into green power generation systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841437</AwardID>
+<Investigator>
+<FirstName>Alevtina</FirstName>
+<LastName>Smirnova</LastName>
+<EmailAddress>Alevtina.Smirnova@sdsmt.edu</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Duane</FirstName>
+<LastName>Abata</LastName>
+<EmailAddress>duane.abata@sdsmt.edu</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Widener</LastName>
+<EmailAddress>christian.widener@sdsmt.edu</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Grant</FirstName>
+<LastName>Crawford</LastName>
+<EmailAddress>Grant.Crawford@sdsmt.edu</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>South Dakota School of Mines and Technology</Name>
+<CityName>Rapid City</CityName>
+<ZipCode>577013995</ZipCode>
+<PhoneNumber>6053941218</PhoneNumber>
+<StreetAddress>501 East Saint Joseph Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

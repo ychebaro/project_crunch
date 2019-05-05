@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Transforming Complex Utility Transaction Management</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is empowering the 68 million U.S. natural gas consumers to know their transaction status in real time, have more and continual control of their transactions, settle transactions in increments less than the industry?s current monthly accounting cycle and enjoy an extremely high level of security. Their transaction cost will be reduced and speed increased, freeing industry capacity and resources to be employed elsewhere at greater value. This innovation will allow others in the natural gas industry to better consider transaction processes and themselves innovate - employing many minds on industry efficiency. This innovation will also have application to other industries characterized by multiple complex, multi-party transactions; particularly the electric utility industry and possibly providing the catalyst for more extensive deregulation and consumer control.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to discover how to transform complex natural gas utility transaction management processes using Blockchain innovations and related technologies across production, transmission, distribution and consumption functions. The United States utility industry has operated in its present physical form for more than a century. Over the past four decades the industry has evolved through various policy and regulatory actions to open transaction participation to thousands of parties. During the past two decades, digital technologies enabled transaction functions to talk to each other and perform some functions automatically. Despite this progress, utility transaction management processes are essentially those created decades ago. They still require significant human intervention, remain highly segmented and employ little digital intelligence and security technology available today. The various technologies now supporting the industry?s seven step transaction processes will be mapped, assessed for Blockchain technology application and then consolidated into a single platform. The key challenge is to create transformative technology integrating the numerous other existing technology applications and data exchange formats and protocols without succumbing to customization which then mutes the transformative nature of the innovation and renders it ineffective as a platform to subsequent industry innovation by multiple parties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842614</AwardID>
+<Investigator>
+<FirstName>Rob</FirstName>
+<LastName>Norris</LastName>
+<EmailAddress>rwnorris@icloud.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ENERGYXCHAIN, LLC</Name>
+<CityName>HUNTERSVILLE</CityName>
+<ZipCode>280786569</ZipCode>
+<PhoneNumber>7046618131</PhoneNumber>
+<StreetAddress>13515 SERENITY ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

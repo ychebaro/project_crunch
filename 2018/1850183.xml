@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CHS: Techniques for Helping Domain Experts Understand and Improve Models Underlying Intelligent Systems</AwardTitle>
+<AwardEffectiveDate>02/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardAmount>175000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A number of computing systems include intelligent components, employing algorithms or computational models that process data and make decisions or recommendations based on the data.  These models often function as 'black boxes': their internal mechanisms are often not visible to their users, and when they are, they are usually in a form that requires training in computer science to understand and modify them.  They underlie many socially useful functions, ranging from risk scoring to autonomous vehicles, which makes it important for their users -- who are often experts in the specific domain of use, but not in computing -- to be able to  use and improve the models.  This project's goal is to develop techniques that will help human users who are not trained computer scientists interact with these models using concepts and interaction techniques based on the specific domain and problem at hand rather than the underlying algorithms.  This will lead to scientific advances in the broader area of explainable artificial intelligence, as well as increasing the transparency and usefulness of intelligent systems that affect everyday life.  The project will also support a number of course development and outreach activities and develop freely available toolkits for other researchers and developers to use. &lt;br/&gt;&lt;br/&gt;The long-term goal of this project is to computationally generate visualizations to reveal how intelligent systems work to non-computing knowledge workers. To progress toward this goal, the project team will focus on three major research activities.  First, they will conduct a bottom-up, four-pass analysis of literature spanning multiple research communities (Artificial Intelligence, Machine Learning, Computer Science Education, Human-Computer Interaction, and Visualization) to summarize key design dimensions of visualizing intelligent systems.  Second, they will collect empirical evidence of how these systems are currently used and understood in the medical domain by observing how medical professionals interact with data and make sense of domain-specific intelligent systems.  Third, based on the first two activities, they will develop computational methods to illustrate how these systems work by visualizing how user-sampled data is transformed into final results, while providing controls for domain experts to interact with the model.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/08/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850183</AwardID>
+<Investigator>
+<FirstName>Xiang</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>xiangchen@acm.org</EmailAddress>
+<StartDate>02/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

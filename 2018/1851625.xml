@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Extracting the Backbone of Bipartite Projections</AwardTitle>
+<AwardEffectiveDate>05/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>119904.00</AwardTotalIntnAmount>
+<AwardAmount>119904</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will investigate a new way to collect network data that would make answering social scientific questions involving social networks faster and more cost-effective.  Networks are widely recognized across multiple disciplines as critically important for understanding how information spreads (communications), how illnesses spread (public health), how legislation is passed (political science), how norms and customs form (sociology), how companies and governments coordinate economic activities (economics &amp; geography), how people form and maintain relationships (developmental psychology), and how threats to national security can be disrupted (intelligence).  Collecting data on these types of networks is often costly and impractical, which has limited progress in answering these questions.  Rather than attempt to measure directly the interactions between people (or companies, or cells, etc.), the new methods developed in this project will measure interactions indirectly by looking at patterns of similar behavior. For example, it would be impractical to ask everyone in a large city who they talk with, but we may be able to infer that two people talk with one another if they routinely attend the same events. This project will compare several different methods for making these inferences to determine which method (if any) is the most accurate. Identifying accurate methods for indirectly measuring networks is important because it will reduce the time and economic cost of answering research questions, such as those noted above, that have scientific and societal benefits.&lt;br/&gt;&lt;br/&gt;The inferential methods investigated in this project are known as methods of backbone extraction. Given a bipartite projection network in which two agents (e.g., people) share some artifacts in common (e.g., they attend the same events), these methods determine whether they share enough artifacts in common to warrant the inference that they are linked (e.g., they interact with each other). Methods for making such inferences differ primarily by whether they control for nothing (e.g., an unconditional threshold), for the number of artifacts each agent has (e.g., a hypergeometric threshold), or for both the number of artifacts each agent has and the number of agents each artifact has (e.g., the fixed and stochastic degree sequence models). After implementation of several existing methods in a publicly available package for the R software and evaluation of their computational complexity, their ability to accurately recover known (i.e., ground truth) networks with varying structural properties from synthetic bipartite data that contain varying amounts of noise will be compared. In addition, the performance of these methods using two publicly available benchmark empirical bipartite datasets that have known ground truths will be tested.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/28/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/28/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1851625</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Sagan</LastName>
+<EmailAddress>sagan@math.msu.edu</EmailAddress>
+<StartDate>02/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zachary</FirstName>
+<LastName>Neal</LastName>
+<EmailAddress>zpneal@msu.edu</EmailAddress>
+<StartDate>02/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

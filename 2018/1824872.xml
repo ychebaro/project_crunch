@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: A chip-based nano-opto-fluidic biosensor</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to facilitate the development of a versatile point-of-care (POC) biosensor for decentralized laboratory testing, and to investigate the market potential for early detection of protein biomarkers for diseases. The focus areas are in cardiovascular disease, breast milk banks, and assisted living facilities. There is a need for early diagnosis of heart failure, especially myocardial infarction, by monitoring cardiac biomarkers. This is not only for the patient's survival, but also reducing treatment costs. This biosensor technology will potentially be the first product on the market for a portable, rapid and cost-effective diagnosis of cardiovascular disease (CVD). This project may accelerate POC diagnostics research and personalized medicine, including early detection and screening, clinical diagnosis, treatment, prevention and control. Thus, it will permit a more effective deployment of therapies. The developed product is expected to find broader commercial applications including, but not limited to, preclinical and clinical researchers, life science studies, hospital and healthcare facilities, diagnostics and patient monitoring, home and remote use, as well as drug discovery in pharmaceutical and biotechnology industry.&lt;br/&gt;&lt;br/&gt;This I-Corps project will explore the market potential for the innovative biosensor. The end product will be a lab-on-a-chip based POC technology for use in complex biological media, like whole blood, which commonly requires sample pretreatment and/or separation of the large blood cells. The POC device will provide exclusive delivery of protein biomarkers (e.g. troponin) to the detection area for highly sensitive and reliable detection from a drop of whole blood. The uniqueness of the innovation lies in the nanoscale structures that are fabricated into thin metal films and integrated with microfluidics for direct optical measurement. The combination of on-chip/in-line sample preparation and fluid handling integrated with a simple, label-free, optical detection system enables a complete lab-on-chip system. This system may offer several advantages over conventional biomarker detection methods for use in complex samples. These include high throughput, high sensitivity, elimination of interferences from large blood cells, lower cost, ease of operation and simplified sample pretreatment. The I-Corps project attempts to explore innovative applications of parallel, multiple biomarker analysis and determine the readiness to transition the biosensor to a viable product.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824872</AwardID>
+<Investigator>
+<FirstName>Jianjun</FirstName>
+<LastName>Wei</LastName>
+<EmailAddress>j_wei@uncg.edu</EmailAddress>
+<StartDate>03/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina Greensboro</Name>
+<CityName>Greensboro</CityName>
+<ZipCode>274125013</ZipCode>
+<PhoneNumber>3363345878</PhoneNumber>
+<StreetAddress>1111 Spring Garden Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Distributed Iterative Control of Soft Robotic Arms</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>143100.00</AwardTotalIntnAmount>
+<AwardAmount>143100</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Landers</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This EArly-concept Grant for Exploratory Research (EAGER) will create a new method of controlling compliant robot manipulators resembling octopus arms or elephant trunks, and will experimentally validate these new control laws. This project will explore two innovative aspects. First, control will be distributed. That is, a large number of sensors and actuators will be spread throughout the manipulator, and information gathered by each sensor will be used to control only a small number of nearby actuators. This distributed control strategy avoids the transmission of large amounts of data across the structure, and eliminates the need for a powerful central computer to process this flood of data. Second, the control law will be iterative. That is, the soft manipulator will learn to achieve its objectives over multiple attempts. Although the approach taken is not explicitly based on biological behavior, both these features are present in animals that manipulate objects using compliant appendages. Computer simulations will be used to study performance of the new control laws on extremely complex robots, with hundreds of individually controllable segments. Physical experiments will be conducted on systems with between five and ten such segments. The modeling and control approaches will advance the national health and economic prosperity, by enabling reliable autonomous operation of soft multi-segment robots, to increase their usability in numerous applications, including manufacturing, surgery, search and rescue, navigation, and personal home assistance.&lt;br/&gt;&lt;br/&gt;This project will explore novel distributed planning and control approaches for multi-segment soft robotic systems. In contrast to the large amounts of training data required by machine learning, this approach aims to create intuitive and computationally efficient algorithms with high robustness and scalability. Specific research goals include i) novel 2-D and 3-D goal reaching and obstacle avoidance algorithms, using only local sensor measurements and information processing, ii) feasible high-fidelity dynamic models to capture non-linear material properties and pressure dynamics, iii) a robust iterative learning control algorithm for gravity compensation and motion control of the soft arm, and iv) validation of the control laws using a physical multi-segment soft robotic arm.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800940</AwardID>
+<Investigator>
+<FirstName>Wenlong</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>Wenlong.Zhang@asu.edu</EmailAddress>
+<StartDate>02/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Panagiotis</FirstName>
+<LastName>Polygerinos</LastName>
+<EmailAddress>Polygerinos@asu.edu</EmailAddress>
+<StartDate>02/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

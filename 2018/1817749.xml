@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Molecular mechanisms of RNA Polymerase I Transcription Elongation</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>800000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This work seeks to fill a fundamental gap in our understanding of how one of the three specialized RNA polymerases, RNA Pol I, transcribes ribosomal DNA into ribosomal RNA.  This function is directly linked to cell growth and proliferation. The research will produce a detailed physical description of how RNA Pol I extends the RNA chain, and the findings will aid the broader scientific community in understanding why higher organisms have evolved three RNA polymerases, Pol I, II, and III, when lower organisms only require one. The project will also interrogate the role of subunits within this multi-subunit RNA polymerase.  Additionally, students will have opportunities to gain Ph.D. level expertise in enzymology, which is sought in both the public and private sector. Undergraduate students will also gain research training and become more informed and competitive for future careers in STEM fields. Finally, a specific plan is in place to support recruitment and retention of women in STEM fields.&lt;br/&gt;&lt;br/&gt;Transcription elongation catalyzed by the fourteen subunit RNA Pol I is essential for ribosome biogenesis. Pol I synthesizes the 5.8 S, 18 S, and 25 S ribosomal RNAs. Despite its essential requirement for cell viability, little is known regarding the mechanism of Pol I catalyzed transcription elongation. This research will advance knowledge of transcription by producing a detailed kinetic mechanism for single and multi-nucleotide incorporation catalyzed by Pol I. Transient state kinetic techniques, specifically chemical quenched-flow and novel analysis methods will be employed to determine rate determining steps in the reaction and how these might be regulated. Substantial research has been done on DNA polymerases, bacterial RNA Pol, and eukaryotic RNA Pol II; however, much less is known about eukaryotic Pol I and III. The results of this project will enable comparison of the fundamental mechanistic differences between the three eukaryotic RNA polymerases, and help provide insights into the evolutionary pressures that led to their specialization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817749</AwardID>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Lucius</LastName>
+<EmailAddress>allucius@uab.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Schneider</LastName>
+<EmailAddress>dschneid@uab.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama at Birmingham</Name>
+<CityName>Birmingham</CityName>
+<ZipCode>352940001</ZipCode>
+<PhoneNumber>2059345266</PhoneNumber>
+<StreetAddress>AB 1170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

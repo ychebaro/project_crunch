@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Cracking the Diversity Code: Understanding Computing Pathways of those Least Represented</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>662350.00</AwardTotalIntnAmount>
+<AwardAmount>662350</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Florida International University proposes to explore the pathways and experiences of Black and Hispanic women in computer science (CS). Despite the growth in undergraduate CS enrollment nationally, the participation of women continues to be quite low. Research around their low participation has largely focused on the experiences of White women, and while its findings have resulted in a range of interventions aimed at increasing female participation in CS, those interventions have had little to no impact on engaging women of color. This research aims to develop an understanding of the experiences of Black and Hispanic women so that the CS community can begin to develop initiatives that are accessible and impactful for them. &lt;br/&gt;&lt;br/&gt;Based on an existing pilot, this research will explore the experiences of Black and Hispanic women in computing using the following theoretical frameworks as guide posts: social identity theory, intersectionality, and community cultural wealth. The exploratory sequential mixed methods design expands the Principal Investigator's preliminary qualitative work, with a rigorous mixed-methods inquiry. The first phase will gather exploratory, qualitative narratives and the second will collect quantitative date from a broader sample in order to explain the relationships found in the first phase for more generalizable results.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845884</AwardID>
+<Investigator>
+<FirstName>Monique</FirstName>
+<LastName>Ross</LastName>
+<EmailAddress>moross@cs.fiu.edu</EmailAddress>
+<StartDate>04/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>Miami</CityName>
+<ZipCode>331990001</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>055Y</Code>
+<Text>CISE Education and Workforce</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7482</Code>
+<Text>BROADENING PARTIC IN COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

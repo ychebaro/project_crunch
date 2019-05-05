@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Cluster Algebras in Representation Theory and Symplectic Geometry</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>107022</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Manes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Representation theory is the study and classification of different kinds of symmetry, specifically in the context of linear algebra. Historically it has played an important role in mathematics because analyzing a given mathematical object, for example a system of equations, is often dramatically simplified when the object is symmetric in a suitable abstract sense. Symplectic geometry, on the other hand, grew out of Hamiltonian mechanics and today occupies a prominent place in mathematics due to the wide range of contexts, for example in topology and algebraic geometry, where the underlying geometric structures of Hamiltonian mechanics appear. This research project aims to advance understanding of both subjects, as well as unearthing deep new connections between them, by leveraging new ideas from algebraic combinatorics, in particular the recently developed theory of cluster algebras. These connections are in turn all informed by recent advances in mathematical physics, specifically string theory and supersymmetric gauge theory.&lt;br/&gt;&lt;br/&gt;On the side of representation theory, the main objects of study in this project include the affine Grassmannian and its relatives, in particular their derived categories of equivariant coherent sheaves. On the side of symplectic geometry, the main objects are categories of Lagrangian branes or microlocal sheaves in noncompact symplectic 4- and 6-manifolds. In the former context, cluster structures appear at the level of the equivariant K-rings of the geometric objects involved, and describe certain combinatorial structures inherited by these rings. In the latter, cluster structures appear on moduli spaces of Lagrangian branes in 4 dimensions, or through Hall algebra-type constructions based on Fukaya categories in 6 dimensions. Through its combinatorial nature the language of cluster algebras provides a means of isolating tractable aspects of otherwise very rich and complicated mathematical objects, as well as uncovering new relations between these objects.</AbstractNarration>
+<MinAmdLetterDate>11/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801969</AwardID>
+<Investigator>
+<FirstName>Harold</FirstName>
+<LastName>Williams</LastName>
+<EmailAddress>hwilliams2718@gmail.com</EmailAddress>
+<StartDate>11/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

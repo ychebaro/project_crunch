@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>HBCU Computer Science Workshop</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>113340.00</AwardTotalIntnAmount>
+<AwardAmount>113340</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fay Cobb Payton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The National Science Foundation's (NSF) Directorate for Computer and Information Science and&lt;br/&gt;Engineering (CISE) is committed to broadening the participation of underrepresented populations in&lt;br/&gt;computing and closely-related disciplines. Indeed, CISE strongly encourages meaningful actions that&lt;br/&gt;address the longstanding underrepresentation of various populations including women, minorities&lt;br/&gt;(African Americans/Blacks, Hispanic Americans, American Indians, Alaska Natives, Native Hawaiians,&lt;br/&gt;Native Pacific Islanders, and persons from economically disadvantaged backgrounds), and persons with&lt;br/&gt;disabilities, in the computing field.&lt;br/&gt;&lt;br/&gt;Unfortunately, only a few (or no) historically black colleges and universities (HBCUs) have participated in proposal submission/awardees to broadening participation in computing since 2012. Even though there are newer NSF programs, such as Computing Education for 21st Century (CE21) along with Science, Technology, Engineering and Mathematics-Computing (STEM-C) Partnerships, there are still few proposals submitted by and awarded to HBCUs.&lt;br/&gt;&lt;br/&gt;This workshop will enable HBCU computer science/computing faculty to collaborate and address the needs associated with broadening participation and create cross-institutional strategies to increase research outcomes. Workshop participants will engage in post-workshop meetings at CS conferences and virtually to increase the level of accountability associated with NSF grantsmanship.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849541</AwardID>
+<Investigator>
+<FirstName>Chutima</FirstName>
+<LastName>Boonthum</LastName>
+<EmailAddress>chutima.boonthum@hamptonu.edu</EmailAddress>
+<StartDate>12/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jean</FirstName>
+<LastName>Muhammad</LastName>
+<EmailAddress>jeana.muhammad@hamptonu.edu</EmailAddress>
+<StartDate>12/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hampton University</Name>
+<CityName>Hampton</CityName>
+<ZipCode>236680108</ZipCode>
+<PhoneNumber>7577275363</PhoneNumber>
+<StreetAddress>100 E. Queen Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>055Y</Code>
+<Text>CISE Education and Workforce</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041Z</Code>
+<Text>HBCU-Strengthening Research Capacities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

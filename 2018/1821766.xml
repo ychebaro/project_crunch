@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: EDU: CyCAD: A Virtual Platform for Cybersecurity Curriculum on Analog Design</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>294280</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Piotrowski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The understanding of the hardware security of digital systems has gained significant maturity through research and curriculum development.   However, most cybersecurity curricula fail to cover these threats.  This project will develop a virtual platform for a cybersecurity curriculum on analog design (CyCAD).  The curriculum will feature hands-on learning through planned activities, assessments, and projects on CyCAD test boards.  Students will learn core cybersecurity concepts using the CyCAD framework, which will be upgraded throughout the project for future use as a self-contained audio-visual learning package.  By providing remote access to CyCAD, and the flexibility to personalize experiments, the project will also address "Advance Personalized Learning," one of the National Academy of Engineering's Grand Challenges. This project will promote K-12 and technical workforce education, cybersecurity awareness in the society, and collaboration between computer science, electrical engineering and education.&lt;br/&gt;&lt;br/&gt;The project features a strong K-12 outreach component that includes a professional development workshop for teachers.  A well-thought out, and carefully designed, dissemination plan that employs multiple approaches, including YouTube videos, will reach a broad range of individuals.  The project addresses a significant gap in cybersecurity education, and that the comprehensive K-12 outreach component, coupled with the multifaceted dissemination plan, will ensure that this project will have a significant impact well beyond the limits of the host institution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821766</AwardID>
+<Investigator>
+<FirstName>Swaroop</FirstName>
+<LastName>Ghosh</LastName>
+<EmailAddress>szg212@psu.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7254</Code>
+<Text>CYBER SECURITY ACT PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

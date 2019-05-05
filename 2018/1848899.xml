@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Developing standards and digital infrastructure for structural geology and experimental deformation</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>49286</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>ICER</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva E. Zanzerkia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This workshop will occur prior to the 2018 AGU Fall meeting, and will engage researchers active in the fields of natural and experimental deformation and microstructural analysis to provide input on developing data policies and data standards to improve the availability and access of research data. Participants will identify gaps in current capabilities for the community to store and discover scientific results, and ensure that standards are aligned across the field and experimental scientific communities. The workshop will bring together a diverse range of scientists from different scientific fields and from under-represented groups in STEM. A postdoctoral fellow will lead the organization of this community meeting. &lt;br/&gt;&lt;br/&gt;This workshop is conducted to meet the goals of the EarthCube program. In addition it moves a long-tail scientific community towards Public Access of research outcomes. This work will incorporate an analysis of gaps in infrastructure for integrating microstructural data from two related (but currently largely disparate) communities, those studying naturally deformed rocks and those conducting experiments to produce deformed materials in the lab. This analysis will be focused on understanding what current data resources are currently available within each community, where the fundamental gaps are in terms data availability/discoverability in each community, and how the existing StraboSpot data system might work to provide a unified approach to data storage and discovery that can effectively serve both communities. The workshop adds value to an investment in cyberinfrastructure for a long-tail science community. The workshop will bring together a diverse community to make decisions on standards to directly improve data availability and access. The project coordinates with The European Plate Observatory System.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848899</AwardID>
+<Investigator>
+<FirstName>Basil</FirstName>
+<LastName>Tikoff</LastName>
+<EmailAddress>basil@geology.wisc.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7414</Code>
+<Text>NSF Public Access Initiative</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8074</Code>
+<Text>EarthCube</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

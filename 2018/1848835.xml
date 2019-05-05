@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps Team Proposal "Mini Signal"</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project lies in three aspects: through a systematic customer discovery process, it enhances the R&amp;D community's understanding of the potentially broad needs and application spaces of the contact-less physiological monitoring. For the robust heart-rate tracking technologies that this I-Corps project is based on, the potential commercial impact includes monitoring drivers' conditions to enhance driving safety, supporting safe and effective athletic/fitness training, offering additional analytics from surveillance video for public safety, and more. The outcome of the I-Corps customer discovery will provide real-world requirements and data to a new round of R&amp;D and enhance the R&amp;D community's scientific and technological understanding.  The I-Corps training and experience will prepare the Team to identify and pave a way to the most effective customer-technology path for commercialization, which will lead to an economic and societal impact.  The training would also provide valuable insights to the Technical Lead and Co-Lead, who as faculty members can potentially incorporate the Lean Startup and entrepreneurial thinking into their future education and mentoring activities. This would extend the benefits to many students in the years to come.&lt;br/&gt;&lt;br/&gt;This I-Corps project builds on the research advances of contact-free sensings, such as through video, to capture the very small color changes of a person's face as his/her heart pumps blood to reach the whole body.  The team has developed a strong expertise to harvest such micro signals under a number of scenarios and motivating applications. From the patent-pending research on which this I-Corps project is based, accurate heart rate detection and tracking have been achieved even under significant motion as users move and lighting conditions change, which is common in real-world use.  The synergy of multiple traditionally separate fields, including image/video processing, computer vision, statistical signal processing and estimation, paved a foundation to address the R&amp;D challenges.  The methodologies learned from the I-Corps program serve as a bridge between the theory and practice of micro signal analytics in the important emerging area of health analytics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848835</AwardID>
+<Investigator>
+<FirstName>Min</FirstName>
+<LastName>Wu</LastName>
+<EmailAddress>minwu@eng.umd.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chau-Wai</FirstName>
+<LastName>Wong</LastName>
+<EmailAddress>cwong9@ncsu.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

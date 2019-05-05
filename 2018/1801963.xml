@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Modular Symbols in Arithmetic</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>330000.00</AwardTotalIntnAmount>
+<AwardAmount>110000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A remarkable aspect of algebraic number theory lies in its revealing of connections between objects that appear to be of entirely different natures.  The overarching principle of the research of the PI is that certain algebraic problems can be reinterpreted directly as geometric problems in higher dimension, providing intriguing connections between objects from different parts of mathematics.  A great wealth of such connections have been found indirectly through intermediate objects of an analytic nature.  The research of the PI aims to provide a window through which well-known conjectures and statements of arithmetic may be seen in a new and more direct light.&lt;br/&gt;&lt;br/&gt;The PI has conjectured an intricate but explicit relationship between modular symbols and cup products of cyclotomic units.  This and its proposed extensions say roughly that class groups of cyclotomic fields are explicitly determined by and determine homology groups of modular curves reduced modulo Eisenstein ideals.  The project aims to strengthen his conjecture and extend it and known results to higher-dimensional algebraic groups and other global fields.  This involves substantial foundational work to develop the necessary framework for the desired formulations that are the primary focus of the project.  The expectation is that the geometry of locally symmetric spaces should explicitly determine the arithmetic of lattices in Galois representations, which is to say the structure of Selmer groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801963</AwardID>
+</Award>
+</rootTag>

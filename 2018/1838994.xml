@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Crowdsourcing Metadata Enhancements to Improve the Discoverability and Reusability of Scientific Data: Experimental Evaluations</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>298234</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Beth Plale</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This exploratory pilot project will undertake two experiments to determine what motivates people to contribute metadata enhancements to data that have been archived, but that are not sufficiently findable, accessible, interoperable, and reusable.  Current practice in data curation relies on the efforts of data producers and professional data curators to produce and provide metadata, including variable level data descriptors, study key words, and bibliographic citations to data-related publications. These efforts are expensive and, as a result, are often undersupplied, leaving data that has been archived and shared with the scientific community of limited value for reuse. The experiments in this project will directly inform potentially transformative efforts to engage the broader community in crowdsourcing enhancements to metadata so that tools and interfaces can be designed that will induce others to participate in this valuable activity, tapping into their knowledge of and interest in data in particular domains to increase data FAIRness. &lt;br/&gt;&lt;br/&gt;This project is supported by the National Science Foundation Public Access Initiative which is managed by the NSF Office of Advanced Cyberinfrastructure on behalf of the Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838994</AwardID>
+<Investigator>
+<FirstName>Margaret</FirstName>
+<LastName>Levenstein</LastName>
+<EmailAddress>maggiel@umich.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7414</Code>
+<Text>NSF Public Access Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

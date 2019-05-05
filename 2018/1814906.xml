@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Models and Design Tools for Tethered Molecular Circuits</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Molecular computing devices detect input signals, including molecules indicative of disease states, and carry out autonomous information processing tasks on these inputs at the nanoscale. Recent work has explored the use of molecular computing devices in which the computing components are tethered to a DNA origami tile, with the layout of the components influencing their computational functionality. Such devices have a number of advantages, including faster computation times and the ability to reuse devices to scale up a circuit. This project will develop computational models, algorithms, and software tools to automate the design, implementation, and analysis of this new class of molecular computing devices. The award will enable more reliable design of these systems, providing enhanced guarantees that they will function as intended when constructed in the laboratory. The software produced will be released to the broader research community. The project will support training and education of undergraduate and graduate students, and members of underrepresented groups will take part via tracked science involvement programs. &lt;br/&gt;&lt;br/&gt;When modeling and simulating molecular circuits involving tethered components, the geometry of molecular interactions is of vital importance. This project will use a novel representation of molecular structures via sets of geometric constraints on variables that represent the physical positions of specific parts of the structure. Finding a solution to these constraints corresponds to proving that the specified structure can adopt the corresponding physical conformation. This will be used as a filter to eliminate any tethered reactions for which the resulting product structure could not actually form, for example, if the reactants are too far apart to actually interact. These models will be tested and parameterized by experimentally validating their predictions with wet lab experiments, and novel designs for modular circuits will be developed as a proof of concept. The developed algorithms will be implemented and distributed as usable software tools that enable computer-aided design of tethered molecular systems. Thus, the project will adapt established techniques from theoretical computer science to handle the unique challenges of tethered molecular computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814906</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Lakin</LastName>
+<EmailAddress>mlakin@unm.edu</EmailAddress>
+<StartDate>06/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>Albuquerque</CityName>
+<ZipCode>871310001</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7946</Code>
+<Text>BIO COMPUTING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

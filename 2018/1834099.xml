@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Implementation of a Comprehensive High-School-College Partnership and Equity-Based Curriculum in Engineering and Computer Science</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>649805.00</AwardTotalIntnAmount>
+<AwardAmount>649805</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexandra Medina-Borja</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project aims to contribute to the national need for well-educated scientists, mathematicians, engineers, and technicians.  To do so, it will support the success of sixteen undergraduate students pursuing bachelor's degrees in Computer Science or Electrical and Computer Engineering.  The project will provide up to four-year scholarships to the students.  In addition, it will embed high-impact practices, such as collaborative learning, in required courses in the majors, thus enhancing the quality of computer science and engineering education for the both the Scholars and other undergraduates.  Scholars will receive mentoring and have access to leadership development opportunities, as well as entrepreneurial and industry internships. It is anticipated that the Scholars will achieve increased academic success, thus increasing their retention and graduation rates.  Thus, the project has the potential to broaden the STEM career possibilities of a diverse group of high-achieving students from low-income backgrounds.&lt;br/&gt;&lt;br/&gt;The overall goal of the project is to recruit, support, retain and graduate a diverse cadre of academically talented, low-income STEM students. In addition to developing expertise in computer science and engineering, students will also have opportunities to develop professional competencies through interactions with faculty, peers, collegial networks, and industry. The project seeks to advance knowledge about the effectiveness of academic support strategies, including faculty development and curriculum/classroom enhancements.  Results of these studies could increase understanding of effective strategies for improving undergraduate computer science and engineering education. Faculty, peers, the New York City Department of Education, and industry partners will benefit from the Scholars' successful learning experiences and their preparedness to contribute to STEM fields. As the proposed project activities are both scalable and adaptable, this project can help other universities to nurture a new generation of aspiring engineers and computer science professionals. This project is funded by the NSF Scholarships in Science, Technology, Engineering, and Mathematics program, which seeks to increase the number of low-income academically talented students with demonstrated financial need who earn degrees in STEM fields. It also aims to improve the education of future scientists, engineers, and technicians, and to generate knowledge about academic success, retention, graduation, and academic/career pathways of low-income students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/28/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834099</AwardID>
+<Investigator>
+<FirstName>Huanying</FirstName>
+<LastName>Gu</LastName>
+<EmailAddress>hgu03@nyit.edu</EmailAddress>
+<StartDate>02/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ziqian</FirstName>
+<LastName>Dong</LastName>
+<EmailAddress>ziqian.dong@nyit.edu</EmailAddress>
+<StartDate>02/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>N. Sertac</FirstName>
+<LastName>Artan</LastName>
+<EmailAddress>nartan@nyit.edu</EmailAddress>
+<StartDate>02/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Voris</LastName>
+<EmailAddress>jvoris@nyit.edu</EmailAddress>
+<StartDate>02/28/2019</StartDate>
+<EndDate>03/11/2019</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Reza</FirstName>
+<LastName>Khalaj Amineh</LastName>
+<EmailAddress>rkhalaja@nyit.edu</EmailAddress>
+<StartDate>02/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Houwei</FirstName>
+<LastName>Cao</LastName>
+<EmailAddress>hcao02@nyit.edu</EmailAddress>
+<StartDate>03/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York Institute of Technology</Name>
+<CityName>Old Westbury</CityName>
+<ZipCode>115688000</ZipCode>
+<PhoneNumber>5166867737</PhoneNumber>
+<StreetAddress>Northern Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

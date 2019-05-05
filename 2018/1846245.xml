@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  The role of chloroplast signaling in regulating plasmodesmata</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardAmount>317911</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Clouse</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will study how plant cells share information and resources among themselves, identifying possible targets and strategies for developing plants with optimized nutrient partitioning to meet human needs, while creating hands-on learning opportunities for Deaf/Hard-of-Hearing high school students and University of Tennessee undergraduates.  In plants, pores in the cell wall are conduits for nutrient distribution and signaling during plant growth, development and defense, but little is known about how these pores work or are controlled by the rest of the cell. The research will investigate how the photosynthetic organelles in the cell, chloroplasts, control the structure and function of these pores. The project will include experience learning opportunities for high school and undergraduate students as a mechanism for improving learning. This will involve students who are typically not given these opportunities, including Deaf/Hard-of-Hearing and economically disadvantaged students. The curriculum of a senior-level course will also be re-designed to transform it from a traditional upper-level biology course into an opportunity for experiential learning, using the research as the source of real-life questions for student engagement.&lt;br/&gt;&lt;br/&gt;Cytoplasmic pores in the cell walls called plasmodesmata (PD) are important routes for cell-to-cell communication in plants. There is evidence that chloroplasts can influence trafficking between cells via PD. The underlying hypothesis of the research is that expression of nuclear genes that affect cell-to-cell communication in plants is controlled by chloroplasts via signaling to the nucleus. The goal of this project is to identify the chloroplast signals that change nuclear gene expression, define the nuclear gene networks and signaling modules that alter PD structure and function and then determine how PD structure change in response to chloroplast signaling. The research will use reverse genetics, bioinformatics, molecular and biochemical approaches, and state-of-the-art microscopy. This work will likely advance understanding of the mechanisms used for intracellular communication between the chloroplast and nuclear genomes and provide insight into the chloroplasts-PD relationship, thereby increasing understanding of how plants integrate local physiological and environmental cues perceived by the chloroplasts into decisions that have systemic implications. Importantly, the research may also identify genes that are likely important for cell wall processes that facilitate the formation and modification of PD.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846245</AwardID>
+<Investigator>
+<FirstName>Tessa</FirstName>
+<LastName>Burch-Smith</LastName>
+<EmailAddress>tburchsm@utk.edu</EmailAddress>
+<StartDate>11/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7744</Code>
+<Text>RAHSS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

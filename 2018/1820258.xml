@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  An automated digital pathology lab for rapid on-site processing and imaging of tissue biopsies</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This STTR Phase 1 project seeks to develop an automated system that would significantly increase the speed and accuracy of biopsy assessments at the point of care. The proposed technology eliminates extensive manual tissue processing steps and generates digital images of fresh biopsies that look just like standard pathology slides. The imaging can be performed in seconds, thus improving the efficiency of biopsy assessments at the point of care. Rapid, whole fresh biopsy imaging also improves evaluation accuracy while maximally preserving tissue for further testing and facilitating remote pathology consultation. With over five million patients in the United States undergoing biopsy procedures each year, and one in five of those patients returning for repeat procedures due to inaccuracies in biopsy assessments, an increase in accuracy and procedure speed could have a profound impact. This could lead to decreases in patient procedure time and decreases in repeat procedure rates, preventing unnecessary, painful, and invasive repeat biopsy procedures. With an estimated 1.6 billion USD spend on repeat procedures per year, this would also represent a significant decrease in financial burden on patients. In addition, due to the decrease in time per procedure, this could increase procedure throughput for hospitals, thus increasing hospital revenue potential. Finally, by producing remotely viewable images, this system could be utilized in a remote pathology setting at underserved communities within the US.&lt;br/&gt;&lt;br/&gt;This STTR Phase I project seeks to develop an automated sample processing and tissue pathology imaging system that delivers biopsy-to-image in a completely automated manner on fully-intact fresh tissues within five minutes of tissue removal.  Through integration with the previously developed Video-Rate Structured Illumination Microscopy (VR-SIM) system as the integrated optical sectioning modality, and using novel fluorescence dye combinations that recapitulate gold-standard histology,  the throughput, efficiency, and accuracy of biopsy evaluation can be improved while maximally preserving tissue for downstream processing and readily facilitating telepathology consultation. Preliminary work in multiple fresh tissue preparations, including core-needle biopsies and whole surgical resections,  indicates that the technology and method can deliver high image quality and diagnostic accuracy in short, clinically-relevant timeframes. A prototype of an automated, disposable cartridge system for biopsy staining and imaging for effortless integration with VR-SIM imaging will be developed. Image quality will be optimized at the highest optical sectioning power to be equivalent to physically-sectioned tissues, using polarization-gated VR-SIM and novel immersion media. ADPL workflow testing, validation of diagnostic image quality, and verification of compatibility with downstream analysis in human biopsy samples will be completed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820258</AwardID>
+<Investigator>
+<FirstName>Jonathon</FirstName>
+<LastName>Brown</LastName>
+<EmailAddress>jqbrown@tulane.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mei</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>mwang@instapathbio.com</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Instapath Inc.</Name>
+<CityName>New Orleans</CityName>
+<ZipCode>701241121</ZipCode>
+<PhoneNumber>5048106152</PhoneNumber>
+<StreetAddress>5855 Marcia Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

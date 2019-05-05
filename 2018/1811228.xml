@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Photons from Binary Black Hole Inspirals</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>8155</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Every large galaxy contains a supermassive black hole in its center.   Galaxies merge from time to time, therefore it is expected, but not yet demonstrated, that recently merged galaxies hold two large black holes, which eventually form a bound pair and later merge. It is generally expected that supermassive black hole binaries can often accumulate sizable quantities of gas, and therefore be bright for a significant time before and during the merge, as well as the relaxation period there after.  However, because it is estimated that there are only very few such mergers per year in the entire Universe, understanding the specific features to search for is required to discover them. A team of researchers and graduate students from the Rochester Institute of Technology (RIT), Johns Hopkins University (JHU), and the University of Tulsa (TU) propose to use the Blue Waters supercomputer to perform the first realistic simulations of gas surrounding supermassive binary black holes on route to merger.  These simulations will provide predictions of light and timing signatures emitted by supermassive black hole mergers in order to allow for their observational discovery.&lt;br/&gt;&lt;br/&gt;The focus of this project is to define the features that identify the process of supermassive black hole mergers, using large-scale numerical simulations that assume astrophysically relevant initial conditions and include all the principal relevant physics: magnetohydrodynamics, general relativity, and radiation transfer.  These simulations are extremely challenging computationally because of the complexity of the physics involved. However, the project introduces two significant computation innovations: a time-dependent high-order post-Newtonian spacetime to substitute for explicit solution of the Einstein Field Equations and a multipatch scheme to coordinate separate treatment of regions with contrasting grid requirements.  In addition to the simulation activities, the project is expected to create opportunities to integrate many existing research programs into a larger community of scientists, students, and the general public. It will foster cross-disciplinary collaboration among undergraduate students, graduate students, postdoctoral researchers and faculty at RIT, JHU and TU. Through this network, previous highly successful outreach programs will be able to reach an even larger and more diverse audience, and will provide many more opportunities for students to interact and collaborate with researchers outside their home institutions. It will also result in educating a number of graduate students and post-docs in the techniques of very large-scale computation, which will be important skills for their future careers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811228</AwardID>
+<Investigator>
+<FirstName>Yosef</FirstName>
+<LastName>Zlochower</LastName>
+<EmailAddress>yosef@astro.rit.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Manuela</FirstName>
+<LastName>Campanelli</LastName>
+<EmailAddress>manuela@astro.rit.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rochester Institute of Tech</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramElement>
+</Award>
+</rootTag>

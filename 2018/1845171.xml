@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Optimization Landscape for Non-convex Functions - Towards Provable Algorithms for Neural Networks</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>399999.00</AwardTotalIntnAmount>
+<AwardAmount>89270</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Balasubramanian Kalyanasundaram</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Deep learning, a machine learning method that is based on artificial neural networks, has greatly improved the performance of learning algorithms for many tasks that are related to understanding complicated data such as natural images, videos and language. Products based on deep learning have already made real-life impact in face recognition, machine translation, and shown promise for more applications such as self-driving cars. However, despite the practical success of deep learning, theoretical understanding for why these algorithms work has been scarce. One of the main difficulties in understanding deep learning algorithms is that these algorithms need to solve very complicated optimization problems that try to find out what are the best ways for the neurons to be connected. In the most general form, these optimization problems are known to be intractable. This research project will identify properties of the real-world problems that make these problems special and tractable, and provide new optimization algorithms with theoretical guarantees that are applicable to deep learning. The materials developed in the project will be disseminated through conferences and workshops that try to connect different research communities, and used to create new machine learning courses. The algorithms designed in the project will also be implemented in standard deep learning frameworks and made publicly available.&lt;br/&gt;&lt;br/&gt;The specific approach of this project revolves around the new concept of optimization landscape. For an optimization problem, its optimization landscape includes clear understanding of the location and values of its local and global optimal solutions. The research goals are divided into three categories. First, the research project will focus on a class of locally optimizable functions for which local minima are all globally optimal. The research project will develop simple and efficient algorithms for optimizing such functions, as well as a new framework to prove several problems of practical interest are locally optimizable. Second, the project will develop stronger optimization algorithms that can work even when the optimization landscape is not as ideal. Finally, the research will focus on optimization problems that arise in deep learning and show how the techniques developed in the previous two parts can be applied. These projects will bring more theoretical insights into the heuristics for training neural networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/26/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/26/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845171</AwardID>
+<Investigator>
+<FirstName>Rong</FirstName>
+<LastName>Ge</LastName>
+<EmailAddress>rongge@cs.duke.edu</EmailAddress>
+<StartDate>04/26/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079Z</Code>
+<Text>Machine Learning Theory</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

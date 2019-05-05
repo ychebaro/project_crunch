@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Hurricane Urban Planning Hazards Research (HUPHR)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dana Denick</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research. &lt;br/&gt;&lt;br/&gt;This award serves as a planning grant for a proposed Engineering Research Center (ERC) that will address the challenge of chemical and biological hazards of hurricanes and severe storms from coast to inland. This is a challenge that has significant societal impact affecting human health and loss of life especially for disadvantaged communities that lack the human, financial and technical resources to identify, plan for and respond to the potential risks. Chemical and biological hazards can stem from failures in chemical processing, storage and disposal facilities, water or wastewater infrastructure, and hospitals and human health care delivery systems. In most cases, the exposures and potential exposures are novel, only occurring when the chemical and biological safety net has been pulled back temporarily by the wind, storm surge and flooding from the storm. The efforts will identify and understand the challenges to communities and community health and the connection between communities stressed by severe events and disease vectors that might lead to outbreaks. Particular needs include better predictive tools for identifying potential hazards and the risks they may pose in extreme events and real time understanding of the realized risks. The convergence of the physical, chemical and biological sciences and engineering with the medical and public health communities is critical to successfully coupling the hazards with realized risks. &lt;br/&gt;&lt;br/&gt;The planning approach includes high performance charrettes with stakeholders to develop an in-depth understanding of the challenges to be addressed in the ERC. A knowledge-workshop will be used to develop the ERC components, and integration efforts will enable positioning the ERC within the current research landscape. Web-enabled video conferencing with science and engineering experts is planned for the purpose of knowledge sharing and team formation for the ERC in advance of a culmination workshop focused on team building and leadership. The planning grant will bring together the diverse groups involved in the challenge of biological and chemicals hazards during hurricanes and severe storms that normally do not interact and collaborate, leading to a truly convergent evidence-based and diverse research collaboration. Most importantly, vulnerable communities will be engaged, particularly disadvantaged populations into the ERC. The goal is to gain informed insight into stakeholder expectations and needs and clarifying diverse community understanding and perceptions of their environment, and health and safety. The intellectual merit is in the effort to understand how to frame an ERC to best address complex societal challenges through convergent multidisciplinary efforts. The broader impacts are through the identification and resolution of challenges associated with extreme event-driven environmental impacts on communities, particularly minority, disadvantaged and immigrant communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840607</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Pardue</LastName>
+<EmailAddress>jpardue@lsu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adrienne</FirstName>
+<LastName>Katner</LastName>
+<EmailAddress>akatn1@lsuhsc.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rojelio</FirstName>
+<LastName>Mejia</LastName>
+<EmailAddress>Rmejia@bcm.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Danny</FirstName>
+<LastName>Reible</LastName>
+<EmailAddress>danny.reible@ttu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hanadi</FirstName>
+<LastName>Rifai</LastName>
+<EmailAddress>rifai@uh.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>Houston</CityName>
+<ZipCode>772042015</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4800 Calhoun Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>126E</Code>
+<Text>CENTERS: HAZARD MIT &amp; WARNING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

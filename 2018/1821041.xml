@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CONFERENCE:  Southeastern Regional Yeast Meeting to be held at Rhodes College; March 9-11, 2018</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>6900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Arcady Mushegian</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports Southeastern Regional Yeast Meeting (SERYM) to be held March 9-11, 2018 on the campus of Rhodes College in Memphis, TN. SERYM provides a forum for discussion of topics in yeast molecular and cellular biology, such as transcription and RNA processing, signal transduction and growth control, chromatin remodeling and epigenetics, chromosome dynamics, telomere biology, genome integrity, DNA transactions, damage and repair, RNA metabolism, and cell cycle regulation. A multi-level perspective is provided by also including posters and presentations on yeast molecular ecology and evolutionary biology.&lt;br/&gt;&lt;br/&gt;The regional meetings in a compact setting, with small overall participation (&lt; 125 expected) and high attendance by undergraduate researchers, many from the EPSCoR states or from predominantly undergraduate institutions, offer an excellent opportunity for student researchers to report their findings and exchange scientific ideas with more senior scientists.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821041</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Aiello</LastName>
+<EmailAddress>daiello@austincollege.edu</EmailAddress>
+<StartDate>02/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Austin College</Name>
+<CityName>Sherman</CityName>
+<ZipCode>750904400</ZipCode>
+<PhoneNumber>9038132423</PhoneNumber>
+<StreetAddress>900 N. Grand Ave. Suite 6F</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

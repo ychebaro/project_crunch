@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: US-Ireland: Thermoelectric Concrete Envelope (ThermoConc)</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>89766.00</AwardTotalIntnAmount>
+<AwardAmount>89766</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>1805818 (Qu)/ 1805893 (Yin) &lt;br/&gt;&lt;br/&gt;With building heating and cooling systems accounting for a very significant portion of US energy consumption, a nation-wide focus is on developing renewable energy-based heating and cooling. While thermoelectric (TE) and solid state TE heat pumps (TEHP) are key options for energy generation, a significant gap remains in reducing inefficient system complexities. The objective of this project is to address the systems-level challenge by developing proof-of-concept TE concrete material that innately possesses TE properties and might result in an independent, comprehensive, and renewably sourced heating and cooling system. &lt;br/&gt;&lt;br/&gt;The international team for this project will leverage advances in thermoelectric materials, conductive concrete, and building model predictive control to create a three-in-one thermoelectric concrete, called ThermoConc, as a building envelope for electricity generation and space heating and cooling. The goal is to develop fundamental understanding of the characteristics, behaviors, operations, and controls of a thermoelectric generation and heat pumping system as an energy efficient means to both passively and actively control building interior temperature and harvest waste heat while enhancing human thermal comfort. Objectives will be to: 1) identify optimal design and control of ThermoConc and establish mathematical models for performance evaluation; 2) characterize the new TE concrete and evaluate the performance of ThermoConc both theoretically and practically; and 3) assess environmental and economic benefits and quantify energy-saving potentials of ThermoConc through full-scale testing and climate-sensitivity case study. The vision is that ThermoConc will facilitate savings in building sector energy consumption and accelerate adoption of &lt;br/&gt;renewable energy-based heating and cooling systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805893</AwardID>
+<Investigator>
+<FirstName>Hongxi</FirstName>
+<LastName>Yin</LastName>
+<EmailAddress>hongxi.yin@wustl.edu</EmailAddress>
+<StartDate>05/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington University</Name>
+<CityName>Saint Louis</CityName>
+<ZipCode>631304862</ZipCode>
+<PhoneNumber>3147474134</PhoneNumber>
+<StreetAddress>CAMPUS BOX 1054</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7643</Code>
+<Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: TTP: Medium: Collaborative: RESULTS: Reverse Engineering Solutions on Ubiquitous Logic for Trustworthiness and Security</AwardTitle>
+<AwardEffectiveDate>10/13/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>484177</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Due to the globalization of the integrated circuit (IC) supply chain, the reduction of manufacturing costs and the need for shorter time to market, commercial-off-the-shelf ICs are now prevalent in modern electronic systems. However, the wide usage of such components breeds major security and trust concerns. Validating the security and trustworthiness of these components is extremely challenging since the end user does not have access to the design details. Furthermore, the cost to patch hardware level design flaws and/or hardware Trojans always costs more than patching eventual software vulnerabilities.&lt;br/&gt;&lt;br/&gt;This project develops an automated trustworthiness and security analysis framework to help end-users address their concerns by reconstructing the behavioral description of commercial-off-the-shelf ICs and analyzing such description for functionality identification and detection of design flaws and/or potentially inserted hardware Trojans and backdoors. This tool suite offers an all-in-one technology to allow engineers to quickly go from physical circuit structure/netlists to behavior/specification and validate the security and trustworthiness of any digital ICs, through data-path and state register identification, state transition graph construction and decomposition, data flow recovery, high-level behavioral design reconstruction, and whitelist- and blacklist-based functionality determination and hardware Trojan/backdoor detection. As a Transition to Practice (TTP) project, the research team is also closely collaborating with an industrial partner in developing, integrating, and validating the tool suite, so that a holistic and practice-oriented hardware security tool suite is provided for protecting the IC supply chain.</AbstractNarration>
+<MinAmdLetterDate>11/16/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812071</AwardID>
+<Investigator>
+<FirstName>Yier</FirstName>
+<LastName>Jin</LastName>
+<EmailAddress>yier.jin@ece.ufl.edu</EmailAddress>
+<StartDate>11/16/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

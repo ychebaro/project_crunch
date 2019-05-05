@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conference: Compound Semiconductor Week Conference ISCS/IPRM, May 29 - June 1, 2018, Massachusetts Institute of Technology, Boston, MA</AwardTitle>
+<AwardEffectiveDate>05/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The proposed project seeks financial support for students and early career researchers, as well as selected invited speakers who will attend the Compound Semiconductor Week Conference ISCS/IPRM to be  held May 29 - June 1, 2018 at the Massachusetts Institute of Technology, Boston, MA, The Conference will allow to promote science by providing a forum for exchange of knowledge among scientists and engineers working in the field of addresses III-V and II-VI compound semiconductors as well as SiGe, SiC, and related alloys. It also addresses novel materials such as oxide semiconductors, organic semiconductors and aspects of heterogeneous integration, e.g. of compound semiconductors with Si-based technology.&lt;br/&gt;&lt;br/&gt;The conference is expected to be attended by approximately 300 attendees. All types of research institutions (academia, government research institutes and industrial laboratories) will be represented. The conference will also feature for the first time a focused session on the important topic of Ga2O3.&lt;br/&gt;&lt;br/&gt;The 2018 Compound Semiconductor Week Conference ISCS/IPRM will allow participants to gain exposure to the new advances in semiconductor growth, fabrication technology, device physics, and entrepreneurship in electronics and optoelectronics. The timing of the conference is ideal for the new generation of students in science and engineering to learn about semiconductor technology development. The outcome of the conference will be widely accessible through the electronic and printed Conference Program, the workshop website, as well as a special Journal Proceedings Volume.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831482</AwardID>
+<Investigator>
+<FirstName>Tomas</FirstName>
+<LastName>Palacios</LastName>
+<EmailAddress>tpalacios@mit.edu</EmailAddress>
+<StartDate>05/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

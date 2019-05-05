@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  A Digital Platform for Social-Emotional Learning</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is motivated by a software framework that focuses increased attention on improving children's mental health and wellness. For example, the Substance Abuse and Mental Health Services Administration recently called for prevention efforts, including interdisciplinary approaches, particularly addressing mental and physical health, through sustainable and coordinated community support.  This project offers a unique model that incorporates mental health, physical health, and digital literacy into a platform that provides a cohesive message for transformation, moving children and communities from risk to resiliency by promoting social and emotional learning, positive character development, and overall wellness.  This platform accomplishes its goals through the mechanisms of education, health, and social responsibility wrapped in entertainment, supported by data.&lt;br/&gt;    &lt;br/&gt;This I-Corps project applies a novel software framework to collect data from user engagement (e.g., based on inquiries, content accessed, content created, services performed, etc.) that highlights risk factors affecting children's performance in social and educational settings. This data supplements the P-20 database (P-20 is a state-level, longitudinal, educational, data system intended to capture and analyze student data from preschool to high school, college, and the workforce). The P-20 database focuses on biometrics, and provides a more holistic look at what is happening with children, families, and communities due to the focus on mental health data.  This holistic approach provides a multi-risk factorial to identify target communities and specific needs, such as bullying, violence, or substance abuse.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838482</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Schmidt</LastName>
+<EmailAddress>d.schmidt@vanderbilt.edu</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

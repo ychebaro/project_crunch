@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>International Congress on Mathematical Software (ICMS 2018)</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miao-Jung Ou</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The International Congress on Mathematical Software (ICMS) consists of a diverse community in the broadly defined area of computational sciences including researchers and practitioners in computational mathematics, algorithms and complexity, and software engineering.  This National Science Foundation award provides support for the 2018 meeting of the International Congress on Mathematical Software (ICMS 2018) to be held July 24-27, 2018 at the University of Notre Dame in Indiana.  ICMS 2018 is the 6th meeting of ICMS and the first to be hosted in the United States.  This conference, as with the 5 previous meetings of ICMS, will bring together a wide range of computational scientists along with practitioners to discuss recent progress and current challenges in software, algorithms, complexity, and applications in computational mathematics and computational science.  This conference provides an opportunity for cross-fertilization between the mathematical sciences and other areas of science and engineering through software development and utilization.  The plenary speakers for this conference are Folkmar Bornemann (TU Munich), Thomas Hales (University of Pittsburgh), and William Stein (SageMath, Inc.).  This award will support travel grants for graduate students, post-doctoral researchers, young faculty members, members of under-represented groups, and researchers without federal support to attend ICMS 2018 to meet with leaders in software development for mathematics, science, and engineering applications, and interact with each other who will be the next generation of leaders in this area.&lt;br/&gt;&lt;br/&gt;ICMS 2018 is an international meeting for interaction between computational mathematicians, scientists, engineers, and software developers.  This creates a unique atmosphere for sharing ideas and discussing new trends and challenges in computational mathematics and software development. For example, plenary speaker William Stein will provide attendees of ICMS 2018 insights into successes and challenges of open-source mathematical software development.  Apart from the plenary speakers, all talks and posters at ICMS 2018 are selected from responses to an open call for submissions which are organized into sessions.  ICMS 2018 features 18 sessions such as machine learning for mathematical software, software for mathematical reasoning, computational algebraic geometry, post-quantum group-based cryptography, and management of mathematical software, mathematical knowledge, and research data.  ICMS 2018 also includes a poster session which is scheduled for the first day of the conference.  The conference website is http://icms-conference.org/2018/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819006</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Hauenstein</LastName>
+<EmailAddress>hauenstein@nd.edu</EmailAddress>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

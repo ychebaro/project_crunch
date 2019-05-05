@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Modeling DNA Manufacturing Processes Using Extensible Attribute Grammars</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>287916</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce M. Kramer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This EArly-concept Grant for Exploratory Research (EAGER) project supports the NSF mission of advancing the national health, prosperity and welfare by increasing the capabilities, accessibility and affordability of manufacturing services in support of America's leadership in the life sciences.  The execution of many complex DNA manufacturing projects essential for life sciences research requires the combination of existing DNA fragments derived from biological samples with new DNA fragments chemically synthesized by commercial operators.  Most life science laboratories lack the essential computational resources needed to plan and execute the complex manufacturing workflows required on their own, while commercial services are unwilling to perform the expensive, small batch and highly customized syntheses that are needed.  As a result, the demands of many life science laboratories are outrunning the current capabilities of commercial operators.  This project will explore the potential for creating a cybermanufacturing system that can make custom DNA fabrication accessible to end-users.   Advances from the research will ultimately be incorporated into highly advanced commercial operations to serve the needs of the nation's life sciences research community.   &lt;br/&gt; &lt;br/&gt;The project creatively presents DNA manufacturing as a compelling domain for developing the conceptual framework needed to enable cybermanufacturing.  The project will model DNA manufacturing processes using extensible attribute grammars that capture the relationships between the structure and performance of synthesis processes. The power of this conceptual breakthrough will be demonstrated by specifying a domain-specific programming language that will allow end-users to define, analyze, and execute complex DNA manufacturing projects.  The language will initially accommodate three classes of projects that represent a broad range of DNA synthesis needs: 1) insertion of a synthetic DNA fragment into an existing plasmid, 2) producing a library of plasmids that represents the combinatorial assembly of a given set of DNA building blocks and 3) editing the genome of yeast strains; an example of whole genome engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832320</AwardID>
+<Investigator>
+<FirstName>Jean</FirstName>
+<LastName>Peccoud</LastName>
+<EmailAddress>jean.peccoud@colostate.edu</EmailAddress>
+<StartDate>06/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>018Y</Code>
+<Text>CM - Cybermanufacturing System</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>016Z</Code>
+<Text>Cybermanufacturing Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>081E</Code>
+<Text>NANO SCALE ASSEMBLY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1718</Code>
+<Text>BIOINFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7683</Code>
+<Text>SOFTWARE DEVELOPEMENT FOR CI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>MANU</Code>
+<Text>MANUFACTURING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

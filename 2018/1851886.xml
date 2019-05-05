@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research in DRMS: Protocol Driven Resilience: Modifiable Systems Architecture as a Resilient Strategy for Critical Infrastructure</AwardTitle>
+<AwardEffectiveDate>04/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>7634.00</AwardTotalIntnAmount>
+<AwardAmount>7634</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert O'Connor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The ability of infrastructure to sustain performance despite age, natural disasters, and human threats is critical to societal functioning. As a result, infrastructure resilience has received renewed emphasis, especially on the development of the means to cope with unforeseen or unanticipated problems or circumstances. This research investigates the ways commercially navigable inland waterway systems temporarily reconfigure  after a disruptive incident. Specifically, how does the system balance prioritization of recovery objectives and development and implementation of appropriate solutions? This balancing is a function of the system?s ability to self re-organize with respect to the relationships among asset owners, operators, and stakeholders. The effectiveness of this reorganization is largely dependent upon the cultural and physical characteristics present in the system. Therefore, this research provides insights that will enhance the response processes involved, and potentially lead to quicker and more effective recovery efforts. &lt;br/&gt; &lt;br/&gt;To investigate and elucidate these patterns of self reorganization, the graduate student completes case studies of the ports of Baltimore, New Orleans, and Rotterdam. He collects three types of data: semi-structured interviews of private and public stakeholders, documents such as published procedures or laws, and publicly available data such as corporate/agency communications and media outlets. All qualitative data are coded and analyzed with the intent of developing visual models of collaborate process with accompanying descriptions. The coding process extracts generalizable knowledge from rich descriptions that may not be captured in more formal system documentation. The semi-structured interviews are designed to extract tacit knowledge from stakeholders who have experience with disruption response and who engage in inter-organizational collaboration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/02/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/02/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1851886</AwardID>
+<Investigator>
+<FirstName>Royce</FirstName>
+<LastName>Francis</LastName>
+<EmailAddress>seed@gwu.edu</EmailAddress>
+<StartDate>04/02/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Domenico</FirstName>
+<LastName>Amodeo</LastName>
+<EmailAddress>dcamodeo@email.gwu.edu</EmailAddress>
+<StartDate>04/02/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200520086</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress>1922 F Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1321</Code>
+<Text>DECISION RISK &amp; MANAGEMENT SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

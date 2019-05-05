@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CSR: Enabling Efficient Non-Volatile Processors on Energy Harvesting Powered Embedded Systems</AwardTitle>
+<AwardEffectiveDate>08/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>89617</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on enabling correct and efficient software execution on non-volatile processors (NVP) for energy harvesting powered embedded systems. NVPs work with unstable harvested energy sources vital for applications such as wearable devices and the Internet of Things (IoT). Software specifically optimized for NVPs is important in that it allows an NVP to function correctly and is key for realizing embedded systems that are energy efficient, user-friendly, and environmentally-friendly. Compared with current devices that need regular maintenance, this project will enable a new class of maintenance free NVP-based embedded devices. &lt;br/&gt;&lt;br/&gt;Addressing a critical technology gap as it enables NVP-based embedded systems, the techniques developed in this project will provide tools to automatically transform existing NVP software.  In addition to the education and training opportunities this research will allow, the success of this project will enable an energy-efficient, reliable, and resilient NVP solution that provides cumulative execution for energy harvesting embedded systems making small energy harvesting based embedded devices more practical across a wide range of applications, including healthcare, and military innovation and technology.</AbstractNarration>
+<MinAmdLetterDate>04/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830891</AwardID>
+<Investigator>
+<FirstName>Jingtong</FirstName>
+<LastName>Hu</LastName>
+<EmailAddress>jthu@pitt.edu</EmailAddress>
+<StartDate>04/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152132303</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>University Club</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

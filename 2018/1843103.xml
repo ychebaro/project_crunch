@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Machine learning emulators of weather and hydroclimate models for operational and financial risk assessment</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is that it will provide a concrete implementation with practical commercial applications in renewable energy and climate-related risk of a hybrid, ultrafast physics-informed machine learning technology that emulates complex numerical physics-based climate/weather models. Physics-based (hydro)climate/weather simulation models are used across trillion-dollar industries of utmost societal interest, from agriculture to insurance to energy to logistics. Faster (by 3-5 orders of magnitude), hyperlocal, large-scale estimates of physical climate/environmental parameters that are difficult/expensive or even impossible to measure empirically (such as snow-water equivalent), integrating best-available real-time observational remote-sensing data, can both streamline existing applications (faster hydropower scenario forecasting), as well as enable new capabilities and products (e.g., real-time storm risk response or automated parametric insurance contracts). The proposed R&amp;D effort will illustrate how scientific modeling, including of climate, can leverage both the body of knowledge embedded in numerical simulation models, which the scientific community has spent more than seven decades building, as well as the high speed and natural capability of novel AI and machine learning models to process novel sources of observational data (particularly remote-sensing) on the natural environment. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses the need in the renewable energy and insurance industries for fast, high-resolution (in space and time) estimates of the hazard profiles of environmental and climate/weather parameters informed by real-time observational data. The project aims to provide a first proof-of-concept that a commercial-grade hybrid physics-informed AI technology can be developed for estimating relevant climate and weather parameters, starting with hydroclimate modeling. The R&amp;D effort proposed will focus on 1) developing and validating a generative deep learning model trained on numerical hydroclimate simulation data as well as observational meteorological data; 2) identifying and benchmarking best-practices for ensuring stable training and updating of the model, observational/simulation data requirements, and computational resources needed; and 3) designing and developing streamlined model access patterns and web-based API functionality for use cases relevant to renewable energy and insurance/risk modeling use-cases. The envisioned proof-of-concept is a modular computational system running natively on GPU hardware that will allow creating gridded datasets of physical parameters such as snow water equivalent, precipitation, or water level, as well as their associated probability curves for geographical locations and time horizons of interest.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843103</AwardID>
+<Investigator>
+<FirstName>Adrian</FirstName>
+<LastName>Albert</LastName>
+<EmailAddress>toni@terrafuse.ai</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>TERRAFUSE, INC.</Name>
+<CityName>Kensington</CityName>
+<ZipCode>947070000</ZipCode>
+<PhoneNumber>5102131220</PhoneNumber>
+<StreetAddress>163 Arlington Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

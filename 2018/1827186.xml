@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Networking Infrastructure: Building a high-performance, flexible DMZ backbone at the University of Nevada, Reno</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>495255</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin L. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Advances in science and engineering and the use of science-driven technology are transforming the scale and complexity of research at the University of Nevada, Reno (UNR). Fundamental to supporting these shifts in data volume and research workflows are core networking and computing infrastructures maintained by the central campus Office of Information Technology. As part of a strategic plan to increase technology support of research activity at the university, a collaboration of faculty and IT professionals are building a dedicated, high-speed research network backbone across campus with connections to off-campus high-performance-compute facilities, remote sensor networks, and national peering points. The primary tasks of this project are to: 1) increase external connectivity to Internet2 and Pacific Wave from 10G to 100G; 2) extend a set of 40G dedicated research network paths with data transfer management and monitoring to geographically distributed locations on campus to serve critical research efforts; 3) implement a "scienceDMZ" network architecture for scientific and research workflows across the UNR network and as a model for Nevada's higher education community; and 4) augment key wide-area network end-to-end research workflows impacting rural areas all the way to UNR's high-performance research computing colocation partner Switch, a new state-of-the-art world-class datacenter.&lt;br/&gt;&lt;br/&gt;This project solves current and near-future connectivity problems for science-focused researchers at UNR by enabling larger-scale science, saving time, and increasing the rate of discovery, and creating the capability for the institution to participate in the emerging Pacific Wave and National Research Platforms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827186</AwardID>
+<Investigator>
+<FirstName>Scotty</FirstName>
+<LastName>Strachan</LastName>
+<EmailAddress>strachan@unr.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeff</FirstName>
+<LastName>Springer</LastName>
+<EmailAddress>jeffs@unr.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Graham</FirstName>
+<LastName>Kent</LastName>
+<EmailAddress>gkent@seismo.unr.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>LaCombe</LastName>
+<EmailAddress>lacomj@unr.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Regents, NSHE, obo University of Nevada, Reno</Name>
+<CityName>Reno</CityName>
+<ZipCode>895570001</ZipCode>
+<PhoneNumber>7757844040</PhoneNumber>
+<StreetAddress>1664 North Virginia Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Factors in Graphs and Related Combinatorial Structures</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>113703.00</AwardTotalIntnAmount>
+<AwardAmount>113703</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefaan De Winter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Over the last several decades, extremal combinatorics has become an increasingly influential branch of mathematics, with results touching number theory, analysis, and geometry. This project falls under extremal graph theory, and has roots in classical results of Dirac, Hajnal, and Szemeredi. In addition, this work has a significant intersection with computer science, because many interesting algorithmic questions will be explored. Whenever possible, this work will be done with graduate students, and may play an important role in their professional development.&lt;br/&gt;&lt;br/&gt;This project's main focus is on optimizing local conditions that force a specific global structure in graphs, directed graphs, and other related combinatorial objects. The research will make extensive use of probabilistic methods, including the probabilistic absorbing technique of Rodl, Rucinski, and Szemeredi, and the regularity method, which was invented by Abel prize winner Endre Szemeredi, and has dramatically impacted numerous branches of mathematics in fundamental ways that continue to be explored, even now, more than forty years after its initial development. These techniques have allowed researchers to tackle formerly inaccessible conjectures and have facilitated the creation of many surprisingly general results. One of the goals of this project is to participate in the further development of these powerful methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800761</AwardID>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Research Initiation Award: Using Zebrafish (Danio rerio) as a model to assess the role of insulin receptor signaling in renal epithelial transport function.</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>299996.00</AwardTotalIntnAmount>
+<AwardAmount>299996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia Rankins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Research Initiation Awards provide support for junior and mid-career faculty at Historically Black Colleges and Universities who are building new research programs or redirecting and rebuilding existing programs. It is expected that the award helps to further the faculty member's research capability and effectiveness, improves research and teaching at the home institution, and involves undergraduate students in research experiences. The award to the University of Maryland Eastern Shore will develop a novel methodology to assess the water and sodium regulation in vertebrates and will advance our knowledge of basic mechanism of vertebrate kidney transport and fluid balance.&lt;br/&gt;&lt;br/&gt;The goal of the project is to investigate the role of insulin in regulating sodium and water transport in the kidney. Epithelial cells that line the renal proximal tubule (PT)reabsorb a significant fraction of filtered sodium and water, and therefore, play a key role in regulating body fluid osmotic homeostasis. The sodium proton exchanger 3 (NHE3) is expressed in the PT and accounts for the majority of total Na+ and water epithelial transport. Insulin has been shown to stimulate Na+ and water epithelial transport in this segment via increased NHE3 activity. Zebrafish (Danio rerio) will be used as a model to further elucidate the signaling mechanisms that link insulin to an increase in proximal tubule specific sodium hydrogen proton exchanger 3 (NHE3) activity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800781</AwardID>
+<Investigator>
+<FirstName>Tracy</FirstName>
+<LastName>Bell</LastName>
+<EmailAddress>tdbell@umes.edu</EmailAddress>
+<StartDate>03/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland Eastern Shore</Name>
+<CityName>Princess Anne</CityName>
+<ZipCode>218531295</ZipCode>
+<PhoneNumber>4106516714</PhoneNumber>
+<StreetAddress>Backbone Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9264</Code>
+<Text>RESEARCH INITIATION AWARD</Text>
+</ProgramReference>
+</Award>
+</rootTag>

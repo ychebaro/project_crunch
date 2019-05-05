@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF:Small: Collaborative Research: Understanding, Modeling, and System Support for HPC Data Reduction</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>199898</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Y. Chtchelkanova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>High-performance computing (HPC) enables high fidelity science missions that capture microscopic phenomena that were impossible to study in the past. In order to allow science missions to be accomplished in a timely manner, it is critical to manage the massive datasets that HPC generates in efficient way so that the time to knowledge can be shortened. This project aims to understand the role and usage of data reduction in large computational applications. Research and educational opportunities are provided to train a new generation of computer scientists and engineers, particularly those under-represented groups, to ensure the U.S. competitiveness in high-performance computing. &lt;br/&gt; &lt;br/&gt;The goal of this project is to address a number of critical gaps in using data reduction for HPC-based science missions. In particular, 1) the impact of reduction error on scientific discovery is mathematically and experimentally studied; 2) analytical models are formulated to estimate the reduction performance, without forcing users to compress the full data. For data-intensive applications, having this capability is important so that domain scientists do not have to go through the cumbersome trial-and-error process to figure out what reduction can offer; 3) the project provides potentially more efficient data analysis and reduction capabilities for exascale computing. The integrated research activities in this NSF project will significantly improve the understanding and usage of data reduction on future systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813081</AwardID>
+</Award>
+</rootTag>

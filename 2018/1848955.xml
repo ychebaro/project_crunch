@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Engaged Research Around Data Science and Artificial Intelligence with Implications for Workforce Development</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>24639.00</AwardTotalIntnAmount>
+<AwardAmount>24639</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fay Cobb Payton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Disproportionate attention is paid to low-probability, long-term potential implications of data science and&lt;br/&gt;artificial intelligence. Meanwhile, substantial negative impacts are being felt now. One explanation for&lt;br/&gt;this disconnect is the stark racial, gender, and geographic detachment of large technology companies from the people--disproportionately racial and ethnic minorities and women--who feel these negative effects.  This award will support a conference at Rutgers University-Newark centered around the transformative potential of engaged research around Data Science and Artificial Intelligence. (Engaged scholarship refers to integrating research, teaching, and public service. Engaged research in AI and Data Science emphasizes the importance of not just algorithms, but the data they are trained on, the problems they are deployed on, and the communities they affect, as well as the people who do the work.)&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848955</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Shafto</LastName>
+<EmailAddress>patrick.shafto@gmail.com</EmailAddress>
+<StartDate>12/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University Newark</Name>
+<CityName>Newark</CityName>
+<ZipCode>071021896</ZipCode>
+<PhoneNumber>9739720283</PhoneNumber>
+<StreetAddress>Blumenthal Hall, Suite 206</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>055Y</Code>
+<Text>CISE Education and Workforce</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

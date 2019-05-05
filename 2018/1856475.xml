@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Fractal Fourier Extension Estimates</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>126331.00</AwardTotalIntnAmount>
+<AwardAmount>126331</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela Gorkin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The primary goal of this project is to explore the strength of some newly developed tools in harmonic analysis and seek new applications. Harmonic analysis plays an important role not only in pure mathematics but also in applied math, engineering, physics, and other sciences. The key idea of harmonic analysis is to represent complicated functions as sums of simple functions. Recently, a few new methods in harmonic analysis were developed and as a result, some long-standing open problems in mathematics were solved. It is desirable to get a deeper understanding of these tools and apply them in other settings.&lt;br/&gt;&lt;br/&gt;By combining the polynomial partitioning method of Guth and decoupling theory of Bourgain-Demeter, the principal investigator (together with Guth and Li) proved a sharp Schrodinger maximal estimate, which is a special case of weighted Fourier extension estimates. As an application, this solved the almost everywhere convergence problem of Schrodinger solutions in dimension two, which was raised by Carleson about 40 years ago. The main novelty in this work is the derivation of linear and bilinear refined Strichartz estimates using decoupling and induction on scales. In other recent work together with Zhang, the principal investigator obtained fractal L^2 estimates, which resolved Carleson's problem in higher dimensions and provided new results on Falconer's distance set problem, spherical average Fourier decay rates of fractal measures, bounding the size of divergence set of Schrodinger solutions, etc. The goal of this project is to make progress towards fully understanding fractal L^p estimates by exploiting ideas from the work mentioned above as well as developing new tools in a more general setting. There will be applications to other problems in analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1856475</AwardID>
+<Investigator>
+<FirstName>Xiumin</FirstName>
+<LastName>Du</LastName>
+<EmailAddress>xdu@math.umd.edu</EmailAddress>
+<StartDate>04/10/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

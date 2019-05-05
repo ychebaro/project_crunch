@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Analytical Paleobiology Short Course</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>29828.00</AwardTotalIntnAmount>
+<AwardAmount>35478</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Margaret Fraiser</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is basically a workshop to provide one year of funding for testing a valuable training initiative for analytical methods in paleobiology. An organizing committee will organize a 4-week long training program to include developing topics (e.g., data mining, spatial analyses) and other database resources in paleobiology (e.g., Neotoma Paleoecology Database). The training will be open to Ph.D. students. Multiple instructors will participate in the course. Course materials will be made freely available online. The aim is to establish a dynamically evolving training initiative that globally engages the broader paleontological community. &lt;br/&gt;&lt;br/&gt;The graduate-level training program in analytical paleobiology should provide new analytical tools to graduate students and have a lasting intellectual impact on the discipline and beyond. The session will be taught using the R programming environment, though other languages may be introduced by instructors as appropriate. The organizing committee will assess this first effort to decide if this effort should continue, hoping that in-depth training of PhD students annually will produce analytically savvy cohorts of future leaders of quantitative paleobiology equipped to spearhead future developments in the field. As importantly, the training will produce life-long contributors (and users) of an earth science cyber-infrastructure that has been rapidly growing in recent years.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827603</AwardID>
+<Investigator>
+<FirstName>Michal</FirstName>
+<LastName>Kowalewski</LastName>
+<EmailAddress>mkowalewski@flmnh.ufl.edu</EmailAddress>
+<StartDate>02/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7459</Code>
+<Text>SEDIMENTARY GEO &amp; PALEOBIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7459</Code>
+<Text>SEDIMENTARY GEO &amp; PALEOBIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

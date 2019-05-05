@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase V: Development of the Core Fluid Dynamics Laboratory at UCLA</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardAmount>230000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Reichlin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Researchers in UCLA's SpinLab (http://spinlab.ess.ucla.edu/) will expand the realm of laboratory-theoretical simulations of the magnetohydrodynamic processes that generate the geomagnetic field within Earth's molten iron core. Further, this project will provide training in laboratory experimentation, numerical and theoretical modeling to three graduate students, at least two undergraduates and one postdoctoral researcher.  This funding will also allow for the expansion of the PI's outreach efforts, most recently developing new do-it-yourself experimental STEM tools that can be used in classrooms with students of all ages (https://diynamics.github.io/).&lt;br/&gt;&lt;br/&gt;The research will provide fundamental laboratory data characterizing and quantifying multi-scale core-style convective turbulence. These data are necessary to benchmark and validate advanced theories of core flow and to build predictive models of turbulent planetary dynamo generation in liquid metals. Thus, the results are useful to models of Earth's core and other planetary dynamos, fluid turbulence, solar and stellar convection zones, as well as oceanic and atmospheric dynamics. This project is comprised of  four main tasks.  In Task 1, the investigators will continue a series of rotating convection experiments in water that are elucidating principles about turbulent core convective flows. These experiments will be conducted using the recently completed, NSF-funded NoMag device that exists in the PI's lab at UCLA, and that allows investigators to image and quantify polar convective velocity, vorticity and thermal fields. For Task 2, the team will continue a series of liquid metal convection experiments, enhanced by closely-coupled numerical simulations. The data will allow the team to quantify and diagnose the complex magnetohyrdrodynamics occurring in a simulated polar parcel of Earth's core fluid. Task 3 will carry out coupled laboratory-numerical simulations of rotating convection occurring at low latitudes in Earth's core via the development of a new parabolic free-surface convection device. Lastly, Task 4 will further the geoscience educational outreach efforts, by testing and developing plans for a 1-meter diameter, affordable rotary table that can be easily assembled and used for fluid dynamics demonstrations in all STEAM settings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/01/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853196</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Aurnou</LastName>
+<EmailAddress>aurnou@ucla.edu</EmailAddress>
+<StartDate>02/01/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1574</Code>
+<Text>GEOPHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1031</Code>
+<Text>STUDIES OF THE EARTH'S DEEP INTERIOR</Text>
+</ProgramReference>
+</Award>
+</rootTag>

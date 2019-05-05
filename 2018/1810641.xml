@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Northern California Wildfire Emissions and their Atmospheric Chemical Transformations in a Highly Populated Urban Region</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>187893.00</AwardTotalIntnAmount>
+<AwardAmount>187893</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This RAPID research focuses on the analysis of data and samples collected during the massive wildfires burning in Napa and Sonoma Counties that began on October 10, 2017.  Samples were collected from the beginning of the fires for approximately 2 weeks, through periods of major pollution episodes in the San Francisco Bay region that resulted from the interaction of biomass burning emissions with urban air pollution.  The fires also burned more than 5000 homes and commercial structures, resulting in emissions from the burning of household and commercial items not typically found in emissions from more remote wildfires. This research is expected to be of great public interest due to the focus on emissions from fires that caused stinging eyes and throats, closed schools, and curtailed planned outdoor activities.&lt;br/&gt;&lt;br/&gt;This work will quantify the contribution of emissions from these fires to the observed concentrations of organic aerosol, and document how this contribution changes with atmospheric aging.  It is expected to lead to the identification of additional sources contributing to organic aerosol, both primary and secondary, that may influence the aging of the biomass burning emissions.  Gas/particle partitioning data will be used to elucidate information on the formation mechanisms for secondary organic aerosol.  The temporal and chemical resolution provided by the observations during plume aging will be an important tool for investigating fire emission and transformation processes.</AbstractNarration>
+<MinAmdLetterDate>11/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810641</AwardID>
+<Investigator>
+<FirstName>Allen</FirstName>
+<LastName>Goldstein</LastName>
+<EmailAddress>ahg@berkeley.edu</EmailAddress>
+<StartDate>11/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

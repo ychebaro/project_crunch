@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Gordon Research Seminar and Gordon Research Conference on Cellular and Molecular Fungal Biology</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2018</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles Cunningham</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will support attendance of young faculty, under-represented minority scientists, PUI faculty, along with graduate students and post-docs at the 2018 Cellular and Molecular Fungal Biological Gordon Research Seminar and Conference to be held in Holderness, NH June 16-22, 2018. The meeting will consist of short talks, poster sessions, communal dining, and conversations that will provide ample opportunity for sharing latest research results and for exploring collaborative possibilities. &lt;br/&gt;&lt;br/&gt;Fungi display an incredible diversity of forms and functions; they are master recyclers of nutrients in natural ecosystems, devastating pathogens of humans, animals, and plant crops, and superb chassis for synthetic biology. The Broader Impacts of this project involves both the importance of the topic to our understanding of cellular and molecular biology as a whole, as well as the training of new scientists to pursue research in this important and industrially relevant field. Sessions will be developed to specifically provide opportunities for young researchers to present and receive constructive feedback on their work. The primary purposes of this conference are to promote discussion between scientists with common professional interests, including those from non-research-intensive colleges and universities, to facilitate the exchange of ideas across disciplines, and to catalyze the pursuit of new scientific collaborations.</AbstractNarration>
+<MinAmdLetterDate>01/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818445</AwardID>
+<Investigator>
+<FirstName>Antonis</FirstName>
+<LastName>Rokas</LastName>
+<EmailAddress>antonis.rokas@vanderbilt.edu</EmailAddress>
+<StartDate>01/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>West Kingston</CityName>
+<ZipCode>028921502</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>512 Liberty Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

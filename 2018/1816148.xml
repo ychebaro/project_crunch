@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Small: Uncovering Dynamics from Internet Imagery</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Virtual- and augmented reality (VR/AR) technologies have the promise to enable new and exciting ways of perceiving the world from the comfort of our homes and desks. Among the current applications of 3D VR visualizations, obtaining realistic depictions of actual real-world environments is highly desired in educational experiences. This project will develop scalable algorithms for computing "living 3D models" that can represent elements such as people and cars moving around the scene, water flowing in fountains, or chairs outside cafes being placed in different places on different days. To overcome the need for dedicated capture, the project targets publicly available Internet photo collections, which have the requisite data diversity to drive large-scale, cost-effective VR/AR content generation. The research not only supports the field of VR/AR but also provides improved analysis methods for a broad range of other applications, including forensic analysis, cultural heritage conversation, city planning, virtual training, and education, with particularly potential impact in enhancing social study experiences for economically disadvantaged students. &lt;br/&gt;&lt;br/&gt;This project will aggregate object instances in the individual 2D images of the photo collection to infer the motion dynamics of the entire class of objects in the scene, e.g., all cars or all people. The method will thus infer and model the motion dynamics without ever seeing the motion of these objects, since there is typically only one observation per object instance available due to the uncontrolled, crowd-sourced capture. The key information for the inference will be the observation of the varying densities of the dynamic scene elements in the scene. The novel scene representation stores the accumulated dynamics in object class scene occupancy maps, as well as object class motion flows for the scene, e.g., the information where pedestrians move to in the scene and how they move within the scene. The developed methodology will open new and exciting avenues for research on jointly recovering semantic labels and 3D geometry in the wild, a task that is one of the currently most challenging problems in 3D computer vision.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816148</AwardID>
+<Investigator>
+<FirstName>Jan-Michael</FirstName>
+<LastName>Frahm</LastName>
+<EmailAddress>jmf@cs.unc.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

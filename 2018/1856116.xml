@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Applied Inverse Problems Conference 2019</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Holmer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding for US participation in the conference "Applied Inverse Problems (AIP) Conference 2019" that will be held July 8-12, 2019 at the Campus St Martin d'Heres of Universite Grenoble-Alpes in southeastern France.&lt;br/&gt; &lt;br/&gt;The conference focuses on recent developments in Analysis, especially in the field of inverse problems.  A number of distinguished mathematicians have agreed to attend and speak at this conference.  This award gives early career researchers, members of underrepresented groups, and researchers not funded by NSF an opportunity to attend and participate in this conference.   The organizing committee will strive to make this funding opportunity known to target groups through a number of different activities.   More information will be made available at: https://www.aip2019-grenoble.fr/en/&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1856116</AwardID>
+<Investigator>
+<FirstName>Gunther</FirstName>
+<LastName>Uhlmann</LastName>
+<EmailAddress>gunther@math.washington.edu</EmailAddress>
+<StartDate>04/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  AuraPeel - On-Demand Light Switchable Adhesives</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project will investigate the use of novel photo-switchable adhesives in medical dressings to improve patient safety, hospital compliance and potentially change the standard of care in the field of adhesive dressings. The proposed work differs drastically from other research endeavors to create dismantlable adhesives, whose drawbacks include high costs, difficulty to scale, biocompatibility issues, and inability to effect switching in application within short times. This new research offers advantages of significantly lower costs and easier scale-up using readily available adhesive industry infrastructure. Medical adhesive dressings that easily lose peel adhesion addresses a significant unmet need for preventing medical adhesive related skin injuries (MARSI), a prevalent but under-recognized injury that affects 7% of all patients across all age groups and healthcare settings. MARSI causes about 1.5 million injuries annually in the US alone and it is estimated that MARSI caused $850M in payments withheld to hospitals due to low patient satisfaction. This project is pursing the creation of a medical dressing that addresses these concerns while being cost competitive, easy to use and most importantly, safe to the patient's skin. Prototype medical dressings will be characterized and tested based on customer requirements.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project presents a novel adhesive technology platform where use-case characteristics at application are decoupled from end of life/removal characteristics through photo-switching. Photo-switchable medical adhesive dressings that lose peel adhesion upon application of light address a significant unmet need for preventing medical adhesive related skin injuries (MARSI), a prevalent but under-recognized injury that affects 7% of all patients across all age groups and healthcare settings. The proposed work differs drastically from other research endeavors to create dismantlable adhesives as the proprietary photo-switchable molecules enable change in human safe conditions and in short time frames. The proposed Phase 1 SBIR project would evaluate different proprietary multifunctional crosslinkers to increase the speed of the photo-switch by about 50% to meet clinician needs. This would be followed by experimentally evaluating methodologies to fabricate adhesive lined films for optimal optical switchability at different thicknesses and for different substrates. Finally, the learnings from the above two steps about adhesive coated films will be combined with an existing skincare lamp to demonstrate proof of product. Product performance will be characterized and tested to optimize performance based on customer requirements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819822</AwardID>
+<Investigator>
+<FirstName>Kaushik</FirstName>
+<LastName>Mishra</LastName>
+<EmailAddress>kaushik@polylux.co</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Polylux LLC</Name>
+<CityName>Akron</CityName>
+<ZipCode>443111051</ZipCode>
+<PhoneNumber>6015227659</PhoneNumber>
+<StreetAddress>411 Wolf Ledges Pkwy Ste 100</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

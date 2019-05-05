@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>LTER:  Multi-decadal responses of prairie, savanna, and forest ecosystems to interacting environmental changes: insights from experiments, observations, and models</AwardTitle>
+<AwardEffectiveDate>02/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardAmount>1127000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colette St. Mary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Human activities are altering the earth's ecosystems and creating unprecedented combinations of carbon dioxide (CO2) concentrations in the atmosphere, supplies of limiting nutrients like phosphorus and nitrogen, and rates of disturbances such as fire. At the same time, humans are increasing species extinctions and the spread of invasive species, including pests, and pathogens. Researchers at the Cedar Creek Long Term Ecological Research Program (CDR) are using long-term models and data from grasslands, savannas, and forests to understand and forecast how these interacting human-driven environmental changes will alter the earth?s ecosystems and the ability of ecosystems to provide the services that support human well-being. This work builds on the CDR hallmark of combining data from long-term experiments and observations to explore the interactive effects of changes in resources (nutrients, atmospheric carbon dioxide), abiotic aspects of the environment (temperature, precipitation), biodiversity, and disturbance (fire, land use change) on linked ecological processes at local to global scales. In addition to this primary research goal, the CDR program will continue to develop a diverse, globally competitive workforce in Science, Technology, Engineering, and Math (STEM) by mentoring undergraduate researchers and providing them with independent research and professional development opportunities. CDR also will continue to increase public scientific literacy and public engagement with STEM through K-12 education programs, citizen science activities, membership and volunteer programs, public tours, adult education, as well as arts and humanities partnerships. These activities reach thousands of visitors and participants each year, including teachers, neighbors, public officials, and other members of the public in Minnesota.&lt;br/&gt;&lt;br/&gt;CDR research will continue its multi-decadal studies of the ecological impacts of multiple environmental change drivers, including the longest-running biodiversity and elevated CO2 experiments in the world, and some of the world's longest-running studies of nutrient enrichment and fire frequency. New CDR research initiatives will build from past insights and seek more general understanding and predictive ability.  For example, a new forest biodiversity experiment will build on past CDR biodiversity research to disentangle the roles of multiple facets of biodiversity (functional, phylogenetic, and species) and use trees to test the generality of biodiversity theory. Second, new experiments replicated in the long-term biodiversity experiment and savanna will determine the interactive effects of drought, nutrients, warming, and biodiversity on ecosystem processes and stability. Third, new initiatives will develop and test models that predict how ecosystems recover from chronic nitrogen enrichment. Fourth, new experiments will test hypotheses about the how consumers such as bison and fire disturbance interact to restructure and alter the functioning of grassland, savanna, and forest ecosystems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831944</AwardID>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Hobbie</LastName>
+<EmailAddress>shobbie@umn.edu</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Seabloom</LastName>
+<EmailAddress>seabloom@umn.edu</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeannine</FirstName>
+<LastName>Cavender-Bares</LastName>
+<EmailAddress>cavender@umn.edu</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Borer</LastName>
+<EmailAddress>borer@umn.edu</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Forest</FirstName>
+<LastName>Isbell</LastName>
+<EmailAddress>isbell@umn.edu</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1195</Code>
+<Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1195</Code>
+<Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>GOALI: Advanced biomanufacturing with inducible feedback promoters</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Producing chemicals using microbes and biomass is an alternative to processes that use petroleum as a raw material. Performing this at a commercial scale is difficult. This project will develop a new tool to improve microbial chemical production. The tool will use the microbe's ability to sense its environment to improve performance. The microbes will produce a variety of industrial chemicals. Outreach to the community will take many forms. One involves hands-on demonstrations in a local high school and elementary school serving underrepresented populations. The broader public will be engaged through booths at Chicago-area Maker Faires. These activities are designed to stimulate interest in biology as a tool to solve societal challenges. They should also expand the pool of students pursuing STEM careers and entering the biomanufacturing workforce.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;IFPs (inducible feedback promoters) represent a new regulatory concept for metabolic pathway control and optimization. They combine naturally occurring stress responsive feedback with purely inducible timing control. Inducibility allows titration and timing of pathway expression to be rapidly explored. Stress responsive feedback allows autonomous expression optimization. The central objective is to develop and validate IFPs in the context of two industrially important metabolic pathways: terpenoid oxygenation and n-butanol production. This objective will be pursued through aims that validate the approach of IFP regulation in each pathway. We will create a community resource of unique IFPs applicable to diverse metabolic pathways. IFPs that are directly relevant for industrial bioprocess application will be fine-tuned using autonomous timing control through quorum-sensing and biosensors. These efforts will be done in collaboration with industry partners who will provide critical perspective to allow development of IFPs that provide the greatest possible value to industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803747</AwardID>
+<Investigator>
+<FirstName>Keith</FirstName>
+<LastName>Tyo</LastName>
+<EmailAddress>k-tyo@northwestern.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julius</FirstName>
+<LastName>Lucks</LastName>
+<EmailAddress>jblucks@northwestern.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Philippe</LastName>
+<EmailAddress>rphilippe@manusbio.com</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+</Award>
+</rootTag>

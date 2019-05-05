@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Testing the Traditional Paradigm of the Sub-Auroral Polarization Stream During Storm and Non-storm Conditions</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>367381</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020201</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John W. Meriwether</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Sub-auroral polarization streams (SAPS) are regions of westward directed plasma flows located equatorward of the auroral oval in the dusk-midnight sector. This project aims to transform the understanding of SAPS from the "traditional paradigm" to a broader description that encompasses all SAPS-like flows including those occurring during geomagnetically "quiet" times. This work leverages the National Science Foundation (NSF) assets and infrastructure to advance understanding on magnetosphere-ionosphere coupling. This topic is common to both Coupling, Energetics and Dynamics of Atmospheric Regions (CEDAR) and Geospace Environment Modeling (GEM) programmatic goals, so the effort will bridge the thermosphere, ionosphere and magnetosphere communities. The science of this project is pertinent to the National Space Weather Action Plan's goals to develop benchmarks for space weather events. This project funds an early career scientist, and engages undergraduates in summer research. &lt;br/&gt;&lt;br/&gt;The methodology uses several open data sources, including SuperDARN, GPS TEC (Global Positioning System Total Electron Content), high-resolution AMPERE (Active Magnetosphere and Planetary Electrodynamics Response Experiment), and POES (Polar Operational Environmental Satellites) data. The project will gather characteristics of R1/R2 field-aligned currents, auroral boundaries, and the mid-latitude trough for each occurrence of the SAPS-like flows, and then statistically examine them with respect to geophysical parameters.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822056</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Baker</LastName>
+<EmailAddress>bakerjb@vt.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bharat</FirstName>
+<LastName>Kunduri</LastName>
+<EmailAddress>bharatr@vt.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1521</Code>
+<Text>AERONOMY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

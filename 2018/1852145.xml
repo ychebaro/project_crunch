@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site in IoT Security</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardAmount>357487</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Sprinkle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project establishes a new Research Experience for Undergraduates (REU) site in Internet of Things (IoT) security at Dakota State University (DSU) in Madison, South Dakota. The REU site will host 10 students on DSU's campus to participate in a 10-week summer program each year of the project. The program provides unique frontline cybersecurity research experiences in IoT, professional development, close student interactions, and follow-up activities in order to build participants' knowledge and confidence for work in the cybersecurity field. The students will work closely with faculty mentors to conduct IoT security research projects. The project will recruit a highly skilled and diverse group of students. &lt;br/&gt;&lt;br/&gt;The selected REU research projects focus on cloud-based IoT applications and aim to ensure end-to-end trust and security. IoT presents many new challenges for security including scalability, system constraints, and enlarged attack surfaces. This project will create dynamic testing approaches to collect network characteristics and application payload data from IoT devices. The collected data will be further analyzed to assess the vulnerabilities of IoT devices and security risks in IoT. Student researchers will develop new solutions to mitigate security risks found in IoT. The outcomes of the research projects will address the current and urgent needs to resolve security and privacy issues in IoT.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852145</AwardID>
+<Investigator>
+<FirstName>Ashley</FirstName>
+<LastName>Podhradsky</LastName>
+<EmailAddress>ashley.podhradsky@dsu.edu</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yong</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>yong.wang@dsu.edu</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dakota State University</Name>
+<CityName>Madison</CityName>
+<ZipCode>570421799</ZipCode>
+<PhoneNumber>6052565112</PhoneNumber>
+<StreetAddress>820 N. Washington Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Dakota</StateName>
+<StateCode>SD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1359</Code>
+<Text>RES EXP FOR TEACHERS(RET)-SITE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+</Award>
+</rootTag>

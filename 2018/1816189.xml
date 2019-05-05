@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Modularized Bioprinter for High Throughput Pharmaceutical Development</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is expected to primarily address the needs of the pharmaceutical industry, but is also relevant to a broader range of biological applications. The cost of pharmaceutical drug discovery has increased by nearly 150% in the past 10 years, averaging about $2.6 billion to develop just one drug. A major contributing factor is the inefficacy of pre-clinical studies that still typically use simple 2D cell cultures as experimental models which do not accurately recapitulate the complexity of 3D, multicellular physiological environments. The development of a modular multi-printhead bioprinter will enable a wide variety of materials to be incorporated into the 3D printed tissues. As a result, researchers in pharmaceutical companies will receive a cost-effective means to streamline drug development, leading to increased productivity in bringing medications to market.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to investigate the commercialization potential of a modular, multi-printhead bioprinter. This bioprinting system solves the current limitations with two key features. Firstly the multiple dispensing mechanisms can collectively process a wide range of materials. Several printheads each specialized in different materials and printing styles allow 3D, 2D, extrusion, or droplet printing of cell-laden fluids of all viscosities with minimal stress and high resolutions. Secondly, this is a modular design that allows the customization of a bioprinter to a customer's specifications. The system supports the construction and operation of bioprinters with any combination of the different printheads to match the customer's price point and research needs. The combination of these features enables the customer to create complex biological tissues of their design.</AbstractNarration>
+<MinAmdLetterDate>01/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816189</AwardID>
+<Investigator>
+<FirstName>Kara</FirstName>
+<LastName>McCloskey</LastName>
+<EmailAddress>kmccloskey@ucmerced.edu</EmailAddress>
+<StartDate>01/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California - Merced</Name>
+<CityName>Merced</CityName>
+<ZipCode>953435001</ZipCode>
+<PhoneNumber>2092598670</PhoneNumber>
+<StreetAddress>5200 North Lake Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

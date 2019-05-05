@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Electrons Leveraged through Electrochemical Conversion Technologies to Realize Opportunities for New Services (ELECTRONS)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Junhong Chen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.&lt;br/&gt;&lt;br/&gt;Renewable electricity is becoming abundant and cheap. We are on the cusp of a gradual, decades-long process of electrification across industry and society, replacing fossil fuels with electrons, much as the auto industry has executed over the past two decades. However, this transition to cleaner energy inputs demands devices and processes that can use this energy source efficiently. Electrons Leveraged through Electrochemical Conversion Technologies to Realize Opportunities for New Services (ELECTRONS) engages this enormous opportunity to provide the 'missing link,' a flexible and efficient means to use available electrons for a wide range of applications.  ELECTRONS requires research that engages many scientific and engineering disciplines and stakeholders to achieve its vision of major societal benefits from a core device construct to deliver capability in numerous contexts at numerous scales. &lt;br/&gt;&lt;br/&gt;This planning grant aims to build the team that can realize this opportunity by connecting technical and 'softer' components.  The planning grant will proceed via an 'agile' approach to building the team, a method often used in start-ups. It entails a team of small teams, called scrums, which execute iterative cycles of ?build-test-analyze? for a given product to drive a rapid learning curve and development cycle, also incorporating input from customers of the product. The team will employ the agile scrum approach for ERC proposal development to build all aspects of the project and organization, putting the agile approach into the ?DNA? of the proposed NSF-ERC effort arising from this planning grant.  Based on a core system that is highly developed for other related technologies, the Center to be proposed will deliver the devices for using renewable sources of electricity for a wide range of services and will seek to commercialize these systems.  It is anticipated that this effort will produce spin-off companies and jobs in the tech sector as well as efficient and clean replacement technologies for various industry processes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840369</AwardID>
+<Investigator>
+<FirstName>Sameer</FirstName>
+<LastName>Hamoush</LastName>
+<EmailAddress>sameer@ncat.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryne</FirstName>
+<LastName>Raffaelle</LastName>
+<EmailAddress>rprsps@rit.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>West</LastName>
+<EmailAddress>acw7@columbia.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Zawodzinski</LastName>
+<EmailAddress>tzawodzi@utk.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mahalaxmi</FirstName>
+<LastName>Krishnamurthy</LastName>
+<EmailAddress>mkrishn1@utk.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>127E</Code>
+<Text>CENTERS: ENERGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>130E</Code>
+<Text>CENTERS: MICRO/OPTO ELECTRONICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Observations of Falling and Lofted Snow in Windy Environments</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>166563.00</AwardTotalIntnAmount>
+<AwardAmount>166563</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Snowflake size and shape are important considerations for numerical modeling of snowfall and real-time detection by weather radars.  One of the lesser-understood factors that influences snowflake structures, densities and number concentrations is wind.  Traditional methods to make ground or near-ground observations of falling or lofted snow in high wind conditions are difficult.  Newer instruments, such as those used for airborne research, are expensive or have other limitations.  In this project, the research team will deploy a new balloon-borne instrument to make measurements of snowflakes from the surface to the top of the precipitation layer.  A set of additional instrumentation will also be deployed to complement those measurements in a field campaign that will involve students from elementary school to graduate level.  The first order impact of the award will be to test a new, inexpensive technology for making measurements of snow.  The larger potential impact of the work would be to improve model representation of snow for improved weather forecasts.  The award also includes a significant education and public outreach component, leading to improved public understanding of science and training of the next generation of researchers.&lt;br/&gt;&lt;br/&gt;The main goal of this award is to improve observational knowledge of the microphysical aspects of snow during windy conditions.  It is difficult to make ground or near-ground observations of falling or lofted snow using traditional techniques due to blurring of the images, flow around instruments, and the lack of ability to vertically profile.  In addition, advanced instruments for snowflake classification are either expensive or unavailable for small deployments.  In this project, the research team will make use of a combination of instruments, featuring the Particle Size, Image, and Velocity (PASIV) probes developed at the National Severe Storms Lab.  The PASIV can be attached to a balloon for a vertical profile of particle counts and number concentration estimation.  At the ground level, the research team will make use of a camera-strobe light setup where the focal plane of the camera is 1-2m from any potential flow disruption.  Additional instruments will include a cloud particle imager and disdrometer.  The field site is within view of the operational WSR-88D radar and the UND C-band radar.  Overall, the design of the field experiment is set to answer two main questions:  1) How do microphysical properties of ice-phase hydrometeors vary over horizontal and vertical scales of 100m to 10km within falling and lofted snow events, and 2) How well do varying instrument designs function in windy environments?  The intended broader impacts include a significant outreach and education plan associated with the field campaign.  A graduate student will be funded by the project and approximately 20 undergraduate and graduate students will participate in the planning, teaching, forecasting, and collection of data for the field campaign.  K-12 outreach will include snowfall and visibility measurements made by students during winter events, the development of a winter-weather curricula, and teaching of the unit to tribal groups through partnership with an existing EPSCoR award.  Outreach via media and tours will also be conducted.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834748</AwardID>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Kennedy</LastName>
+<EmailAddress>kennedya@aero.und.edu</EmailAddress>
+<StartDate>04/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Dakota Main Campus</Name>
+<CityName>Grand Forks</CityName>
+<ZipCode>582027306</ZipCode>
+<PhoneNumber>7017774151</PhoneNumber>
+<StreetAddress>264 Centennial Dr Stop 7306</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Dakota</StateName>
+<StateCode>ND</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

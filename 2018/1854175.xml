@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Convergence HTF: Collaborative: Workshop on Convergence Research about Multimodal Human Learning Data during Human Machine Interactions</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>12515</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jordan Berg</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Intelligent, interactive, and highly networked machines -- with which people increasingly share their autonomy and agency -- are a growing part of the landscape, particularly in regard to work.  As automation today moves from the factory floor to knowledge and service occupations, insight and action are needed to reap the benefits in increased productivity and increased job opportunities, and to mitigate social costs. Such innovations also have significant implications and potential value for lifelong learning, skills assessments, and job training/retraining in an environment in which workforce demands are changing rapidly. The workshop supported by this award will promote the convergence of cognitive psychology, learning sciences, data science, computer science, and engineering disciplines to define key challenges and research imperatives of the nexus of humans, technology, and work with focus on human affect, motivation, metacognition, and cognition during learning and problem solving. Convergence is the deep integration of knowledge, theories, methods, and data from multiple fields to form new and expanded frameworks for addressing scientific and societal challenges and opportunities. This convergence workshop addresses the future of work at the human-technology frontier.&lt;br/&gt;&lt;br/&gt;The specific focus of this multi-phased workshop approach is to advance fundamental understanding of how to collect and analyze multimodal, multichannel sensor on human affect, motivation, metacognition, and cognition during learning and problem solving, and effectively integrate this data into actionable educational interventions in advanced learning technology environments (e.g., intelligent tutoring systems). The impacts of this research extend to a diverse range of learning environments, and job training and retraining opportunities. A multi-phased workshop approach will be used to explore the implications in multiple job sectors, and the outcomes will be broadly disseminated across geographic and disciplinary boundaries.</AbstractNarration>
+<MinAmdLetterDate>09/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1854175</AwardID>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Azevedo</LastName>
+<EmailAddress>roger.azevedo@ucf.edu</EmailAddress>
+<StartDate>09/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1340</Code>
+<Text>ENGINEERING EDUCATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>060Z</Code>
+<Text>Convergent Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+</Award>
+</rootTag>

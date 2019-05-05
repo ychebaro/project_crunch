@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Modeling Physical Processes in the Solar Wind and Local Interstellar Medium with Multi-Scale Fluid-Kinetic Simulation Suite</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>10501.00</AwardTotalIntnAmount>
+<AwardAmount>10501</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The objective of this proposal is to use the possibilities provided by the Blue Waters supercomputer to model fundamental and challenging space physics problems.  The heliosphere is the sphere like region of space dominated by the Sun, which extends far beyond the orbit of Pluto.  The Solar Wind (SW) consists of ionized atoms from the Sun.  The project will model the SW flows in the inner and outer heliosphere, and compare the results with observational data.  It is anticipated that the project will provide a leap forward in the simulation of complex charged and neutral gas systems. Furthermore, the proposed approach to computational resource management for complex codes utilizing multiple algorithm technologies is expected to be a major advance to current approaches. The development of resource management technologies will be essential for all future modeling efforts that incorporate a wide diversity of scales and physical processes.&lt;br/&gt;&lt;br/&gt;The analysis of flows of partially ionized plasma that are characterized by multiple or highly localized scales and multiple processes, will have a transformative impact for heliophysics. The project will address a variety of physical phenomena occurring throughout the solar system, such as the charge exchange processes between neutral and charged particles, the birth of pick-up ions (PUIs), the origin of energetic neutral atoms (ENAs), turbulence, the interplay of the heliopause instability and magnetic reconnection at the SW and local interstellar medium (LISM) interface, plasma wave generation in the LISM, the effect of the heliosphere on the TeV cosmic ray anisotropy, and more.  The project will also fit simulation results with observational data to constrain the properties of the LISM and refine time-dependent SW models. The project will incorporate the direct measurements from the New Parker Solar Probe and Solar Orbiter missions, as well as the in situ measurements of the SW from the Sun to Earth and further to the heliospheric boundary, from the New Horizons, Voyager, IBEX, and air shower observations. This project will extract the fundamental physics of plasma-neutral flows accompanied by the interaction with energetic particles. The goal of the modeling activities is to understand and interpret observations in a way previously unthinkable because of the limitations in both physical models and computing power. Components of the physical model and corresponding code routines will be made available in a publicly accessible simulation suite.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811176</AwardID>
+<Investigator>
+<FirstName>Nikolai</FirstName>
+<LastName>Pogorelov</LastName>
+<EmailAddress>np0002@uah.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jacob</FirstName>
+<LastName>Heerikhuisen</LastName>
+<EmailAddress>jacob.heerikhuisen@uah.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama in Huntsville</Name>
+<CityName>Huntsville</CityName>
+<ZipCode>358051911</ZipCode>
+<PhoneNumber>2568242657</PhoneNumber>
+<StreetAddress>301 Sparkman Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

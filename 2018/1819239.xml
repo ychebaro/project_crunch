@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: 3D Printing of Bisphenol A-free Polycarbonates for Customizable Cell/Tissue Culture Platforms</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project will develop customizable cell/tissue culture platforms using a new class of 3D printable bisphenol A-free polycarbonate (BFP) materials and a rapid 3D printing system. The 3D cell culture market was valued at $683 million in 2017 with an exponential projected growth in revenue valued at $1.7 billion by 2022. The rapid growth in this sector is primarily driven by the demand for custom-made 3D cell/tissue models that more accurately recapitulate the human in vivo biology in comparison to conventional animal models and planar cell culture systems. 3D cell/tissue models have the potential to provide more physiologically relevant responses for the drug discovery industry which is estimated to reach $86 billion in 2022. The proposed strategy of using BFP and a fully integrated benchtop 3D printing system will facilitate the production of different cell/tissue culture platforms on demand and enable rapid iteration of different designs to drive forward the development of more clinically relevant cell/tissue models for a broad market in pharmaceuticals, biotechnology, and biological studies.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this project lies in: (1) the development of novel 3D printable BFP materials with tunable material properties using green chemistry, and (2) the rapid 3D printing of customizable cell/tissue culture prototypes to support various 3D cell/tissue models. The material development will include the establishment of a reagent library and optimization of the green chemistry process. The relevant material properties such as stiffness, elasticity, optical transparency, and small molecule adsorption will be characterized and optimized. These materials will then be printed using a rapid light-based 3D printer to prototype cell/tissue culture platforms followed by evaluation of their performance. In particular, 3D printing precision and resolution will be characterized and optimized by varying a range of fabrication parameters such as light exposure time and intensity. Next, the efficacy of the prototypes under cell culture conditions will be assessed based on device integrity, material degradation, as well as changes in mechanical and optical properties. Various cells/tissues will also be cultured on these prototype devices to evaluate biocompatibility. These achievements will provide customized culture platforms to facilitate the engineering of more physiologically relevant in vitro models for accelerating drug discovery and biological studies in both industry and academia.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819239</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Zhu</LastName>
+<EmailAddress>wzhu@allegro3d.com</EmailAddress>
+<StartDate>06/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Allegro 3D, Inc</Name>
+<CityName>San Diego</CityName>
+<ZipCode>921212248</ZipCode>
+<PhoneNumber>8586993298</PhoneNumber>
+<StreetAddress>6404 Nancy Ridge Dr.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

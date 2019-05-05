@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Rossbypalooza 2018: A Student-led Workshop on Understanding Climate through Simple Models; Chicago, Illinois; June 11-23, 2018</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric DeWeaver</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports a workshop for graduate students interested in the use of models of varying levels of complexity to understand the climate system.  The workshop is named in honor of Carl-Gustaf Rossby, an early pioneer of atmospheric science and department chair at the University of Chicago.&lt;br/&gt;&lt;br/&gt;Advances in computing technology have enabled development of comprehensive climate models which use high resolution and include sophisticated representations of a large number of climate processes.  Such models can achieve a high degree of realism but only at the expense of great complexity, which limits their use for understanding climate system behaviors. Simple models are of course easier to understand, but such models can fundamentally misrepresent the system if they are simplified in ways that remove or disable key processes.  The task of choosing or developing models at the right level of complexity, or at appropriately varying levels of complexity, is thus a key challenge in climate research.  Climate scientists grapple with this challenge on a daily basis, yet it is not systematically addressed in the standard graduate school curriculum. &lt;br/&gt;&lt;br/&gt;This workshop gives students an opportunity to learn modeling strategies involving simple and intermediate complexity models, choosing configurations appropriate for specific problems and applications.  The workshop is conducted through a combination of classroom lectures showcasing classical models and configurations that have led to important insights into the climate system, and hands-on research in a small group setting.  The workshop has intellectual merit as it addresses the important question of how one uses a model to arrive at understanding.  It has broader impacts by training the next generation of scientists in a key methodology of the discipline.  This grant covers the participation of 19 graduate students (out of a total of 30) selected through a competitive process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810964</AwardID>
+<Investigator>
+<FirstName>Noboru</FirstName>
+<LastName>Nakamura</LastName>
+<EmailAddress>nnn@bethel.uchicago.edu</EmailAddress>
+<StartDate>03/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5740</Code>
+<Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

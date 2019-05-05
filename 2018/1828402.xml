@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Hyperspectral Field Spectroradiometer to Enable Interdisciplinary Research</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>77601</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Luciana Astiz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hyperspectral imaging is a rapidly growing field of knowledge and application area in remote sensing, becoming one of the most critical skills needed by future employees in the remote sensing industry. This Major Research Instrumentation (MRI) grant supports the acquisition of a portable Hyperspectral Imaging instruments for both laboratory- and field-based research at the University of Northern Iowa, a primarily undergraduate institution, that has a deep commitment to high-quality and high-impact scholarship to all students. The FieldSpec (R) Spectroradiometer instrument is widely used in many STEM fields including Geographic Information Science, Remote Sensing, Environmental Science, and Biology for various applications. This instrument will have an immediate impact on active research, teaching, and training activities by faculty, students, staff researchers, and trainees on and outside campus. It will enhance the curriculum in core science and technology areas, support undergraduate and graduate students to gain hands-on experience and education that connects to applied and experiential learning, and strengthen the ability of faculty to facilitate improved quality of their research and teaching. This device will promote the creation of a highly interdisciplinary research environment, enable intra- and inter-departmental research collaboration, and will increase the possibility of securing external funding.&lt;br/&gt;&lt;br/&gt;The major benefits of FieldSpec (R) are its portability, provision of the fastest and most accurate measurement in nearly any environment, and the capability of spectrally characterizing the chemical and structural properties of a target by collecting hundreds of contiguous spectral channels from laboratories to remote field sites. The instrument will enable: 1) the best possible approach to calibrate and validate laboratory, aerial, and satellite remote sensing images; 2) rapid, accurate, and cost-effective spectral measurements whenever and wherever it is required; and 3) development of hyperspectral signature libraries for different materials from laboratory and field settings with new approaches. Specifically, this device will provide new knowledge discovery in the science of Hyperspectral Imaging in many core interdisciplinary research areas including image processing, geomorphology/mineralogy analysis, urban and road surface materials mapping, the Arctic environments and cryosphere monitoring, plant physiology estimation, and water quality assessment, which will benefit the training of students and allow for interdisciplinary research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828402</AwardID>
+<Investigator>
+<FirstName>Maureen</FirstName>
+<LastName>Clayton</LastName>
+<EmailAddress>maureen.clayton@uni.edu</EmailAddress>
+<StartDate>09/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrey</FirstName>
+<LastName>Petrov</LastName>
+<EmailAddress>andrey.petrov@uni.edu</EmailAddress>
+<StartDate>09/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bingqing</FirstName>
+<LastName>Liang</LastName>
+<EmailAddress>bingqing.liang@uni.edu</EmailAddress>
+<StartDate>09/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Dietrich</LastName>
+<EmailAddress>james.dietrich@uni.edu</EmailAddress>
+<StartDate>09/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Sherrard</LastName>
+<EmailAddress>mark.sherrard@uni.edu</EmailAddress>
+<StartDate>09/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Northern Iowa</Name>
+<CityName>Cedar Falls</CityName>
+<ZipCode>506140001</ZipCode>
+<PhoneNumber>3192733217</PhoneNumber>
+<StreetAddress>Research and Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Symbolic Computation Meets Computational Geometry and Data Approximation</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>149999.00</AwardTotalIntnAmount>
+<AwardAmount>149999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Modeling of functions and data approximation are two fundamental tools in computational geometry, computer graphics, and data analytics. For example, when an airplane wing is designed, rather than modeling the wing as one large object, the wing is conceptually broken into a number of small triangles, computations are performed on these small patches, and then the results are assembled back together into a coherent result. This research project studies this technique, and others like it, using tools from computational and symbolic algebra. Results of the research are expected to advance theoretical understanding of these approximations, as well as to provide potential speed-ups to computations used in computer graphics and industrial design.&lt;br/&gt;&lt;br/&gt;This research focuses on analysis and implementation of three central methods in approximation theory and geometric modeling: generalized barycentric coordinates, multidimensional splines, and polynomial interpolation. These methods involve algebraic techniques; from the computational standpoint this means that tools of symbolic algebra are applicable. The goal in all these projects is to compute the dimension of some space of functions, generally in terms of combinatorial and geometric data, and if possible to find a basis for that space. The theoretical tools to be employed are homological algebra and algebraic geometry; the investigations also use computation as a vehicle for experiment. The project will result in development of specialized software, which will be integrated into the Macaulay2 software package.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818646</AwardID>
+</Award>
+</rootTag>

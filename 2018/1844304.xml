@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BTT EAGER:  A system for the production of haploid inducer lines and cytoplasmic male sterile doubled haploids for efficient hybrid production</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>299999.00</AwardTotalIntnAmount>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>R. Kelly Dawe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hybrid cultivars are a cornerstone of modern crop production. Seed companies spend many years developing elite, inbred parental lines that are used to produce the hybrid seed that farmers plant each season. A major bottleneck in the plant breeding cycle is caused by the fact that it takes many years to produce these inbred parental lines.  The aim of this project is to develop a shortcut that allows inbred parental lines to be produced in a single year.  To accomplish this goal, the investigators plan to use gene editing techniques to generate novel onion plants that greatly accelerate the process of inbred line development.  The strategy deployed in this work should also be broadly applicable to other crops, making it of general use to the plant breeding community. This work will be carried out in collaboration with Dr. Stephen Jackson at the University of Warwick.&lt;br/&gt;&lt;br/&gt;The investigators will use CRISPR/Cas9 methods to introduce genetic variation into the CENH3 gene of onion in order to produce haploid-inducer lines. A haploid-inducer line is a plant from which a significant fraction of the seed produced by cross-pollination is haploid.  Upon chemically-induced chromosome doubling, these haploid progeny become "instant inbred" lines that can be immediately used for hybrid seed production.  The research team at the University of Wisconsin will use T-DNA transformation and particle bombardment methods to deliver the gene editing reagents into onion somatic embryos, while the group at the University of Warwick will use tobacco rattle virus (TRV) expression vectors.  Deploying a variety of gene-editing strategies in parallel should allow the investigators to quickly determine which approach is the most effective for efficiently producing modified CENH3 alleles.  In order for doubled haploid technology to be commercially useful for hybrid seed production, it is essential that the strategies for producing doubled haploids are compatible with cytoplasmic male sterile breeding systems. For this reason, this project will integrate the production of haploid inducer lines within a cytoplasmic male sterile breeding framework in order to maximize the practical benefit and applicability to breeders.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844304</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Havey</LastName>
+<EmailAddress>mjhavey@wisc.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Krysan</LastName>
+<EmailAddress>pjkrysan@wisc.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Jackson</LastName>
+<EmailAddress>stephen.jackson@warwick.ac.uk</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

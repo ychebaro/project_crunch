@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: EDU: Improving Student Learning and Engagement in Digital Forensics through Collaborative Investigation of Cyber Security Incidents and Simulated Capture-the-Flag Exercises</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11010000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Graduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Piotrowski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The need for professional cybersecurity experts is well established.  To address this need, students must have exposure to the various forms of digital forensics training materials, before being exposed to the complex world of cybercrimes.  Current approaches used to teach digital forensics lack practical considerations.  This project will develop a collaborative learning platform to enhance cybersecurity pedagogy, promote an understanding of how to defend against cyberattacks, and explore effective incident response techniques to address cybersecurity incidents.  Deliverables of the project include instructional modules along with hands-on experiences and tutorial videos on recent digital forensics cases and cyber incidents.  The goal of the project is to increase the number of professional individuals, students, and educators who are interested in cybersecurity knowledge and careers.&lt;br/&gt;&lt;br/&gt;This project will enhance cybersecurity education by:  1) Creating an online repository of cybersecurity learning resources and open-source tools with a focus on digital forensics and security incidents.  2) Developing a number of instructional modules along with hands-on experiences and training videos for open-source digital forensics tools.  3) Implementing a collaborative educational capture-the-flag tool with the capability of continuous creation and integration of cyber incidents scenarios.  4) Including a set of cyber-attack scenarios based on recent real-world incidents that leverage the use of puzzles in the capture-the-flag tool.  This project will advance cyber security education by directly impacting the way digital forensics is taught by introducing hands-on experiences, course modules, and tutorials for publicly available and open-source security tools.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821560</AwardID>
+<Investigator>
+<FirstName>Akbar</FirstName>
+<LastName>Siami Namin</LastName>
+<EmailAddress>akbar.namin@ttu.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794091035</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>349 Administration Bldg</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7254</Code>
+<Text>CYBER SECURITY ACT PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

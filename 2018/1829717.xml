@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CyberTraining:CIU:Computational and Data Science Literacy Curriculum Exchange</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>499734</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sushil Prasad</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>There is a well-established national need for a research workforce with suitable knowledge of computational and data science (CDS). Although, some strides have been made in integrating CDS competencies into the university curriculum, the pace of change has been slow. Department boundaries, course requirements for STEM majors, and resource constraints all contribute to the slow pace of CDS curriculum implementation across STEM disciplines. Ohio Supercomputer Center (OSC) in collaboration with Bethune Cookman University (BCU), Clark Atlanta University (CAU), Morgan State University (Morgan), Southeastern Universities Research Association (SURA), Southern University and A&amp;M College (SUBR), and the University of Puerto Rico at Mayaguez (UPRM) are implementing a pilot Computational and Data Science (CDS) Curriculum Exchange (C2Exchange) to address the challenges experienced by resource constrained institutions and, in particular, those faced by Minority Serving Institutions (MSIs). This project serves the national interest, as stated by NSF's mission: to promote the progress of science and to serve the national health, prosperity, and welfare by advancing STEM education and improving the computational and data science skills of our future research workforce.&lt;br/&gt; &lt;br/&gt;The curriculum exchange approach is intended to minimize the faculty preparation time required to deliver new and updated courses, increase the number of CDS courses offered at each institution, and allow courses to be offered that may not initially have large enrollments at an individual institution by drawing students from all of the participating institutions. This pilot develops the foundation for a CDS Curriculum Exchange that can increase the capacity of small under-resourced MSIs to deliver undergraduate CDS curriculum, minors, and certificates with low investment and be extensible for future participation by additional resource constrained institutions. Students in these institutions will benefit by having access to a broader selection of computational science courses. Training in these highly sought after skills aims to increase their chances of being part of the STEM workforce or continuing on to graduate school and becoming effective researchers. Each academic institution is contributing and receiving courses, such as Introduction to Modeling and Simulation, Computational Chemistry, as well as Data Visualization, with the goal of providing a sequence of CDS courses that can form part of a certificate or minor program at each institution. The consortium delivers courses through a blended online learning model that has been tested and shown to be effective for technical subjects. This model is flexible enough to reduce preparation time for local instructors, respond to students' difficulties with material, and to accommodate institutions' varied schedules. If successful, this exchange model of instruction will be extensible to a wide range of institutions as well as to specialized instruction at the graduate level.  The project explores important insights into both the institutional and pedagogical questions associated with the implementation of shared course networks in resource constrained environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829717</AwardID>
+<Investigator>
+<FirstName>Linda</FirstName>
+<LastName>Akli</LastName>
+<EmailAddress>akli@sura.org</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ana</FirstName>
+<LastName>Gonzalez</LastName>
+<EmailAddress>anacarmen.gonzalez@upr.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Asamoah</FirstName>
+<LastName>Nkwanta</LastName>
+<EmailAddress>asamoah.nkwanta@morgan.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dinadayalane</FirstName>
+<LastName>Tandabany</LastName>
+<EmailAddress>dtandabany@cau.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katharine</FirstName>
+<LastName>Cahill</LastName>
+<EmailAddress>kcahill@osc.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>044Y</Code>
+<Text>CyberTraining - Training-based</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

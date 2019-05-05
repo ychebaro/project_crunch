@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Resilience Assessment for Communications right after Emergencies/Disasters (RACE)</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>128856.00</AwardTotalIntnAmount>
+<AwardAmount>128856</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project aims to perform critical radio frequency measurements in Puerto Rico using fast deployable wireless technologies. The project will study how the system is affected by weather phenomena, atmospheric propagation, complex-terrain topography, altitude, and user knowledge. Hurricanes Irma and Maria severely damaged the island's telecommunication infrastructure. This has significantly affected the quality of life in Puerto Rico and delayed the recovery effort. Backup wireless technologies have been deployed, and the project aims to study the system performance. In addition, the team will also engage the community in outreach activities while traveling to various locations in Puerto Rico to conduct measurements. They will create basic learning modules on radio frequency LTE signal, Software Defined Radios, etc., and give open seminars to general public in the impacted areas. This also provides a unique opportunity to collect feedbacks from audience regarding their utilization of the telecommunication systems during recovery period.&lt;br/&gt;&lt;br/&gt;Specifically, the project team will assess the performance of emergency backup wireless base stations installed on balloons floating over Puerto Rico temporarily to help the restoration of wireless network. The research team including two graduate students and eight undergraduate students will travel to perform measurements and collect data from several locations in Puerto Rico. The data will be analyzed and a wave propagation model will be constructed to study signal characteristics traveling through stratosphere, which is different from terrestrial wireless communication channel. The result will be very useful for the future development and deployment of resilient telecommunication infrastructure.</AbstractNarration>
+<MinAmdLetterDate>01/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818675</AwardID>
+<Investigator>
+<FirstName>Sandra</FirstName>
+<LastName>Cruz-Pol</LastName>
+<EmailAddress>SandraCruzPol@ieee.org</EmailAddress>
+<StartDate>01/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emmanuel</FirstName>
+<LastName>Arzuaga</LastName>
+<EmailAddress>emmanuel.arzuaga@upr.edu</EmailAddress>
+<StartDate>01/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Puerto Rico Mayaguez</Name>
+<CityName>Mayaguez</CityName>
+<ZipCode>006809000</ZipCode>
+<PhoneNumber>7878312065</PhoneNumber>
+<StreetAddress>Call Box 9000</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

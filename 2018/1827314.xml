@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a GPU Accelerated Vermont Advanced Computing Core</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>893120</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stefan Robila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will enable interdisciplinary science through the acquisition of a high-performance computer cluster, named DeepGreen.  Based on cutting-edge massively parallel graphics processing unit (GPU) technologies, DeepGreen will be utilized by the over 300 users from six Colleges at the University of Vermont, and throughout the Northeast. The unique hybrid architecture was designed to optimize artificial intelligence (AI) applications and will allow for rapid progress on problems of great societal importance. They include: quantum computing, drug discovery and design, safe robotics, control of adaptive crop pests, and new computer vision tools for use in the health care and transportation industries.  As an example, DeepGreen will allow the training of neural networks on the world's largest brain imaging datasets of illicit drug users, yielding novel health and policy strategies to combat the opioid epidemic.  A focus of the scientific and technical team is to broaden the number of personnel able to exploit GPU hardware for problem solving, producing the highly trained and diverse technical workforce required for the current and future AI economy. &lt;br/&gt;&lt;br/&gt;DeepGreen was designed by a team of experts from the physical, medical, biological, computational, and agricultural sciences, partnered with an experienced group of information technology professionals.  It will be capable of over 8 petaflops of mixed precision calculations based on the latest NVIDIA Tesla V100 architecture with a hybrid design allowing high bandwidth message passing across heterogeneous compute nodes.  Its extreme parallelism will facilitate research in three interconnected areas: quantum many-body systems, molecular simulation and modeling, and deep learning, artificial intelligence and evolutionary algorithms.  DeepGreen will forge transformative research pipelines. It will enable the study of thousands of quantum entangled atoms, and millions of interacting components in biological systems providing insights into structure-function mechanisms.  Machine learning and deep neural networks will exploit DeepGreen's Tensor Cores to solve diverse problems. These problems include: the development of coarse grained potentials for use in molecular dynamics simulations, real time dynamic processing of crowd sourced decision making for robotics, genomic sequencing of invasive pests, and feature recognition in medical imaging to distinguish cancerous tumors from benign nodules.  Software designed for use on DeepGreen will be released to the public as open source, with other scientists and researchers being able to immediately use and extend it. This project will also support the next generation of data scientists. Training workshops focused on GPU computing and machine learning frameworks, new university courses, and partnerships with existing local NSF-funded graduate training initiatives, will drive broad utilization of DeepGreen.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827314</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Bongard</LastName>
+<EmailAddress>jbongard@uvm.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yolanda</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>Yolanda.Chen@uvm.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adrian</FirstName>
+<LastName>Delmaestro</LastName>
+<EmailAddress>Adrian.Delmaestro@uvm.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hugh</FirstName>
+<LastName>Garavan</LastName>
+<EmailAddress>hgaravan@uvm.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Juan</FirstName>
+<LastName>Vanegas</LastName>
+<EmailAddress>juan.vanegas@uvm.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Vermont &amp; State Agricultural College</Name>
+<CityName>Burlington</CityName>
+<ZipCode>054050160</ZipCode>
+<PhoneNumber>8026563660</PhoneNumber>
+<StreetAddress>85 South Prospect Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<StateCode>VT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

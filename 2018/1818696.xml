@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Targeted Infusion Project: Integrative Makers Course and Laboratory for STEM Undergraduates</AwardTitle>
+<AwardEffectiveDate>05/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia Rankins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) through Targeted Infusion Projects supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue STEM graduate programs and/or careers. To make STEM learning purposeful and fulfilling, this HBCU-UP TIP project aims to provide STEM juniors and seniors at Tuskegee University with experiences that are aligned with industry practices through a new and novel Makers Course and associated Makers Laboratory (MC&amp;ML) called "Conducting Integrative STEM Research in a Makerspace". The MC&amp;ML is designed to provide students with industry-like experiences needed STEM workforce readiness or graduate school preparation.  &lt;br/&gt;&lt;br/&gt;The novelty of the MC&amp;ML lies in its framework of the "Makerspace", a dedicated physical area where students from different STEM disciplines will convene for work on collaborative hands-on research projects in advanced multidisciplinary fields such as nanocomposites, biomaterials, smart materials, and computation modeling. The program interventions include: (1) the establishment of the MC&amp;ML, (2) the use of "Learning through lectures and making" whereby teams of multidisciplinary faculty will lecture, mentor students and supervise projects on dedicated MSE-focused topics, (3) increased summer research internships opportunities, (4) Graduate Record Examination (GRE) preparation, and (5) Workshops for the Graduate Research Fellowship Programs and STEM-Related Workforce. As an HBCU, Tuskegee is a leader in educating and preparing minority students for STEM careers. The success of the MC&amp;ML will contribute to increasing diversity in the STEM technology workforce.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818696</AwardID>
+<Investigator>
+<FirstName>Mahesh</FirstName>
+<LastName>Hosur</LastName>
+<EmailAddress>mahesh.hosur@tamuk.edu</EmailAddress>
+<StartDate>04/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vijaya</FirstName>
+<LastName>Rangari</LastName>
+<EmailAddress>vrangari@tuskegee.edu</EmailAddress>
+<StartDate>04/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mohammed</FirstName>
+<LastName>Qazi</LastName>
+<EmailAddress>mqazi@tuskegee.edu</EmailAddress>
+<StartDate>04/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shaik</FirstName>
+<LastName>Zainuddin</LastName>
+<EmailAddress>szainuddin@tuskegee.edu</EmailAddress>
+<StartDate>04/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alfred</FirstName>
+<LastName>Tcherbi-Narteh</LastName>
+<EmailAddress>atcherbi-Narteh@mytu.tuskegee.edu</EmailAddress>
+<StartDate>04/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tuskegee University</Name>
+<CityName>Tuskegee Institute</CityName>
+<ZipCode>360881923</ZipCode>
+<PhoneNumber>3347278233</PhoneNumber>
+<StreetAddress>1200 W Montgomery Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Soft-FET: Phase Transition Material Based Soft Switching Field Effect Transistor for Energy Efficient CMOS</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With the rapid advances in computing systems spanning from billions of IoT (Internet of Things) devices to high performance exa-scale supercomputers, energy efficient design is an absolute must. In a modern System-on-a chip (SoC) design, supply voltage scaling is the primary driver to reduce the energy consumption. Voltage droops caused by the peak switching current as well sudden changes in current activity of various logic blocks requires larger voltage guard-bands, thereby degrading the system level energy efficiency. Thus, there is a critical need to develop circuit topologies to reduce the peak switching currents as well as sudden current fluctuations to reduce the voltage droops and to realize a compact and energy-efficient power delivery network. Principles underlying the research in this project can be readily transferred to existing SoC designs benefiting the integrated chip design industry, and ultimately the consumer society. The students engaged in this research will be trained in device fabrication, integrated circuit, test-chip design, and heterogeneous system integration issues, thus contributing to the much needed workforce development in chip design industry.&lt;br/&gt;&lt;br/&gt;This research envisions a novel soft-switching transistor architecture named as Soft-FET for realizing energy-efficient CMOS circuits. The targeted efficient operations can be realized by utilizing abrupt phase change behavior in transition metal oxides. The project will fabricate and demonstrate Vanadium Dioxide (VO2) based Soft-FET integrated circuit prototype by heterogeneous integration with baseline CMOS technology. Various Soft-FET architecture circuit blocks such as digital logic, SRAM bitcells/arrays, I/O buffers, power gates, and power converters will be investigated to realize energy efficient CMOS designs. If successful, this research can improve the energy efficiency of integrated circuits by lowering the voltage droop guard bands.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815616</AwardID>
+<Investigator>
+<FirstName>Sanjay</FirstName>
+<LastName>Banerjee</LastName>
+<EmailAddress>banerjee@ece.utexas.edu</EmailAddress>
+<StartDate>06/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jaydeep</FirstName>
+<LastName>Kulkarni</LastName>
+<EmailAddress>jaydeep@austin.utexas.edu</EmailAddress>
+<StartDate>06/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

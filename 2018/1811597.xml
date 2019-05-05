@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Data-driven, biologically constrained biophysical computational model of the hippocampal network at full scale</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>2450.00</AwardTotalIntnAmount>
+<AwardAmount>4230</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project aims to fundamentally improve our understanding of the brain.  In particular, this project will construct a detailed, biologically realistic, computational model of the brain hippocampus.  The hippocampus is a major component of the brain that plays an important role in memory and other major human functions.  This detailed computational model of the hippocampus will allow researchers to understand the origins of specific behavioral level features of the brain, as well as treatment effectiveness for conditions such as epilepsy.  In addition, the project aims to investigate brain changes under different radiation exposure regimes.  Furthermore, the software infrastructure developed in the project, as well as simulation results, will be publicly released to the wider neuroscience community.&lt;br/&gt;&lt;br/&gt;The overarching goal of the research projects is the construction of realistic and biophysically detailed computational models of the three major neuronal circuit layers in the hippocampus: the dentate gyrus (DG), CA3, and CA1. These three regions of the hippocampus are interconnected, and therefore the computational aspects of this research require building a detailed data-driven, full-scale computational model of the entire hippocampal formation and its inputs from the septum and the entorhinal cortex.  Information processing in the brain is organized and facilitated by the complex interactions of intrinsic biophysical properties of distinct neuronal types, neuronal morphology, and network connection topology. These properties give rise to specific types of network oscillations and other dynamic processes that govern neural information encoding and exchange. The hypotheses in this proposal are designed to create a detailed picture at unprecedented scale of how the intrinsic properties of hippocampal principal neurons and interneurons define the network activity under normal conditions, and how pathological changes in those properties under epileptic conditions disrupt hippocampal function.  The project has made public releases of the CA1 model code and simulation management tool (SimTracker), and have also published the CA1 simulation datasets that accompany the publication describing the main results of the CA1 work.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/09/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811597</AwardID>
+<Investigator>
+<FirstName>Ivan</FirstName>
+<LastName>Soltesz</LastName>
+<EmailAddress>isoltesz@stanford.edu</EmailAddress>
+<StartDate>03/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramElement>
+</Award>
+</rootTag>

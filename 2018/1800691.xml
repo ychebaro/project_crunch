@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Research Initiation Award: Mechanisms regulating intrinsic levels of antimicrobial resistance in planktonic cells and biofilms of commensal Neisseria</AwardTitle>
+<AwardEffectiveDate>04/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>149506.00</AwardTotalIntnAmount>
+<AwardAmount>149506</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia Rankins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Catalyst Projects provide support for Historically Black Colleges and Universities to work towards establishing research capacity of faculty to strengthen science, technology, engineering and mathematics undergraduate education and research. It is expected that the award will further the faculty member's research capability, improve research and teaching at the institution, and involve undergraduate students in research experiences. The award to Spelman College aims to characterize commensal Neisseria levels and mechanisms of antimicrobial resistance, in planktonic cells and cells forming biofilms, and whether these bacteria should be considered a reservoir for the spread of antimicrobial resistance genes.&lt;br/&gt;&lt;br/&gt;Commensal bacteria persist inside or outside multicellular organisms, usually without causing harm. Several commensal Neisseria species live in the human oral and nasopharynx as part of a complex and diverse microbiome. They are related to the pathogenic N. meningitidis, an agent of meningitis, and N. gonorrhoeae, the agent of the sexually-transmitted disease gonorrhea. As much as pathogenic Neisseria are studied, commensal Neisseria are poorly characterized. Deciphering the factors and regulatory pathways affecting antimicrobial resistance in commensal Neisseria will elucidate the molecular mechanisms that evolved in commensal and pathogenic species. The goals of this study are to characterize antimicrobial resistance levels of planktonic cells, of cells in biofilms, and to identify the factors and regulatory mechanisms involved in antimicrobial resistance in these cell populations of commensal Neisseria species.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800691</AwardID>
+<Investigator>
+<FirstName>Maira</FirstName>
+<LastName>Goytia</LastName>
+<EmailAddress>MGoytia@spelman.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Spelman College</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303144399</ZipCode>
+<PhoneNumber>4042705897</PhoneNumber>
+<StreetAddress>350 Spelman Lane SW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9264</Code>
+<Text>RESEARCH INITIATION AWARD</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Bioinspired selective anion incarceration by nanojars</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>376411</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Suk-Wah Tam-Chang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Anions are negatively charged chemical structures that are ubiquitous in Nature.  They play an essential role in the metabolism of living organisms. Anions such as phosphate and nitrate provide essential nutrients for agricultural crops and are therefore widely used in fertilizers.  Inorganic anions, including the highly toxic chromate, are also used in industrial processes and are sources of environmental pollutants. The excessive accumulation of inorganic anions in water could harm the environment by causing eutrophication of lakes and rivers and by poisoning the groundwater that supplies drinking water.  Prof. Gellert Mezei's group at Western Michigan University designs and synthesizes a unique class of anion-binding agents, termed 'nanojars'.  By studying the interactions of anions with these nanojars, the team aims to gain a better fundamental understanding of the factors governing selective recognition of anions and to provide insight to the future design of highly efficient anion-binding agents, not only for removing toxic anions from water, but also for recovering valuable anions, such as phosphate.  This project also provides research opportunities to high school and undergraduate students from underrepresented groups, offers education of the general public about Science through public events such as the "Chemistry Day at the Museum", and promotes collaborations with the industrial sector.&lt;br/&gt;&lt;br/&gt;Selective extraction of specific anions from water is a challenging task, especially in the case of hydrophilic oxyanions of high charge density. Such anions, including phosphate and chromate, are strongly bound by water and are difficult to transfer into a water-immiscible, hydrophobic phase, from which they could be recovered or properly disposed of.  With the support of the Macromolecular, Supramolecular and Nanochemistry Program of the NSF Division of Chemistry, Prof. Mezei's group investigates anion encapsulation in nanojars to understand the structural intricacies needed for designing highly selective anion-binding agents. The nanojars are nanometer-sized supramolecular structures with a hydrophilic anion-binding pocket lined with hydrogen-bond donors and a hydrophobic, rigidifiable outer shell.  They offer a promising compromise between the large size of anion-binding proteins (which are impractical for large scale, industrial applications) and the poor selectivity of small-molecule anion receptors in general.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808554</AwardID>
+<Investigator>
+<FirstName>Gellert</FirstName>
+<LastName>Mezei</LastName>
+<EmailAddress>gellert.mezei@wmich.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Western Michigan University</Name>
+<CityName>Kalamazoo</CityName>
+<ZipCode>490085200</ZipCode>
+<PhoneNumber>2693878298</PhoneNumber>
+<StreetAddress>1903 West Michigan Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

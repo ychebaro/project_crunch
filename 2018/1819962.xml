@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Blockchain based Logging Management System for IoT Devices</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>224968.00</AwardTotalIntnAmount>
+<AwardAmount>224968</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is that it provides unique secure, tamper resistant record keeping and logging services that leverage blockchain technology for a wide range of IoT applications. The solution will provide significant benefits in terms of performance, cost (e.g., total ownership cost), cyber attack resilience, security and privacy assurance for both IoT device owners, operators, and industries utilizing IoT technology such as transportation, smart city, logistics, supply chain management, manufacture, energy, critical infrastructures.&lt;br/&gt;&lt;br/&gt;This STTR Phase I project proposes to develop a scalable auditing, record keeping, and logging system for internal/external operations and data interactions of IoT devices, which are fundamental components to support other critical properties and operations of IoT enabled infrastructures. The record keeping and logging system solves several critical challenges in distributed IoT environment: transaction ordering and data distribution. In addition, the logging and transactional system can be the centric component for producer-consumer style applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/15/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819962</AwardID>
+<Investigator>
+<FirstName>Yang</FirstName>
+<LastName>Lu</LastName>
+<EmailAddress>shisunny.yang@gmail.com</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Saguaro Innovation LLC</Name>
+<CityName>HOUSTON</CityName>
+<ZipCode>770071024</ZipCode>
+<PhoneNumber>6784297787</PhoneNumber>
+<StreetAddress>5826 Petty Steet</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

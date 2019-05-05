@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NCOA Transition Planning and Preparation Project</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>4497034.00</AwardTotalIntnAmount>
+<AwardAmount>2500000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Boboltz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The NCOA Transition Planning and Preparation Project encompasses the planning and preparation necessary to complete the transition from operating the Gemini Observatory, the National Optical Astronomy Observatory (NOAO), and the Large Synoptic Survey Telescope (LSST) as independent observatories to operating them under a single, integrated National Center for Optical-Infrared Astronomy (NCOA) supported by centralized services and a matrix management structure for operations.  &lt;br/&gt;&lt;br/&gt;NCOA will: (1) be the U.S. national Center for ground-based, nighttime optical and infrared (OIR) astronomy; (2) operate and maintain OIR observational research facilities and related data systems; (3) develop, build, coordinate, and integrate observational, technical, and data-oriented capabilities available throughout the U.S. OIR System of federal and nonfederal assets; (4) initiate, develop, and sustain domestic and international collaborations and partnerships to advance ground-based OIR facilities and capabilities; and (5) develop and advance a strategic vision for NSF-funded OIR capabilities in collaboration with community scientists, partner organizations, other U.S. OIR System operators, and NSF.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853386</AwardID>
+<Investigator>
+<FirstName>Charles Mattias</FirstName>
+<LastName>Mountain</LastName>
+<EmailAddress>Matt.Mountain.NSF@aura-astronomy.org</EmailAddress>
+<StartDate>11/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Puxley</LastName>
+<EmailAddress>ppuxley@aura-astronomy.org</EmailAddress>
+<StartDate>11/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Association of Universities for Research in Astronomy, Inc.</Name>
+<CityName>Washington</CityName>
+<ZipCode>200040000</ZipCode>
+<PhoneNumber>2024832101</PhoneNumber>
+<StreetAddress>1331 Pennsylvania Ave. NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>053F</Code>
+<Text>NOAO -OPERATIONS &amp; MAINTENANCE</Text>
+</ProgramElement>
+</Award>
+</rootTag>

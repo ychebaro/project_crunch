@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Integration: End-to-End Software-Defined Cyberinfrastruture for Smart Agriculture and Transportation</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>999919</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Imaging and other sensor-based understanding of plant behavior is becoming key&lt;br/&gt;to new discoveries in plant genotypes leading to more productive and environment-friendly farming.&lt;br/&gt;Similarly, distributed sensing is seen as a key component of a safe, efficient, and sustainable autonomous transportation systems.&lt;br/&gt;Existing research and education in agriculture and transportation systems are constrained by the lack of connectivity between field-deployed testbed equipment and computing infrastructure. To realize that connectivity, this project proposes to deploy CyNet wireless networks to&lt;br/&gt;connect experimental science testbeds to high-performance cloud computing infrastructures.&lt;br/&gt;&lt;br/&gt;The CyNet project will:&lt;br/&gt;1) deploy Predictable, Reliable, Real-time, and high-Throughput (PRRT) wireless networking solutions using the standards-compliant, open-source Open Air Interface software framework and commodity Universal Software Radio Peripheral (USRP) hardware;&lt;br/&gt;2) integrate these wireless networks with software defined networks to seamlessly integrate outdoor cameras, sensors, and autonomous vehicles, and connect these components to high performance cloud computing systems;&lt;br/&gt;3) implement an infrastructure virtualization system that partitions CyNet into programmable, isolated experiments; and&lt;br/&gt;4) create an infrastructure management system that performs admission and access control and establishes specified resource allocation policies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827211</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Schnable</LastName>
+<EmailAddress>schnable@iastate.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arun</FirstName>
+<LastName>Somani</LastName>
+<EmailAddress>arun@iastate.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ahmed</FirstName>
+<LastName>Kamal</LastName>
+<EmailAddress>kamal@iastate.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hongwei</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>hongwei@iastate.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anuj</FirstName>
+<LastName>Sharma</LastName>
+<EmailAddress>anujs@iastate.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2890</Code>
+<Text>CISE RESEARCH RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

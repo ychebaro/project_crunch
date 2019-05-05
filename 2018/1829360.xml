@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Low-cost Enrichment Kit for Fast Lead Detection in Water with Low Detection Limit</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is a lead enrichment kit that can allow fast detection of lead in water with low cost and low detection limit. Lead contamination in drinking water is a threat to human beings. Due to its health concern, the Lead and Copper Rule (LCR) has set an action level of 15 µg/L for lead in tap water. Considering the great threat of lead to health even with low concentrations, it is necessary to have lead measurements in water at a regular basis. The proposed project aims to commercialize an inexpensive kit which would allow fast lead detection in water with low detection limit to meet Lead and Copper Rule (15 ppb). The kit provides two main benefits to customers: a lower cost ($4) than current kit ($11) for lead detection which meets Lead and Copper Rule and convenience for field sample measurements.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to evaluate the commercial adoption of our inexpensive lead enrichment kit for lead detection. Interviews will be conducted to help identify the potential customers and the market needs, evaluate the commercialization feasibility of the new technology, and optimize the technology to meet the demand of targeted customers. Inspired by findings from our current NSF-project, special enrichment kit was designed to accumulate Pb from water, allowing quick detection of lead in water with low concentrations using the inexpensive detection kit. Additionally, the proposed work will provide the basis for future development and commercialization of new enrichment kits to detect other aqueous contaminants in water with low detection limits.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829360</AwardID>
+<Investigator>
+<FirstName>Yandi</FirstName>
+<LastName>Hu</LastName>
+<EmailAddress>yhu11@uh.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>Houston</CityName>
+<ZipCode>772042015</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4800 Calhoun Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

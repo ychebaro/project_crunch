@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Coordinates and Volumetrics in MRI Imaging</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to fill a critical need in neuro-radiology, neuro-oncology, and radiation therapy, by developing a clinic-ready software suite that computes physician-approved volumes of key three-dimensional (3D) structures in the brain from Magnetic Resonance Imaging (MRI). Currently, physicians make a decision on tumor status by visual inspection and by measuring the largest perpendicular diameters from a single two-dimensional (2D) axial image. Radiation oncologists use manual segmentation to delineate the boundaries of the tumor regions; these contours are used for treatment planning. Current practice is associated with significant limitations that impede the quality of patient care. This software suite will potentially change the status-quo by generating 3D volumetric structures of tumors and other key regions in the brain. The physician can readily apply this information to better understand the disease and optimize care leading to early treatment, less morbidity, and longer survival times.&lt;br/&gt;&lt;br/&gt;This I-Corps project produces a practical, clinic-ready suite of Magnetic Resonance (MR) analyses and display tools to solve the number one impediment to reliable use of MRIs for guiding radiation treatment of brain cancer: accurate and timely multimodal 3D segmentation of key structures in the brain. The main engine of the MR suite is a mathematical optimization framework that combines calculus of variation with deep learning techniques; thus amenable to pixel-level-accurate 3D segmentation in almost real-time. The proposed technology was developed from an algorithm for multimodal brain segmentation, which consists of (a) an automated, accurate and robust algorithm for 3D image segmentation, combined with (b) semi-automated and interactive multimodal labeling that requires physician approval.</AbstractNarration>
+<MinAmdLetterDate>12/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811323</AwardID>
+<Investigator>
+<FirstName>Nidhal</FirstName>
+<LastName>Bouaynaya</LastName>
+<EmailAddress>bouaynaya@rowan.edu</EmailAddress>
+<StartDate>12/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rowan University</Name>
+<CityName>Glassboro</CityName>
+<ZipCode>080281701</ZipCode>
+<PhoneNumber>8562564057</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

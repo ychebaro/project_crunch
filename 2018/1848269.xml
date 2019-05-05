@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Engineering artificial oxide layers with hidden spin symmetry for drivable 2D quantum magnetism</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardAmount>147145</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical abstract: &lt;br/&gt;Magnetic materials have been known and exploited for applications since the ancient times of human history. While their advanced use in modern days can be commonly found in computers and electronics, new magnetic materials are necessary for developing a next generation of processors, memories, and sensors with better security, faster speed, and smaller size. Two-dimensional quantum antiferromagnet holds such promise because of its high scalability in the form of atomic layers.  However, antiferromagnets, unlike ferromagnets, intrinsically resist control with a magnetic field. Moreover, realizing two-dimensional magnets is highly challenging because real materials are three dimensional. To overcome these difficulties, it is necessary to develop the capability of material synthesis by design with atomic precision. This research focuses on atomic layering of oxide materials to achieve quantum antiferromagnets that are not only two-dimensional but also externally controllable. Specifically, iridium-based oxides are used to realize a design where the antiferromagnet retains its internal magnetic structure and yet responds to magnetic field in a way similar to a ferromagnet. The project involves a revamp of undergraduate physics course materials, along with an outreach component that specifically targets underrepresented minorities and the general public.&lt;br/&gt;&lt;br/&gt;Technical abstract: &lt;br/&gt;Achieving control of two-dimensional quantum Heisenberg antiferromagnets is not only advancing our understanding of quantum many-body physics but also enables exploitation of quantum effects for new technologies. Realizing efficient external control is however highly challenging because of no direct linear coupling of an external magnetic field to the antiferromagnetic order. Moreover, internal spin anisotropy and three-dimensional coupling are always present in real materials, suppressing the two-dimensional critical fluctuations. While these barriers are difficult to overcome in bulk materials, the principle investigator plans to employ in-situ-monitored pulsed-laser deposition growth to construct a variety of atomically thin epitaxial oxide layers with strong spin-orbit coupling that creates large anisotropic exchange interactions and spin canting but preserves the spin rotational symmetry. The resulting two-dimensional quantum antiferromagnetic lattices is expected to be in close proximity to the spin isotropic limit and exhibits iant responses to applied external fields. This unique mechanism can be implemented by engineering the thicknesses, structural distortions, composition, and strain state of the oxide layers through epitaxial growth. An important goal is to unveil the two-dimensional critical fluctuations near quantum phase transitions, and to establish external controls of the antiferromagnetic order parameter via a suite of characterization techniques, including advanced synchrotron x-ray scattering and spectroscopy. The results are expected to facilitate the development of functional two-dimensional quantum antiferromagnets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848269</AwardID>
+<Investigator>
+<FirstName>Jian</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>jianliu@utk.edu</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

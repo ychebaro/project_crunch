@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Defining the Roles of Autophagy in Nutrient Recycling, Stress Protection, and Seed Development in Maize by Omics and Multi-scale Approaches</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>2407869.00</AwardTotalIntnAmount>
+<AwardAmount>1174618</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kimberly Gallagher</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project undertakes a comprehensive molecular analysis to understand how plants mobilize nutrients through a cellular process called autophagy (self-eating) and to understand what compensatory mechanisms are activated when autophagy fails. With this knowledge, it should be possible to re-engineer crops that more efficiently use carbon fixed through photosynthesis and nutrients acquired from the soil. Plants that better remobilize nutrients to areas of new growth, storage, and ripening  fruits would provide for better yields under normal and stressful conditions.  The participating investigators will provide training to students and postdoctoral fellows in modern biological approaches to study crop physiology. At University of Wisconsin-Madison the datasets generated during this project are incorporated into undergraduate courses and new laboratory classes with a strong component in outreach directed towards K-12 students.  The three participating laboratories also organize workshops during scientific meetings.&lt;br/&gt;&lt;br/&gt;Autophagy is a central regulator of the cellular, developmental, and physiological responses that underlie key agricultural traits, such as fertilizer-use efficiency and nutrient remobilization, fixed carbon allocation, seed quality and germination, yield, and tolerance to environmental stress.  However, current understanding of the organization, regulation, and selectivity of autophagy in crops is in its infancy.  The objectives of this proposal are to: (1) Expand the collection of autophagy and related mutants by Mu- and CRISPR/Cas9-related methods; (2) Use the full suite of omics approaches to define how autophagy impacts the transcriptome, proteome, metabolome, and phenome of maize; (3) Describe the suite of ATG8-binding autophagy receptors that select specific maize cargo; and (4) Identify autophagic cargo under normal and stressful conditions.  Collectively, this work will provide the first systems view of autophagy in a crop plant and its roles in growth, nutrient allocation, stress tolerance, and kernel development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/01/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/01/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840687</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Vierstra</LastName>
+<EmailAddress>rdvierstra@wustl.edu</EmailAddress>
+<StartDate>04/01/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marisa</FirstName>
+<LastName>Otegui</LastName>
+<EmailAddress>otegui@wisc.edu</EmailAddress>
+<StartDate>04/01/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sushmita</FirstName>
+<LastName>Roy</LastName>
+<EmailAddress>sroy@biostat.wisc.edu</EmailAddress>
+<StartDate>04/01/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

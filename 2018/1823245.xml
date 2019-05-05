@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRI: II-New: Infrastructure for Robust Interactive Underground Robots</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>451102.00</AwardTotalIntnAmount>
+<AwardAmount>451102</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The global community is increasingly exploring underground environments for sustainable and resilient solutions to societal problems. New opportunities and challenges in water access, quality, and storage, geothermal energy, and carbon sequestration collectively point to underground environments as the next frontier. Underground environments are, however, notoriously hazardous for humans; accordingly, inspecting underground environments and performing rescues during underground catastrophes is essential to achieve this new underground frontier. The proposed infrastructure will support research in human-robot teaming, networking, planning, and human-robot interaction, as well as collaborative research with other researchers in other fields and application-driven research into underground information collection, monitoring, surveying, rescue, and crisis management. The proposed infrastructure will also be used for community outreach programs, through workshops, presentations, and partnerships with area K-12 after-school programs.&lt;br/&gt;&lt;br/&gt;The proposed infrastructure will provide a team of heterogeneous robots for deployment in underground environments, as well as sensors, networking equipment, and augmented reality headsets to facilitate their effective use. This infrastructure will support the institutional theme of research on underground environments, including underground inspection and search and rescue applications. This infrastructure will include amphibious, ground, and aerial robots; robotic arms and grippers to be mounted on ground robots; augmented reality headsets designed for safety-critical domains; visual, range, and audio sensors; and networking equipment. These hardware elements will be integrated together and deployed within the Edgar Mine, an underground research and evaluation facility owned and operated by the Colorado School of Mines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823245</AwardID>
+<Investigator>
+<FirstName>Qi</FirstName>
+<LastName>Han</LastName>
+<EmailAddress>qhan@mines.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hao</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>hzhang@mines.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Neil</FirstName>
+<LastName>Dantam</LastName>
+<EmailAddress>ndantam@mines.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Williams</LastName>
+<EmailAddress>twilliams@mines.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado School of Mines</Name>
+<CityName>Golden</CityName>
+<ZipCode>804011887</ZipCode>
+<PhoneNumber>3032733000</PhoneNumber>
+<StreetAddress>1500 Illinois</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CPS:Small: Syntax-Guided Synthesis for Cyber-Physical Systems</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>372998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Sprinkle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nowadays, anyone can buy and put together sensors, actuators, and computation components,   but typically only highly trained engineers are able to compose systems that can autonomously perform complex tasks. This project makes the design of cyber-physical systems (CPS) accessible to anyone by creating computational tools that enable people to choose a set of building blocks and define what a system should do. The tools then automatically create a simple and easy to understand description of how to assemble the components and provide the control needed to accomplish the task. If the task cannot be done with a single system, the tools provide either multiple systems that need to be assembled and/or explanations as to why the task cannot be done, for example due to physical constraints. The project includes designing a competition to accelerate the development of design tools, and mentoring of students from underrepresented groups. &lt;br/&gt;&lt;br/&gt;Inspired by advances in program synthesis, control synthesis and modular CPS, this project (i) defines formal specifications and synthesis processes for CPS whose task requires motion in the physical environment, and (ii) creates automated design tools that synthesize both the structure and control of the CPS and that guarantee either full or partial task satisfaction. The formalisms and tools are based on the Syntax-Guided Synthesis (SyGuS) paradigm where the design space is reduced by considering additional structure and leverages computational methods from satisfiability-modulo-theories (SMT) solvers to program synthesis tools, inverse kinematics solvers, motion planners and design optimization. The tools are evaluated on two physical and two simulated platforms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837506</AwardID>
+<Investigator>
+<FirstName>Hadas</FirstName>
+<LastName>Kress Gazit</LastName>
+<EmailAddress>hadaskg@cornell.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 IEEE International Conference on Computer Communications (INFOCOM)</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>20000.00</AwardTotalIntnAmount>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monisha Ghosh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The IEEE International Conference on Computer Communications (INFOCOM) is a premier international conference, held annually, covering a wide spectrum of theoretical and applied research in the networking field. The conference provides an unique platform for world-leading researchers and practitioners to present their latest research results. Attending such a high-caliber technical event, with multiple technical sessions and workshops, is important for graduate students' professional development. The students will have the opportunity to present their work and be exposed to the state-of-the-art developments in the field. They will also have the opportunity to interact with peers from institutions worldwide, meet with leading researchers, and participate in discussions that are likely to shape the future of the field.&lt;br/&gt;&lt;br/&gt;This award will support approximately 20 students in the United States to attend the 2018 IEEE INFOCOM conference which will be held in Honolulu, Hawaii from April 15 to April 19, 2018. The travel grants will target graduate students who will substantially benefit from attending this conference but have limited travel funds. Priority will be given to first time attendees,especially those without papers, and students from under-represented groups (female, minorities and students with disabilities).</AbstractNarration>
+<MinAmdLetterDate>01/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820350</AwardID>
+<Investigator>
+<FirstName>Dejun</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>djyang@mines.edu</EmailAddress>
+<StartDate>01/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado School of Mines</Name>
+<CityName>Golden</CityName>
+<ZipCode>804011887</ZipCode>
+<PhoneNumber>3032733000</PhoneNumber>
+<StreetAddress>1500 Illinois</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7363</Code>
+<Text>RES IN NETWORKING TECH &amp; SYS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

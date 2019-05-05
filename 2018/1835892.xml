@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Elements:Software:NSCI: Empowering Data-driven Discovery with a Provenance Collection, Management, and Analysis Software Infrastructure</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>599982</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vipin Chaudhary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Scientific breakthroughs are increasingly powered by advanced computing and data analysis capabilities delivered by high performance computing (HPC) systems. In the meantime, many scientific problems have moved to a level of complexity that the ability of understanding the results, auditing how a result is generated, and reproducing the important experiments or simulation results, is critical to scientists. Enabling such a capability in HPC systems requires a holistic collection, management, and analysis software infrastructure for "provenance" data, the metadata that describes the history of a piece of data. Such a software infrastructure does not exist yet, which motivates the proposed software development of a lightweight provenance service. With such a software element, many advanced data management functionalities such as identifying the data sources, parameters, or assumptions behind a given result, auditing data history and usage, or understanding the detailed process that how different input data are transformed into outputs can be possible. Responding to the National Strategic Computing Initiative, this project will provide an attractive software infrastructure to future national HPC systems to improve the productivity of science in complex HPC simulation and analysis cycles. The project team will also recruit underrepresented students, mentor graduate and undergraduate students, integrate results into curriculum, and publish and disseminate results.&lt;br/&gt;&lt;br/&gt;The lightweight provenance service software on HPC systems will provide: 1) an always-on, background service that automatically and transparently collects and manages provenance for scientific applications, 2) captures comprehensive provenance with accurate causality to support a wide range of use cases, and 3) provides easy-to-use analysis tools for scientists to quickly explore and utilize the provenance. This project will integrate the development, education, and outreach efforts tightly together.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835892</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Hase</LastName>
+<EmailAddress>bill.hase@ttu.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yong</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>yong.chen@ttu.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Ancell</LastName>
+<EmailAddress>brian.ancell@ttu.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dong</FirstName>
+<LastName>Dai</LastName>
+<EmailAddress>dong.dai@uncc.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794091035</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>349 Administration Bldg</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+</Award>
+</rootTag>

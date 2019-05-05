@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Non-Thermal Plasma Source for Functional Metal-Oxide Nanoparticle Coatings</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>223837</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project will develop a novel process and platform for the aerosol synthesis of metal-oxide nanoparticles. When coupled with an existing aerosol deposition technology, this aerosol synthesis source will enable the production of the next generation of functional coatings. These include antireflective and self-cleaning coatings for solar modules, novel electrical contacts that reduce silver usage in solar cells, and thermal barrier coatings for windows that increase thermal efficiency. Each of these represents a large addressable market in need of coatings innovation: For example, the coated flat glass market is expected to reach $43.2B in 2025 and the metal-oxide nanoparticle coatings from this project are anticipated to capture at least 10% of that market. Beyond the commercial and related societal impacts of the project, this project will increase the scientific understanding of the nucleation of nanomaterials in the gas phase and the subsequent manipulation of nanoparticles in low-pressure flows. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this project lies in its development of a new method to synthesize metal-oxide materials in the gas phase, resulting in an aerosol that can be manipulated and deposited on a substrate with gas flows. Prior art for the synthesis of metal-oxide nanoparticles and the subsequent formation of films suffers from three challenges: (1) synthesis methods that utilize high-pressure gas-phase processes tend to create large light-scattering agglomerates that produce hazy films, (2) "wet" synthesis coating techniques can suffer from stability challenges, optical non-uniformities, and processes that are not easily scaled and (3) all methods have limited control of the optical properties of the film, specifically the refractive index. Synthesis of metal-oxide nanoparticles using the approach in this project is a promising, but under-examined and under-utilized, technique. It will generate unagglomerated nanoparticles of controllable size, overcoming the first challenge, and, with suitable aerosol deposition techniques, enable large-area uniform films with controllable refractive index, overcoming the second and third challenges.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820364</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Firth</LastName>
+<EmailAddress>peter@SwiftCoat.com</EmailAddress>
+<StartDate>05/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Swift Coat</Name>
+<CityName>Peoria</CityName>
+<ZipCode>853832052</ZipCode>
+<PhoneNumber>6233632687</PhoneNumber>
+<StreetAddress>8501 W. Foothill Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+</Award>
+</rootTag>

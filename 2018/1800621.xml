@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Millimeter-wave communications for real-time sensing, identification, and localization</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project are twofold. This technology is characterized by its connection to flexible and hybrid electronics (FHE) technologies and the Internet of Things (IoT), and by its remarkably large potential application space. As an approach that was specifically designed with FHE technologies in mind, this invention has the potential to radically transform the IoT landscape. Indeed, such a combination of capabilities in a thin-film printed form factor could give birth to a new class of ubiquitous IoT devices. The social, economic, and environmental benefits of such devices becoming mainstream and low cost could be significant. This would enable the collection of tracking and sensing data across a large variety of application areas, such as reducing the losses of perishables during transportation of agricultural products, permitting the monitoring of temperature-sensitive health products, and minimizing the risks related to pipeline leaks and aging infrastructure.&lt;br/&gt;&lt;br/&gt;This I-Corps project builds on technology that was developed asa low cost Internet of Things (IoT) solution for the ubiquitous and rapid detection of hazardous chemical agents in large industrial and public environments.  It was demonstrated for the real-time indoor-light-powered and battery-less detection of ammonia by a low-cost inkjet-printed wireless tag. It consists in the combination of novel communications approaches and radio-frequency hardware which can enable low cost, printed and flexible "Smart-Skin" devices which can communicate and be localized at a maximum range in excess of 1000 yards, while only requiring an operating power on the order of that of a wrist watch.  The approach lies at the interface of various current areas of technological progress, such as 5G and IoT networks, flexible and hybrid printed electronics, automotive radars, and nanomaterials-based sensing.</AbstractNarration>
+<MinAmdLetterDate>12/07/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/07/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800621</AwardID>
+<Investigator>
+<FirstName>Emmanouil</FirstName>
+<LastName>Tentzeris</LastName>
+<EmailAddress>etentze@ece.gatech.edu</EmailAddress>
+<StartDate>12/07/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

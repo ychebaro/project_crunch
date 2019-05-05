@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>RAPID: Power Grid Assessment Post IRMA and MARIA</AwardTitle>
+    <AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2019</AwardExpirationDate>
+    <AwardAmount>72420</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07010000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Anthony Kuh</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>The 2017 hurricane season inflicted two severe blows (Irma and Maria) to the Atlantic region of the U.S. resulting in significant economic losses. Power losses for many customers resulted from collapsed structures, faulted lines, and the inability to resurrect electrical power grid operations immediately after the storm. The effects of Hurricanes Irma and Maria are consistent with projected increases in natural disasters, both in terms of frequency and intensity. This study investigates the aftermaths of the hurricanes and reconstructs the power grid failure history through forensic analytics. The intent is to identify critical elements in the design of a resilient system. By collecting the perishable evidence from these extreme events, the project team can provide valuable information to help improve the resilience of electrical power grids through a strategic and optimized process.&lt;br/&gt;&lt;br/&gt;Intellectual Merit: This research is a joint effort between multiple universities, Duke Energy and Puerto Rico Electric Power Authority (PREPA). A website will be developed to host the project and will reside in a secured server system. The team will upload the data to the secured website and use the collected data and storm event history to generate the geospatial-temporal integrated analysis within a GIS framework. This work will investigate failure patterns and failure history in order to strategically assess risk based on vulnerabilities and critical importance of the existing grid systems.&lt;br/&gt;&lt;br/&gt;Broader Impact: Hurricanes Irma and Maria have the interest of national and international scientific and engineering organizations and the general public. The critical question raised by a concerned public are such storms examples of future extreme events and how can the power delivery systems be more resilient. The collected data will also help coastal utilities evaluate the viability of building a resilient grid system that resists extreme weather. The analysis of the data gathered by this forensic study will allow an evaluation of the effects on the grid in well-developed areas compared to less-developed areas. Such a comparison can be invaluable in designing future grid modernization investments not only in Puerto Rico but also around the world.</AbstractNarration>
+    <MinAmdLetterDate>01/04/2018</MinAmdLetterDate>
+    <MaxAmdLetterDate>01/04/2018</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1807813</AwardID>
+    <Investigator>
+      <FirstName>Yamilka</FirstName>
+      <LastName>Baez-Rivera</LastName>
+      <EmailAddress>ybaez-rivera@uncc.edu</EmailAddress>
+      <StartDate>01/04/2018</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Miguel</FirstName>
+      <LastName>Pando</LastName>
+      <EmailAddress>mpando@uncc.edu</EmailAddress>
+      <StartDate>01/04/2018</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Shen-en</FirstName>
+      <LastName>Chen</LastName>
+      <EmailAddress>schen12@uncc.edu</EmailAddress>
+      <StartDate>01/04/2018</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Madhav</FirstName>
+      <LastName>Manjrekar</LastName>
+      <EmailAddress>mmanjrek@uncc.edu</EmailAddress>
+      <StartDate>01/04/2018</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Agustin</FirstName>
+      <LastName>Irizarry</LastName>
+      <EmailAddress>agustin@ece.uprm.edu</EmailAddress>
+      <StartDate>01/04/2018</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>University of North Carolina at Charlotte</Name>
+      <CityName>CHARLOTTE</CityName>
+      <ZipCode>282230001</ZipCode>
+      <PhoneNumber>7046871888</PhoneNumber>
+      <StreetAddress>9201 University City Boulevard</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>North Carolina</StateName>
+      <StateCode>NC</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>7607</Code>
+      <Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>7914</Code>
+      <Text>RAPID</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

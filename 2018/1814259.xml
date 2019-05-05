@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Simulating Galaxy Formation with Cosmic Dust</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>465191.00</AwardTotalIntnAmount>
+<AwardAmount>152281</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Benacquista</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The growth of galaxies over the age of the universe is an important part of the history of our own galaxy and our place in the universe. Galaxies assemble and grow by bringing gas together under the force of gravity to form stars. The stars then return gas and dust to the interstellar and intergalactic space. The interaction between starlight, gas, and dust can then change the rate at which gas assembles and forms stars, so it can alter the growth of the galaxy. This project will study the effect of dust on the growth of galaxies and the rate of star formation.&lt;br/&gt;&lt;br/&gt;This project will apply a novel dust evolution scheme to a state-of-the-art galaxy formation framework to simulate the growth of galaxies over cosmological time. The project will use the Illustris cosmological simulations to provide the framework for galaxy evolution in isolated galaxies, cosmological uniform volume simulations, and zoom-in simulations on Milky Way-like galaxies. The dust  simulations will include models of dust production in stellar evolution, dust grain growth in the interstellar medium through accretion and coagulation, and dust grain destruction through sputtering, shattering, and supernova shocking. The interaction of the dust with interstellar gas and radiation  will be mediated by a dust-gas drag force. The project will produce models of the dust mass content of galaxies and the expected grain size distribution in galaxies. The models will be used to provide data for observational tests of galaxy formation using ALMA and JWST observations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814259</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Vogelsberger</LastName>
+<EmailAddress>mvogelsb@MIT.EDU</EmailAddress>
+<StartDate>06/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

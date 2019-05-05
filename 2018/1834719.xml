@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc)</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will fund student travel grants to the 2018 Mobile Ad Hoc Networking and Computing (MobiHoc) symposium, enabling meritorious students to share information and preliminary research results with leading scientists in the field. Most students attending the Conference will be working on topics related to mobility, wireless communications and mobile, personal applications. They may discover new directions for their research that can lead to new intellectual contributions. These contributions will be documented in their theses and papers. Similar opportunities of discovering new research directions will be offered by the interaction with well-established researchers in the field and by the attendance of inspiring talks.&lt;br/&gt;&lt;br/&gt;The Mobihoc Conference is part of a series of annual conferences sponsored by ACM SIGMOBILE. It addresses the challenges in the areas of mobile computing and wireless and mobile networking. Mobihoc serves as a highly selective, premier international forum addressing networks, systems, algorithms and applications that support mobile computers and wireless networks. In addition to the regular conference program, Mobihoc 2018 will include a set of workshops, panels, research demonstrations, tutorials and a poster session that includes the ACM Student Research Competition.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/26/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834719</AwardID>
+<Investigator>
+<FirstName>Mario</FirstName>
+<LastName>Gerla</LastName>
+<EmailAddress>gerla@cs.ucla.edu</EmailAddress>
+<StartDate>05/17/2018</StartDate>
+<EndDate>03/26/2019</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Suhas</FirstName>
+<LastName>Diggavi</LastName>
+<EmailAddress>suhas@ee.ucla.edu</EmailAddress>
+<StartDate>05/17/2018</StartDate>
+<EndDate>03/26/2019</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Suhas</FirstName>
+<LastName>Diggavi</LastName>
+<EmailAddress>suhas@ee.ucla.edu</EmailAddress>
+<StartDate>03/26/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

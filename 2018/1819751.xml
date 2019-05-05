@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Dynamic Solid State Lighting with Micromachines</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>224247</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is in improving the quality of general and task lighting and reducing the amount of wasted light, thus reducing energy consumption. Solid state lighting has caused a paradigm shift in the lighting industry. However, the rapid growth of the LED has surpassed our understanding of its effects on human health and productivity, as well as the environment. Developing systems that put light only where it is needed can reduce energy consumption and improve well-being by eliminating glare and wasted light. Full control over where artificial lights shine may also reduce the disruption of natural ecosystems and agriculture caused by light pollution.? Unfortunately, a compact and low-cost solution to spatially controllable illumination is not available. Should one be brought to market, the industry could be tailored to meet the needs of each street lamp, each office worker and the entertainment industry among others. The ubiquitous nature of artificial illumination provides a unique commercial opportunity with multiple market segments for growth potential.&lt;br/&gt;&lt;br/&gt;The proposed project will focus on a microsystems solution to steerable lighting using a low-power, low-cost, silicon-based mirror less than 1 mm in diameter. The mirror is capable of real-time adjustments that will steer incident light with significant angular range. It is controlled using digital electronics and easily combined with traditional smart home electronics. The objective of the research is to measure the optical output of varying system setups and optical components to determine what optics are necessary for proper light output shape, uniformity, and color temperature. The project will rely heavily on a combination of test measurements and simulations to cycle through experiments rapidly and efficiently in order to converge on a manufacturing plan.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819751</AwardID>
+<Investigator>
+<FirstName>Jessica</FirstName>
+<LastName>Morrison</LastName>
+<EmailAddress>jess@heluxtech.com</EmailAddress>
+<StartDate>06/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Helux Technologies, Inc.</Name>
+<CityName>Piedmont</CityName>
+<ZipCode>946114360</ZipCode>
+<PhoneNumber>7819852430</PhoneNumber>
+<StreetAddress>344 Howard Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

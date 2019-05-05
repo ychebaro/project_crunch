@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Introducing a design element into stratospheric aerosol geoengineering</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>299529.00</AwardTotalIntnAmount>
+<AwardAmount>299529</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The National Academies of Science recommended in 2015 that more research be undertaken to understand solar geoengineering, that is, approaches such as stratospheric aerosol injection that would cool the climate by reflecting some sunlight back to space. Introducing a design element into solar geoengineering research provides a critical shift in perspective that will fundamentally alter the conversation surrounding geoengineering, and inspire further research. Only recently have models been able to simultaneously capture the full coupling between aerosol microphysics, chemistry, and stratospheric dynamics. By taking advantage of this state-of-the-art capability, this research will enable a better assessment of what can and cannot be achieved through an intentionally designed stratospheric aerosol injection strategy. &lt;br/&gt;&lt;br/&gt;It is plausible that temporary and limited geoengineering deployment could be used to reduce climate risks, but making such an assessment requires understanding projected impacts. This research aims to take a major step forwards towards that objective by developing a well-designed strategy based on an exploration of the design space. This is essential to ensure that future decisions regarding these approaches are well-informed. Furthermore, the multidisciplinary perspective gained by applying engineering optimization, dynamic systems, and feedback design to climate science provides an opportunity to broaden both communities with the potential to spark additional insights and research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818759</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>MacMartin</LastName>
+<EmailAddress>dgm224@cornell.edu</EmailAddress>
+<StartDate>03/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7643</Code>
+<Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

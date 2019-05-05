@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Connecting local stormwater decision-making to environmental outcomes</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>236633.00</AwardTotalIntnAmount>
+<AwardAmount>236633</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Stormwater management is a multi-billion dollar enterprise in the United States that depends on human decisions at local to regional scales to achieve watershed scale environmental goals. This research aims to determine how decision-making processes influence actions taken to manage stormwater and the subsequent environmental outcomes at the watershed scale. The project will compare the Cleveland and Denver metropolitan regions, which are characterized by distinct institutional and environmental conditions, in order to distill general lessons about stormwater management dynamics in urbanizing regions. &lt;br/&gt;&lt;br/&gt;The investigators will determine how individual and institutional decision-making processes influence stormwater management actions through analysis of policy documents and a survey of stormwater managers (Objective 1). The research team will quantify how stormwater management actions influence flow regime at watershed scales through a combination of field monitoring and modeling (Objective 2). Further, the team will evaluate how flow regime modifies the ecosystem health status of urban watersheds (Objective 3). Findings from these objectives will be integrated to predict environmental outcomes from stormwater management strategies through a Bayesian network model linking decision-making to environmental outcomes (Objective 4). This study presents an integrative framework to empirically establish the cascading effects of decisions on stormwater management actions and environmental outcomes, both within and across regions. New scientific insight into stormwater management for urban aquatic ecosystem health is targeted to inform future directions of stormwater programs in US urban areas. This research will provide education and training opportunities around engineered stormwater systems and urban watersheds for K-12, undergraduate, and graduate students through hands-on research and data-based course activities. Science communication training, through a workshop that culminates in writing a "Data Nugget", will be provided to research team members, university researchers, and regional environmental education partners. Data Nuggets are exercises for K-12 classrooms that use real data to provide students with practice making scientific claims based on quantitative evidence. Data Nuggets developed by the research team will be tailored to the needs of Cleveland Metroparks and Denver KIC-NET partners and will also be made available online. Data will be made available through the CUAHSI Hydrologic Information System.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805319</AwardID>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Jefferson</LastName>
+<EmailAddress>ajeffer9@kent.edu</EmailAddress>
+<StartDate>05/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Costello</LastName>
+<EmailAddress>dcostel3@kent.edu</EmailAddress>
+<StartDate>05/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>V. Kelly</FirstName>
+<LastName>Turner</LastName>
+<EmailAddress>vkturner@ucla.edu</EmailAddress>
+<StartDate>05/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kent State University</Name>
+<CityName>KENT</CityName>
+<ZipCode>442420001</ZipCode>
+<PhoneNumber>3306722070</PhoneNumber>
+<StreetAddress>OFFICE OF THE COMPTROLLER</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7643</Code>
+<Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

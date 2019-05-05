@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Advanced Biofabrication of Vascular Tissue Constructs</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will provide the pharmaceutical industry with a predictive biological assay for drug screening to improve the quality of human life. Currently, testing the toxicity of new drug compounds on cultured cells and in animals has not been able to predict the response in human patients, leading to significant consequences for human patients and the pharmaceutical development process. One potential solution is so-called ?lab-on-a-chip? devices which are small devices that can be used to work with human cells in a laboratory testing environment. However, these devices are inherently limited and result in inaccurate drug dose response measurements due to the material properties of the silicone chambers within which cells are cultured. The adoption of advanced 3D cell culture environments which are composed of water-based materials and containing architectural features of normal tissue, such as multiple cell types and perfusable blood vessels, will enable improved predictive toxicological screening of new drug candidates. A reduced time and cost of testing compounds will be advantageous for the pharmaceutical market, while the expected improved predictive response in human patients is expected to usher in a new paradigm for human therapies. Furthermore, this project has the potential to scale 3D cell culture toward therapeutic value for human implantation to repair or replace damaged tissues and organs.&lt;br/&gt;&lt;br/&gt;This I-Corps project will explore commercial opportunities of our platform 3D cell culture system. This project is based on years of hardware, biomaterial, and tissue design development and validation for fabrication of advanced cell culture systems via 3D printing. We have demonstrated generation of various tissue models for lung, liver, and bone tissue applications and demonstrated long-term survival and function of human cells. The pursued approach for generating tissues has a high commercial potential by filling an essential need in preclinical drug compound testing for improved predictive tissue models. Additionally, utility of this technology can span into other unexplored markets for generation of complex tissue structures. Through exploration of commercialization routes for this innovation during the I-Corps project, we propose to investigate and validate new and emerging markets that could best utilize our platform.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837828</AwardID>
+<Investigator>
+<FirstName>Jordan</FirstName>
+<LastName>Miller</LastName>
+<EmailAddress>jmil@rice.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>William Marsh Rice University</Name>
+<CityName>Houston</CityName>
+<ZipCode>770051827</ZipCode>
+<PhoneNumber>7133484820</PhoneNumber>
+<StreetAddress>6100 MAIN ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Establishing Norms of Data Ethics in Citizen Science</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Parker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Citizen science refers to a broad spectrum of ways in which scientists and members of the public collaborate in scientific discovery. Though the phrase ?citizen science? is relatively new, members of the lay public have been involved in with citizen science activities for centuries. Nevertheless, the current scale and rate of growth of citizen science, often mediated by digital communication technology, is a new phenomenon. Millions of people globally contribute to science through citizen science projects, often facilitated by mobile phones equipped with GPS, apps, and cameras. Increasing numbers of teachers and youth educators are introducing citizen science to children, and increasing numbers of professional scientists and research institutions are incorporating citizen science into their research programs.  Citizen science has been rapidly spreading around the world and across disciplines.  It is typically funded outside traditional institutions and conducted without the traditional regulatory oversight mechanisms that exist in institutions such as universities. This project will address these issues and the resulting ethics gap within citizen science.  The project will focus on an issue common across nearly all citizen science projects - voluntary data collection and use, which presents an important ethical tension between confidentiality and openness. This research will involve: (1) identifying and encouraging ethical research by citizen scientists; and (2) building capacity within the Citizen Science Association to establish and maintain an ethical framework for this newly emerging form of organizing science work.&lt;br/&gt;&lt;br/&gt;The project is organized around a three stage, mixed-methods research design to investigate current and ideal ethical practices in citizen science and to use human-centered methodology to create an ethical culture of citizen science through collaboration with the Citizen Science Association. These outcomes will be achieved by: (1) creating an inventory and typology of data collection practices; (2) employing a mixture of surveys, interviews, and focus groups to determine the views of practitioners and volunteer data collectors on the ethics of data collection and management; (3) creating a guide for best ethical data practices; (4) disseminating tools for ethical practices in data science; and (5) assessing the use and efficacy of these tools and best practice trough the creation and dissemination of a quantitative survey of the ethical culture of the Citizen Science Association.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835352</AwardID>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Rasmussen</LastName>
+<EmailAddress>lrasmuss@uncc.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Caren</FirstName>
+<LastName>Cooper</LastName>
+<EmailAddress>cbcoope3@ncsu.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>019Y</Code>
+<Text>Cultivating Cultures of Ethica</Text>
+</ProgramElement>
+</Award>
+</rootTag>

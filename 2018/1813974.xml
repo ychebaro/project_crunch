@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: Understanding, Measuring, and Defending against Malicious Web Crawlers</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>499567</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Indrajit Ray</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Given the constant expansion of the web, search engines rely on automated web crawlers to automatically discover new web pages and index them. Next to search engines, many different industries rely on web crawlers, ranging from security-related crawlers that find abusive pages, to crawlers that take snapshots of content in order to show previews of pages on social networks. At the same time, attackers are utilizing malicious crawlers to automatically find and exploit vulnerabilities on websites, to scrape content and email addresses, and to brute-force login forms. This project focuses on better understanding malicious web crawlers, gathering data about their activity online, and developing defensive systems that can differentiate between benign and malicious web crawlers.&lt;br/&gt;&lt;br/&gt;The project seeks to understand, measure, and defend against malicious web crawlers through a multi-pronged approach. First, the project proposes the development of honeypot-like infrastructure for collecting information on existing benign and malicious crawlers. This information is used to track the most abusive crawlers and offer statistics about crawler activity on the web. Second, the project includes the design of tools and techniques for differentiating between real browsing users and malicious crawlers that pretend to be real users. Third, the project proposes the design, development, and evaluation of technologies for real-time detection of web crawlers and for defending against them. Last, the project includes the design of new crawling protocols that allow legitimate crawlers to work unhindered while severely restricting the crawling abilities of malicious crawlers. The outcomes of this research effort are expected to improve the understanding of malicious crawler activity on the web and to achieve substantial practical impact in protecting benign websites against malicious crawlers. Moreover, by improving the detection of malicious crawlers that compromise websites and exfiltrate user data, the project improves the security of all web users.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813974</AwardID>
+<Investigator>
+<FirstName>Nick</FirstName>
+<LastName>Nikiforakis</LastName>
+<EmailAddress>nick@cs.stonybrook.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>Stony Brook</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>WEST 5510 FRK MEL LIB</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

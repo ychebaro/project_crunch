@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  The DNA Barcode Scanner: Democratizing Genetic Information For Conservation</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>224953</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to place the power of genetic identification in the hands of those who need it, at the front lines of conservation. The DNA Barcode Scanner will enable anyone, anywhere, to perform a low-cost, rapid, automated DNA test to validate the identity of a tissue sample, without specialized training, expensive lab-based equipment, reagents, or reliable power, where it is needed most - in the field. This technological advance has the potential to revolutionize species identification to prevent species extinction, to protect consumers and our food supply, and to combat threats to global biodiversity. The innovation's commercial potential includes improving the safety and sustainability of our supply chains, combatting costly environmental fraud, and detecting pests and pathogens that threaten our nation's economy, security, and health. The initial market opportunity is to address unmet demand from seafood suppliers, distributors, and retailers; government regulators and enforcement agents; and conservation and natural resources entities, for increased transparency and integrity of seafood supply chains by ending seafood mislabeling and fraud, which occurs in over 30% the $17.1 billion dollar U.S. seafood market and is worth up to $250,000 per illegal import.&lt;br/&gt;&lt;br/&gt;The proposed project will develop the customizable DNA collection, extraction, and amplification cartridge that enables a user to go from tissue sample to species identification in a single device. This project focuses on the scientific and technical challenge of automating sample preparation. The company's goal is to create an integrated device that will validate seafood products (our first market) from sample collection to DNA extraction, DNA amplification, and, ultimately, species identification. The goals of this project are to 1) determine a reliable and intuitive method for collecting DNA from a seafood product and create a prototype collection tool, 2) prototype an easy-to-use and highly flexible DNA extraction and sample preparation component to provide DNA suitable for analysis, and 3) fully integrate microfluidic processes and molecular chemistry (DNA amplification and analysis) with clear validation of multiple species. They will design and test several prototypes of the collection, extraction, and amplification cartridge and test these with users to identify the most robust and simplest method for delivering confident species identification. Their objective is to deliver a fully functional prototype that is intuitive for users and can perform a seafood species validation test in multiple field environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/05/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/05/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843702</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Bunje</LastName>
+<EmailAddress>paul@conservationxlabs.com</EmailAddress>
+<StartDate>02/05/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CONSERVATION X LABS, PBC</Name>
+<CityName>WILMINGTON</CityName>
+<ZipCode>198021240</ZipCode>
+<PhoneNumber>9196943784</PhoneNumber>
+<StreetAddress>4406 TENNYSON RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

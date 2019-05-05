@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 ACM/IFIP/Usenix Middleware Conference</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 2018 Association for Computing Machinery (ACM)/International Federation for Information Processing (IFIP)/USENIX International Middleware Conference will be held December 10-14th, 2018 in Rennes, France. The annual Middleware conference is a major forum for the discussion of innovations and recent scientific advances in the design, implementation, deployment, and evaluation of distributed systems, platforms and architectures for computing, storage, and communication. Highlights of the conference include a high quality single track technical program, invited speakers, an industrial track, panel discussions involving academic and industry leaders, poster and demonstration presentations, a doctoral symposium, tutorials, and workshops.&lt;br/&gt;&lt;br/&gt;Travel grant support for this conference will enable a broader range of students to attend. Support will be especially provided to increase attendance of under-represented groups in computer science. This support will help introduce students to important technical advances in the field and give them opportunities to interact with professionals in both industry and academia. Taking part in the educational experiences available at Middleware, including tutorial sessions and a doctoral symposium, will provide these students with important learning and mentoring opportunities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838654</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Wood</LastName>
+<EmailAddress>timwood@gwu.edu</EmailAddress>
+<StartDate>06/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200520086</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress>1922 F Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

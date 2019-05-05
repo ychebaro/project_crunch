@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Particle and Gamma-Ray Astrophysics with HAWC/VERITAS (Utah Group Grant)</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>263000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jean Allen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Gamma-rays are the highest energy form of electromagnetic radiation.  Observations of astrophysical gamma-rays serve as probes of physical conditions and processes in the most extreme environments throughout the Universe and can be used to test fundamental physics.  This award supports scientists at the University of Utah to carry out gamma-ray astrophysics research using two complementary ground-based observatories.  The Very Energetic Radiation Imaging Telescope Array System (VERITAS), located in southern Arizona, is designed to study high energy gamma-rays with very sensitive pointed observations.  The High-Altitude Water Cherenkov (HAWC) observatory, located on the slopes of the Sierra Negra in Mexico, is a continuously-operating array with a wide field of view that can observe two-thirds of the high energy gamma-ray sky every day.  The University of Utah group will contribute to the operation and maintenance of VERITAS and HAWC and work on analysis and interpretation of the scientific data from both observatories in conjunction with the FERMI satellite gamma-ray observatory.  Through their leadership role in the newly formed Consortium for Dark Sky Studies the group will develop interdisciplinary connections between astronomy, and earth sciences, as well as urban planning and economic development. The group will continue and expand their existing education and outreach activities through research internships designed to bring research opportunities to physics undergraduate students in small liberal arts colleges, through the organization of the yearly SNOWPAC conference series and the meeting of the four-Corners Section of the American Physical Society, and by hosting a conference on dark skies science.   &lt;br/&gt;&lt;br/&gt;The University of Utah group will use recently developed diffuse analysis techniques and multi-wavelength analyses to study the properties of galactic binary systems LS I +61 303 and Swift J0243.6+6124 and to resolve the putative detection of galactic microquasar SS433. The group will reprocess both new and archival VERITAS observations with these analysis techniques to search for a new class of highly-extended high energy gamma-ray sources that have been suggested by recent HAWC observations. The researchers will apply the multi-wavelength analyses to joint FERMI-VERITAS-HAWC observations to substantially improve source localization and energy spectrum constraints on point and diffuse sources.  This award supports additional work on understanding the origin of high energy horizontal muons created by extensive air showers that are sensitive to high energy cosmic ray composition and origin. This award also supports first visible band optical imaging of 30 nearby stars using stellar intensity interferometry instrumentation at the VERITAS observatory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807029</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Kieda</LastName>
+<EmailAddress>dave.kieda@utah.edu</EmailAddress>
+<StartDate>06/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Springer</LastName>
+<EmailAddress>springer@physics.utah.edu</EmailAddress>
+<StartDate>06/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anushka</FirstName>
+<LastName>Abeysekara</LastName>
+<EmailAddress>a.abeysekara@utah.edu</EmailAddress>
+<StartDate>06/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1643</Code>
+<Text>Particle Astrophysics/Cosmic P</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>069Z</Code>
+<Text>Windows on the Universe (WoU)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

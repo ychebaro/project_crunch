@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: The Interactions Between Internal Waves, Mesoscale eddies, and Submesoscale Currents in the California Current System</AwardTitle>
+<AwardEffectiveDate>06/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>268804.00</AwardTotalIntnAmount>
+<AwardAmount>268804</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Baris Uz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This study will examine the role of the interactions and energy exchanges between mesoscale eddies, submesoscale currents, and near-inertial and tidal internal waves (IWs) in determining global dissipation and mixing patterns in the ocean. The focus of the research is on the fundamental physics that governs the interactions, with specific applications to the California Current System. The California Current System is an eddy-rich eastern boundary upwelling region where energetic near inertial waves (NIWs) and tidal IWs (internal tides) have been previously observed and that will likely be used for NASA's Surface Water &amp; Ocean Topography (SWOT) calibration and validation experiment. The approach will be to conduct a hierarchy of idealized and realistic state of the art numerical simulations in conjecture with in situ mooring observations for testing the realism of the models. The analysis will be based on numerical experiments of variable resolutions that systematically include and exclude tides and wind-forced NIWs. The PIs will engage in standard avenues for scientific communication, namely papers, seminars and presentations at society meetings. In addition, the proposed work will promote the career development of an early career scientist and support one postdoc, one PhD student and one MS student. The project will also support two summers of undergraduate research and the travel to the Coastal Ocean Environment Summer School in Ghana (coessing.org). This school, founded by one of the project team members, provides an opportunity for students from African countries to learn about oceanography.&lt;br/&gt;&lt;br/&gt;The general circulation of the ocean is strongly constrained by the pathways that kinetic and available potential energy take from the basin-scale forces that inject them to centimeter scales, where they are depleted. To determine the ocean's response to future climate scenarios, these energetic pathways, from forcing to dissipation, must be understood and quantified. Previous studies have established the importance of mesoscale and submesoscale circulations to the kinetic energy route to dissipation, and of near-inertial and tidal IWs to the available-potential energy route to mixing, but a comprehensive study of the coupling between the two routes and the role of the eddy-wave interactions has not been carried out. Here the realistic simulations together with idealized simulations that will methodically investigate the interactions under variable stratification, rotation, and forcing magnitudes, will greatly advance the understanding of present and future oceanic energy distributions. The work will advance current understanding of ocean energetics, and will guide the development of diffusive parameterizations that take into account the combined spatiotermporal contributions of the different phenomena to energy mixing and dissipation. These parameterizations can be implemented in climate models and improve climate projections. In addition, this work will greatly ameliorate the interpretability of present and future satellite sea-surface height observations, whose analysis will be complicated by incoherent internal wave signals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/21/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/21/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1851164</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Arbic</LastName>
+<EmailAddress>arbic@umich.edu</EmailAddress>
+<StartDate>02/21/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1324</Code>
+<Text>CLIMATE VARIABILITY AND PREDICTABILITY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

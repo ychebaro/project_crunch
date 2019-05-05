@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>III: Small: Towards Resolving Ad-hoc Concept Queries with Table Answers via Multi-source Data Mining</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>499001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aidong Zhang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Users often issue queries about certain concepts to gather information and make decisions. The concepts concerned in such queries are usually ad-hoc and less likely to be directly covered in a predefined schema. An ideal response to the query would be a table with entities belonging to the queried concept as the rows and relevant attributes being the columns. However, in most cases, no such tables are readily available, and users have to collect relevant information by themselves, which is a painful process, especially when users are exploring unfamiliar concepts and do not know what information is critical for their decision making.  This project builds the first-of-its-kind framework to resolve ad-hoc concept queries with table answers to save users tremendous efforts on information gathering.&lt;br/&gt;&lt;br/&gt;The framework to be developed mines multiple complementary data sources including knowledge bases, texts, and tables, and proposes systematic methods to combine relevant knowledge to solve a specific query. This project has the potential to build a practical and transformative question answering system, by focusing on realistic ad-hoc queries rather than simple encyclopedic questions. It can further guide the construction of specialized question answering systems in various domains including medical, social, education, and management. It will open up a series of work on combining multiple sources based on the query need and in an ad-hoc manner for many other tasks. This is critical in the big data age, when many domains like healthcare have emerging complementary data sources such as texts, databases, tables, and human networks. The project will actively participate in outreach education programs, e.g., those to host underrepresented high school students as summer interns.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815674</AwardID>
+<Investigator>
+<FirstName>Huan</FirstName>
+<LastName>Sun</LastName>
+<EmailAddress>sun.397@osu.edu</EmailAddress>
+<StartDate>08/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

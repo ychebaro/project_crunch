@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Collaborative Research: Secure Context-aware Asynchronous Communication in Challenged Networks Based on XIA and MobilityFirst</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Darleen Fisher</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will conduct exploratory research combining the strengths of two different visions of a next-generation trustworthy Internet: (1) MobilityFirst, a design significantly enhancing mobile and wireless Internet capabilities; and (2) eXpressive Internet Architecture (XIA), a design significantly enhancing evolvability or the ability to introduce new network capabilities. This project will explore a new communication primitive called named asynchronous communication as a proof-of-concept synthesis of XIA and MobilityFirst's strengths with two powerful distinguishing capabilities compared to the current TCP/IP Internet: (1) Asynchronous communication allows two endpoints to exchange data even when network connectivity is flaky and/or when there is minimal or no trusted infrastructure (like cellular, WiFi, or satellite), scenarios in the current Internet works poorly; (2) Named communication enables all communication to be based on human-friendly names as opposed to IP addresses in the current Internet, which simplifies the design, implementation, and maintenance of mobile Internet applications. This EAGER project is the first example of a synthesis effort across two large but separate projects funded as part of NSF's Future Internet Architecture (FIA) program.&lt;br/&gt;&lt;br/&gt;The technical scope of the project will formalize name-based asynchronous communication as a general-purpose communication primitive that works gracefully even in the absence of contemporaneous end-to-end connectivity between communicating endpoints. Compared to a large body of prior research on disruption-tolerant networks that also shares overlapping goals but has largely focused on mobile ad-hoc edge networks and "bundle" routing protocols, this project will develop an information-centric communication primitive for general-purpose communication across both edge and core networks in a manner that is robust to intermittent connectivity outages. Named asynchronous communication will enable application fine-grained control over the duration for which the network will attempt to complete the retrieval or delivery by leveraging virtualized network functions for intermediate storage. The key enablers of this design are MobilityFirst's global name service (GNS) that enables seamless mobility and endpoint state maintenance in a scalable and secure manner and XIA's ability to retrieve arbitrarily named content in a verifiable manner. This exploratory effort will conduct early research to instantiate a proof-of-concept of named asynchronous communication, identify preliminary use cases, and quantify its benefits and costs in challenged network environments.&lt;br/&gt;&lt;br/&gt;The broader impact of this exploratory effort is that it helps take us closer towards a trustworthy and powerful Internet, a critical societal and national interest and need. Asynchronous communication in particular is also especially suited to military scenarios and if successfully deployed can significantly improve our national defense capabilities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841024</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Steenkiste</LastName>
+<EmailAddress>prs@cs.cmu.edu</EmailAddress>
+<StartDate>08/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

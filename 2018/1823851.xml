@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: The perception of acoustic-phonetic cues and its impact on speech category learning</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>15247</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William J. Badecker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>To understand speech, we must be able to recognize and distinguish the sounds in our language. For example, when we hear the first sound in 'toe' and in 'tall', we must identify them as two instances of the same sound, /t/, that are distinct from other sounds such as /d/ at the beginning of 'doe'. This is a remarkable feat given that each speech sound is characterized by a host of acoustic properties. Thus, one question that has interested researchers in speech perception is how listeners decide what acoustic properties to pay attention to and what acoustic properties to ignore. Listeners may learn this purely based on experience. That is, based on exposure to the speech sounds in their native language, they come to know that the difference between /t/ vs /d/ is signaled by a specific set of acoustic properties that are most informative to the contrast. Listeners may also attend to cues based on the relationship the cues have with each other. For example, if two cues are perceptually inseparable, then attending to one means necessarily attending to the other.This dissertation research may lead to insights in how to improve second language instruction and may inform work for technologies on speech synthesis in minority languages.&lt;br/&gt;&lt;br/&gt;The goal of this project is to understand how listener's language experience and the inherent relation between acoustic properties affect speech perception. With perception experiments the researchers propose to compare how listeners use two pairs of acoustic properties when categorizing speech sounds. One pair has been shown to be perceptually inseparable, and another pair is perceptually independent. Two groups of listeners will be tested: English listeners who have no language experience with either pair of properties, and Hani (Tibeto-Burman - Yunnan, China) listeners who have language experience with both pairs of properties. Manipulating experience as well as the relation between pairs will enable the researchers to disambiguate the role of experience from that of perceptual separability. Additionally, as part of the proposed project an undergraduate student will be trained in linguistic fieldwork and experimental research methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823851</AwardID>
+<Investigator>
+<FirstName>Meng</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>mengyang@g.ucla.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Megha</FirstName>
+<LastName>Sundara</LastName>
+<EmailAddress>megha.sundara@humnet.ucla.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8374</Code>
+<Text>DDRI Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

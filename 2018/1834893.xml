@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Context-Aware Interactive (CAI) Robotic Platform</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to bring more usable technology to elderly populations to help them age with greater independence.  Specifically, existing in-home robots could assist a broader cohort of elderly users if the robots were easier to understand and use.  This is an especially timely opportunity as the elderly population is quickly growing in the United States. Elderly users need a robot that can express many internal states through external features, especially in an intuitive and interactive way. Choreographers and theater artists recognize how to convey narrative through context (set), movement (choreography), and commands (dialogue), therefore bringing a special expertise beyond typical product design processes.  Marrying this expertise with robotic hardware development has the potential to produce a significant transformation in how aging adults relate to and take advantage of technology in their homes.  &lt;br/&gt;&lt;br/&gt;This I-Corps project aims to explore the commercial potential of a three-part design methodology that has been developed to layer robotic systems with greater expressiveness and understandable features. This method 1) creates systems with appropriate expressive bandwidth to communicate internal state to human viewers through motion profiles, 2) helps users understand how to interact with robotic systems through character-driven narrative, and 3) predicts affective responses to these systems, across multiple contexts. Initial results indicate that trust and acceptance of in-home technology can be facilitated with low-cost, simple hardware like LEDs, off-the-shelf servo motors, improved how-to literature, and context-based behavior, with existing, low-cost robot hardware. For example, something as simple as a heart rate monitor has opaque, hard to interpret monitors, confusing multiple-step procedures, and an ominous beeping. This novel approach adds a customizable expressive layer to an existing device like this, creates a character-driven narrative about how the device works, and uses theatrical context which may improve user adoption via priming.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834893</AwardID>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>LaViers</LastName>
+<EmailAddress>alaviers@gmail.com</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>Champaign</CityName>
+<ZipCode>618207406</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>1901 South First Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

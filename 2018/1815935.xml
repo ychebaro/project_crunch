@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Next-Generation Supernova Cosmology</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>496037.00</AwardTotalIntnAmount>
+<AwardAmount>165534</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Barvainis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Type Ia supernovae (SNe Ia) are an excellent cosmological probe, and observations of SNe Ia are particularly good at constraining the current cosmic expansion rate and the nature of dark energy. This project will address the following questions:  What is the expansion history of the Universe and what is driving the accelerated expansion? Is "dark energy" a cosmological constant, something more exotic, or do we need to re-evaluate our model of gravity? Is the "tension" between local and distant measurements of the Hubble constant caused by systematic errors, or does it point to new physics?  As part of this research, training will be provided to several graduate students and 12 community-college students in observational techniques.  Outreach will be undertaken through public lectures and the press, and the principle investigator will work with underrepresented students to transition from two-year colleges to four-year programs.  &lt;br/&gt;&lt;br/&gt;The team will perform two low-redshift SNe Ia surveys to (1) reduce the largest source of systematic uncertainty in SN cosmology, the photometric calibration of the low-redshift SN sample, (2) further reduce other systematics related to dust reddening and SN physics, (3) cross-calibrate two of the world's best photometric systems on which 1250 cosmologically useful low-redshift SNe Ia will be observed, (4) produce the first sample of SNe Ia ranging from 0 &lt; z &lt; 0.8 observed with a single telescopic system, (5) obtain spectra of hundreds of SNe Ia, (6) examine potential distance improvements using spectral data, and (7) produce the tightest constraints on the nature of dark energy and current expansion rate of the Universe.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815935</AwardID>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Foley</LastName>
+<EmailAddress>foley@ucsc.edu</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 High Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

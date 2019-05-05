@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding Semidefinite Programming Duality Using Elementary Reformulations</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Semidefinite programs (SDPs) are some of the most versatile, useful, and interesting  optimization problems to emerge in the last few decades. They find uses in engineering, economics, and machine learning, to name just a few areas. In the last few decades thousands of papers have been published on SDPs. However, SDPs are often pathological: they may not attain their optimal values, and/or their optimal value may differ from that of their dual. Such SDPs  often defeat even  the best SDP solvers, which fail or report an incorrect solution.  Can we understand these pathologies using something as simple as row operations inherited from Gaussian elimination? The project aims to answer this question affirmatively and lead to both theoretical and computational advances in semidefinite programming, and more broadly, in convex optimization. The PI will broadly disseminate the results, both in international and domestic conferences, and by training doctoral students. &lt;br/&gt; &lt;br/&gt;A linear system of equations can be pathological in the sense that it may not have a solution. We can understand this pathology by  transforming the system into a standard form that contains an impossible equation. The transformation is based on elementary row operations. The proposed project aims to use the same operations to transform SDPs into a canonical form, from which their pathology  (say positive duality gap) is easy to see. Thus, on the theoretical side  the project will show that elementary row operations - a staple tool in linear algebra - are useful to understand a much more general class of problems, SDPs, and even more broadly, convex optimization problems. On the computational side the project will develop a useful problem library to test SDP solvers, and other conic optimization solvers. Thus, besides developing theory, the project will contribute to the development of solution methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817272</AwardID>
+</Award>
+</rootTag>

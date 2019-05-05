@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  A Point-of-Care Device for Diagnosis and Management of Pulmonary Diseases</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardAmount>319323</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Lung cancer is the most common cause of cancer-related death. Symptoms, such as fever or fatigue, are unspecific while other indicators are typical of many other diseases. Development of a reliable technique that detects lung cancer at the earliest possible stage, is critical for successful outcomes. Several competing techniques demonstrated their ability to diagnose intermediate and late stage lung cancer, but failed to detect early stage cancer which significantly decreases their utility. This project will synthesize a set of novel optical biosensors and indicators that have been implicated in early stage lung cancer. The development of this novel non-invasive, cost effective, and reliable screening tool would be transformative for the whole field of lung cancer prevention. &lt;br/&gt;&lt;br/&gt;The team will achieve technical proof-of-principle by focusing on a set of biomarkers (matrix metalloproteinases and cathepsins) that have been shown to be successful in detecting stage 1 non-small-cell lung cancer (NSCLC), the most common form of lung cancer. An integrated microfluidic device will be developed to handle a new class of nano-biosensors designed to detect a large number of enzymes. The panel of biomarkers that will be detected by the proposed device will be optimized based on samples collected from animal models first, and human patients later. &lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1804422</AwardID>
+<Investigator>
+<FirstName>Ikenna</FirstName>
+<LastName>Okereke</LastName>
+<EmailAddress>ikokerek@utmb.edu</EmailAddress>
+<StartDate>04/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Allan</FirstName>
+<LastName>Brasier</LastName>
+<EmailAddress>arbrasie@utmb.edu</EmailAddress>
+<StartDate>04/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Massoud</FirstName>
+<LastName>Motamedi</LastName>
+<EmailAddress>mmotamed@utmb.edu</EmailAddress>
+<StartDate>04/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas Medical Branch at Galveston</Name>
+<CityName>Galveston</CityName>
+<ZipCode>775550156</ZipCode>
+<PhoneNumber>4092669400</PhoneNumber>
+<StreetAddress>301 University Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A System for Automating End-to-End Creation of Natural Language Interfaces</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>224679</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enable more efficient access to information, goods, and services from organizations and businesses through conversational interfaces. With an estimated 33 million voice-activated devices installed in the U.S. by the end of 2017, consumers are beginning to see the benefits of the rise in business services on these devices. Interacting with computers in natural language is more efficient than ever before, and business are urgently seeking to include their services on this new modality. Yet, while advances in machine learning have increased the speed and accuracy with which conversational interfaces are built, today's solutions still result in major bottlenecks in the development process. Addressing these bottlenecks would result in significant savings of time and resources for businesses, in addition to increased convenience for end users.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project advances the development of machine learning and natural language processing technologies that will enable rapid creation of conversational interfaces and increase the efficiency with which individuals interact with computers. Despite major recent advances in conversational interface tooling, current bottlenecks in building robust conversational interfaces still exist, as portions of the development process go from highly-automated to manually-programmed. Instead, the proposed approach will achieve end-to-end automation using an innovative LSTM sequence-to-sequence machine learning model to learn and simulate human behavior on a web page, as well as a new system for open-domain question answering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820240</AwardID>
+<Investigator>
+<FirstName>Ajay</FirstName>
+<LastName>Patel</LastName>
+<EmailAddress>ajay@plasticityai.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>PLASTICITY INC.</Name>
+<CityName>Santa Clara</CityName>
+<ZipCode>950511155</ZipCode>
+<PhoneNumber>4157356358</PhoneNumber>
+<StreetAddress>2562 Amethyst Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Two Days Workshop to Study Wintertime Urban Atmospheric Pollution Processes; Fairbanks, Alaska; Mid-May 2018</AwardTitle>
+<AwardEffectiveDate>02/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>21391.00</AwardTotalIntnAmount>
+<AwardAmount>21391</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project supports the "Workshop to study wintertime urban atmospheric pollution processes" to be held in Fairbanks Alaska during 2 days in early to mid-May 2018.  The goals of the workshop are to identify fundamental knowledge gaps in the understanding of atmospheric chemical mechanisms occurring under cold and dark conditions, and to develop strategies for evaluating chemical, microphysical, and dynamical processes under polluted wintertime conditions.  The workshop is expected to result in improved regional modeling for better predictions of urban air quality and design of wintertime air pollution mitigation strategies for urban areas.&lt;br/&gt;&lt;br/&gt;Currently, limited measurements in regions with persistent sub-freezing temperatures result in regional air quality models that do not properly reflect pollutant transformations.  Scientific questions to be addressed in the workshop include the following: (1) What is the role of secondary chemistry in increasing fine particulate pollution under cold and dark conditions? and (2) What are the key wintertime emission sources, and how do these emissions impact processing of pollution?  This workshop will be held as part of the International Global Atmospheric Chemistry (IGAC)/International Arctic Science Community (IASC) "Air Pollution in the Arctic: Climate, Environment, and Societies" (PACES) project.</AbstractNarration>
+<MinAmdLetterDate>02/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818552</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Simpson</LastName>
+<EmailAddress>wrsimpson@alaska.edu</EmailAddress>
+<StartDate>02/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jingqiu</FirstName>
+<LastName>Mao</LastName>
+<EmailAddress>jmao2@alaska.edu</EmailAddress>
+<StartDate>02/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alaska Fairbanks Campus</Name>
+<CityName>Fairbanks</CityName>
+<ZipCode>997757880</ZipCode>
+<PhoneNumber>9074747301</PhoneNumber>
+<StreetAddress>West Ridge Research Bldg 008</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alaska</StateName>
+<StateCode>AK</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

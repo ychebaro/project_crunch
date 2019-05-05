@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quasi-Locality Properties of Quantum Many-Body Dynamics and Applications</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>320000.00</AwardTotalIntnAmount>
+<AwardAmount>320000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Victor Roytburd</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A variety of fundamental phenomena can be modeled mathematically as systems of many interacting components. The problem of analyzing the dynamics of any such system becomes tractable if we recognize that individual components interact primarily with only a small number of "nearby" components. This is referred to as a quasi-locality property of the system. At the microscopic level, the basic laws of quantum physics govern the dynamics of systems consisting of atoms and elementary particles. Much of the recent progress made in understanding the dynamics of such systems has been through the mathematical analysis of their quasi-locality properties. In this project, new mathematical advances exploiting the quasi-locality properties of quantum systems will be used to obtain a better understanding of the physical systems of interest for new quantum technologies. In particular, new methods will be developed to allow more precise modeling of the quantum systems employed for quantum information processing and computation.&lt;br/&gt;&lt;br/&gt;Quantum many-body systems at low temperatures describe a fascinating array of behavior generically described as quantum states of matter. This project will deepen the mathematical understanding of so-called gapped phases. Systems in a gapped phase have one or more ground states and a spectral gap for excitations in the bulk. One important goal of the project is to understand how the excitation spectrum of such systems can be described as a system of quasi-particles. In particular for systems in two space dimensions these quasi-particles may be anyons, instead of the more commonly encountered fermions and bosons. Techniques will be developed, based on the fundamental quasi-locality properties of the dynamics, to prove the existence of anyons, their relation to topological order in the ground state(s), and their dynamical properties. These problems are motivated by the desire to learn more about the quantum states of matter that occur in condensed matter systems, and to understand better the potential of topologically ordered materials in applications such as quantum memory and other quantum devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813149</AwardID>
+<Investigator>
+<FirstName>Bruno</FirstName>
+<LastName>Nachtergaele</LastName>
+<EmailAddress>bxn@math.ucdavis.edu</EmailAddress>
+<StartDate>06/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1266</Code>
+<Text>APPLIED MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

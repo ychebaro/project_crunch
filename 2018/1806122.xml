@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID:  Hurricane Maria in Puerto Rico:  adult and larval mosquitoes, disturbance, and disease</AwardTitle>
+<AwardEffectiveDate>01/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>177646.00</AwardTotalIntnAmount>
+<AwardAmount>177646</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will explore how sudden and significant environmental changes after a hurricane event affect both larval and adult populations of two important disease vectors, the mosquitoes Aedes aegypti and Aedes mediovittatus in Puerto Rico, considering the viral infection status of the three major arboviruses on the island (dengue, Zika, chikungunya). This research is of practical importance for the implementation of effective vector control and public health strategies as it will help anticipate where hot spots of disease outbreaks may occur in future hurricane events and how to mitigate them, is broadly transferable to other locations (such as Florida and Texas). Outcomes from this research contribute to fundamental ecological knowledge relating sudden landscape disturbance to vector population and disease dynamics. This proposal will assist in the training of two graduate students and several undergraduates, with an emphasis on underrepresented groups (i.e., women and minorities).&lt;br/&gt;&lt;br/&gt;Hurricane Maria provides an important opportunity to link extreme disturbance to disease ecology, including changes in detritus inputs that affect nutrient availability, flooding, production of vectors, and vector infection status across time. The use of ecological filters as a framework allows for an examination for how landscape level changes caused by the hurricane affect larval and adult populations separately, and how they collectively affect vector populations and infection. A stoichiometric framework will leverage previously collected data from Puerto Rico, and link changes in resource environments (due to the hurricane) to mosquito production and infection dynamics. A structural equation modeling approach will be used to understand the basis for variation of titer levels of wild caught mosquitoes based on the detrital environment and its effect on population parameters. The importance of a model's path will be assessed via the fit of reduced models, relative to a full model using goodness-of-fit chi-square tests. As non-linear associations may occur between some independent variables, log10 and quadratic transformations of dependent variables will be included, and effects will be assessed by comparing changes in important paths across time, as well as via the use of more traditional statistical approaches. </AbstractNarration>
+<MinAmdLetterDate>01/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806122</AwardID>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Yee</LastName>
+<EmailAddress>donald.yee@usm.edu</EmailAddress>
+<StartDate>01/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern Mississippi</Name>
+<CityName>Hattiesburg</CityName>
+<ZipCode>394015876</ZipCode>
+<PhoneNumber>6012664119</PhoneNumber>
+<StreetAddress>2609 WEST 4TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>075Y</Code>
+<Text>Hurricane Maria 2017</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7242</Code>
+<Text>ECOLOGY OF INFECTIOUS DISEASES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

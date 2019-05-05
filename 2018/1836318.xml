@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CBMS Conference: Mathematical Molecular Bioscience and Biophysics</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>35000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Clancey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the 2019 NSF-CBMS conference "Mathematical Molecular Bioscience and Biophysics," hosted by University of Alabama, Tuscaloosa, during May 13-17, 2019. The conference will feature Professor Guowei Wei of Michigan State University as the Principal Lecturer. Mathematical molecular bioscience and biophysics has been emerging as a promising interdisciplinary research area at the interface of mathematics and biology, driven by the trends of contemporary life sciences that transform biosciences from macroscopic to microscopic or molecular, and from qualitative and phenomenological to quantitative and predictive. The conference will promote biological studies for solving cutting edge problems at molecular level, so that mathematics can play a more important role in addressing fundamental challenges in molecular biosciences and biophysics. This conference consists of ten principal lectures, together with supplemental presentations by other experts and round table discussions. The conference aims to attract many junior mathematicians, including undergraduate and graduate students, postdoctoral fellows, and young faculty, to enter this new interdisciplinary field. In addition, the meeting will benefit the hosting university by enhancing its research program and raising its visibility to peer institutes in the southeastern region. &lt;br/&gt;&lt;br/&gt;Mathematical Molecular Bioscience and Biophysics (MMBB) concerns the development of mathematical theories, models, methods, schemes, and algorithms for elucidating molecular mechanisms and for solving open problems at the forefront of molecular biosciences and biophysics. The lecture series will provide a thorough overview of the MMBB literature to mathematical and biological societies. Numerous areas of mathematics, including differential equations, functional analysis, harmonic analysis, Lie groups, Lie algebras, geometry, graph theory, topology, combinatorics, multiscale modeling, inverse problems, optimization, machine learning, stochastic analysis, uncertainty quantification, fuzzy logic, statistical inference, and nonparametric regression, have found important applications in MMBB and many successful applications will be illustrated in this conference. Biological open problems at the forefront of the MMBB, such as those associated with drug design and discovery, which will stimulate new research directions in modeling and computation of biomolecular structure, function, dynamics and transport, will be identified. For more information, please refer to the conference webpage: http://cbms.ua.edu&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836318</AwardID>
+<Investigator>
+<FirstName>Shan</FirstName>
+<LastName>Zhao</LastName>
+<EmailAddress>szhao@ua.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Weihua</FirstName>
+<LastName>Geng</LastName>
+<EmailAddress>wgeng@smu.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Alabama Tuscaloosa</Name>
+<CityName>Tuscaloosa</CityName>
+<ZipCode>354870005</ZipCode>
+<PhoneNumber>2053485152</PhoneNumber>
+<StreetAddress>801 University Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1260</Code>
+<Text>INFRASTRUCTURE PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

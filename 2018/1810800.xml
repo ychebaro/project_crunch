@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Re-developing Puerto Rico's Electric System for Infrastructure Integrity</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>60000.00</AwardTotalIntnAmount>
+<AwardAmount>60000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Puerto Rico (PR) faces ongoing threats from hurricanes and earthquakes, and needs power infrastructure able to withstand and recover from such events. This capability is defined as Infrastructure integrity (II): the ability of infrastructure to be reliable (maintain service availability), flexible (respond quickly to changes in demand), resilient (use operational measures to minimize service cost impact for recovery from extreme events), and adaptable (invest to adapt infrastructure to changing futures to provide continuous low-cost services).&lt;br/&gt; &lt;br/&gt;PR is an extreme example of the choices facing utilities, either because of natural disasters, or because aging infrastructure, energy markets and distribution smart grid opportunities present utilities with more (and possibly conflicting) choices for capital investments in transmission, distribution, central or distributed generation, as well as smart grid operation. &lt;br/&gt;&lt;br/&gt;The project has four stages over one year to: 1) Identify main threats to providing continuous, low-cost electric energy services in PR and the primary impediments to restoring electric energy services following occurrence of such events; 2) provide five visions for enhancement of infrastructure integrity, and identify strengths and weaknesses of each; 3) critique and revise the visions based on industry panel debates on strengths and weaknesses of each vision; 4) simulate the economics, infrastructure integrity and environmental sustainability of each vision. The final report will summarize the work and provide a recommendation to move forward with one or a combination of the visions.&lt;br/&gt;&lt;br/&gt;The project's strength comes from 1) our team's previous peer-reviewed work simulating infrastructure improvements for greater integrity on behalf of large utilities in the continental US; 2) our experts-- research professors, utilities from all sectors, and consulting engineers, in PR and in the continental US, with long experience in generation, transmission, distribution, and load-side infrastructure investment, all of whom study and confront choices in investment to satisfy Infrastructure Integrity; 3) development of an in-depth "on-the-ground" study of a catastrophic impact on electric systems infrastructure and innovative approaches to enhance infrastructure integrity for future such events.&lt;br/&gt; &lt;br/&gt;The development and vetting of this vision can be replicated for other utilities at different scales, providing a roadmap for infrastructure investment.</AbstractNarration>
+<MinAmdLetterDate>12/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810800</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>McCalley</LastName>
+<EmailAddress>jdm@iastate.edu</EmailAddress>
+<StartDate>12/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Kimber</LastName>
+<EmailAddress>akimber@iastate.edu</EmailAddress>
+<StartDate>12/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

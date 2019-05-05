@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRISP 2.0 Type 2: Collaborative Research: Exploiting Interdependencies Between Computing and Electrical Power Infrastructures to Maximize Resilience and Flexibility</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>1117022</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cynthia Chen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Electrical power and computing infrastructures are increasingly interdependent. Computing provides information that enables decision-making, commerce, government, and social interaction, and disruptions in power supply may trigger critical losses of information and decision-making capabilities, resulting in the potential for significant economic losses. To reduce critical risks and identify synergies from the growing interdependence of these infrastructures, the objective of this Critical Resilient Interdependent Infrastructure Systems and Processes (CRISP) project is to increase the resilience and efficiency of the electrical power and computing infrastructures by understanding how to exploit and maximize emerging synergies between the two infrastructures. The project will have broad impact in computing and power grid research and industrial practice, enabling better design of power and computing infrastructures, leading to improved management and benefiting their resilience and efficiency. Project results will be disseminated to the research and industrial communities via papers, talks, and models as open-source software.  Students and postdoctoral fellows involved will gain a holistic systems-level understanding, giving them the ability to combine concepts in optimization and energy markets.&lt;br/&gt;&lt;br/&gt;This project will develop optimization formulations for theoretical insights on resiliency and economic benefits that can result from infrastructure coordination. It will also investigate new market designs that properly incentivize the provision of spatio-temporal load modulation flexibility at large-scale (in the form of virtual power flows) among various kinds of computing assets, exploring different levels of coordination (because distinct business and regulatory constitutions govern them) and feasible computing flexibility.  To achieve these goals, the project will embed those optimization formulations within stochastic programming models to identify optimal system layouts that benefit both infrastructures. In addition, the project will develop suitable utility functions for varied types of computing providers that the ISOs (Independent System Operators under Federal Energy Regulatory Commission) can use to quantify costs associated with load flexibility.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832230</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Chien</LastName>
+<EmailAddress>aachien@cs.uchicago.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Birge</LastName>
+<EmailAddress>jbirge@chicagobooth.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>027Y</Code>
+<Text>CRISP - Critical Resilient Int</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

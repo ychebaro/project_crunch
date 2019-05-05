@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 ACM/IEEE Symposium on Edge Computing (ACM/IEEE SEC)</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>20000.00</AwardTotalIntnAmount>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Mutka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is to assist United States-based graduate students to attend the Third Association for Computer Machinery (ACM)/Institute of Electrical and Electronics Engineers (IEEE) Symposium on Edge Computing (SEC 2018) in Bellevue, Washington. Participation in SEC 2018 and similar conferences are valuable and important activities of the graduate school experience. It provides students with the opportunity to interact with more senior researchers, and exposes students to leading work and practical industry practices in this important area of research.  This may have an important impact on career development.&lt;br/&gt;&lt;br/&gt;The conference will be held in Bellevue, Washington on October 25-27, will span three days, and will consist of technical paper presentations, panels, posters, and demonstrations.  It will also feature keynote speeches from leading researchers and practitioners in the field.  &lt;br/&gt;&lt;br/&gt;Student travel to conferences is an important activity. Funds will be dispersed with preference given to students who would not otherwise be able to attend the conference and students who are not already scheduled to present a paper, paying particular attention to diversity and relevance of the student's research interest.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847793</AwardID>
+<Investigator>
+<FirstName>Yifan</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>zhangy@binghamton.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Binghamton</Name>
+<CityName>BINGHAMTON</CityName>
+<ZipCode>139026000</ZipCode>
+<PhoneNumber>6077776136</PhoneNumber>
+<StreetAddress>4400 VESTAL PKWY E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

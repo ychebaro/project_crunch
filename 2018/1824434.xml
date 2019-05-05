@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SpecEES: Collaborative Research: Energy Efficient Millimeter Wave Cellular Networks</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The millimeter wave (mmWave) frequencies and other bands above 6 GHz are a new and promising frontier for cellular wireless communications and the focus of the fifth-generation (5G) standardization efforts.  Due to the massive available bandwidths, the mmWave frequencies offer the possibility of orders of magnitude greater capacity than current cellular systems in the highly congested bands below 3 GHz.  However, a key challenge in realizing mmWave mobile cellular networks is energy consumption. Mobile devices and small-cell access points must operate under highly-constrained power budgets, and developing mmWave systems within these power limits is a formidable task.  This project will investigate energy consumption from a system's perspective to address the issues in an integrated and coherent manner.  The project will develop mathematical models for understanding energy and performance tradeoffs.  New technologies for the radio frequency (RF) circuits, antenna array system, signal processing, and network protocols will be jointly developed to optimize performance and deliver energy-efficient mmWave devices.&lt;br/&gt;&lt;br/&gt;The research work will pursue four key thrusts: Thrust 1 will seek to understand the fundamental relation between throughput, processing power, and spectral emission constraints, and optimizes this tradeoff by dynamically controlling key energy drivers including bandwidth, quantization resolution, antenna architecture, and waveform selection. This is combined with novel energy-aware scheduling policies and signal processing techniques.  Thrust 2 will focus on idle mode power savings and associated problems of energy-efficient directional channel estimation and delay in dynamic environments.  Thrust 3 will develop fundamental circuits technologies that enable Thrusts 1 and 2, in particular the novel techniques for both high-efficiency power amplifiers and low-power fully digital RF transceivers.  Thrust 4 will obtain the necessary channel models and build circuit prototypes to validate the concepts in Thrusts 1 to 3.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824434</AwardID>
+<Investigator>
+<FirstName>Sundeep</FirstName>
+<LastName>Rangan</LastName>
+<EmailAddress>srangan@nyu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elza</FirstName>
+<LastName>Erkip</LastName>
+<EmailAddress>elza@nyu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>059Y</Code>
+<Text>SpecEES Spectrum Efficiency, E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>055Z</Code>
+<Text>SpecEES Spectrum Efficiency, Energy Effi</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: Collaborative: A Multi-Layer Learning Approach to Mobile Traffic Filtering</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>249999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Admela Jukan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The mobile ecosystem has become an attractive target for various types of abuses. For instance, many mobile applications leak sensitive user information, such as email addresses and location, which is a privacy issue. Second, attackers routinely disguise malware in seemingly legitimate mobile apps to launch attacks, which poses security threats. Third, many mobile apps and sites push intrusive und undesirable ads, such as auto-play and pop-ups, which harm usability. The objective of this project is to defend against these abuses in the mobile ecosystem through real-time on-device filtering of network traffic on a mobile device.&lt;br/&gt;&lt;br/&gt;The project performs multi-layer network traffic analysis with help of machine learning. It extracts features and trains learning models to produce filtering rules, which can be applied on the device. Filtering on the mobile device is particularly challenging due to limited resources, lack of visibility into packet payload, and potential collateral damage on the affected apps. The filtering approach used is envisioned as universal (i.e., applicable across all apps), automated (compared to the current practice of manually maintained privacy related data), adaptive (to the ever-changing threats), and user-centric (i.e., customized per user) while leveraging collaboration among users. The general framework will be validate in three case studies against the following abuse scenarios in the mobile ecosystem: (i) intrusive ads (ii) privacy leaks (iii) malvertising. This project is excepted to enhance the usability, privacy, and security of the mobile ecosystem and will inform policies and practices on mobile data transparency.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815666</AwardID>
+<Investigator>
+<FirstName>Athina</FirstName>
+<LastName>Markopoulou</LastName>
+<EmailAddress>athina@uci.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

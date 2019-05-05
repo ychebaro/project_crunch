@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: High-resolution 3D digitization of complete blue whale skeleton</AwardTitle>
+<AwardEffectiveDate>12/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2019</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colleen Strawhacker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will create an online, open-access 3D digital model of a full blue whale skeleton from the collection at Noyo Center for Marine Science in California. Blue whales are an important endangered species in Polar waters, but specimens are extremely rare, making them difficult to research, see, and study. Skeletal anatomy is a fundamental dataset for archeology and a host of biosciences, with direct application to evolutionary models, developmental biology, comparative anatomy and physiology, paleontology, and ecology. Digital collections of skeletal data serve many different disciplines that rely on reference collections to identify animal remains, such as anthropology and forensic science. This research will take advantage of a unique opportunity to create a digital record of the complete anatomy of a blue whale, which is currently being processed for mounting at the museum. The 3D model of the blue whale created in this project will be freely available to the public for the first time, allowing for researchers and the public to easily access and interact with the specimen that would have otherwise required a special in-person trip to the museum housing this collection. &lt;br/&gt;&lt;br/&gt;In order to complete the 3D model, technicians from the Idaho Museum of Natural History will travel to the Noyo Center to scan the blue whale skeleton over two weeks, followed by processing of 3D at the Idaho Virtualization Lab. The 3D model will be made available on open-access websites, including MorphoSource. Digital model files will be created back at the IVL at the Idaho Museum of Natural History. The IVL provides internships to 10-12 Idaho State University undergraduate and graduate students each year, where they receive hands-on training in 3D model construction, from start to finish. Post-processing for models will be facilitated by these students, with oversight from the project's lead technician.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817597</AwardID>
+<Investigator>
+<FirstName>Leif</FirstName>
+<LastName>Tapanila</LastName>
+<EmailAddress>tapaleif@isu.edu</EmailAddress>
+<StartDate>11/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Idaho State University</Name>
+<CityName>Pocatello</CityName>
+<ZipCode>832090002</ZipCode>
+<PhoneNumber>2082822592</PhoneNumber>
+<StreetAddress>921 South 8th Avenue, Stop 8046</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5221</Code>
+<Text>ARCTIC SOCIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5221</Code>
+<Text>ARCTIC SOCIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Synthetic Biology: Impacts of structural alterations on function in a mobile enzyme sequestration platform (mESP)</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>800000.00</AwardTotalIntnAmount>
+<AwardAmount>877158</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Devaki Bhaya</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is co-funded by the Systems and Synthetic Biology cluster in the Division of Molecular and Cellular Biosciences and the Human Resources cluster in the Division of Biological Infrastructure.&lt;br/&gt;&lt;br/&gt;The need for alternative transportation fuels that can supplement or replace fossil-based fuels (e.g., gasoline and diesel) is an ongoing global concern. The same chemical conversion technologies that are used to produce bioethanol and biodiesel are being used to produce biofuel. This process involves the use of harsh chemicals (e.g., acids) that create a hazardous materials handling and disposal problem for producers.  Enzyme-based conversion of feedstock to biofuel presents fewer hazards and is, arguably, more environment-friendly.  Unfortunately, microbial or abiotic enzyme-mediated reactions are typically not as efficient as chemical catalysis.  This project is focused on designing and testing an experimental enzyme sequestration platform system that enhances enzymatic efficiency under conditions of high temperature and extremes of pH.  Such conditions are common in industrial reaction processes.  The project has its foundation in fundamental biochemistry research in which mobile enzyme sequestration platforms are modified and examined for effectiveness. The platforms are investigated to characterize their ability to protect enzymes and enhance enzymatic efficiency under harsh reaction conditions. The project engages students who are part of the Individuals from Historically Underrepresented Groups in Science (IHUGS). Outreach to high school students and research training for IHUGS participants are activities that form part of the project.&lt;br/&gt;&lt;br/&gt;This project in synthetic biology combines two natural systems and one artificial system in constructing and testing a set of unique mobile enzyme sequestration platforms (mESPs). The resulting designed system enhances enzymatic activity under conditions of low pH and high temperature. The chimeric platform consists of select subunits from the Sulfolobus group II chaperonin complex (heat shock protein complex) and components from the cellulolytic anaerobic bacterium Clostridium thermocellum. Enzymes that can bind to the platform may be of one or more enzyme classes depending on use. This research project addresses fundamental hypotheses on the synthetic system's structure and function and examines the principles for the assembly and function in multi-enzyme systems. The project uses methods of microbiology, molecular biology, protein biochemistry and nanotechnology. This platform technology may be used in biofuel production, bioremediation, and a host of other applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/21/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818346</AwardID>
+<Investigator>
+<FirstName>Ruben</FirstName>
+<LastName>Ceballos</LastName>
+<EmailAddress>ceballos@uark.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arkansas</Name>
+<CityName>FAYETTEVILLE</CityName>
+<ZipCode>727011201</ZipCode>
+<PhoneNumber>4795753845</PhoneNumber>
+<StreetAddress>210 Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<StateCode>AR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

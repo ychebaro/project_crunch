@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRI: II-EN: High-Fidelity Real-Time Avatars for Virtual and Mixed Reality</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>65000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tonya Smith-Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Technology that can create compelling immersive virtual environments is now available on the general market. However, this technology has limitations. Important frontiers for virtual environments need high quality tracking equipment. One of these frontiers is the ability to build characters that move accurately in a virtual environment. A second frontier is the ability to explore large virtual environments using methods that seem natural. Our goal is to tailor these methods to the individual user. This research proposal will equip a lab with instrumentation that will make fundamental advances on these two problems. It will also train graduate students and provide research opportunities for a number of undergraduates.&lt;br/&gt;&lt;br/&gt;This research will equip a laboratory with a high quality motion capture system that will allow the pursuit of novel scientific questions involving the perceptual fidelity of virtual environments, examine theoretical questions involving users and their relationship to their self-avatars, and determine how individual differences in users can be effectively utilized to provide better locomotion and navigation in virtual worlds. In particular, this equipment will enable research in how to design high fidelity virtual environments, and enable the understanding of the components of fidelity that facilitate learning and transfer of training, for which self-avatars are a critical component. Likewise, the equipment will enable significant progress in locomotion methods for improved navigation and wayfinding in large virtual environments by allowing examination of how spatial information sources are used by individuals as they move through virtual worlds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823257</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>McNamara</LastName>
+<EmailAddress>t.mcnamara@vanderbilt.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Rieser</LastName>
+<EmailAddress>j.rieser@vanderbilt.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Bodenheimer</LastName>
+<EmailAddress>bobbyb@vuse.vanderbilt.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gayathri</FirstName>
+<LastName>Narasimham</LastName>
+<EmailAddress>gayathri.narasimham@vanderbilt.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Low-cost real-time perception system for self-driving consumer cars</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project is the practical deployment of a low-cost and low-power real-time perception system in self-driving consumer cars. This edge computing functionality in sensors enables higher reliability and lower cost of overall sensing and computing needed for truly autonomous self-driving. Such innovation will contribute significantly to the early and widespread availability of safety and convenience benefits to consumers. Furthermore, the advanced perception system will have a potential long-term impact on robotics in general, which can lead to creation of new markets and new lifestyles.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims to develop efficient algorithms and software implementation of a real-time perception system to enable the use of low-cost computing systems for self-driving cars. The algorithms provide a novel way of using image features to perform simultaneous localization and mapping (SLAM) with 100 times less computational costs than the existing algorithms. They also include a truly novel neural network to fuse the image feature and light detection and ranging (LiDAR) features and perform object detection, which has 100 times less complexity compared to the state-of-the-art method. These reduced-complexity algorithms can be implemented on low-power and low-cost SoC processors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820462</AwardID>
+<Investigator>
+<FirstName>Koji</FirstName>
+<LastName>Seto</LastName>
+<EmailAddress>kojiseto@apolloaisystems.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Apollo AI Inc.</Name>
+<CityName>Redding</CityName>
+<ZipCode>960010400</ZipCode>
+<PhoneNumber>4087581593</PhoneNumber>
+<StreetAddress>1267 Willis Street, STE 200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

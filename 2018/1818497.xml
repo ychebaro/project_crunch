@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: A Quasi-Experimental Study of Corporate Policy Effects</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>72000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Toby Parcel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In response to public outcry over abusive and negative messages in social media, social media outlets are embarking on a set of policy changes to clarify existing standards and facilitate more reporting and removal of abusive content. The research will examine the effect of these rule changes on negative messages through sentiment analyses of online messages sent before and after any policy shifts. By identifying sources of individual and geographic variation in the effects of the rule changes, it will shed light on the social and cultural factors that shape responses to corporate rules and that contribute to patterns of cyber aggression. The research also will identify organizational practices that aid, or fail to aid, in limiting the negativity of everyday online interactions.&lt;br/&gt;&lt;br/&gt;This research will use a convergence of expertise in different disciplines to accomplish its goals.  Data will come from three sources: 1) online messages that target individuals on the basis of their demographic characteristics, 2) messages that contain common slurs, and 3) messages that include the location from which they were posted (geo-tagged).  These will be captured and processed by extending geographic visualization and analysis techniques and information retrieval methods, and by using computational methods to compute sentiment and to assess the positivity and negativity of social media messages.  Statistical analyses will show if new corporate rules result in significant decreases or possibly increases in level of sentiment negativity.  They also will show whether abusive communications become more evasive and less identifiable following corporate rule changes.</AbstractNarration>
+<MinAmdLetterDate>12/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818497</AwardID>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>MacEachren</LastName>
+<EmailAddress>maceachren@psu.edu</EmailAddress>
+<StartDate>12/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Matthews</LastName>
+<EmailAddress>matthews@psu.edu</EmailAddress>
+<StartDate>12/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Diane</FirstName>
+<LastName>Felmlee</LastName>
+<EmailAddress>dhf12@psu.edu</EmailAddress>
+<StartDate>12/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Dellaposta</LastName>
+<EmailAddress>djd78@psu.edu</EmailAddress>
+<StartDate>12/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

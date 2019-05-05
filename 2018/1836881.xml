@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ICE-T:RI: Towards End-to-End Resource Optimization for Time-Critical Computing Using Reinforcement Learning and Program Analysis</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Data-intensive, time-critical applications generate an enormous amount of data that needs to be analyzed quickly.  Resource optimization for time-critical computing faces many challenges including high demand on programming skills, difficulty in determining suitable parallelism degree, and great complexity in making resource allocation considering multiple optimization targets.  To help in designing more efficient applications, this project investigates end-to-end resource optimization for time-critical computing using reinforcement learning and program analysis techniques. The approach integrates both resource request optimization by program analysis, and resource scheduling by reinforcement learning with consideration of time-critical features.  The project will enhance our understanding of the challenges involved in addressing problem demand with reinforcement learning and semantics-aware program analysis.&lt;br/&gt;&lt;br/&gt;This project seeks to make the following novel contributions: (1) designing a semantics-aware optimization for data-intensive applications including two stages. The offline stage uses static program analysis for analyzing big data system primitives and user-defined functions to generate a parameterized data framework and fix partial performance flaws by rule-based and cost-based models. The online stage uses dynamic program analysis that instantiates a parameterized framework based on execution metrics to repair performance problems; (2) exploring the trade-off between enlarging parallelism degree and minimizing the amount of data shuffling across computing nodes; and (3) designing a reinforcement learning based model for resource allocation.&lt;br/&gt;&lt;br/&gt;This project initiates a research collaboration between the University of Central Florida and the University of Amsterdam, Netherlands.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836881</AwardID>
+<Investigator>
+<FirstName>Liqiang</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>lwang@cs.ucf.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+</Award>
+</rootTag>

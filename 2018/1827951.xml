@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Standard Grant: ToxicDocs Research Infrastructure Project</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>457649</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Frederick M Kronz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports a research infrastructure project called ToxicDoc. It will enable easy access and use of millions of documents for multi-disciplinary research. Recent class-action tort litigation has unearthed millions of previously secret internal records from private firms responsible for wide-scale introduction of toxic substances, such as asbestos and polychlorinated biphenyls (PCBs). These documents include memos between executives, unpublished scientific studies, planning documents for public relations campaigns, letters to policymakers, and trade association meeting minutes. Although technically part of the public record, this material is extremely hard to access, even for scientific researchers. ToxicDocs will provide a critical intellectual resource for scholars in multiple fields examining health, toxics, and corporate action. Expected users include scholars in environmental and health history, critical legal studies, hazards geography, environmental health and environmental justice research.&lt;br/&gt;&lt;br/&gt;ToxicDocs will use high performance computing methods that quickly renders millions of documents into a full-text searchable format and thereby enable researchers to shed new light on interactions among manufacturers, regulatory agencies, and the scientific community, and to show how various stakeholders responded to knowledge of potential health risks. It leverages recent innovations in database management and web development to create an efficient and fast user experience. The project includes the development of a host of tools for textual analysis: a ToxicDocs Relationship Miner that enables researchers to extract frequently occurring names, organizations, and places from the database and map their network relations; an automated document classifier that categorizes documents; and a Time-Series Machine that enables users to trace the frequency of phrases across time. Without taking any particular side, ToxicDocs will provide an empirical base for informed policy debates that are grounded in key historical records.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827951</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Rosner</LastName>
+<EmailAddress>dr289@columbia.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Merlin</FirstName>
+<LastName>Chowkwanyun</LastName>
+<EmailAddress>mc2028@cumc.columbia.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1321</Code>
+<Text>DECISION RISK &amp; MANAGEMENT SCI</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1372</Code>
+<Text>LAW AND SOCIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7603</Code>
+<Text>SCIENCE, TECH &amp; SOCIETY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7567</Code>
+<Text>SOC STUDIES OF SCI, ENG &amp; TECH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

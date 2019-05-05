@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Consortium at the 2018 International Symposium on Experimental Robotics (ISER 2018)</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will provide travel funds for 15-20 US-based students to attend the 2018 International Symposium on Experimental Robotics (ISER) in Buenos Aires, Nov 5-8, 2018, and participate in the doctoral consortium. The symposium features both invited and selected research presentations that focus on robotics research that has been validated through experimental results. This unique conference presents the latest advances across various fields of robotics, with ideas that are not only conceived conceptually but also explored experimentally. It has a high visibility in the international robotics research community as well as a high relevance to applications due to its emphasis on experimental validation. ISER 2018 will provide excellent opportunities for students to learn about the latest advances across a wide spectrum of robotics research, development, and applications and to network with seasoned researchers and practitioners in the worldwide robotics community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842051</AwardID>
+<Investigator>
+<FirstName>Jing</FirstName>
+<LastName>Xiao</LastName>
+<EmailAddress>jxiao2@wpi.edu</EmailAddress>
+<StartDate>07/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Worcester Polytechnic Institute</Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress>100 INSTITUTE RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

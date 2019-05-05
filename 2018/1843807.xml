@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  PeTeS: Personalized Text Simplification For English Language Learners</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project seeks to develop a novel text simplification technology that will personalize text to the reading level of students. There is a demand for such tools in inclusive and integrated K- 12 classrooms to cater to the needs of students with varying reading levels. This is especially pertinent to English language learners (Els), international students, and Special Education students with learning disabilities such as dyslexia, ADHD, and other cognitive impairments that impede their reading abilities. Existing tools offer one-size-fits-all solutions offering no control over the simplification process. The proposed Personalized Text Simplifier (PeTeS) will adapt texts to the reading levels of individual students, thereby filling a much-needed gap in the marketplace. With over 60% of U.S. K-12 students reading below grade level, the broader impact of the proposed technology will be in improving the literacy of a diverse population. The expected outcomes of using PeTeS will be improved vocabulary acquisition and improved reading and comprehension of texts by ELs and international students. Using PeTeS for reading may lead to better grades and higher graduation rates. PeTeS will also save teachers time on not having to explain texts or translate for students. PeTeS, will complement the instructor and provide additional support to ELs and international students, especially, in content areas, where these students have very little support.&lt;br/&gt;&lt;br/&gt;The proposed PeTeS is envisioned to be an adaptive reading assistant for personalizing instruction. The key innovation of PeTeS is in the application of natural language processing algorithms to perform automatic text simplification to dynamically meet specific reading levels - simplification being defined as an adaptation of any given text in a way that maximizes the likelihood that the student will understand its content. The key idea here is to replace a word that is presumed to be not known by the student with a word that is presumed to be known, i.e., the replacement criteria is the student?s knowledge and not the word complexity. Towards that, the proposed PeTeS technology will maintain a student knowledge model representing the reading level of the student. PeTeS will rely on the model not only to simplify the text to the student's level and improve comprehension, but also to challenge the student to learn unfamiliar words while reading whatever they need to read.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843807</AwardID>
+<Investigator>
+<FirstName>Yevgen</FirstName>
+<LastName>Borodin</LastName>
+<EmailAddress>borodin@charmtechlabs.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Charmtech Labs LLC</Name>
+<CityName>Stony Brook</CityName>
+<ZipCode>117944600</ZipCode>
+<PhoneNumber>8885337884</PhoneNumber>
+<StreetAddress>1500 Stony Brook Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Trajectories of Social Vulnerability among Houston Area Households: A Pre- and Post-event Study of Hurricane Harvey</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>40225</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Dillon-Merrill</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hurricane Harvey hit the Houston, Texas, metropolitan area on 25 August, 2017 and caused unprecedented damage. As of 4 September, 2017, estimates indicate that over 156,000 homes were destroyed and at least 60 people died. Preliminary loss estimates suggest that impacts could well exceed $100 billion, making Harvey the costliest disaster in U.S. history. This project examines underlying factors influencing Hurricane Harvey-induced flood experiences, impacts, and short-term recovery across Houston area households. The project leverages baseline data collected before Hurricane Harvey from a representative sample of Houston area households regarding their vulnerability to hurricanes and flooding, and involves the rapid collection of post-Harvey survey data from those same households. By clarifying how pre-event factors shape households' experiences, impacts, and short-term recovery during and immediately following Hurricane Harvey, the project provides new insights into determinants of community vulnerability versus resilience. As was demonstrated during Hurricane Harvey, people's decision making plays a critical role in the vulnerability of a communities' built environment when subjected to extreme events. Through the collection and examination of a pre- and post-event survey data from the same sample of households, this research project advances our knowledge of the role of underlying social vulnerability in community resilience and recovery during and immediately following large-scale disasters.&lt;br/&gt;&lt;br/&gt;The research objective of this project is to collect data in Houston following Hurricane Harvey to further our understanding of how social vulnerability manifests in flood experiences, impacts, and short-term recovery. The project leverages survey data collected from 600 randomly selected Houston area households in 2012, and involves re-surveying them regarding their Hurricane Harvey-induced flood experiences, impacts, and short-term recovery (in October 2017). Based on updated contact information, the project will collect a second wave of survey data from households still residing in the Houston area at the time of Hurricane Harvey. With this survey data, multivariate statistical models will be used to predict flood experiences, impacts, and short-term recovery across study households using explanatory variables derived from the 2012 and 2017 surveys.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841654</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Collins</LastName>
+<EmailAddress>tim.collins@geog.utah.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>071Y</Code>
+<Text>Hurricane Harvey 2017</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1638</Code>
+<Text>HDBE-Humans, Disasters, and th</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>043E</Code>
+<Text>EARTHQUAKE ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

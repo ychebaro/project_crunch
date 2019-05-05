@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SimHUB: Enabling Multidisciplinary Collaboration with Containerization Technologies</AwardTitle>
+<AwardEffectiveDate>12/15/2017</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>17999.00</AwardTotalIntnAmount>
+<AwardAmount>17999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Meghan Houghton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports travel to enable collaborations among National Science Foundation (NSF)- and Japan Science and Technology Agency (JST)-supported researchers. The PI, Dr. Jian Tao, will travel to Japan to collaborate with Dr. Saneyasu Yamaguchi's research group from Kogakuin University to improve the Input/Output (I/O) performance of container-based virtualization. Dr. Jian Tao will also work with members from the South Big Data Regional Innovation Hub to promote and support collaborations among US and international researchers on coastal hazards research. &lt;br/&gt;&lt;br/&gt;Cloud computing technologies, especially containers built upon the containerization technologies, enable an extremely flexible and portable computing environment that could be tailored to meet a wide spectrum of computing requirements for scientific research. In order to prepare traditional computational science communities for the existing and upcoming cloud-like computing and networking systems, this collaboration will enable the design and development of Simulation Hub (SimHUB), a web-based computing platform for scientific applications on containers. It enables rapid sharing and integration of modeling applications and computational tools among connected communities. It also provides a collaborative platform for multidisciplinary and integrative research.</AbstractNarration>
+<MinAmdLetterDate>12/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812658</AwardID>
+<Investigator>
+<FirstName>Jian</FirstName>
+<LastName>Tao</LastName>
+<EmailAddress>jtao@tamu.edu</EmailAddress>
+<StartDate>12/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454645</ZipCode>
+<PhoneNumber>9798477635</PhoneNumber>
+<StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>024Y</Code>
+<Text>BD Spokes -Big Data Regional I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5921</Code>
+<Text>JAPAN</Text>
+</ProgramReference>
+</Award>
+</rootTag>

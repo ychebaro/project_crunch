@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a High Performance Computer for Computational Science at UC Santa Cruz</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>1547000.00</AwardTotalIntnAmount>
+<AwardAmount>1547000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Kurczynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal would fund a 500+TeraFLOP supercomputer for the University of California at Santa Cruz (UCSC).  300+ scientists and students will use it to study astrophysics, materials science, chemistry, applied math, computer science and climate science.  Astrophysicists will study colliding neutron stars for follow-up of LIGO events (NSF Big Idea:  Multi-messenger Astrophysics) and many other topics.  Materials scientists will use many body perturbation theory to study 2D materials as quantum emitters (NSF Big Idea: Quantum Leap).  Chemists will study reactions at liquid interfaces which are important in the energy and pharmaceutical industries.  Climate scientists will study feedbacks that may cause the rapidly warming Arctic (NSF Big Idea: Navigating the New Arctic).&lt;br/&gt;&lt;br/&gt;High performance computing in the physical sciences has emerged as a critical method for achieving astounding breakthroughs.  State of the art computational resources have been instrumental in making the University of California, Santa Cruz (UCSC) one of the world's leading centers for astrophysical research.  Through this NSF MRI grant, University of California, Santa Cruz will expand the intellectual merit of its astrophysics research programs by acquiring a supercomputer to enable transformative studies in galaxy formation, astrophysical transients and gravitational wave sources, exoplanet formation and atmospheres, and cosmological structure formation. Computational research at UCSC in planetary science, applied mathematics, chemistry, and materials science will also be performed on the system. The supercomputer will create broader impacts on UCSC undergraduate and graduate training as a hands-on platform for teaching high performance computing and deep learning methodologies, with a focus on increasing the participation of women and underrepresented minorities in the field of computational astrophysics. This program will continue the success of previous NSF MRI-funded computational facilities, which have helped to train dozens of diverse members of the UCSC community in transferable research skills and have supported more than 300 users generate hundreds of refereed scientific publications that have garnered thousands of citations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828315</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Brummell</LastName>
+<EmailAddress>brummell@soe.ucsc.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Piero</FirstName>
+<LastName>Madau</LastName>
+<EmailAddress>pmadau@ucolick.org</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Enrico</FirstName>
+<LastName>Ramirez-Ruiz</LastName>
+<EmailAddress>enrico@ucolick.org</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brant</FirstName>
+<LastName>Robertson</LastName>
+<EmailAddress>brant@ucsc.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nicole</FirstName>
+<LastName>Feldl</LastName>
+<EmailAddress>nfeldl@ucsc.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 High Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

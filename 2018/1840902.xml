@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Decomposing Operating Systems for Better Control over Policy and Privacy</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Mutka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mobile personal and internet connected devices (called Internet of Things (IoT) devices), provide functionality including communication, image/audio capture, location determination, and biometric sensing.  The enhanced functionality of these devices has enabled two new classes of attacks: data breaches from malicious software applications and Operating Systems (OS) compromises, and large scale Distributed Denial of Service (DDoS) attacks.  These attacks often result from users not being able to control the actions of their devices.  Some actions might be in direct contradiction to the users' wishes. This project addresses the problem of mismatch between device functionality and user policy by introducing a new software layer that mediates access to low-level computing hardware.&lt;br/&gt;&lt;br/&gt;The project designs a new "Policy Kernel" that mediates with hardware and existing "Functionality Kernels".  To demonstrate the policy-kernel's versatility, the proposed work includes implementation of prototype applications that address privacy leaks in mobile devices, DDoS prevention in IoT devices, and maintaining device integrity even if the functionality kernel is compromised.  The policy kernel selectively intercepts all hardware access by existing kernels, and ensures that the user policy is not violated.  Applying the user policy requires the policy kernel to be able to disable access to hardware selectively, and to transform or reduce the resolution of data returned by hardware devices.&lt;br/&gt;&lt;br/&gt;The ability to apply user policy unambiguously and securely will solve, perhaps, the biggest emerging problem for personal- and IoT devices. Prototype applications will demonstrate the versatility and potential of the proposed work: enabling functionality for important scenarios that, for now, must be accepted on `"faith".  The proposed design relieves device manufacturers from having to anticipate how their product will be used, where it might be placed, who will use it, and what sensitive data it might inadvertently collect.  Such a design can provide a foundation for how secure and privacy-preserving system software for personal- and IoT devices is built.&lt;br/&gt;&lt;br/&gt;The policy kernel source code, along with application code will be publicly available.  All research results will be disseminated via conference and journal publications.  All code, data, analysis tools, and publications will be online at https://www.cs.umd.edu/projects/secpath.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840902</AwardID>
+<Investigator>
+<FirstName>Samrat</FirstName>
+<LastName>Bhattacharjee</LastName>
+<EmailAddress>bobby@cs.umd.edu</EmailAddress>
+<StartDate>08/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

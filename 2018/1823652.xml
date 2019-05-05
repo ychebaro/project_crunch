@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Group Travel Grant for the PhD Forum to be Held in Conjunction with IEEE Winter Conference on Applications of Computer Vision (2018)</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>13625</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant partially supports the participation of students from US institutions in the PhD Forum at the 2018 IEEE Winter Conference on Applications of Computer Vision (WACV) in Lake Tahoe, California/Nevada. WACV is the premier annual conference focused on the applications of computer vision. It is held in the United States and attended by members of the international research community. The goal of the PhD Forum is to highlight the work of PhD students working in computer vision and to give these students an opportunity to discuss their research and career options with senior researchers in the field. The broader impacts of this project include supporting the career development of some of the brightest junior researchers in computer vision, contributing to the research community in general by drawing attention to an important aspect of graduate student development, potentially increasing the number of active researchers and educators in STEM, and ensuring that the computer vision community, through its recent graduates, makes fast advances in solving problems that will benefit society as a whole. The PhD Forum aims to have representation from a diverse group of participants in terms of gender, ethnic background, academic institution, and geographic location.&lt;br/&gt;&lt;br/&gt;Support from the National Science Foundation covers some of the costs for 10 selected US-based graduate students to attend the conference. Participants and recipients of travel support are selected by the 2018 WACV PhD Forum Chair. For the graduate student participants, this event is an opportunity to receive advice on their research work and career plans from experts from different institutions, with potentially different perspectives than their research supervisor. For the participating senior researchers, this is an opportunity to have a meaningful discussion with a promising young researcher and to give back to the community through their mentorship. This year's PhD Forum features a poster session and one-on-one mentoring.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823652</AwardID>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Jacobs</LastName>
+<EmailAddress>jacobs@cs.uky.edu</EmailAddress>
+<StartDate>02/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kentucky Research Foundation</Name>
+<CityName>Lexington</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress>109 Kinkead Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

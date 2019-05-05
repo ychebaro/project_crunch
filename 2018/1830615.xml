@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NRI: FND: Connected and Continuous Multi-Policy Decision Making</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>654807</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to create methods that allow robots to move and communicate in close proximity to other robots or humans. In these settings, a robot must understand how its behavior is likely to influence and change the behavior of other robots and people nearby.  The basic idea of this project is to allow the robot to select between several different strategies, picking the one that is most likely to work well in a given situation. For example, a robot might decide to veer towards the right because it predicts that an approaching wheelchair requires more room than a typical pedestrian. This project will also investigate how robots can coordinate with each other, deciding what information should be transmitted to teammate robots. This type of research is important in order to build robots that can safely and comfortably interact with regular people in everyday environments like their homes, schools, and hospitals. &lt;br/&gt;&lt;br/&gt;The technical approach of this project is to extend a planning algorithm known as Multi-Policy Decision Making (MPDM).  Using an on-line forward roll-out process, candidate policies are evaluated from a "library" of options. The core tension in MPDM type systems is that larger libraries allow more flexible behaviors, but require greater computational resources. This project achieves expressivity in a different way than previous MPDM approaches: it allows policies to have one or more continuous parameters, and then efficiently computes good values of those continuous parameters. For example, whereas earlier MPDM work might have had several policies representing different nominal speeds of travel, this work allows robot designers to explicitly parameterize velocity. This continuous-valued parameter can be tuned using backpropagation methods similar to those used in deep learning networks.  The key advantage of this approach is that a single policy can generate a wider range of behaviors, which reduces the number of policies that must be explicitly considered. In turn, this reduces the computational complexity of the planning process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830615</AwardID>
+<Investigator>
+<FirstName>Edwin</FirstName>
+<LastName>Olson</LastName>
+<EmailAddress>ebolson@umich.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

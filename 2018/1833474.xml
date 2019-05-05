@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 Hackathons on Resources for Modeling in Biology (HARMONY); Workshop-June 18-22, 2018; Oxford UK</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David A. Rockcliffe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The purpose of this award is to support travel expenses for students to attend HARMONY 2018 to be hosted by University of Oxford in Oxford, UK from June 18th to 22nd. This workshop is instrumental in making progress in the development of standards in synthetic biology. Currently, most standardization efforts are either unfunded or only have very limited support. The success of these standards hinges on the donation of time from many individuals to participate in discussions, write specifications, serve as standards editors, and attend workshops. Many of these individuals working on the development of standards are students based in the US who would find it difficult to find the funds to attend this meeting. Therefore, this award helps support travel, lodging, and registration expenses for US based students working on systems and synthetic biology standards. Not only would this be a valuable experience for these participants, but it would also greatly enhance the COMBINE goal of bringing together researchers in synthetic biology with those working in systems biology leading to integrated standards and shared software and infrastructure.&lt;br/&gt;&lt;br/&gt;Standards for data exchange are critical to the development of any field since they enable researchers and practitioners to exchange information reliably, apply a variety of tools to their problems, and reproduce scientific results. The COmputational MOdeling in Biology NEtwork (COMBINE) was created in 2010 to organize standardization efforts for systems biology. The HARMONY workshop is organized by COMBINE and will be held at the University of Oxford in the UK, from June 18th to 22nd 2018. The major goals of this workshop will be: (a) Develop synergistic relationships between systems and synthetic biology researchers. (b) Produce a tighter integration of standard development for systems and synthetic biology. (c) Engage in outreach to modelers and experimentalists. (d) Develop a coordinated effort to advocate the use of standards in publications and archival databases.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833474</AwardID>
+<Investigator>
+<FirstName>Chris</FirstName>
+<LastName>Myers</LastName>
+<EmailAddress>myers@ece.utah.edu</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

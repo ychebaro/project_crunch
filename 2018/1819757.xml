@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A handheld sensor for seafood identification</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth M. Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to develop technology to prevent seafood fraud through enabling wholesalers, restaurants, and consumers to rapidly identify mislabeled fish product outside of controlled laboratory settings. U.S. consumers are subjected to mislabeling errors one out of every three times they consume seafood. Species that are cheaper and easier to source are commonly swapped for higher value fish such as tuna, snapper, and grouper. This substitution occurs at multiple points in the supply chain, from producers/processors to wholesalers to restaurants. U.S. consumers pay approximately $32 billion for mislabeled seafood on an annual basis. Additionally, this seafood may pose a serious health concern or counteract regulatory efforts focused on managing vulnerable fish populations and illegal fishing. Current seafood identification efforts are insufficient to eradicate mislabeling because they require controlled laboratory settings and highly trained personnel.  A few portable tests are becoming available but they lack the ability to screen large numbers of samples cost-effectively. The platform proposed here will enable more widespread seafood identification testing by delivering identification within 45 minutes, on-site, and for a lower per sample cost than existing technologies. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to address seafood mislabeling by developing a fast and portable DNA-based screening platform to allow for accurate seafood identification to address concerns from consumers, retailers, and regulators regarding seafood mislabeling.  The key component of the platform to be developed is a nanopore-based sensor technology, which is an amplification-free method for direct counting of target nucleic acids. It has been demonstrated in preliminary results that the technology is able to distinguish grouper DNA from catfish with single-nucleotide specificity. This technology also has achieved multiplexed detection, distinguishing 36 sequences with one sensor. This project will advance this detection assay towards a commercial-ready product by expanding the multiplexing strategy to cover 200+ sequences, designing probes to distinguish 20+ fish species, and then completing a full commercial proof-of-principle by identifying seafood species in blinded samples in work done on-site.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819757</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Cohen</LastName>
+<EmailAddress>cohentl@gmail.com</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Nanopore Diagnostics, LLC</Name>
+<CityName>Saint Louis</CityName>
+<ZipCode>631082979</ZipCode>
+<PhoneNumber>3144774334</PhoneNumber>
+<StreetAddress>4320 Forest Park Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Plasmon-Enhanced Scanning Probe Spectroscopy for Chemical Mapping of Nanoscale Interfaces</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>405000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lin He</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Tao at University of California, San Diego, studies and develops new tools for surface analysis. Although surfaces and interfaces play a critical role in dictating key chemical processes, adequate tools for nanoscale surface analysis are lacking. Professor Tao is studying and creating optical probes that are capable of focusing light down to nanoscale volumes (the diameter of a human hair) that could be used in applications such as bioimaging, catalysis, plasmonics, and solid-state surface science. This project provides unique research opportunities for undergraduates, graduates, and high school students to learn about optics and nanomaterials.  Professor Tao collaborates with a nanomaterials start-up company, which provides her students with direct and personal insight into the entrepreneur roadmap.  Professor Tao is also interested in enhancing the diversity of the engineering community at UC San Diego.  This research contributes to chemical industry by ensuring product quality as well as helping to improve synthetic methods by reducing defects. &lt;br/&gt;&lt;br/&gt;This project integrates atomic force microscopy (AFM) and tip-enhanced Raman spectroscopy (TERS) for carrying out multi-modal measurement of both the chemical and mechanical properties of surfaces and surface binding events. AFM-TERS carries out point-by-point acquisition of chemical information-rich Raman spectra by using a metallic optical antenna to facilitate near-field amplification of both the incident and Raman-scattered light. This work investigates the chemical and physical properties of colloidal AFM-TERS probes that are fabricated by the assembly of shaped metal nanocrystals onto AFM tips. Silver nanocube probes serve as a model system to understand the light-matter interactions that are critical for achieving large Raman enhancements and low background signals. These studies provide new fundamental insight into how near-field optical probes interact with molecular and surface analytes, clarify how near-field optical confinement is supported at the tip-substrate junction, and investigate how the enhancement of other optical processes (e.g. inelastic scattering, multiphoton absorbance) affect TERS readouts. Both experiments and models are used to identify and develop design rules for nanocrystal optical antennas to maximize Raman sensitivities and imaging resolution. The resulting nanocrystal-based AFM-TERS platform are applied toward the chemical and force imaging of nanomaterials and biological surfaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807891</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Tao</LastName>
+<EmailAddress>atao@ucsd.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

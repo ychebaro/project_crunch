@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Autonomous Indoor Blimps as Data Terminal for Internet of Things</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to provide effective aerial sensing solution for indoor environments. Persistent environmental monitoring, infrastructure inspection, and security surveillance are essential for large indoor facilities to provide safety and comfort. Existing aerial sensing solutions are mainly for outdoor applications. They are not suitable for human-occupied indoor environments due to short flight duration, disturbing noise level, and safety concerns. The proposed technology is based on specially designed robotic blimps that offer long flight duration, quiet sound profile, and safety for collision. The technology can potentially fill the market vacancy for indoor aerial sensing. In addition to indoor aerial sensing, the robotic blimps can also be marketed as a research and teaching tool for researchers, teachers, students, and hobbyists who are interested in performing indoor experiments on human friendly flying robots. The robotic blimps may also be extended to serve as companion robots for the elderly, or as intelligent toys for children. &lt;br/&gt;&lt;br/&gt;This I-Corps project explores the commercial potential of an aerial sensing solution that is developed around a robotic blimp. The blimp is cushioned with Helium-filled envelope, and can fly safely among people. Buoyancy from the Helium gas helps reduce the power consumption of the blimp, enabling it to operate quietly for hours. Unique aerodynamic shape of the blimp ensures high maneuverability in indoor environments. The blimp represents an integration of research efforts in mechatronic design, mobile sensor networks, and control systems. The blimps have been successfully employed to support a broad spectrum of research supported by NSF grants, including indoor wind field mapping, swarming control, and human-robot interactions. The basic functionalities of the blimp are stable and reliable, ready to be transitioned into the commercialization stage. Through this I-Corps program, the team will develop better understanding of market scale, customer needs, and commercialization feasibility of the invention.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824233</AwardID>
+<Investigator>
+<FirstName>Fumin</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>fumin@gatech.edu</EmailAddress>
+<StartDate>03/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

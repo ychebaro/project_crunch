@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  HIGH CAPACITY ENERGY STORAGE ANODE MATERIAL</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>224999.00</AwardTotalIntnAmount>
+<AwardAmount>224999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the development and widespread adaptation of next generation energy storage devices. With high energy density advanced materials, these devices can store significantly higher electric power per single charge. Particularly, rechargeable batteries with significantly higher energy density will improve; the range of electric vehicles on a single charge, operating time of defense platforms (such as aerial drones, naval vessels, exoskeletons, communication devices, etc.), amount of renewable energy stored, battery life of medical devices, and the need to charge consumer electronics less often.  In addition to improved performance, high energy density devices will accelerate commercialization, adaptation, and sale of new vehicles or devices that utilize them. In turn increasing investments and revenue not only for the advanced material and battery producers, but for companies involved in manufacturing and sale of electric vehicles and devices within the United Sates. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to develop the production of novel, pure graphene anode material by Chemical Vapor Deposition technique using readily available material resources. Currently, graphite anode-based LIBs are the most commonly used and the most reliable energy storage devices for portable electronics, electric vehicles and electric grid storage due to their stability, low cost, and safety. However, graphite's low capacity (theoretically, 372 mAh/g) prohibits the development of higher energy density batteries. The problem is that graphite's internal structure limits lithium diffusion within interlayer spaces. We propose to replace graphite as the anode material. Our material is a newly-discovered high-quality graphene network, consisting of incommensurately-stacked multilayer graphene (IMLG) assembled in three-dimensional (3D) form. It exhibits unique structural and electrical properties that enable the reversible intercalation of large amounts of lithium within interlayer spaces of multilayer graphene. IMLG anode exhibits an extremely high reversible capacity of up to 1500 mAh/g tested as an anode material in LIB cells. Within the scope of this project we plan to scale the production of this material, while maintaining high quality, and supply IMLG to industry partners for integration testing in commercial batteries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843172</AwardID>
+<Investigator>
+<FirstName>Tereza</FirstName>
+<LastName>Paronyan</LastName>
+<EmailAddress>T.Paronyan@hexalayer.com</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hexalayer, LLC</Name>
+<CityName>LOUISVILLE</CityName>
+<ZipCode>402063211</ZipCode>
+<PhoneNumber>5028219439</PhoneNumber>
+<StreetAddress>2508 River Oaks drive, Unit 5</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

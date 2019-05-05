@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NanoEarth 2018 Workshop</AwardTitle>
+<AwardEffectiveDate>02/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>18933</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Lambert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The PI proposes to convene a 2.5-day workshop attended by 14 nanotechnologists in the field of Nano-Geo-Enviro Convergent Science and Engineering. Entitled "NanoEarth 2018 Workshop", it will convene in late April, 2018 at NanoEarth, the National Nanotechnology Coordinated Infrastructure (NNCI) site at Virginia Tech. The products of the workshop will be: 1) a perspective and trend-setting paper for the journal Science, of the type that the PI produced a decade ago when NSF last funded this form of workshop under Hochella's leadership; and 2) a permanent website for which workshop participants will build a library of resources that document modern methods and applications in conducting nanoscience in the Earth and environmental sciences and engineering. &lt;br/&gt;&lt;br/&gt;The NanoEarth 2018 Workshop will center on the convergence of Earth and environmental/life sciences and engineering as they relate to incidental nanoparticles in natural, engineered, and mixed settings. Incidental nanoparticles (defined as those unintentionally produced due to any form of direct or indirect human-related influence) are heavily understudied in all fields of nanoscience, yet they are thought to be much more abundant relative to engineered nanomaterials in the natural and the built environments, and they may even rival natural nanoparticles in abundance. This Workshop will explore these remarkable phenomena in great depth and in all Earth-related fields. The workshop and highly-visible article and website to follow will delineate, define, and demonstrate the importance of this new, nano-driven convergent field of science and engineering.</AbstractNarration>
+<MinAmdLetterDate>02/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822111</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Hochella</LastName>
+<EmailAddress>hochella@vt.edu</EmailAddress>
+<StartDate>02/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1179</Code>
+<Text>Biol &amp; Envir Inter of Nano Mat</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1580</Code>
+<Text>INSTRUMENTATION &amp; FACILITIES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7295</Code>
+<Text>GEOBIOLOGY &amp; LOW TEMP GEOCHEM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

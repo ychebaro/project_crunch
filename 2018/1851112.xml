@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 IEEE Vehicular Networking Conference (VNC)</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monisha Ghosh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Vehicular Networking Conference (VNC), sponsored by the Institute of Electrical and Electronics Engineers (IEEE), is a flagship international conference in the vehicular networking, applications, and systems area. VNC 2018 continues the tradition of the past nine annual meetings starting in 2009 in presenting and publishing high quality research dealing with all aspects of vehicular networking, applications and systems. IEEE VNC highlights research potentials, stimulates novel and breakthrough ideas, and identifies their short and medium term exploitation goals. The conference features an open call for papers, poster and demo sessions, an app contest, a keynote talk and panel discussions.&lt;br/&gt;&lt;br/&gt;This award will support approximately 20 students in the United States to attend IEEE VNC 2018, which will be held in Taipei, Taiwan on December 5-7, 2018. Attending a high-caliber technical event such as this is extremely valuable for future researchers. The conference will offer a unique educational experience. Students attending will be exposed to the start-of-the-art in the field of vehicular networking, applications and systems; students will also have the opportunity to interact with both distinguished researchers and fellow graduate students from other institutions. The informal opportunities for discussion have the potential to shape the future careers of the students. The goal of the student travel support is to encourage research interest and involvement of students who are not well funded, under-represented, or otherwise not likely to be able to attend high-profile conferences on vehicular networking, applications and systems. Priority will be given to non-authors who are unlikely to attend due to the unavailability of travel funding, and to under-represented minority groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>10/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>10/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1851112</AwardID>
+<Investigator>
+<FirstName>Ashwin</FirstName>
+<LastName>Ashok</LastName>
+<EmailAddress>aashok@gsu.edu</EmailAddress>
+<StartDate>10/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia State University Research Foundation, Inc.</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303032921</ZipCode>
+<PhoneNumber>4044133570</PhoneNumber>
+<StreetAddress>58 Edgewood Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

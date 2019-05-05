@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Outer coordination sphere optimization of electrocatalytic CO2 reduction</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>405000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tong Ren</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The security of an energy supply, its sustainability and environmental consequences are global concerns in modern society. Nature has optimized the mechanism of photosynthesis to absorb and harvest solar energy by transforming carbon dioxide and water into carbohydrate fuels. Yet, this apparently simple transformation of carbon dioxide and water - the most ubiquitous chemicals on earth - to a sustainable fuel source still represents one of the grand challenges of science today. In this project, Dr. Rochford of University of Massachusetts Boston learns from nature and develops a next generation of molecular catalysts that can mimic photosynthesis to efficiently transform carbon dioxide and water into useful fuels. Just as we are strongly influenced by our own environment in a macroscopic world, the behavior and properties of carbon dioxide and water are also very sensitive to their local environment at a molecular scale.  Dr. Rochford and his students utilize "self-assembly" techniques, inspired by photosynthesis, to leverage the environmental sensitivity of carbon dioxide and water to optimize their sustainable transformation into fuels. This grant from the Chemical Catalysis Program of the NSF Chemistry Division enriches the undergraduate and graduate experiences of many UMass Boston students and has a major positive impact on the UMass Boston research portfolio. &lt;br/&gt;&lt;br/&gt;This project represents a novel approach to electrocatalytic carbon dioxide reduction through the design and synthesis of molecular catalysts with engineered second- and outer-coordination spheres providing selective control over product formation (carbon monoxide vs. formic acid vs. hydrogen gas). Significant intellectual merit is achieved by targeting first-row Mn(I)-based transition metal catalysts whereby tailoring the second- and outer-coordination sphere of the ligand, transition-state energies is optimized to promote proton-coupled electron transfer, thus reducing activation energies for critical rate-determining steps to maximize catalyst turnover frequencies, and reduce the minimum required overpotential. Dr. Rochford and his students develop cutting-edge catalyst design methods, from synthesis to self-assembly, combined with tailored electrochemical analyses, which impacts on a host of research areas that employ nanostructured and electroactive surfaces. Success in this area informs the chemical catalysis community to better design, control and optimize first-row transition metal catalysts for selective carbon dioxide conversion at accessible overpotentials. Dr. Rochford is a strong advocate of education for young scholars regarding the environmental impacts of carbon dioxide, renewable energy alternatives, and advances in renewable energy technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800062</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Rochford</LastName>
+<EmailAddress>jonathan.rochford@umb.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Boston</Name>
+<CityName>Dorchester</CityName>
+<ZipCode>021253300</ZipCode>
+<PhoneNumber>6172875370</PhoneNumber>
+<StreetAddress>100 Morrissey Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8609</Code>
+<Text>Other Energy Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

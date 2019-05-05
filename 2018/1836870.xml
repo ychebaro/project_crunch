@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ICE-T: RI: Towards a Secure and Flexible Personal Data Platform on the Edge</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The significant growth and penetration of smart and Internet of Things (IoT) devices has driven a large number of new applications and caused a surge in sensitive and personal data generation. Unfortunately, our ability to protect that information is limited, and concerns over privacy, trust, and security are becoming increasingly important to different stakeholders.  Emerging IoT applications also send and receive data in various ways, and each might require different performance levels of reliability, loss, and latency. To cope with these various traffic characteristics and requirements, it is now necessary to have greater visibility and control over the traffic generated from smart and IoT devices in order to guarantee a high quality of experience to users.&lt;br/&gt;&lt;br/&gt;The aim of this project is to design and develop the ExtremeDataHub platform, an open, flexible, and programmable networked edge device that controls and manages access to our sensitive and personal data. This platform will integrate the European collaborators' SMILE and Databox platforms.  The project will identify new services and applications that can effectively leverage the combined platform, potentially including applications in the  smart home, smart healthcare, and smart cities domains. This project initiates a new research collaboration between investigators at Virginia Commonwealth University and Imperial College London, UK.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836870</AwardID>
+<Investigator>
+<FirstName>Tamer</FirstName>
+<LastName>Nadeem</LastName>
+<EmailAddress>tnadeem@vcu.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Commonwealth University</Name>
+<CityName>RICHMOND</CityName>
+<ZipCode>232980568</ZipCode>
+<PhoneNumber>8048286772</PhoneNumber>
+<StreetAddress>P.O. Box 980568</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+</Award>
+</rootTag>

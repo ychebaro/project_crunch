@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for DEmocratizing Manufacturing Accessibility for Designers (DEMAND)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eduardo A. Misawa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research. &lt;br/&gt;&lt;br/&gt;The vision for the Engineering Research Center (ERC) for Democratizing Manufacturing Accessibility for Designers (DEMAND) is offer the potential for every designer to fabricate any product seamlessly and intuitively regardless of: 1) expertise or background, 2) connection with manufacturing firms, and 3) product volume (from one of a kind to millions). This vision will be achieved by breaking the deep information "asymmetry" in the existing manufacturing ecosystem and establishing a new Cloud-centric platform on which the designers' ideas and needs can be matched, in real time, with manufacturers' capabilities and capacities. &lt;br/&gt;&lt;br/&gt;The realization of this ERC vision will democratize manufacturing so that designers of all capabilities, including laypeople, will be empowered to see their ideas realized as useful products. Interested parties will be able to engage in manufacturing activities that can help serve the needs of our evolving society. This framework, in partnership with small and medium businesses, will also help to increase manufacturing output and support the engineering education of our future workforce. The convergent research and collective talent associated with the effort will also be used to explore and create an inclusive environment for underrepresented groups and women.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840621</AwardID>
+<Investigator>
+<FirstName>Jian</FirstName>
+<LastName>Cao</LastName>
+<EmailAddress>jcao@northwestern.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Placid</FirstName>
+<LastName>Ferreira</LastName>
+<EmailAddress>pferreir@uiuc.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Larry</FirstName>
+<LastName>Birnbaum</LastName>
+<EmailAddress>l-birnbaum@northwestern.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Karthik</FirstName>
+<LastName>Ramani</LastName>
+<EmailAddress>ramani@purdue.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Khonsari</LastName>
+<EmailAddress>khonsari@lsu.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

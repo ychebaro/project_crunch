@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRI: CI-P: Planning a Sustainable Infrastructure for the Robot Operating System</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Robot Operating System (ROS) is a large collection of open-source software for robotics that has, over the past decade, allowed more rapid progress in the field than was possible in the past.  The ROS software includes all of the low-level "plumbing" that roboticists used to write for themselves to make motors turn, to get data from their sensors, and to implement basic competences like moving around the world.  It supports a wide array of robot hardware, and is increasingly being used by companies across the country.  ROS is written and maintained by a large collection of volunteers from around the world and, like any large open-source project, has some management challenges.  Under this award, we will identify these challenges, and come up with concrete solutions for them, to ensure that ROS remains as useful over the coming decade as it was in the past.&lt;br/&gt;&lt;br/&gt;This planning award will survey the ROS community to identify the areas of the ecosystem and management best practices that need improvement, with the goal of writing a Community Research Infrastructure proposal to implement these changes.  We will deploy on-line surveys to the community, and hold focused workshops at both the ROS Developers Conference and more general robotics conferences.  We will analyze the data from these surveys and workshops, alongside more concrete data from the existing infrastructure (wiki, Q&amp;A site, etc) to determine what the most pressing community needs are, and then propose strategies to directly address them in a sustainable manner that continues to engage the community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823219</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Smart</LastName>
+<EmailAddress>smartw@oregonstate.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

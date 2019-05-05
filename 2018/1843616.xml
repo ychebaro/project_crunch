@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Improving MRI Guided Thermal Therapies by Designed Magnetic Nanoparticles</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project involves the creation of particles that will allow one to see a map of temperature within a Magnetic Resonance Imaging (MRI) measurement.  This is a significant advancement because conventional thermometry is usually invasive, allows only single point temperature measurements, and may interfere with the therapeutic and imaging instrument. The proposed technology is designed to be biocompatible and minimally invasive, leading to fast 3D temperature mapping deep in the human body. The proposed materials and techniques can be used with MRI-guided thermal procedures which can replace scalpel-based surgery for a variety of cancers, improving patient outcomes and reducing surgical time. The method can also be used to improve treatments for essential tremor, uterine fibrosis and arteriovenous malformation. In these treatments, the temperature in the entire affected region must be constantly monitored. Due to the limitations of the currently used temperature measurement methods, these minimally invasive MRI-guided procedures are not frequently used or take considerably longer time than desired because surgeons often must work around failed temperature measurements. The work in this proposal could transform current methods of MRI-guided thermometry, significantly reducing surgery time and cost as well as improving patient outcomes.  &lt;br/&gt;&lt;br/&gt;This proposal develops a novel, minimally-invasive method of creating temperature maps superimposed on anatomical MRI images. The technology uses a new type of temperature-sensitive sensor, in the form of magnetic nanoparticles, and could ultimately be used within human or other tissues.  The key idea is that magnetic particles embedded in tissue will create a local dipole magnetic field that will modulate (statically or dynamically) the homogeneity of the main static magnetic field of the MRI scanner.  This changes the nuclear relaxation times of the tissue and broadens the Nuclear Magnetic Resonance (NMR) linewidth, ultimately leading to local changes in the brightness of the MRI image.  The magnetization of the particles is engineered to change with temperature, and therefore the results are temperature dependent. Different shades of gray in the weighted gradient echo MR images, can then be calibrated to obtain a spatial map of temperature. This has immediate application in providing real-time temperature information to the surgeon during MRI-guided thermal interventional procedures to treat cancer, for example. These new contrast sensors can operate in a wide temperature range both below and above the human body temperature, producing spatial maps of temperature with an accuracy better than 1 degree Celsius.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843616</AwardID>
+<Investigator>
+<FirstName>Janusz</FirstName>
+<LastName>Hankiewicz</LastName>
+<EmailAddress>janusz.hankiewicz@gmail.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MRX ANALYTICS PBC</Name>
+<CityName>COLORADO SPRINGS</CityName>
+<ZipCode>809082375</ZipCode>
+<PhoneNumber>7192553907</PhoneNumber>
+<StreetAddress>19740 GLEN SHADOWS DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

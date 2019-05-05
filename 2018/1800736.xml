@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Geometric Ramsey Theory and Incidence Geometry</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>44810.00</AwardTotalIntnAmount>
+<AwardAmount>44810</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project studies several problems in discrete geometry, which lies on the interface of combinatorics and geometry.  Problems in the field are often simply described, and typically involve fundamental objects in Euclidean space such as points, lines, spheres, etc.  While many questions in discrete geometry are worth studying for their own sake, others are motivated by their applications in computer science and engineering.  More recently, discrete geometry has seen tremendous growth, and numerous unexpected connections to other fields of mathematics are being discovered.  One of the main goals of this project is to further explore these connections, and to apply new tools and techniques to several long-standing open problems. The PI will also continue to encourage high-school, undergraduate, and graduate students to work in combinatorial research, and continue to teach courses that cover the latest results and open problems in the field.&lt;br/&gt;&lt;br/&gt;There are two main areas under investigation:  geometric Ramsey theory and incidence geometry.  Over the past few decades, Ramsey numbers have been applied extensively to give upper bounds on homogeneity problems arising in geometry. For many of these applications, one can obtain much better bounds by exploiting the fact that the edges are defined algebraically.  The PI will continue a sequence of recent works on Ramsey-type problems for hypergraphs defined algebraically, which includes the famous Happy Ending Problem of Erdos and Szekeres, and finding large independent sets in intersection graphs of geometric objects.  Another major goal of this project is to explore various extensions of the Szemeredi-Trotter theorem and its applications to additive number theory.  Specific problems include characterizing dense point-line arrangements and estimating the number of incidences between points and d-dimensional varieties.</AbstractNarration>
+<MinAmdLetterDate>10/18/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/18/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800736</AwardID>
+</Award>
+</rootTag>

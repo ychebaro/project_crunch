@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII:CHS: Addressing Individual Differences in Human-Autonomous Vehicle Interaction in Mixed Transportation Systems</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>173518.00</AwardTotalIntnAmount>
+<AwardAmount>173518</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Todd Leen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Abstract&lt;br/&gt;&lt;br/&gt;Autonomous vehicles will change the way human drivers interact with vehicles dramatically. Before there is 100% adoption of autonomous vehicles (AV), we will have a mixed transportation system in which AVs share the roads with human-driven vehicles (HV).  This project investigates how driving styles of autonomous vehicles impact decision-making, trust, and acceptance of AVs both for the human operator and for human drivers in other vehicles. This project will benefit the design of AVs to promote drivers' trust of AVs in mixed traffic conditions, mitigate driver aggressiveness to improve driver safety, address public acceptance of autonomous vehicles, and smooth the transition into a future where autonomous driving is prevalent. It provides researchers and urban policy-makers knowledge and methods to evaluate the effects of AV technology on mixed transportation systems. This research will support the development of graduate-level curricula integrating research and practical design issues in human-vehicle interaction, providing an interdisciplinary education for students from Industrial Engineering, Civil Engineering, and Mechanical Engineering.&lt;br/&gt;    &lt;br/&gt;This project addresses the transitional period of mixed driving systems that are expected to grow in the coming years by targeting three fundamental questions: (1) how to quantify the relationship between individual differences, trust, and decision-making in the interaction between an AV and the human operator; (2) how to investigate driver behavior and performance in the interaction between AV and human-driven vehicles; and (3) how to design driving styles of autonomous vehicles that can improve driver trust and acceptance of AV technology while mitigating the potential for offsetting behavior (e.g. drivers' tendency of additional risk taking when they feel safer).  Throughout the project, the effects of individual differences in driving style (aggressive vs conservative), the propensity to trust technology, and age, gender, and driving experience are explored empirically.  Corresponding design guidelines of AV driving styles will also be proposed to improve driver safety and promote driver trust of AVs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/26/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/26/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850002</AwardID>
+<Investigator>
+<FirstName>Yiqi</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>yuz450@psu.edu</EmailAddress>
+<StartDate>02/26/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

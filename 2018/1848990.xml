@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>IUTAM workshop participant support</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>5000.00</AwardTotalIntnAmount>
+<AwardAmount>5000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ron Joslin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The funds will partially support student, post-doc, and early-career participants related to the IUTAM Symposium entitled "Stochastic approaches to transitions in fluid flows" to be held at Cornell University during September 12-14 2018. Stochastic flows and flow regime transitions are central to dynamical phenomena broadly important across engineering, geophysics and climate contexts. Approaches to understanding stochastic systems have tended to develop independently in the various communities. Various communities have begun to use models of stochastic flow transitions, often resulting in differing approaches. The aim is to bring together the different groups, those working on method development as well as on applications. These groups are spread over (applied) mathematics, engineering and physics departments. &lt;br/&gt;&lt;br/&gt;Community benefits of cross pollination of ideas/approaches/techniques. Early careers support will focus on PhD students, post-docs and early-career participants, to the extent possible. Societal benefits from jump in progress that is known to come from cross-community pollination of ideas and techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848990</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Steen</LastName>
+<EmailAddress>phs7@cornell.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FLUID DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

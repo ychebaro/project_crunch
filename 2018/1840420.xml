@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Ubiquitous and Unique Embedded Security</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dana L. Denick</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.  This award funds planning efforts to create the ubiquitous use of information technology with inherent security and controllable privacy, through development of a novel hardware and software ecosystem, where components are physically unique and security properties are based on this deeply embedded, physically unchangeable identity. The trustworthiness of components will be evaluated across a wide variety of embedded systems and potential threats.  The best ways to develop open hardware and software to allow broad analysis and a competitive ecosystem will be considered.  This award will be used to organize and run several planning meetings with potential participants and stakeholders.   An education and outreach program is also planned for this effort, ranging from new graduate and undergraduate courses to summer engineering institutes for high school students. The team will include students in the planning meeting to offer novel insights on educational opportunities.&lt;br/&gt;&lt;br/&gt;The research problems that will be tackled by the planning team will span from low-level integrated circuit design (e.g., development and use of physically unclonable functions and lattice-based cryptography) to system-level hardware and software problems (e.g., using physical chip characteristics to achieve security properties for program execution and data) to inter-device communication (e.g. secure network connections). The economics of open architectures, threats of reverse engineering and legal issues add human and societal dimensions that must be considered. The driving applications for this work aim to address society-scale challenges: secure processing and chain of trust for electronic voting systems, controllable dissemination of private data in healthcare systems, verifiable execution in embedded systems for defense, infrastructure and transportation applications.  A plan for new course work at the graduate, undergraduate, and high school levels will be developed, as well as a plan for a summer institute targeting high school students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840420</AwardID>
+<Investigator>
+<FirstName>Wayne</FirstName>
+<LastName>Burleson</LastName>
+<EmailAddress>burleson@ecs.umass.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Russell</FirstName>
+<LastName>Tessier</LastName>
+<EmailAddress>tessier@ecs.umass.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tilman</FirstName>
+<LastName>Wolf</LastName>
+<EmailAddress>wolf@umass.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

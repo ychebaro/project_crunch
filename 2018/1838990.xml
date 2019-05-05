@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Leveraging Scientific Societies for Open and FAIR Scientific Data</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Beth Plale</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Scientific societies are a critical stakeholder and leader in bringing about cultural change toward open data across the sciences. The American Geophysical Union (AGU) has played a key role in being a change agent in open science specifically by leading the Earth and space science communities in enabling research data to be findable, accessible, interoperable, and reusable (FAIR). The AGU proposes to host a workshop and one-on-one follow-up conversations with targeted societies within the Earth and space sciences and in adjacent disciplines. The goal of the proposal is to engage and empower more scientific societies on their way to adoption of open science principles through education, tools, materials, and consultation. The intellectual merit is in evaluation of the effectiveness of the open and FAIR data tool suite for societies and their members and in moving societies forward in open science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838990</AwardID>
+<Investigator>
+<FirstName>Shelley</FirstName>
+<LastName>Stall</LastName>
+<EmailAddress>sstall@agu.org</EmailAddress>
+<StartDate>07/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Geophysical Union</Name>
+<CityName>Washington</CityName>
+<ZipCode>200099123</ZipCode>
+<PhoneNumber>2024626900</PhoneNumber>
+<StreetAddress>2000 FLORIDA AVE NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7414</Code>
+<Text>NSF Public Access Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

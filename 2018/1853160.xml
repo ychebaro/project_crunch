@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Room Temperature High Speed Photon Counting Quanta Image Sensor Camera for Scientific Imaging Applications</AwardTitle>
+<AwardEffectiveDate>04/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>741210.00</AwardTotalIntnAmount>
+<AwardAmount>741210</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be a revolutionary, high-speed, high-resolution and extremely high-sensitivity camera. This Quanta Image Sensor (QIS) camera will be the only compact complementary metal-oxide-semiconductor (CMOS) camera in the market with photon counting capability at room temperature. This camera can be used in scientific and medical imaging applications where high-sensitivity is extremely important. The current state-of-the-art camera technologies cannot satisfy the needs of the customers in these markets, and customers are desperately seeking a better technical solution. The QIS is a platform imaging technology and can be used in a broad range of imaging applications, such as automotive, augmented-reality &amp; virtual-reality, security &amp; surveillance, among others, where high-sensitivity, high-resolution and high-speed operations are required. The global image sensor market is expected to expand at an annual growth rate of 10.4% from 2015 to 2021, reaching $18.8 billion market value by 2021. Since the QIS technology is compatible with the mainstream CMOS fabrication lines, it has the potential to dominate the image sensor and camera market by high-volume production.&lt;br/&gt;&lt;br/&gt;The proposed project addresses the major drawbacks of the state-of-the-art scientific EMCCD cameras, such as high noise (around 1 electron read noise with external cooling), nonlinear response and unpredictable readout gain, low-resolution, low-speed, massive size and extremely high-power consumption. In this project, the second generation Quanta Image Sensor (QIS) chip will be designed and fabricated, and will be implemented into an 8 megapixel QIS camera which can function at 120 frames/s and the whole camera power consumption will be less than a few Watts. The average noise will be around 0.25 electron that unlocks the true photon-number-resolving at room temperature, with about 99% accuracy. The modular compact QIS camera will contain some peripheral digital IC chips, power supplies, FPGA, USB 3 interface, etc. A QIS image processing algorithm will be implemented in the camera module to form an output image from the bits received from the QIS imager. Advanced industrial and commercial standard tests and characterizations will be performed to comprehensively measure the performance of the prototype QIS camera. Also, the camera will be tested by beta-customers and their feedback will be received to improve the QIS camera. The QIS camera will be available in monochrome and color.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853160</AwardID>
+<Investigator>
+<FirstName>Saleh</FirstName>
+<LastName>Masoodian</LastName>
+<EmailAddress>sm@gigajot.tech</EmailAddress>
+<StartDate>04/17/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gigajot Technology, Inc.</Name>
+<CityName>Pasadena</CityName>
+<ZipCode>911073145</ZipCode>
+<PhoneNumber>6178992545</PhoneNumber>
+<StreetAddress>3452 E Foothill Blvd Ste 360</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

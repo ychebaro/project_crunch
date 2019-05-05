@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Addressable Transmitters Operated as Magnetic Spins</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>299000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wireless microscale devices that navigate the body to diagnose and treat disease are a key element of the future of medicine, addressing localized malfunction in neurological, cardiovascular, autoimmune, cancer and other disease areas. Precise localization and spatially addressable communication are the major unresolved challenges. This proposal addresses this challenge by developing a radically new technology for microscale device localization based on magnetic resonance imaging. They will engineer miniaturized integrated circuit transducers to locate and communicate with them in vivo. They call this technology ATOMS - Addressable Transmitters Operated as Magnetic Spins.&lt;br/&gt;&lt;br/&gt;They will design, implement and optimize the performance of ATOMS in vitro and in vivo and demonstrate precise localization and targeted communication with a spatial resolution of less than 0.5 mm. They will initially focus on two applications: 1) monitor the migration of ATOMS through the gastrointestinal system of live mice, and 2) create a navigation platform for high precision surgery. To develop ATOMS devices with target operating characteristics, they will design integrated circuits capable of sensing the magnetic field, and harvesting sufficient power from the RF output of the MRI to drive the IC's functions, including sensing of local biological processes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823036</AwardID>
+<Investigator>
+<FirstName>Azita</FirstName>
+<LastName>Emami-Neyestanak</LastName>
+<EmailAddress>azita@caltech.edu</EmailAddress>
+<StartDate>06/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mikhail</FirstName>
+<LastName>Shapiro</LastName>
+<EmailAddress>mikhail@caltech.edu</EmailAddress>
+<StartDate>06/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

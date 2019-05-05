@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Small: Diverse Particles for Continuous Learning and Inference</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>449163</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Weng-keen Wong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Scientific and technological problems require representing and reasoning about many spatial and temporal relationships.  Examples tasks include: from video data, tracking the full articulated pose of humans performing various activities; from specification of a robotic manipulation goal, identify feasible and efficient motion plans; from an input sequence of amino acids, and low-resolution observations provided by modern imaging technologies, predicting the 3D structures into which proteins are most likely to fold. However, as problems grow in size and complexity, current algorithms for handling this kind of continuous data become intractable.  The proposed work will overcome this problem by creating a new class of algorithms, called "particle-based belief propagation", that efficiently handles continuous relational data.  Broader impacts of the project include the creation of educational materials targeting graduate and undergraduate courses, as well as community outreach to local middle and high school students.  The project's open source statistical software also enables a number of important real-world applications, which are explored via diverse teams of undergraduate and graduate students.  This work may contribute to technological problems like the development of autonomous robots and vehicles, and scientific problems like the study of diseases caused by incorrect folding of proteins.&lt;br/&gt;&lt;br/&gt;The technical research significantly advances the theory and practice of message-passing algorithms for inference in graphical models with non-Gaussian, continuous variables.  This work will substantially generalize a recently developed family of diverse particle belief propagation inference algorithms, that replace the (unstable) stochastic resampling of classic particle filters with provably accurate discrete optimization.  The first research aim is to explore a number of improvements to the computational algorithms, and supporting theory, that enables effective particle-based inference.  Motivated by problems where precise quantification of posterior uncertainty is important, the project generalizes existing work on "max-product" belief propagation optimization to support "sum-product" belief propagation integration, and "mixed-product" updates for more general inference queries.  The project also generalizes prior work on discrete graphical models to study how errors made in local messages propagate throughout the model. Furthermore, the researchers study how particle-based inference can enable new types of loss-sensitive structured learning for continuous estimation problems, including semi-supervised learning from partially labeled training data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816365</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Ihler</LastName>
+<EmailAddress>ihler@ics.uci.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Erik</FirstName>
+<LastName>Sudderth</LastName>
+<EmailAddress>sudderth@uci.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

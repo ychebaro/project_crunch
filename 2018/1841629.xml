@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER SitS: Quantifying the value of information for sensor placements to improve soil signals for agricultural water management</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Given the reliance of global food security on robust agricultural water management, there is a need to better inform and improve understanding of soil moisture signals in different types of environments. Such signals are an important input for agricultural water management. The lack of proper understanding of soil moisture signals remains a persistent challenge in sustainable agricultural management, especially during drought conditions. Developing such an understanding is the subject of this research.&lt;br/&gt;&lt;br/&gt;The spatial heterogeneity and variability of soil moisture greatly hinders the use of point scale in situ monitoring for capturing the dynamics of this variable. Although remote sensing products are available to provide soil moisture information, they are limited in providing only aggregated information at coarse resolution and are often characterized by large uncertainty, which is unsuitable for agricultural water management that requires finer/local scale information. The robust design of soil moisture monitoring (sensor) networks to be pursued by this project is targeted to ensure the sufficient and adequate representation of data provided to stakeholders (e.g. farmers and ranchers) so that they can make the most informed decisions possible concerning their own water management needs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841629</AwardID>
+<Investigator>
+<FirstName>Ashok</FirstName>
+<LastName>Mishra</LastName>
+<EmailAddress>ashokm@clemson.edu</EmailAddress>
+<StartDate>08/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296345701</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>230 Kappa Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

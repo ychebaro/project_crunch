@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID:  Well and Profitable during Pacific Northwest Fires: modeling I-O air pollution measured by fine and ultra-fine particulate matters</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>106266</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Part 1:&lt;br/&gt; &lt;br/&gt;As of August 2018, 110 large forest fires exist in western Washington. State health officials have designated many consecutive days of unhealthy air quality in the Puget Sound area. One of the primary health concerns of forest fire smoke is with microscopic particulate matter (PM-25) that can enter the bloodstream. While this health impact is known, we do not have a good understanding of how indoor air quality is impacted by infiltration of high PM-25 outdoor air quality during infrequent periods of massive forest fire outbreaks. This proposal takes advantage of a limited window of opportunity for obtaining data on the indoor and outdoor air quality in the Puget Sound region home to 3.7 million residents. The research will measure PM-25 in locations impacted by the massive forest fire outbreak, coupled with intensive studies of four building in the region to address fundamental questions about how people can stay healthier indoors during the wildfire season, and how businesses can better support employee health. &lt;br/&gt; &lt;br/&gt; &lt;br/&gt;Part 2:&lt;br/&gt; &lt;br/&gt;The objectives of this proposal are to develop a comprehensive collection of fine and ultrafine particulate matter data in both indoor and outdoor locations near a massive wildfire outbreak, conduct a case-study-based field experimentation of air quality in office buildings with known air handling operations, and understand how worker health and the success and profitability of organizations are impacted by episodic forest fires. Air quality data will be collected by handheld equipment and regression analyses will be performed using the measured indoor and outdoor particulate matter concentrations. A recursive model will be adapted to calculate the infiltration factor for various particulate matter concentrations. Principal component analysis will be used to help identify probable sources that produce various indoor particulates. Potential psychological tolls will be both quantitatively and qualitatively assessed by questionnaires measuring perceived productivity, controllability of indoor air quality, and environmental trust. Correlational and content analyses, as well as paired-sample t-tests, will reveal associations between these variables during times of poor air quality and compare them against times of baseline air quality. This topic is significant for several reasons. First, the absence of a nationwide monitoring network to track ultrafine particulates has hampered the research community in developing robust health studies of these particles. Second, an information asymmetry exists between indoor and outdoor air pollution levels. Indeed, the sole measure of ambient outdoor fine particulate matter paints an incomplete picture of total exposure to air pollution. Third, while studies on mental health responses to natural disasters exist, the subtle psychological tolls from discomfort (e.g., headaches, scratchy throat, limited outdoor activities) experienced during a secondary-disaster (e.g., deterioration of air quality in neighboring regions of the wildfire zone) are seldom discussed. This proposal provides an opportunity for a naturalistic field study; results can be used to compare to other laboratory and experimental studies. Office buildings in the United States represent over 50 percent of existing commercial building stock by number and total square footage. Scholarly data are not available about the infiltration of fine and ultrafine particles in work environments. This research will fill a data void concerning needed information on the infiltration of fine and ultrafine particles in work environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852995</AwardID>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>amyakim@uw.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>ENVIRONMENTAL ENGINEERING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Dynamic phase-sensitive optical coherenence microscopy to quantify activity in retinal cells</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Stem cell technology has the potential to provide a pathway for reversing sight damage that occurs with age.  A crucial element of reversing sight damage is developing techniques to quantitatively assess the structure as well as the activity and function of individual cells within the retina.  Without this monitoring capability, treatments would rely on structure alone, which is not comprehensive. The overall goal of this research project is to develop clinical imaging tools that could provide such features before, during, and after drug and gene therapies. The project's educational activities include development of innovative optics curricula and educational outreach events designed for students of all ages. Outreach activities will be also performed with the Wisconsin Institutes for Discovery (WID). &lt;br/&gt;&lt;br/&gt;The technical approach calls for advancing phase sensitive optical coherence tomography to study cellular motion in three-dimensional cell cultures. The motivation is that this approach will help develop tools for assessing success of transplanted retinal cells.&lt;br/&gt;The core advancement proposed here is to determine if dynamic phase-sensitive optical coherence microscopy will enable imaging of cellular function. This will be done by developing a high resolution dynamic phase-sensitive optical coherence microscope, quantifying phagocytosis in retinal pigment epithelium as a model of disease, and characterizing photoreceptor activity in stem cell-derived organoids.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/07/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/07/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845801</AwardID>
+<Investigator>
+<FirstName>Jeremy</FirstName>
+<LastName>Rogers</LastName>
+<EmailAddress>jdrogers5@wisc.edu</EmailAddress>
+<StartDate>02/07/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

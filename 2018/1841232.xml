@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Rent payment to GSA FY18 and FY19</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>248064</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>13000000</Code>
+<Directorate>
+<LongName>Natl Nanotechnology Coordinating Office</LongName>
+</Directorate>
+<Division>
+<LongName>Natl Nanotechnology Coordinating Office</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diana Petreski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>06/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841232</AwardID>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Friedersdorf</LastName>
+<EmailAddress/>
+<StartDate>06/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>General Services Administration</Name>
+<CityName>Washington</CityName>
+<ZipCode>20405</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>R111</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>1685</Code>
+<Text>NNCO ACTIVITIES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

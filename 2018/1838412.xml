@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Enabling Quantum Leap: Exceptional-point Topological Polaritonics for Room-temperature Quantum Logic</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Opila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical description: This EAGER project seeks to enable room-temperature quantum logic operation in an emerging platform known as two-dimensional quantum materials. While quantum technologies present exciting opportunities such as exponential speed-ups of large computations, their realizations often require cryogenic conditions, such as -269 degrees Celsius, which is challenging to obtain in daily lives. Accordingly, the research team proposes to investigate, theoretically and experimentally, a set of fundamental physical mechanisms and phenomena that can significantly reduce the threshold of quantum logic gates and bring them to room-temperature operation. This research activity is integrated with efforts to train undergraduate and graduate students via interdisciplinary, collaborative research at the forefront of optical and quantum physics, material science, and nanotechnology.&lt;br/&gt;&lt;br/&gt;Technical description: The interaction between light and matter is at the heart of both quantum logic gates and classical optoelectronic devices. So far, most research is built upon the traditional theoretical framework of cavity quantum electrodynamics, which relies on one assumption: the Green's function of a system can be fully expanded by its eigenmodes. In this project, the research team propose to investigate new physics and devices where this fundamental assumption fails, at a unique type of non-Hermitian topological degeneracies known as exceptional points. In particular, the project focuses on the application of exceptional points to reduce quantum logic thresholds in the platform of two-dimensional materials. Successful completion of the project may benefit society by potentially granting access to quantum technologies in people's daily lives. In addition, the focus on non-Hermiticity and topological physics enables the development of new families of classical optoelectronic devices essential to our technological infrastructure in a multitude of areas, including imaging and sensing, healthcare, and energy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838412</AwardID>
+<Investigator>
+<FirstName>Alan</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>johnson@dept.Physics.Upenn.Edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hui</FirstName>
+<LastName>Deng</LastName>
+<EmailAddress>dengh@umich.edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bo</FirstName>
+<LastName>Zhen</LastName>
+<EmailAddress>bozhen@sas.upenn.edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: Better Software Security Through Caging</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>499992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Software has bugs, quite commonly in libraries that are created by third-party developers.  Unfortunately, a bug in any library enables attackers to take control of an application.  Furthermore, since popular libraries are used across thousands of applications, these libraries become a high-leverage target for attackers.  This work improves the security of software by stopping bugs in one library from impacting other portions of the application.  This makes it much more difficult for attackers to compromise software and harm users.&lt;br/&gt; &lt;br/&gt;This work builds a novel mechanism that can take legacy programs and convert them into a series of components that are isolated into different domains called cages. Cages are isolated from each other in a way that is similar to how operating system virtual machines are isolated. Each cage may have its own file system and network interface, and may handle system calls in a different manner. This includes the potential for blocking system calls that should not be needed by a cage, for example to disable the network interface in libraries that do not need it. This isolation also includes resource and performance isolation for a specific cage, preventing a malicious or buggy library from crashing or harming an application. The team is working to not only develop a research prototype for the effort, but also to use this work to secure large software projects.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815925</AwardID>
+<Investigator>
+<FirstName>Justin</FirstName>
+<LastName>Cappos</LastName>
+<EmailAddress>jcappos@nyu.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

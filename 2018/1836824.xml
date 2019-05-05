@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MCA-PGR: Phylogeny-Guided Biochemical Genomics to Elucidate the Tyrosine-Derived Lignin Metabolic Network of Grasses</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>1065295.00</AwardTotalIntnAmount>
+<AwardAmount>602393</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric Lyons</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Plants produce a variety of chemical compounds that are essential for making cells and the entire organism.  One of these compounds, lignin, gives physical strength and supports water transport in plants.  It is beneficial to generate bioenergy plants with less lignin because lignin impedes the production of bioethanol. However, lowering lignin production may negatively impact plant growth. This research will address this fundamental issue by studying how essential compounds such as lignin are synthesized and how the underlying processes evolved in different plants.  Specifically, this project seeks to understand the genes and pathways responsible for making lignin in grasses, which are major sources of food and bioenergy production. Because grasses have a unique pathway for making lignin that is not found in other plants, understanding the evolution of this grass-specific lignin pathway will provide better strategies to improve grasses for efficient production of food and energy.  To increase the awareness of the importance of plant-derived compounds and to train next generations of scientists, this project will conduct K-12 outreach activities called "Pigment Art+."  This will be specifically focused on schools from communities that are underrepresented in science. The scientific and educational outcomes of this project will have broad impacts for both research and society through improved understanding of how essential compounds, such as lignin, are made in plants. &lt;br/&gt;&lt;br/&gt;Primary metabolites, such as proteins and cell walls, directly impact yield, quality, and performance of crops. This research will explore primary metabolic diversity to uncover major evolutionary innovations of plant metabolism and to provide novel tools and strategies to rationally optimize these core metabolic processes in plants. A primary cell wall component, lignin, and other phenolic compounds are produced through a complex network of the aromatic amino acid and phenylpropanoid pathways and usually synthesized from L-phenylalanine. Uniquely, grasses synthesize lignin additionally from L-tyrosine. This research aims to elucidate biochemical and genetic basis of this unique diversification of primary metabolism, the tyrosine-derived lignin biosynthetic pathway. Utilizing the wealth of genome/transcriptome data from grass and non-grass monocots, this project will employ "phylogeny-guided" biochemical and genomic analyses to dissect the tyrosine-derived lignin biosynthetic pathways and their evolutionary history. Aim 1) will determine the evolutionary timing of the emergence of the tyrosine-lignin pathway through activity screening of key enzymes across monocots. Aim 2) will define molecular basis of the evolution of the tyrosine-derived lignin pathway through phylogeny-guided structure-function analyses of these enzymes. Aim 3) will further identify genes and enzymes that co-evolved and reshaped the overall tyrosine-lignin biosynthetic network. Aim 4) will elucidate potential functionalization of key enzymes involved in the tyrosine-lignin biosynthetic network. This study will establish a multidisciplinary approach of phylogeny-guided biochemical genomics, which allows us to investigate evolutionary history of complex traits, such as primary metabolic diversity, that occurred in multiple loci over a long evolutionary time scale.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/25/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836824</AwardID>
+<Investigator>
+<FirstName>Hiroshi</FirstName>
+<LastName>Maeda</LastName>
+<EmailAddress>maeda2@wisc.edu</EmailAddress>
+<StartDate>04/25/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Analysis, Approximation Theory, Operator Theory and their Interactions</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>24000.00</AwardTotalIntnAmount>
+<AwardAmount>24000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding to help defray the expenses of participants in the "Workshop on Analysis, Approximation Theory, Operator Theory and their Interactions", a meeting that will take place during March 13-16, 2018, on the campus of Ohio State University, Columbus, Ohio. Additional information about the conference can be found on the website http://u.osu.edu/costin.10/&lt;br/&gt;&lt;br/&gt;The Workshop on Analysis, Approximation Theory, Operator Theory and their Interactions will engage participants in an interesting blend of approximation theory, operator theory, and general analysis. It is intended to provide opportunities for interaction among workers in these areas, to set future research directions and provide an opportunity for young workers to learn important aspects of the field. The latter will be accomplished by a series of expository lectures by leading experts. The following subareas will be emphasized during the workshop: orthogonal polynomials and systems, wavelet theory (and its use in approximation of Besov and Sobolev spaces), special functions, interpolation of operators, s-numbers and entropy numbers for operators on Banach spaces and their approximations, nuclear operators, eigenvalues of operators (including non-selfadjoint) and applications of approximation and operator theory. This will be an important conference on approximation and operator theory that will significantly impact the future interaction of these fields.</AbstractNarration>
+<MinAmdLetterDate>12/19/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/19/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800794</AwardID>
+<Investigator>
+<FirstName>Ovidiu</FirstName>
+<LastName>Costin</LastName>
+<EmailAddress>costin@math.ohio-state.edu</EmailAddress>
+<StartDate>12/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rodica</FirstName>
+<LastName>Costin</LastName>
+<EmailAddress>rcostin@math.ohio-state.edu</EmailAddress>
+<StartDate>12/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jan</FirstName>
+<LastName>Lang</LastName>
+<EmailAddress>lang@math.ohio-state.edu</EmailAddress>
+<StartDate>12/19/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

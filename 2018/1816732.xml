@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CHS:Small: Improved Cross-Subject Cognitive and Emotional State Classification  Using Functional Near-Infrared Spectroscopy Data for Deep Learning</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>494374</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tonya Smith-Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>New advances in bio-technology suggest devices to wear and measure the brain will be available to support many different activities. Future technologies may use brain activity data to adapt or customize educational software in real-time. Activity support based on interpreted brain activity could be used to reduce mental workload, modify emotional states, or help someone with post-traumatic stress disorder. However, brain activity data is complex and difficult to interpret. This project will use deep machine learning methods to overcome the challenge of classifying and interpreting brain activity data using real-time data from participants. The objective is to harness the tremendous potential of cognitive sensors and computational methods to help individuals function more effectively.  &lt;br/&gt;&lt;br/&gt;Although many early successes were achieved using machine learning on brain data, several notable challenges have arisen, which significantly limit the impacts of these early successes. The technical approach in this project has three research thrusts. The investigators will develop models specifically for use on high density functional-near infrared spectroscopy (fNIRS) data. Thrust 1 involves the development of advanced deep learning techniques that are particularly well-suited for fNIRS data, and address spatial and temporal inter-relations. Thrust 2 involves development and adaptation of algorithm transparency (AT) techniques that are well-suited to shed light on brain dynamics embedded within the deep learning model structures. This will help the research team interpret the underlying structure of the models, with respect to brain spatial and temporal dynamics at the individual and group level. Thrust 3 collates the model and AT techniques developed in the prior thrusts and evaluates them using an extensive cross-subject and cross-participant fNIRS dataset. Using this data for evaluation purposes, the research team will work together to interpret results to improve upon classifier performance and model generalizability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816732</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Kalish</LastName>
+<EmailAddress>mlkalish@syr.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Senem</FirstName>
+<LastName>Velipasalar</LastName>
+<EmailAddress>svelipas@syr.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leanne</FirstName>
+<LastName>Hirshfield</LastName>
+<EmailAddress>leanne.hirshfield@colorado.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Syracuse University</Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>132441200</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress>OFFICE OF SPONSORED PROGRAMS</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

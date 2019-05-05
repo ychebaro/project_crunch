@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mechanisms Governing DNA Replication Timing and Copy Number Control During Development</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>247669</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Weinreich</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mechanisms governing DNA replication timing and copy number control during development &lt;br/&gt;&lt;br/&gt;The genomes of eukaryotic organisms contain millions to billions of base pairs of DNA that must be accurately copied every time a cell divides. Failure to accurately copy DNA can cause mutations that alter cell function or even lead to cell death. Given the complexity of copying DNA, this process can take many hours to complete. DNA is not copied randomly, but rather particular DNA sequences are replicated at specific times during the period of genome replication. This project will utilize interdisciplinary approaches to understand how key factors control when a specific DNA sequence is replicated. The project will also provide educational and research opportunities to benefit both teachers and students. First, we will provide direct and hands-on research opportunities for Nashville area high school teachers to aid in the development of an experimental-based curriculum. Second, we will develop new approaches in the classroom to expose undergraduate and graduate students to the power of using interdisciplinary approaches to solve unanswered questions in biology. Lastly, we will provide hands-on research opportunities to undergraduate students at Vanderbilt.&lt;br/&gt;&lt;br/&gt;Rif1 has been shown to control the replication timing program from yeast to humans, but precisely how Rif1 performs this function remains unknown. This project aims to identify how Rif1 activity is regulated during development and thus help determine the replication timing program. Using Drosophila melanogaster as a model system, we have found that Rif1 associates with the replication machinery in a developmentally programmed manner. We will combine the powerful developmental systems of Drosophila, with biochemical and proteomic approaches to determine how Rif1 associates with the replication machinery. We will then use a combination of genetics and genomics strategies to determine how Rif1 influences replication timing in different developmental contexts. Finally, we will apply chromosome conformation capture techniques to interrogate the molecular mechanisms that Rif1 utilizes to regulate the replication timing program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818019</AwardID>
+<Investigator>
+<FirstName>Jared</FirstName>
+<LastName>Nordman</LastName>
+<EmailAddress>jared.nordman@vanderbilt.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPP-Res Exp for Tchr Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

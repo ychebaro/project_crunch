@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase II IUCRC at University of Tennessee, Knoxville (UTK):  Manufacturing and Materials Joining Innovation Center (Ma2JIC)</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Manufacturing and Materials Joining Innovation Center (Ma2JIC) research aims to close the gap between materials development and weldability by developing scientifically based methodologies for assessing weldability and joinability that span length scales over a wide variety of materials.  The University of Tennessee, Knoxville (UTK) site strengths include materials development, crosscutting capabilities including multi-scale characterization and modeling, and metal additive manufacturing (AM).  AM technologies have the potential to benefit society in a multitude of ways including reducing scarce and dwindling raw materials and producing unique parts for variety of applications associated with aerospace, infrastructure, energy, and automotive industries. Equally important is educating and developing a new generation of materials joining engineers and scientists. Engineers will design by building layer-by-layer and parts can feature unlimited possibilities in design complexity. During Phase I the UTK site of Ma2JIC established collaborative research with small-, medium- and large-scale industries and national laboratories and began shaping and refining a research agenda based on industrial needs.  During Phase II the Ma2JIC UTK site seeks to continue to grow these collaborations along with research relevant to future and existing manufacturing industries, establishing new collaborations, and initiating projects that will strengthen collaborations with the other Ma2JIC sites.&lt;br/&gt;&lt;br/&gt;Technical efforts of the Ma2JIC UTK site promote innovations in welding, materials joining, and additive manufacturing technologies through interdisciplinary research bringing together design, robotics and automation, process innovation/control, materials science, advanced characterization and high-performance computational modeling. The research portfolio of the UTK site brings capabilities in the area of large-scale additive metal manufacturing and characterization techniques, especially using radiation based scattering and imaging using neutrons and X-rays. The end results of the projects will be focused on promoting higher yields and scale-up of proven laboratory developments relevant to aerospace, infrastructure, energy, and automotive applications. The research promotes scientific discoveries related to the thermo-mechanical-chemical properties of new and existing materials consolidated and joined using traditional and new techniques. Complementary computational and experimental characterization techniques, including in situ and ex situ conditions, will be applied to understand issues such as cyclic thermal and stress loading, residual stress development, and microstructural evolution. The UTK site will produce fundamental research techniques and students versed in these techniques at the crossroads of joining and additive manufacturing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822186</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Hamel</LastName>
+<EmailAddress>whamel@utk.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claudia</FirstName>
+<LastName>Rawn</LastName>
+<EmailAddress>crawn@utk.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dayakar</FirstName>
+<LastName>Penumadu</LastName>
+<EmailAddress>dpenumad@utk.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sudarsanam</FirstName>
+<LastName>Babu</LastName>
+<EmailAddress>sbabu@utk.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephanie</FirstName>
+<LastName>TerMaath</LastName>
+<EmailAddress>stermaat@utk.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

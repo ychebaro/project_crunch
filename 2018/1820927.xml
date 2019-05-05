@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Parameterizing sub-grid Arctic snow-on-sea-ice processes in Earth System Models using MOSAiC field observations and realistic-resolution process models.</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>600571.00</AwardTotalIntnAmount>
+<AwardAmount>600571</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gregory Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will help answer one of the key questions being asked by the international Arctic climate-science community: What is the role of snow-on-sea-ice in controlling heat exchanges in the Arctic climate system? This work will educate young scientists in the combined issues of field measurements, high-resolution modeling, and representing high-resolution processes in regional and global models. In addition, it will collect high quality field measurements that will advance Arctic system science for years to come.&lt;br/&gt;  &lt;br/&gt;This research will synthesize three interrelated science contributions: (1) Multidisciplinary drifting Observatory for the Study of Arctic Climate (MOSAiC) field observations will identify governing physical processes, fluxes, and linkages within the Arctic climate system. (2) Realistic-resolution (meters-scale), physically based modeling tools (e.g., MicroMet, SnowModel, EnBal, SnowPack, SnowTran-3D, SnowDunes, SnowAssim, SeaIce-3D) will quantify the behavior, interactions, and sensitivities among the Arctic system components. (3) Field observations and high-resolution modeling will be integrated to define what is missing or poorly represented in Earth System Models and guide the parameterization of the associated snow-related processes and fluxes for the Community Earth System Model (CESM) and the Los Alamos Sea Ice Model (CICE).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820927</AwardID>
+<Investigator>
+<FirstName>Glen</FirstName>
+<LastName>Liston</LastName>
+<EmailAddress>glen.liston@colostate.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5219</Code>
+<Text>ARCTIC SYSTEM SCIENCE PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>072Z</Code>
+<Text>NNA-Navigating the New Arctic</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

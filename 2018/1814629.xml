@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CCF-BSF: AF: CIF: Small: Low Complexity Error Correction</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy J. Kimbrel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Error correcting codes are a fundamental tool for protecting data in communication and storage. Since the seminal works of Shannon and Hamming in the 1950s, error correcting codes have found uses throughout computer science and engineering, including in algorithm design, complexity theory, and cryptography. The goal of this project is to develop extremely efficient decoding algorithms for error correcting codes, in a variety of settings.  In addition to addressing fundamental problems in algorithmic coding theory, this research will have applications algorithm design, complexity theory and pseudorandomness.  Further, this award advances education by supporting graduate students and by providing research opportunities for undergraduates. This project is an international collaboration, made possible through joint funding with the US-Israel Binational Science Foundation (BSF). The project brings together one US investigator and one Israeli investigator, both of whom are experts in algorithmic coding theory, and who have a history of successful collaboration.&lt;br/&gt;&lt;br/&gt;This project develops linear-time and sublinear-time algorithms for decoding error correcting codes in scenarios where these codes operate at capacity: that is, where they attain the best possible combinatorial and/or information-theoretic trade-offs.  The approach is to bring together algebraic, graph-theoretic, and information-theoretic techniques.  Traditionally, graph-theoretic and information-theoretic techniques have been useful in developing linear-time or near-linear-time algorithms for decoding, while algebraic techniques have been useful in developing sublinear-time algorithms.  By combining these techniques, this project will make progress on fundamental questions in algorithmic coding theory.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814629</AwardID>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Wootters</LastName>
+<EmailAddress>marykw@stanford.edu</EmailAddress>
+<StartDate>05/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

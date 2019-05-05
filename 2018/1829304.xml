@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Ship Operations- R/V Marcus G. Langseth</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>41425317.00</AwardTotalIntnAmount>
+<AwardAmount>14609198</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rose Dufour</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Lanseth provides the US academic community multi-channel seismic MCS capability, and over the last decade Langseth has worked throughout the world's oceans.  The unique capabilities of Langseth have enabled both 2D and 3D MCS experiments that required multiple hydrophone arrays and linear sound source airgun arrays.  Combined with the ability to carry large numbers of ocean-bottom seismometers for refraction seismology, this unique imaging capability has permitted NSF-sponsored scientists to study a wide range of marine Earth science problems.&lt;br/&gt;&lt;br/&gt;R/V Langseth supports NSF work that has been peer-reviewed.  This first year annual report has gone to external panel.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829304</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Goldberg</LastName>
+<EmailAddress>goldberg@ldeo.columbia.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Higgins</LastName>
+<EmailAddress>sean@ldeo.columbia.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5411</Code>
+<Text>SHIP OPERATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5411</Code>
+<Text>SHIP OPERATIONS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

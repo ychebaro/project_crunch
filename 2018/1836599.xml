@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>QLC: EAGER: Molecular harvesting of ultrastrong light-matter coupling</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>180000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Evelyn M. Goldfield</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Joel Yuen Zhou of the University of California, San Diego, is supported by an EAGER award in the Division of Chemistry to study exotic forms of matter that arise from ultra-strong coupling between molecules and light in an optical cavity. An optical cavity is an arrangement of mirrors that forms a standing wave cavity resonator for light waves.  When ensembles of molecules are placed between closely spaced mirrors, the energy states of the molecules mix with those of the cavity photons (light particles) to produce new hybrid excited quantum states.  These states are partially molecular and partially photonic. If the energy of interaction between light and matter is sufficiently strong, an unusual phase of matter called the ultrastrong coupling (USC) phase is achieved.  In this phase, the ground state of the composite system contains a macroscopic number of photons. USC has just been successfully attained in the context of molecules embedded in optical microcavities at room temperature. What are the physicochemical properties of these exotic molecular-photonic systems?  Yuen and coworkers use theoretical approaches to address this question.   They study the onset of this phase transition as a function of system parameters that can be externally tuned.  Such parameters may be   temperature, molecular concentration or other quantities.  They will explore how USC affects chemical reactivity as well as energy conversion and storage.  The Yuen-Zhou group engages in outreach activities aimed at broadening the participation of under-represented groups in &lt;br/&gt;&lt;br/&gt;Yuen Zhou and his research group pioneer the theoretical and computational frameworks to understand the physics and chemistry of molecular USC between confined light and molecular degrees of freedom. In these systems, the molecular ground state in principle stores a nontrivial number of photons that can even scale with system size if the light-matter coupling is stronger than a critical threshold. Currently, there is little understanding on how to extract or use this energy. This research addresses how to harness electronic and vibrational degrees of freedom in molecules to store and release this vacuum energy and in doing so, concomitantly achieve new flavors of chemical reactivity. This project  also provides novel strategies to probe the quantum nature of the modified vacuum and explore quantum phase transitions using molecular systems. The relevance of this project is that it addresses a timely yet largely unexplored frontier at the intersection of quantum electrodynamics and chemistry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836599</AwardID>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Yuen-Zhou</LastName>
+<EmailAddress>joelyuen@ucsd.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6881</Code>
+<Text>Theory, Models, Comput. Method</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

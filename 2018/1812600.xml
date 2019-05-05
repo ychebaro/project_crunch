@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: STARSS: Small: Analysis of Security and Countermeasures for Split Manufacturing of Integrated Circuits</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>312210</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Kundu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Integrated circuit fabrication has spread across the globe, with over 90% of the world's fabrication capacity controlled by non-US companies. This project is on studying the security of chip fabrication by an untrusted foundry. The fabrication technique, known as split manufacturing, is based on partial sharing of the chip design information with the untrusted foundry in order to protect the intellectual property of the chip. With this technique, only a challenging portion of the chip is manufactured at the untrusted foundry. The remaining is completed by a trusted and smaller-scale foundry. &lt;br/&gt;&lt;br/&gt;Specific research tasks include: (a) use of machine learning techniques to decide an appropriate "split level" to divide the chip design files into trusted and untrusted portions; (b) developing design-aid tools to obfuscate the chip layout files in order to make reverse engineering by the untrusted foundry infeasible; (c) development and public release of a software tool to generate various split-manufactured instances from the design files of the full chip, in order to promote research in this area.&lt;br/&gt;&lt;br/&gt;Besides the release of the software tool, research findings will be published across communities related to the fields of hardware security and Integrated Circuit design. Specific components of the project are designed to promote involvement of undergraduate students in research. Involvement of women and underrepresented students in research will be pursued at all levels.&lt;br/&gt;&lt;br/&gt;Data and software tools will be publicly accessible from http://homepages.cae.wisc.edu/~adavoodi/split-man.htm and will remain active for at least two years following the end date of the award.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812600</AwardID>
+<Investigator>
+<FirstName>Azadeh</FirstName>
+<LastName>Davoodi</LastName>
+<EmailAddress>adavoodi@wisc.edu</EmailAddress>
+<StartDate>07/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>021Z</Code>
+<Text>Industry Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

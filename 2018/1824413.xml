@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Job Search, Hiring, and Matching With Two-Sided Limited Information About Workseekers' Skills</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy A. Lutz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project uses a series of experimental methods to study the role of inefficient information flows in explaining poor labor market outcomes. Specifically, the research conducts a series of experiments in the field and longitudinal surveys to understand how labor market outcomes change when jobseekers and firms have better information about jobseekers' skills and potential productivity. The experimental interventions involve measuring jobseekers' skills using standardized assessments and publicizing the results of these assessments in different ways to employers and jobseekers alike.  Varying the information provided allows the researchers to assess the effects of information flows on labor market outcomes. By providing information to both jobseekers and employers, this research is one of the first to study both the supply and demand side effects information flows on job matches.  The results of the research project therefore provide important inputs into the formulation of labor market policies that helps both employers and jobseekers alike.  The results of this research will therefore improve the efficiency of labor markets, increase employment and therefore spur economic growth.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project uses model-guided randomized experiments with firms and jobseekers to quantify the effect of better information about jobseekers' skills on labor market outcomes. The starting point is a model of job search and job posting where jobseekers have heterogenous skills and both jobseekers and firms observe these skills with error. Limited information on either side of the market can distort both jobseekers' and firms' decisions over job search, job posting, offers, and acceptances. These distortions can reduce total employment, earnings, and productivity. The experiments test this model by randomizing the information firms and jobseekers observe about jobseekers' skills in multiple dimensions (e.g. numeracy, fluid intelligence, grit). Supply-side surveys measure jobseekers' beliefs, job search, employment, and earnings. Demand-side surveys measure firms' beliefs, hiring, wage bills, productivity, and profits.  Unlike existing research on information frictions in the labor market, this project studies both the supply and demand sides of the market, embeds the experiments in a model of supply and demand, and attempts to separate employment creation from employment displacement effects.  The results of this research will provide guidance on policies to improve efficiency of the labor market, increase employment, and economic growth.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824413</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Garlick</LastName>
+<EmailAddress>robert.garlick@duke.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1397</Code>
+<Text>CROSS-DIRECTORATE  ACTIV PROGR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

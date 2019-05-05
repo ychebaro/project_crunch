@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: EAGER: REAL Leafy - A Sustainable, Viral Infrastructure-as-a-Service Edge Cloud</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>252507</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Experimental distributed computing services are becoming vital to support emerging cyberphysical systems.  But the capital investment and operational expenses required to sustain experimental research testbeds to host these vital services can grow large. In this project the Leafy edge compute cloud explores a new model for computing research infrastructure -- a software-only, geographically decentralized cloud testbed that expands in size through voluntary contributions of available computing hardware, on a part- or full-time basis. The LEAFY Cloud offers the prospect of a virtuous cycle: as more sites join the LEAFY edge cloud, more software developers and experimenters are attracted to the infrastructure, resulting in the deployment of more applications and services, increasing the value of new contributors offering to host a compute resource.&lt;br/&gt;&lt;br/&gt;This project will develop and prototype a viral, sustainable, software-only distributed testbed for Cloud-in-the-Loop Systems, and to explore the issues involved in supporting distributed computing experiments and services. It will incorporate modern orchestration, management, and tenancy technologies, and rely heavily on open source virtualization and cloud management software technologies such as Docker and Kubernetes. LEAFY will be the first multi-tenant wide-area distributed system to deploy systems and experiments using a state-of-the-art micro-services architecture. Two experiments will be hosted and analyzed to evaluate the system: a Distributed Collaborative Visualization System and the Global Data Plane.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820901</AwardID>
+<Investigator>
+<FirstName>Glenn</FirstName>
+<LastName>Ricart</LastName>
+<EmailAddress>Glenn.ricart@us-ignite.org</EmailAddress>
+<StartDate>03/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>McGeer</LastName>
+<EmailAddress>rick.mcgeer@us-ignite.org</EmailAddress>
+<StartDate>03/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>US Ignite, Inc.</Name>
+<CityName>Washington</CityName>
+<ZipCode>200363846</ZipCode>
+<PhoneNumber>2023659219</PhoneNumber>
+<StreetAddress>1150 18th Street NW, Suite 900</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2890</Code>
+<Text>CISE RESEARCH RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

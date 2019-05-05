@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Transient Physicochemical Properties of Nanomaterials</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>268551</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Papanikolas</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>When the size of a semiconductor particle is reduced to just a few nanometers, many of its properties can change.  For example, the colors of light emitted by these nanoparticles can be altered simply by changing the size. This type of size-tunability is exploited in many modern electronic devices, such as high-resolution displays and biomedical sensors. Other properties can also change with particle size.  For example, the melting point of nanoparticles tend to decrease as their size is reduced, which presents problems for applications that involve significant heating during manufacturing. In this project, funded by the Macromolecular, Supramolecular and Nanochemistry program in the Division of Chemistry, Professor Richard Schaller at Northwestern University is studying the melting of nanoparticles after the sudden introduction of energy.  Working with his students, Professor Schaller uses very short pulses of laser light to rapidly heat nanoparticles, causing them to expand and melt. The team then employs a series of ultrafast experimental methods to monitor structural changes in the nanoparticle lattice. The insights gained from the research could impact technologies ranging from light-emitting-diodes (LEDs) to solar cells. These insights may help to advance additive manufacturing in 3D printing, which could benefit from facile melting and growth of particles into larger solids. The project also provides education and training opportunities for graduate and undergraduate students.  The results from the research are incorporated into chemistry courses at Northwestern University.  Professor Schaller and his students interact with the City Colleges of Chicago, STEMfest events, and K-8th grade students in&lt;br/&gt;Evanston's District 65, to spread interest in the sciences through on-site classroom demonstrations and guest lectures.&lt;br/&gt; &lt;br/&gt;This research experimentally probes equilibrium- and transient- physicochemical effects that underlie properties of nanoparticles at elevated temperature as well as in elevated temperature processing. The activities focus on advancing the fundamental understanding of both nanoparticle and surface chemistries, so as to develop strategies that can enable individual nanoparticles to maintain their desired function at elevated temperature (preventing the loss of ligands, change of crystal phases, or evolution of chemical composition).  The effort implements transient physical and spectroscopic methods including high fidelity, synchrotron-based transient x-ray diffraction to probe heating and phase behavior, and vibrational spectroscopies.  The research enables insight into ligand behavior and local chemistry, in these important, yet poorly explored conditions. The targeted systems focus on shape-controlled semiconductors and earth abundant semiconductors, such as silicon and Cu2ZnSnS4.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808590</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Schaller</LastName>
+<EmailAddress>schaller@northwestern.edu</EmailAddress>
+<StartDate>05/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

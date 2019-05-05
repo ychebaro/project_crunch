@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Wirelesss Sensing for In Vivo Medical Devices</AwardTitle>
+<AwardEffectiveDate>02/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardAmount>120577</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monisha Ghosh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project develops wireless networking systems for deep-tissue micro-implants. The micro-implants may be swallowed or injected into the human body and used for applications such as delivering drugs or monitoring internal human vitals. The challenge in building these systems arises from the power, size, and longevity constraints of micro-implants as well as the anatomical complexity of the human body and its interaction with wireless signals. By overcoming these challenges, this research will enable a new generation of networked micro-implants that can actively contribute to human health and well-being. &lt;br/&gt;&lt;br/&gt;The goal of this project is to design and build practical wireless systems that are capable of communicating with and localizing micro-implants at near-zero power. To this end, the researchers plan to augment micro-implants with backscatter sensors and develop algorithms, protocols, and system architectures for these sensors. The proposed research contributions encompass developing (i) algorithms for reliable and adaptive deep-tissue communication, (ii) techniques for accurate cross-medium backscatter localization, and (iii) integrated sensing platforms that combine communication, localization, and sensing on battery-free micro-implants. The proposed research will extend beyond the conception of algorithms and systems to the implementation and evaluation of real-world prototypes. The designs will be integrated on micro-implants with sensing and actuation capabilities, and will be evaluated in a number of applications such as wireless smart pills for targeted drug delivery and internal vital sign sensors for continuous in-vivo monitoring.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844280</AwardID>
+<Investigator>
+<FirstName>Fadel</FirstName>
+<LastName>Adib</LastName>
+<EmailAddress>fadel@mit.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

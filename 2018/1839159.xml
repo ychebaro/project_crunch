@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAISE TAQS: Very Large Scale Integrated Electronics and Phontonics Platform for Scaleable Quantum Information Processing</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>999000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The world of quantum mechanics holds enormous potential to address unsolved problems in communications, computation, and precision measurements. Efforts are underway across the globe to develop such technologies in various types of quantum memories, such as photons or atoms. One of the most challenging problems in building quantum computers and the envisioned "quantum internet" concerns the question of how to efficiently connect large numbers of quantum memories. While proof-of-concept experiments are possible with today's technology, scaling quantum systems to tens, hundreds, or thousands of individually controllable quantum memories requires a new generation of electronic and photonic components, systems, and algorithms. The goal of this NSF project is to develop the underlying photonic and electronic chips, as well as control and algorithms, that will make it possible to translate today?s proof-of-concept demonstrations out of the laboratory and into viable quantum technologies. &lt;br/&gt;&lt;br/&gt;This NSF project addresses the core architectural challenges -- in hardware and algorithms -- needed for scaling atomic quantum processing platforms. At the core of the envisioned quantum architecture is the development of a chip architecture that combines complementary metal-oxide semiconductor electronics with a photonic integrated circuit layer. This chip will serve as a scalable chip-based platform to control large numbers of quantum memories. The program will also develop error correction thresholds as well as a new class of heralded two-qubit gates to approach fault-tolerant thresholds despite lossy and decohering channels connecting our logical qubits. The envisioned architecture will be developed for trapped ions and atom-like emitters in diamond, though the core quantum computing architecture will also inform other modular quantum computing or quantum repeater architectures based on atomic or atom-like quantum memories. The program will also include a strong outreach effort to inform the general public about the underlying concepts and the promise of quantum information processing, quantum computing algorithms, and large-scale opto-electronic circuits.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839159</AwardID>
+<Investigator>
+<FirstName>Isaac</FirstName>
+<LastName>Chuang</LastName>
+<EmailAddress>ichuang@mit.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dirk</FirstName>
+<LastName>Englund</LastName>
+<EmailAddress>englund@mit.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ruonan</FirstName>
+<LastName>Han</LastName>
+<EmailAddress>ruonan@MIT.EDU</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

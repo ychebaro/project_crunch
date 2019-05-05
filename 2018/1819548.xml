@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Endoscopic injection device for submucosal esophageal injection of bulking agents in the treatment of gastroesophageal reflux disease</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardAmount>224980</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project proposes to develop a minimally-invasive device that can be used to treat gastroesophageal reflux disease (GERD) by safely injecting a proprietary substance into the base of the esophagus.  GERD is the most common gastrointestinal diagnosis in the US, afflicting ~26% of adult Americans (&gt;60 million people), undermining their sleep, productivity, and quality of life, and leading to other gastrointestinal diseases. Approximately one third of GERD patients continue to suffer from symptoms despite currently available medications treatment. Moreover, long-term use of currently prescribed drugs has side effects and risks. Current surgical solutions are invasive, costly and carry significant risk. The proposed injection system is expected to enable a novel, less invasive and less costly treatment for GERD, leading to reduction of overall healthcare costs and preventing or reducing the incidence of other gastrointestinal diseases. Given the large market size for GERD and profound clinical need, this project directly addresses a critical barrier to developing such therapy for GERD patients. It has the potential to significantly improve treatment of such a common disorder, to become a standard of care and generate tax revenues and jobs. &lt;br/&gt;&lt;br/&gt;The project seeks to develop an endoscopic injection system for consistent multiple injections of bulking agent into the submucosal tissue plane in the lower esophagus. At the heart of this technology will be a novel injection system that utilizes a suction port to grasp the esophageal wall and direct a needle tip to the desired submucosal depth of the affixed tissue. The design of the needle and needle guidance system will be optimized for injection of viscous solutions and will be used for injection of a bulking agent that creates submucosal tissue bulging at the lower esophagus, ultimately preventing gastroesophageal reflux. The proposed device will be unique in its ability to accurately guide submucosal injections to the desired tissue plane. This will be the first system to use vacuum assist for targeted injections into submucosal space. Rapid iterative 3D-printing prototyping will be employed to optimize needle guide geometry and design. Repeatability of the injections with the system will be tested into multiple samples of cadaveric porcine esophagus tissue and porcine cadavers. Impleo already owns an issued US method Patent to inject bulking agent in the esophagus and plans to generate additional IP in this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819548</AwardID>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Gebhard</LastName>
+<EmailAddress>rgebhard@impleomedical.com</EmailAddress>
+<StartDate>05/24/2018</StartDate>
+<EndDate>07/05/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Juliana</FirstName>
+<LastName>Elstad</LastName>
+<EmailAddress>jelstad@impleomedical.com</EmailAddress>
+<StartDate>07/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Impleo Medical, Inc.</Name>
+<CityName>St. Paul</CityName>
+<ZipCode>551105959</ZipCode>
+<PhoneNumber>6128507282</PhoneNumber>
+<StreetAddress>1290 Hammond Rd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

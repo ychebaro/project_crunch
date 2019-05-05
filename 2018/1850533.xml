@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: SaTC: Automated Security Analysis of Software-Based Control in Emerging Smart Transportation Under Sensor Attacks</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>174997.00</AwardTotalIntnAmount>
+<AwardAmount>174997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Transportation systems are being profoundly transformed with the emergence of a series of software-based smart transportation solutions such as intelligent traffic signal control and autonomous driving. In these systems, the key enabler of their functional intelligence is the sensing capability, which collects necessary road information to enable better control decisions. However, sensor data are collected from a public channel, i.e., the physical transportation environment, which thus inevitably creates opportunities for attackers to tamper with the sensing process. In this project, the investigator initiates research efforts towards achieving a systematic understanding of the robustness of software-based control in emerging smart transportation systems under sensor attacks. Since transportation is a basic urban function, the successful completion of this project is expected to proactively identify and address new security challenges in these systems before wide deployment, and thus help ensure the security and safety of everyday life.&lt;br/&gt;&lt;br/&gt;In this project, an automatic approach will be designed, implemented, and evaluated to enable efficient and effective discovery of security problems in emerging smart transportation systems. The approach focuses on discovering semantic security problems, which for example change control decisions in the smart transportation functions. This is because analyzing them usually leads to the discovery of novel and domain-specific design trade-offs in an area or even across areas, which thus has more potential to advance knowledge and guide future research. To achieve this goal, this project will design a dynamic security analysis system following an evolutionary algorithm approach, and propose novel solutions to address research challenges in analysis input generation, semantic problem discovery, and analyzing dataflow-centric decision process. This project will concretely apply the developed system to real-world code bases of smart transportation systems to ensure the practicality of the discovered security problems, challenges, and solution directions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850533</AwardID>
+<Investigator>
+<FirstName>Qi</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>alfchen@uci.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>026Y</Code>
+<Text>CRII CISE Research Initiation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

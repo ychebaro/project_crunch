@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Oligomers vs. Phenolics from Hydrolytic Lignin Pyrolysis</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>291341</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Triantafillos Mountziaris</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Understanding and controlling lignin pyrolyis is an important problem whose solution may enable cost-effective production of biofuels and high-value chemicals from biomass feedstocks. Lignin is a complex material and its pyrolytic decomposition is a rich field for scientific inquiry. Conventional methods of studying lignin pyrolysis are limited by the inability to know or set the residence time of the lignin samples in the reaction zone, unknown temperature profile, and inability to differentiate between secondary and primary products. Reactors used in the proposed study are capable of rapid heating to well-defined temperatures and holding the lignin at these temperatures for specific time intervals. The outcome of the proposed research has the potential to enhance the fundamental knowledge of lignin chemistry and provide guidelines for the controlled deconstruction of natural lignin to bio-oil and value-added products.&lt;br/&gt;&lt;br/&gt;The proposed research aims to develop fundamental knowledge concerning the underlying chemistry of homogeneous lignin depolymerization in the gas phase. A key objective is to investigate the primary processes of depolymerization, while avoiding the challenges posed by conventional pyrolysis, including mass and heat transport limitations, that depend om sample size, and surface effects, that affect product distribution in the post pyrolysis secondary tar reactions. The proposed research will focus on understanding the priority of formation of oligomers vs. phenolic compounds in unconventional laser powered homogeneous pyrolysis and continuous droplet evaporation reactors. The ultimate objective is a better fundamental understanding of the depolymerization mechanism of lignin and the role of intermediate species (oligomers) in the products distribution obtained from batch pyrolysis reactors. The research results will be incorporated into educational and outreach programs at Louisiana State University with special emphasis on engaging underrepresented minority students and mentoring them into pursuing careers in science and engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805677</AwardID>
+<Investigator>
+<FirstName>Lavrent</FirstName>
+<LastName>Khachatryan</LastName>
+<EmailAddress>lkhach1@lsu.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana State University &amp; Agricultural and Mechanical College</Name>
+<CityName>Baton Rouge</CityName>
+<ZipCode>708032701</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress>202 Himes Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1403</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

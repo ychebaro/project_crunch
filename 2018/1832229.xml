@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>LTER:  Drivers of Abrupt Change in the Florida Coastal Everglades</AwardTitle>
+<AwardEffectiveDate>12/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>2254000.00</AwardTotalIntnAmount>
+<AwardAmount>1136999</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Douglas Levey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Coastal ecosystems like the Florida Everglades provide many benefits to society. They protect coastlines from storms and store carbon. They provide habitat and food for important fisheries. They also support tourism and local economies, and store freshwater for millions of people. The Florida Coastal Everglades Long Term Ecological Research (FCE LTER) program addresses how and why coastal ecosystems are changing in response to sea level rise and the actions of people. Like many coastal ecosystems, the Florida Everglades are threatened by the diversion of freshwater to support urban and agricultural expansion. At the same time, sea level rise has caused coastal ecosystems to become saltier, threatening the freshwater supply, stressing freshwater plants, and causing the soils to collapse. When the soils beneath coastal wetlands disappear, seawater invades even more quickly. Researchers in the FCE LTER are continuing long-term studies and experiments to understand how these changes influence ecosystem functions and services. They are also developing tools for resource managers to create an effective freshwater restoration program. The science team includes an active community of graduate students. As a group, they reach the public through education and outreach activities, and regularly advise policy-makers on resource management decisions.&lt;br/&gt;&lt;br/&gt;The FCE LTER research program addresses how changing fresh and marine supplies of water influence coastal ecosystem dynamics through: (i) continued long-term assessment of changes in biogeochemistry, primary production, organic matter, and trophic dynamics in ecosystems along freshwater-to-marine gradients, (ii) maintenance of existing in situ and ex situ long-term experiments, (iii) use of high-resolution remote sensing, coupled with models to forecast landscape-scale changes, (iv) addition of synoptic satellite sites to capture discrete spatio-temporal responses to episodic disturbance, and (v) initiation of new experimental manipulations to determine drivers and mechanisms of resilience to saltwater intrusion. Data syntheses integrate month-to-annual and inter-annual data into models of water, nutrients, carbon, and species dynamics throughout the Everglades landscape to compare how ecosystems with different productivities and carbon stores respond (maintain, increase, or decline) to short- (pulses) and long-term changes (presses) in hydrologic connectivity. Understanding and predicting the drivers of abrupt changes in ecosystems is a key challenge in ecosystem ecology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832229</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Fourqurean</LastName>
+<EmailAddress>fourqure@fiu.edu</EmailAddress>
+<StartDate>11/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Evelyn</FirstName>
+<LastName>Gaiser</LastName>
+<EmailAddress>gaisere@fiu.edu</EmailAddress>
+<StartDate>11/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Kominoski</LastName>
+<EmailAddress>jkominos@fiu.edu</EmailAddress>
+<StartDate>11/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Rehage</LastName>
+<EmailAddress>rehagej@fiu.edu</EmailAddress>
+<StartDate>11/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Grove</LastName>
+<EmailAddress>kgrove@fiu.edu</EmailAddress>
+<StartDate>11/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>Miami</CityName>
+<ZipCode>331990001</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1195</Code>
+<Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1097</Code>
+<Text>DIVERSITY: ROLE IN ECOSYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1195</Code>
+<Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPP-Res Exp for Tchr Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8242</Code>
+<Text>Marine Nitrogen Cycle</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8811</Code>
+<Text>Marine Microbial Ecology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9117</Code>
+<Text>MARINE BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

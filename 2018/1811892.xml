@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Postdoctoral Fellowship in Biology FY 2018</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardAmount>138000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Marenda</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2018, Research Using Biological Collections. The fellowship supports research and training of the fellow that will utilize biological collections in innovative ways. Understanding the process of speciation (how one distinct species becomes two distinct species) is fundamental to understanding the origins of biodiversity. Speciation is difficult to study because it cannot be directly observed within a human lifetime. One way to overcome this obstacle is to study how one species evolves across space rather than through time. One example of this approach is to look at a species that has a distribution range expanding around a barrier (e.g. a mountain range), and then determine if that species has evolved due to this break in distribution. This is known as a ring species and it is considered to be the perfect demonstration of speciation. Examples are rare but have had an outsized impact on our understanding of speciation. This research will expand our empirical understanding of ring species and in turn, the process of speciation, by rigorously documenting a promising, yet so far unappreciated ring species candidate, the Dusky-capped Flycatcher of Central and South America. This research will utilize and integrate a variety of biological collections including museum specimens, genetic resources, and audio collections of avian vocalizations. &lt;br/&gt; In the Dusky-capped Flycatcher, two phenotypically and genetically divergent subspecies have distinct yet overlapping elevational distributions along the southern half of the Andes, yet are connected by a continuous ring of intermediate populations in the lowlands surrounding the impermeable barrier of the northern Andes. To characterize the phenotypic variation of this potential ring species, the fellow will collect data on morphology and plumage color from a remarkable series of historical museum specimens. Importantly, every specimen is linked to archived audio recordings made at the time of their collection permitting an integrated evaluation of plumage, morphology, and vocalizations. Secondly, a reference genome and accompanying lower-coverage genomes will be assembled from existing genetic resources. These genomes will be used to test the genetic predictions of the ring species hypothesis. The impact of this research will extend beyond its intellectual contributions to the broader public through involvement and mentorship of students from underrepresented groups. The results of this research will be disseminated through peer-reviewed publications as well as a public education campaign through the fellow's host institution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811892</AwardID>
+<Investigator>
+<FirstName>Glenn</FirstName>
+<LastName>Seeholzer</LastName>
+<EmailAddress/>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Seeholzer               Glenn          F</Name>
+<CityName>New York</CityName>
+<ZipCode>100295008</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>001Y</Code>
+<Text>Collections Postdocs</Text>
+</ProgramElement>
+</Award>
+</rootTag>

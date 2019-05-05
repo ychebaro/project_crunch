@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CHS: Small: Collaborative Research: Validating and Communicating Model-Based Approaches for Data Visualization Ability Assessment</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>248337</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>People are encountering graphs, charts, and other visual representations of data now more than ever before. Yet creators of these visualizations currently must reason with sparse and conflicting evidence on how well people can read the visualizations they publish.  Current guidelines do not take into account the possibility that different people have different strengths and weaknesses when interpreting visual data. This project will use studies of visualization effectiveness to inform our understanding of the abilities and biases of viewers, both individually and collectively.  To do this, the project team will use a combination of experiments, statistical modeling, and interview studies to both challenge long-standing assumptions about visualization effectiveness, and to lay a foundation for future experiments that account for differences in visualization reading ability. The work will also support a broader educational goal of using robust statistical modeling techniques in experimentation, through course modules that can be integrated into existing data visualization courses, and through outreach activities that allow individuals to see how well they perform visualization tasks compared to others who have taken the experiments.&lt;br/&gt;&lt;br/&gt;This work seeks to answer three primary research questions. The first is to determine the extent to which individuals differ in their ability to perform basic tasks with data visualizations, through large-scale crowdsourced experiments that use transparent statistical methodologies to establish individual differences in data visualization performance. The second question evaluates the relationship between low-level visualization performance and higher-level assessments such as visualization literacy and cognitive abilities, recruiting both expert and novice populations to evaluate the extent to which these hypothesized measures of visualization literacy correlate with each other. The third question determines how alternative ways of presenting visualization experiment results shape the design recommendations researchers and designers draw from them, through a comparative evaluation of longstanding ways of presenting visualization experiment results, and by designing new ways of presenting results that may lead to more mature interpretation of experiment results by broader visualization community. The work will provide new perspectives on visualization literacy by augmenting chart reading experiments with novel measures of visualization ability, and by studying how creators currently make use of existing visualization design guidelines in their design process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815587</AwardID>
+<Investigator>
+<FirstName>Lane</FirstName>
+<LastName>Harrison</LastName>
+<EmailAddress>ltharrison@wpi.edu</EmailAddress>
+<StartDate>08/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Worcester Polytechnic Institute</Name>
+<CityName>WORCESTER</CityName>
+<ZipCode>016092247</ZipCode>
+<PhoneNumber>5088315000</PhoneNumber>
+<StreetAddress>100 INSTITUTE RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

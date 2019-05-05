@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:  Acquisition of a Total Reflection X-ray Fluorescence Spectrometer to Enable Ultra-Trace Element Analysis at Washington State University</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>125861</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Ellis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to Washington State University (WSU) to acquire a total reflection X-ray fluorescence (TXRF) spectrometer in support of life and environmental sciences. The machine will significantly contribute to WSU's mission of research and teaching excellence through the advancement and application of new knowledge. Researchers will intensely study the biogeochemical cycles that impact all life on earth, examining in particular the balances of macro and micronutrients within microorganisms, plants, and animals. This work will ultimately help ensure the quality and quantity of global food supplies. The new instrumentation will also contribute to an excellent training environment for students. Graduate and undergraduate students will receive hands-on instruction on the TXRF spectrometer. In addition to gaining state-of-the-art technological training, they will learn the trace elements of food crops and the ion level constituents of a healthy human diet. Students will thus be prepared and engaged to advance in their studies, improve health, and potentially pursue STEM careers. &lt;br/&gt;&lt;br/&gt;The highly sensitive and accurate detection analysis provided by the TXRF will identify nutrients and toxic metal ions in soil, water, organisms, and food down to the subcellular levels. Researchers will use the TXRF to focus on three areas of scientific inquiry: 1) the importance of metal ions for cellular function and plant physiology; 2) the nutrient composition of food and its impact on human and animal health; and 3) the role of mineral compositions in ecosystems for biodiversity and pollution mitigation. Investigations in these diverse areas will enhance the understanding of the global biogeochemical cycle, specifically the systems and processes by which nutrients and toxins move through the environment and its microbes, plants, and animals&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828266</AwardID>
+<Investigator>
+<FirstName>Hans-Henning</FirstName>
+<LastName>Kunz</LastName>
+<EmailAddress>henning.kunz@wsu.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Knoblauch</LastName>
+<EmailAddress>knoblauch@wsu.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mechthild</FirstName>
+<LastName>Tegeder</LastName>
+<EmailAddress>tegeder@wsu.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>McGuire</LastName>
+<EmailAddress>smcguire@wsu.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington State University</Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991641060</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress>280 Lighty</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+</Award>
+</rootTag>

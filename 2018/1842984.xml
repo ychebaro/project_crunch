@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Grant for 2018 ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>24900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides support for U.S.-based students to attend the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, November 6-9, 2018 in Seattle, WA. The ACM SIGSPATIAL conference is the world's premier research conference in Spatial Information and Geographic Information Systems. The conference brings together researchers, developers, users, and practitioners carrying out research and development in novel systems based on geospatial data and knowledge, and fostering interdisciplinary discussions and research in a wide set of disciplines and applications, including computer science, geography, urban planning, land-use, and defense. The ACM SIGSPATIAL conference seeks to support underrepresented students and in particular to foster development on a new generation of researchers and practitioners in the important area of Spatial Information and Geographic Information Systems.&lt;br/&gt;&lt;br/&gt;The ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems 2018 is the 26th event in a series of symposia and workshops that began in 1993 with the aim of bringing together researchers, developers, users, and practitioners in relation to novel systems based on geo-spatial data and knowledge, and fostering interdisciplinary discussions and research in all aspects of geographic information systems. The conference provides a forum for original research contributions covering all conceptual, design, and implementation aspects of geospatial data ranging from applications, user interfaces, and visualization to data storage and query processing and indexing. The ACM SIGSPATIAL conference will feature research presentations, workshops, demonstrations, poster sessions, and student-focused activities, including a student research competition, a spatial computing competition, and mentoring by senior researchers. Proceedings of the 26th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems will be available in the ACM Digital Library.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842984</AwardID>
+<Investigator>
+<FirstName>Farnoush</FirstName>
+<LastName>Banaei-Kashani</LastName>
+<EmailAddress>farnoush.banaei-kashani@ucdenver.edu</EmailAddress>
+<StartDate>07/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Denver-Downtown Campus</Name>
+<CityName>Aurora</CityName>
+<ZipCode>800452571</ZipCode>
+<PhoneNumber>3037240090</PhoneNumber>
+<StreetAddress>F428, AMC Bldg 500</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

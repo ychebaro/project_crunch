@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Machine Learning Approach for Microbial Process Control and Management</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will directly affect the treatment and management of the over 80 km3 of wastewater and solid wastes produced each year in the US. Waste treatment processes are directly tied to environmental and human health in both developed and developing countries but are subject to high costs due to significant energy and maintenance requirements. Municipal wastewater treatment alone accounts for about 3% of electrical energy consumed in the U.S and other developed countries. The successful implementation of the proposed technology, which integrates artificial intelligence (AI) into existing waste treatment infrastructure, has the potential to greatly improve the management of microbial communities associated with treatment processes thereby improving overall effectiveness and sustainability. This solution represents a new way for customers to cut energy and operational costs and improve effectiveness of their treatment processes without large investments in infrastructure. Potential markets for this technology include public, municipal facilities in addition to treatment facilities in the industrial/agricultural sector.  Development of the proposed technology will likely spur additional applications of AI systems in other fields centered around microbial community based engineered systems like bioproduct production, biosensing, and bioremediation.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on our recent development of a machine learning based approach used to accurately predict microbial community structure, process stability, and reactor performance for wastewater treatment. This novel approach, which incorporates genomic data along with environmental and operational parameters into data-mining datasets has demonstrated significant increases in accurately predicting process stability and performance of small-scale wastewater systems compared to models developed without consideration of microbial community dynamics. The predictive models developed through the construction of artificial neural networks have potential to inform engineering decisions for optimized performance and stability of environmental biotechnologies in full-scale systems. Development and implementation of this approach will not only progress the understanding and control of microbial communities that inhabit environmental biotechnologies but may be expanded to other microbiomes such as those associated with human health and biogeochemical cycles.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824119</AwardID>
+<Investigator>
+<FirstName>Hong</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>liuh@engr.orst.edu</EmailAddress>
+<StartDate>03/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

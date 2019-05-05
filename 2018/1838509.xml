@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Prosthetic Sleeve Liners</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is based on a new material that has the capability to reduce skin morbidity in amputees. Skin morbidity is an especially critical concern for patients with decreased wound healing capability because of vascular diseases such as diabetes and endovascular disease. Most current commercially available wound liners intended to avoid decreased wound healing have additions or modifications to base materials that target skin health. These include medicated coatings, cooling systems, and vacuum attachments. However, they do not correct the root of the problem - they aim to treat the secondary problems caused by those materials: heat, sweat, pistoning, and potential of microbial growth. Thus, more preventative technologies are called for than those that will only treat already developed skin wear or infection. This project's technology will not only transform the prosthetic liner industry, but also offer a new approach for other situations that might lead to skin infection issues.&lt;br/&gt;&lt;br/&gt;This I-Corps project combines multiple materials with favorable properties into a single polymeric system that retains a liner's mechanical robustness while wicking away heat and sweat from limb-prosthesis interfaces.  While similar polymeric structures have been used as membranes as well as drug delivery systems, they could be incorporated to the liner materials to improve the liner functioning. This project produces a breathable sleeve with minimal skin irritation, essential for amputees. The in situ production of these liners enables prosthetist and physicians to customize the shape of liners in real time to best meet the need of individuals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838509</AwardID>
+<Investigator>
+<FirstName>Reza</FirstName>
+<LastName>Foudazi</LastName>
+<EmailAddress>rfoudazi@nmsu.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico State University</Name>
+<CityName>Las Cruces</CityName>
+<ZipCode>880038002</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress>Corner of Espina St. &amp; Stewart</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

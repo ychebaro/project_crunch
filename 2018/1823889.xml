@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Optimizing Motor Coordination through Principles of Motor Relearning</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>406266</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Soo-Siang Lim</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Humans often have to engage in the process of changing and refining existing movement patterns, when engaging in normal behaviors as well as in rehabilitation. The goal of this project is to examine this process of "motor re-learning" in complex motor tasks. This project is significant because it will advance theoretical understanding of the principles that drive motor re-learning, and illuminate how these principles can be used to develop new methods of training in healthy individuals. The project includes study of re-learning in violinists, generating outreach and broadening participation in STEM research, and building knowledge of motor learning in musical performance. The project will involve an educational component that provides training to graduate and undergraduate students in conducting research. The knowledge to be gained may have important implications for enhancing movement rehabilitation in individuals with physical disabilities, thereby advancing fundamental science supporting the national health and welfare.  &lt;br/&gt; &lt;br/&gt;Learning one motor skill can exert a powerful influence on subsequent motor learning. These effects can either promote or hinder learning, and can persist for months or years. Motor learning is complex, as even behaviors that seem quite simple can depend on coordination of multiple joints and multiple muscles. This project will alter this dependence, using a human-computer interface. Humans will learn to move a cursor on a screen using gestures.  The experiment will change the function mapping the gestures into cursor movement, across or within training sessions. The expected findings will advance theories of motor learning, which largely ignore the existence and influence of previously learned coordination patterns.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823889</AwardID>
+<Investigator>
+<FirstName>Rajiv</FirstName>
+<LastName>Ranganathan</LastName>
+<EmailAddress>rrangana@msu.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maura</FirstName>
+<LastName>Casadio</LastName>
+<EmailAddress>maura.casadio@unige.it</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leigh</FirstName>
+<LastName>Mrotek</LastName>
+<EmailAddress>leigh.mrotek@marquette.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>004Y</Code>
+<Text>Science of Learning</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>059Z</Code>
+<Text>Science of Learning</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

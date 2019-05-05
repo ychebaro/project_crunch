@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Support for 2018 IEEE International Conference on Data Engineering (ICDE)</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>31168</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides support for about 20 U.S.-based students to participate in the 2018 IEEE International Conference on Data Engineering (ICDE 2018). The primary goal of the conference is the sharing of scientific information and knowledge among participants. The supported students will have the opportunity to present their research, interact with other members of the international community, and start building their professional networks. Emphasis will be given to support a diverse group of students (research specialization, gender, ethnicity, undergraduates or graduates, etc.). Students' horizons will be broadened at a critical stage in their professional development. Supporting participation of U.S. students in the ICDE 2018 is important for the development of future researchers, practitioners and educators. &lt;br/&gt;&lt;br/&gt;The ICDE conference will have a a multi-faceted program to include multiple keynote addresses, technical paper presentations, application track sessions, industry track sessions, demonstrations, a Ph.D. symposium, six workshops, tutorials, panels and poster sessions. All these activities will be opportunities for students to share their research work and knowledge with researchers from both academia and industry. New research topics will include AI interaction with database technology, Data Science, High-Performance Transaction Management, and Scalable Analytics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824659</AwardID>
+<Investigator>
+<FirstName>Alexandros</FirstName>
+<LastName>Labrinidis</LastName>
+<EmailAddress>labrinid@cs.pitt.edu</EmailAddress>
+<StartDate>02/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152132303</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>University Club</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

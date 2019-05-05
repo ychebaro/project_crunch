@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 Network and Distributed System Security (NDSS) Symposium</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>18000.00</AwardTotalIntnAmount>
+<AwardAmount>18000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal supports student travel to attend the 2018 Network and Distributed System Security (NDSS) Symposium to be held in Santa Diego, California, Feb 2018. NDSS brings together innovative and forward-thinking members of the Internet community who research, design, develop, and deploy the technologies that define network and distributed system security. This travel grant will enable career development and learning opportunities for US-based and/or US citizen graduate students. Attending conferences is an important component of graduate school education for our society's future computer security researchers. Students have the opportunity to discuss leading edge research with world-class computer security researchers, and establish networks, connections, and mentoring relationships that will serve them well during their research careers.</AbstractNarration>
+<MinAmdLetterDate>12/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819168</AwardID>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Schofield-Leca</LastName>
+<EmailAddress>schofield-leca@isoc.org</EmailAddress>
+<StartDate>12/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Internet Society</Name>
+<CityName>Reston</CityName>
+<ZipCode>201905109</ZipCode>
+<PhoneNumber>7034392136</PhoneNumber>
+<StreetAddress>1775 Wiehle Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>Information Technology Researc</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

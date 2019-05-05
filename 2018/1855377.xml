@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Defects, Electronic and Magnetic Properties in Advanced Two Dimensional Materials beyond Graphene</AwardTitle>
+<AwardEffectiveDate>03/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Germano Iannacchione</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal mainly seeks to partially support 20 undergraduate students, graduate students, postdocs,&lt;br/&gt;and underrepresented, female, junior and retired faculty to attend and present at the symposium on&lt;br/&gt;"Quantum and Nanomaterials" at the Spring Materials Research Society (MRS) national meeting in&lt;br/&gt;Phoenix, AZ, April 22-26, 2019.  This meeting is the world's foremost international scientific gathering for materials research, the MRS meeting showcases leading interdisciplinary research in both fundamental and applied areas, coordinated by over 200 scientists from both academia and industry in many countries around the world. The meeting's core is its technical program, which includes 54 symposia organized into nine topical areas. Symposium QN02 is in the "Quantum and Nanomaterials" cluster. This cluster involves 8 symposia addressing the physical properties and device concepts involving a wide range of quantum and nanomaterials. Both fundamental scientific aspects and applications will be covered. This cluster will focus on the forefront of theory, discovery, and design of novel 2D materials beyond graphene, their heterostructures and devices concepts. Part of the cluster highlights recent significant developments in the experimental, theoretical, and computational techniques that address the challenges in controlling heat transport mechanisms, from Nanoscale to Multiscale Thermal Transport, Energy Conversion, Storage and Thermal Management.  In addition, Emerging Materials for Quantum Information and Emergent Phenomena in Oxide Quantum Materials will also be covered. Recent updates on the Colloidal Nanoparticles-From Synthesis to Applications will be presented and discussed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/22/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855377</AwardID>
+<Investigator>
+<FirstName>J. Ardie Butch</FirstName>
+<LastName>Dillen</LastName>
+<EmailAddress>dillen@mrs.org</EmailAddress>
+<StartDate>02/22/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Srinivasa Rao</FirstName>
+<LastName>Singamaneni</LastName>
+<EmailAddress>srao@utep.edu</EmailAddress>
+<StartDate>02/22/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Materials Research Society</Name>
+<CityName>Warrendale</CityName>
+<ZipCode>150867573</ZipCode>
+<PhoneNumber>7247792732</PhoneNumber>
+<StreetAddress>506 KEYSTONE DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

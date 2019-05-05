@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mechanistic Studies of Dipole Effects on Electronic Coupling in Charge Transfer Implemented as Photoinduced Dynamics of Intramolecular Hole Hopping</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>494230</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this project, funded by the Chemical Structure, Dynamic &amp; Mechanism B Program of the Chemistry Division, Professor Valentine Vullev at the University of California, Riverside is developing new classes of synthetic systems to study the influence of dipoles on charge transfer.   Charge transfer is among the most fundamental processes, essential for managing energy flow and sustaining life on Earth. Respiration, photosynthesis, batteries, electronic devices and many other intricate components of lives heavily rely on efficient charge-transfer processes. Concurrently, electric dipoles are everywhere, and the localized fields around them can have a profound effect on how charges move.  Therefore, it is important to understand how dipoles affect charge transfer, in order to enhance desired forward electron transduction while suppressing undesired processes.   Professor Vullev's group is well positioned to provide the highest level of education and training for students, including those underrepresented in science.   Outreach activities involving K-12 students are planned.   Summer research training, which includes writing scientific papers and producing scientific videos, will be provided for high school students.  &lt;br/&gt;&lt;br/&gt;More specifically, the goal of this project is to explore how dipoles affect electronic coupling in charge-transfer systems in bioinspired molecular electrets, which are systems with ordered electric dipole moments.  The research is based on Professor Vullev's discovery that the dipoles of molecular electrets can modulate the delocalization of frontier orbitals and alter donor-acceptor electronic coupling, leading to orders of magnitude changes in the charge-transfer rates.  It has three specific aims: (1) determining parameters that govern dipole-modulated electronic coupling; (2) determining the dipole effects on charge transfer occurring via hole-hopping vs. tunneling mechanisms; and (3) determining the effect of radical delocalization on the dynamics of hole hopping.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800602</AwardID>
+<Investigator>
+<FirstName>Valentine</FirstName>
+<LastName>Vullev</LastName>
+<EmailAddress>vullev@ucr.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210217</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>Research &amp; Economic Development</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9102</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1515</Code>
+<Text>MINORITY GRADUATE EDUC ACTIVIT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+</Award>
+</rootTag>

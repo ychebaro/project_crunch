@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Critical Issues in Mathematics Education 2018</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen King</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This conference will continue the workshop series, Critical Issues in Mathematics Education (CIME) on teaching and learning mathematics, initiated by the Mathematical Sciences Research Institute (MSRI) in 2004. The topic for CIME 2018 will be "Access to mathematics by opening doors for students currently excluded from mathematics". The CIME workshops engage professional mathematicians, education researchers, teachers, and policy makers in discussions of issues critical to the improvement of mathematics education from the elementary grades through undergraduate years. Sessions will share relevant programmatic efforts and innovative research that have been shown to maintain or increase students' engagement and interests in mathematics across k-12, undergraduate and graduate education. The sessions will focus particularly on reproducible efforts that affirm those students' identities and their diverse intellectual resources and lived experience. Projects in the DRK-12 program build on fundamental research in STEM education and prior research and development efforts that provide theoretical and empirical justification for proposed projects.&lt;br/&gt;&lt;br/&gt;The CIME workshops impact three distinct communities: research mathematicians, mathematics educators (K-16), and education researchers. Participants learn about research and development efforts that can enhance their own work and the contributions they can make to solving issues in mathematics education. Participants also connect with others concerned about those issues. This workshop will also focus on developing action plans that participants can implement once they return to their institutions. There is also a focus on recruitment of leaders of mathematics departments, teachers, and other leaders in mathematics education across K-12, undergraduate education and graduate education in order to examine systemic changes that can be made to increase access, engagement, and interest in mathematics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827412</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Eisenbud</LastName>
+<EmailAddress>de@msri.org</EmailAddress>
+<StartDate>02/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mathematical Sciences Research Institute</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947205070</ZipCode>
+<PhoneNumber>5106420143</PhoneNumber>
+<StreetAddress>17 GAUSS WAY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7645</Code>
+<Text>DISCOVERY RESEARCH K-12</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

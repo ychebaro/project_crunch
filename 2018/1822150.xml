@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase II IUCRC University of North Carolina Charlotte: Center for Cybersecurity Analytics and Automation CCAA</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardAmount>128714</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Perkins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With the increasing magnitude and sophistication of cyber attacks, cyber warfare has become a major threat to national security. However, the cybersecurity state of the art is still far from providing sufficient protection, not only for Internet enterprise services but also for critical infrastructure services, such as in the financial and energy sectors. With the exponential increase of attack surface and the complete reliance on human analysis and response, the time for detection and mitigation of cyber attacks have been significantly increasing (e.g., can take up to several months). In addition, the cost of deploying cybersecurity has been tremendously increasing as it is becoming very resource and labor intensive. &lt;br/&gt; &lt;br/&gt;The University of North Carolina Charlotte (UNC Charlotte) is leading the research and industry community in NSF IUCRC Center on Cybersecurity Analytics and Automation (CCAA) to address these challenges. Our goal is to build the critical mass of inter-disciplinary academic researchers, industry partners, and government agencies for advancing the science and state-of-the-art of cybersecurity analytics and automation by developing innovative sense-making and decision-making capabilities for autonomous and adaptive cyber defense that requires minimal human involvement with provable and measurable security and resiliency properties. We consider both formal- and data-driven analytics of cybersecurity artifacts for seamlessly integrating sense-making and decision-making for adaptive and autonomous cyber defense.  &lt;br/&gt; &lt;br/&gt;CCAA brings together experts in formal and data-driven cybersecurity to advance cyber defense on multiple fronts, namely, (a) developing dynamic and predictive cyber risk analytics using heterogeneous cyber artifacts, (b) developing adaptive and autonomic decision-making for provably correct and safe defense strategies according to the mission requirements, and system configurations and (c) integrating cyber resilience and agility as inherent properties of cyber and cyber-physical system security.  The UNC Charlotte site will lead the research and management activities and provides profound technical contributions to CCAA in formal methods for configuration verification, automated risk quantification and mitigation, adaptive learning, cyber threat analytics, and cyber agility. &lt;br/&gt; &lt;br/&gt;The Center will create and maintain a center-wide repository to make all products of the research ? datasets, code, tools, experimental results, draft manuscripts, etc. ? available to all Center?s members.  The repository will be accessible through the Center?s website (http://www.ccaa-nsf.org/).  Consistently with the Center?s bylaws and with any applicable NSF or individual universities? requirements, several of these products will be made available to the broader research and industry community.  The repository will be actively maintained during the duration of the Phase II effort, and it can be accessed online.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822150</AwardID>
+<Investigator>
+<FirstName>Bei-Tseng</FirstName>
+<LastName>Chu</LastName>
+<EmailAddress>Billchu@uncc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ehab</FirstName>
+<LastName>Al-Shaer</LastName>
+<EmailAddress>ealshaer@uncc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Charlotte</Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress>9201 University City Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

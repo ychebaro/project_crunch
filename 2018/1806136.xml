@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SnowCluster 2018: The Physics of Galaxy Clusters</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>20500.00</AwardTotalIntnAmount>
+<AwardAmount>20500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Benacquista</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The SnowCluster 2018 workshop will bring together researchers and students studying galaxy clusters, the largest gravitationally bound objects in the universe.  Understanding galaxy clusters can reveal how the universe as a whole evolved, which is called precision cosmology.  In the simplest approximation, clusters of galaxies are composed entirely of dark matter, because the galaxies themselves contribute a small fraction of the total mass; they evolve solely due to gravity, which acts on dark matter and ordinary matter alike.  However, due to the increasingly precise comparisons between observations and models, small deviations are significant, and therefore small effects on cluster evolution are important to understand. &lt;br/&gt;&lt;br/&gt;This conference provides an opportunity for the scientific community to discuss and evaluate the latest models of galaxy clusters, and to "calibrate" theoretical models of cluster evolution.  The conference will feature an informal setting to encourage participation from students and early career researchers.  The conference will actively seek out participants from under-represented groups through a systematic process of one-on-one recruitment of participants by the science topic leaders.  This conference is scheduled for March 18 - 23, 2018 at Snowbird Utah.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806136</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Kieda</LastName>
+<EmailAddress>dave.kieda@utah.edu</EmailAddress>
+<StartDate>12/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Wik</LastName>
+<EmailAddress>wik@astro.utah.edu</EmailAddress>
+<StartDate>12/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

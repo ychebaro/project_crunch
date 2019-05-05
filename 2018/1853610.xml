@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI: Stochastic Interactions: Understanding Invasion and Extinction in Ecological Systems</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>249997.00</AwardTotalIntnAmount>
+<AwardAmount>166039</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Powell</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to develop mathematical and statistical approaches to understand how environmental disturbances or invading species affect communities connected in large food webs. Biological systems are very complex, involving a multitude of interactions among many components at different scales.  How ecological communities may be grouped to explain how they coexist and evolve has been a subject of intense interest among biologists and ecologists.  Even after a century of research, the mathematical tools and models needed to fully understand observed species invasions and extinctions do not exist. Moreover, very few ecological studies have considered mathematical models with random effects.  Real world systems are inherently noisy, and only by including random effects can one properly understand an ecological community. The work involves collaboration with ecologists based at British Antarctic Survey in the United Kingdom to create an interdisciplinary approach grounded in specific data. The outcome of the research will be disseminated through seminars, presentations at meetings, and publications in peer-reviewed journals.  The project will train undergraduate and graduate students in interdisciplinary mathematical research. Many students at Montclair State University are members of underrepresented groups in STEM (including women and minorities), and the research program will leverage existing programs which support these students. &lt;br/&gt;&lt;br/&gt;The project involves the use of theoretical, statistical, and computational approaches to improve our understanding of how models of large ecological systems respond to stochastic interactions and perturbations. Of particular interest is the study of primary and secondary extinction cascades in food webs as well as the susceptibility of food webs to invasive species. By considering a variety of empirical and synthetic food webs and incorporating full dynamics with stochasticity, the work will shed light on which ecosystem mechanisms (e.g., self-regulation, interaction strengths, feedback loops) serve to stabilize food webs against perturbations. The three major components of the work are to: (i) perform comprehensive numerical studies of the stochastic systems to improve our understanding of stochastic invasion, primary extinction, and the resulting secondary extinction cascade; (ii) develop new approaches using continuous Markov chain models to find the optimal path to extinction when considering pairwise, three-way, and higher-order interactions between species; and (iii) determine the vulnerability of an existing food web to invasion by exotic species using innovative asymptotic analysis  The results will be useful in improving our understanding of biodiversity and the organization of living communities as well as factors that can stabilize or destabilize ecosystems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/14/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/14/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853610</AwardID>
+</Award>
+</rootTag>

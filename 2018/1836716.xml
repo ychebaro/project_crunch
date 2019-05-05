@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for the 2018 International Workshop on Bio-Design Automation (IWBDA)</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 10th International Workshop on Bio-Design Automation (IWBDA) 2018 takes place in Berkeley California July 31st to August 3rd and will bring together researchers from electronic design automation (the practice of using computer software to build complex electronics) and synthetic biology (the forward design of novel biological systems using engineering principles). The goal of IWBDA is to make biology more easily, robustly, reliably, and predictably engineered and therefore, tackle challenges in biology and medicine, leading to advances in disease diagnosis, treatment and prevention. This award provides travel assistance for ten undergraduate and graduate students to attend this workshop to present research, participate in a computer programming competition, and network with a large community of industrial and academic researchers. These participants will go on to form the foundation of the field in the future.&lt;br/&gt; &lt;br/&gt;Specifically these students will join a wide variety of researchers (120+) from electronic design automation and synthetic biology in a unique context which does not exist elsewhere. They will have access to between twelve and fifteen technical talks over two days, two invited lectures, ten to twenty posters, multiple group discussion sessions, and a featured student programming competition (BDAthlon). This award covers the registration for the workshop as well as partial support for travel and housing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836716</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Densmore</LastName>
+<EmailAddress>doug.densmore@gmail.com</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7946</Code>
+<Text>BIO COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

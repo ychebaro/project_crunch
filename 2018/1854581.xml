@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for the 2019 HPCA/CGO/PPoPP Symposia</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuanyuan Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support approximately 24 students to attend three co-located conferences: 2019 High-Performance Computer Architecture (HPCA), Code Generation and Optimization (CGO), and ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP). These symposia have leading researchers attending from academia, both students and faculty, and from industry. The symposia were held annually separately for many years, and jointly since 2013. Students who will attend the conferences will be exposed to intellectually stimulating research by attending the many talks, panels, keynotes, and poster presentations at the conferences. &lt;br/&gt;&lt;br/&gt;Students receiving travel grants through this award will learn the importance of good communication skills as well as learn about what it takes to conduct high quality research, through interactions with speakers, faculty, and peer student groups. The award also seeks to enhance the diversity of the attendees, thus maintain a balance between underrepresented and other groups among the participants supported from the grant.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/01/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1854581</AwardID>
+<Investigator>
+<FirstName>Sudeep</FirstName>
+<LastName>Pasricha</LastName>
+<EmailAddress>sudeep@colostate.edu</EmailAddress>
+<StartDate>02/01/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

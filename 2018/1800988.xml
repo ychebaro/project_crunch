@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Building an Industry-aligned Pathway to Careers in Cloud Computing</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>588678</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephanie August</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project represents a partnership with community colleges, industry, regional high schools, and universities to establish an industry-aligned pathway in cloud computing. Technology sectors have shown significant demand for cloud-certified information technology professionals. Collaboratively-developed and industry-led curriculum in cloud computing will lead to a Cloud Fundamentals Certification, stackable toward an Associate of Applied Science with Cloud Specialization. This project leverages existing collaborations among the institutions to create labs and share curriculum development best practices. The target audience for the project will be two-year college students, including veterans and incumbent workers. This project addresses the national call to increase the supply of qualified technicians proficient in cloud technology.&lt;br/&gt;&lt;br/&gt;In a survey of Tech Chief Financial Officers, cloud computing was selected by 74% of those surveyed as the technology that had the most impact on their business in 2017. The goal of the project is to establish an industry-aligned pathway in cloud computing to increase the supply of qualified technicians with proficiency in cloud technology. Project goals will be achieved by working with industry partners who will provide expertise and guidance in curriculum design. The project will develop products that will be disseminated to other institutions including: a new industry-led curriculum in cloud computing, a cloud literacy initiative, a professional development community of practice, and an outreach plan for military veterans.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800988</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Nowak</LastName>
+<EmailAddress>dnowak1@cscc.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Wegeng</LastName>
+<EmailAddress>swegeng@cscc.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Josh</FirstName>
+<LastName>Labrie</LastName>
+<EmailAddress>jlabrie@nvcc.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hatim</FirstName>
+<LastName>Hussein</LastName>
+<EmailAddress>hshussein@nvcc.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbus State Community College</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432151722</ZipCode>
+<PhoneNumber>6142872639</PhoneNumber>
+<StreetAddress>550 East Spring Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7412</Code>
+<Text>ADVANCED TECH EDUCATION PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

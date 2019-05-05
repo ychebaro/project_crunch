@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding the Impact of Confinement on the Dynamics of Entangled Chains</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>120000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew J. Lovinger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY:&lt;br/&gt;&lt;br/&gt;The variety and flexible properties of plastic materials (polymers) has changed our lives. The emergence of particles with a size as tiny as a billionth of a meter (nanoparticles) can provide even more flexible and stronger materials with superior properties as billions of these particles can be incorporated into polymers to yield nanocomposite materials.  Modern chemistry can modify these nanoparticles at the molecular level, which leads to a substantial impact on their material behavior, often with unknown and novel properties. The challenge is to develop a relationship between molecular manipulations and macroscopic properties. This project approaches this task by controlling and varying the spatial distribution of the nanoparticles and by modifying the polymer molecules attached to the surfaces of these particles. The effects of nanoparticle confinement under these conditions will then be studied using advanced experimental techniques.  The project includes the understanding of the relationship between mechanical properties of the nanocomposite materials and the spatial distribution of the nanoparticles, as well as the theoretical description at the molecular length-scale.  This research is also integrated with education of students and exposing them to a variety of advanced experimental techniques.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY:&lt;br/&gt;&lt;br/&gt;The effects imposed by nanoconfinement on polymer melts will be studied in this research.  Emphasis will be on the manipulation of the chain dynamics by nanoparticle dispersion, surfaces, and the influence of chains grafted to surfaces. The current understanding is limited by knowledge gaps, which include a missing theoretical understanding of chain dynamics and how to distinguish effects of the particle dispersion and polymer chains. A holistic approach involving small-angle X-ray scattering (SAXS), dielectric spectroscopy (DS), and rheology, will be used to develop a theory based on recent progress to simultaneously describe the dielectric properties and rheology of polymer melts. Composites of NTPs (tethered chains on nanoparticles) dispersed in polymer matrices will be studied. The dispersion of the NTPs can be controlled by the grafting density, the molecular weight of free chains, and the corresponding characteristics of the NTPs. The static structure factor by SAXS can be used to obtain a phase map of systems with agglomerated and non-agglomerated particles, and to provide information on the length-scale of the confinement. The influence of the additional confinement imposed by nanoparticles on the chain dynamics will be explored, together with a change of the tube diameter of the polymer caused by surfaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808059</AwardID>
+<Investigator>
+<FirstName>Gerald</FirstName>
+<LastName>Schneider</LastName>
+<EmailAddress>gjschneider@lsu.edu</EmailAddress>
+<StartDate>03/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana State University &amp; Agricultural and Mechanical College</Name>
+<CityName>Baton Rouge</CityName>
+<ZipCode>708032701</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress>202 Himes Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1773</Code>
+<Text>POLYMERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

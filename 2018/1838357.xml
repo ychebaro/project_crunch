@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>VLBA St Croix Repairs</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>2000000.00</AwardTotalIntnAmount>
+<AwardAmount>2000000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph E. Pesce</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal describes repairs activities to the St. Croix Very Large Baseline Array (VLBA) station on St. Croix Island.  The St. Croix station was damaged by Hurricane Maria in September 2017, and, subsequently, Congress provided funding to perform repairs via the Bipartisan Budget Act of 2018 (Public Law 115-123) signed into law by the President on 9 February 2018. The proposal outlines the planned activities in detail, all of which are in support of returning the site to a world-class working science observatory, and reinstating the full capabilities of the VLBA.  Observations obtained by the VLBA with St. Croix contribute to the fulfillment of scientific goals set out by astronomy communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838357</AwardID>
+<Investigator>
+<FirstName>Anthony</FirstName>
+<LastName>Beasley</LastName>
+<EmailAddress>tbeasley@nrao.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Cohen</LastName>
+<EmailAddress>acohen@aui.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Associated Universities Inc/National Radio Astronomy Observatory</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>200366225</ZipCode>
+<PhoneNumber>2024621676</PhoneNumber>
+<StreetAddress>1400 16TH ST NW STE 730</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>046F</Code>
+<Text>NRAO-OPERATIONS &amp; MAINTENANCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

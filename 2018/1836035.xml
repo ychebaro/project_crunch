@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The 4th Annual Meeting of SIAM Central States Section</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>20000.00</AwardTotalIntnAmount>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miao-Jung Ou</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The SIAM Central States Section (SIAM CSS https://www.siam.org/sections/central/) was formed in 2014 to serve SIAM members in Arkansas, Colorado, Iowa, Kansas, Mississippi, Missouri, Nebraska, and Oklahoma. The 4th Annual Meeting of SIAM Central States Section will be held 10/5-10/7, 2018 on the Norman campus of the University of Oklahoma. The url for the conference website is http://www.math.ou.edu/conferences/siam2018 .&lt;br/&gt;&lt;br/&gt;The theme of this conference will be centered around applied and computational Mathematics. This award will be used solely to support junior researchers (students/postdocs/early career faculty), minorities, people with disability and colleagues from 4-year colleges. Our long-term goal is to build a stronger computational and applied Math program throughout all the central states. The SIAM CSS annual conference series provides a very important platform for computational and applied mathematicians to exchange knowledge and network with experts from all over the U.S. and other countries. This conference will give ample opportunity for people to interact at discussions during the breaks, between talks, as well as after the talks. In particular we expect participants from the central states (that may or may not present at the conference) to have the opportunity to establish interactions with researchers that they would not often have a chance to meet in this part of the country.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836035</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Grigo</LastName>
+<EmailAddress>grigo@math.ou.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ying</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>wang@ou.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oklahoma Norman Campus</Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730199705</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress>201 Stephenson Parkway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

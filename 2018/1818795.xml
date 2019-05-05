@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Improving the Energy Efficiency of Transport Refrigeration Units</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will be a reduction in food losses and waste.  Roughly one third of the food produced in the world gets lost or wasted.  A large portion of this waste is due to proper cold-chain infrastructure from farms to consumers.  Transport refrigeration is an expensive option that consumes large amounts of diesel fuel.  The transport industry can see significant cost savings by converting to energy-efficient refrigeration units that utilize waste heat rather than using dedicated diesel engines.  This could make refrigeration more accessible to farmers, retailers and food processors everywhere.  The project is has the potential significantly reduce food waste worldwide.&lt;br/&gt;&lt;br/&gt; This I-Corps project will explore the commercialization potential of a new material that can absorb up to 82% water by weight, nearly twice the amount of the previous best material.  This highly absorbent material also demonstrates a record cooling capacity per given volume.  These capabilities open up a new class of applications in transport refrigeration where equipment weight and size need to be minimized.  An adsorption refrigeration cycle operating with this material can efficiently harvest waste heat from a truck's engine to produce two times the cooling power of a conventional vapor compressor system without using additional diesel fuel.</AbstractNarration>
+<MinAmdLetterDate>12/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818795</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Lubynsky</LastName>
+<EmailAddress>rml@mit.edu</EmailAddress>
+<StartDate>12/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

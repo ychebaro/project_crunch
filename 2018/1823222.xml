@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRI: CI-New: OpenPiton 2: Enabling Open Source Manycore Hardware Research</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuanyuan Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computer Architecture research has been traditionally hampered by poor experimental &lt;br/&gt;infrastructure. In particular, infrastructure has been lacking in terms of supporting &lt;br/&gt;research that straddles multiple layers of the computing stack such as hardware, Basic Input-Output System (BIOS), hypervisor, operating system, drivers, applications, full system research that necessitates complex software stacks running at speed on novel hardware, research that depends on real hardware implementation, and research at scale. OpenPiton 2 is an open source processor infrastructure specifically targeted at the academic community that enables researchers to complete research at scale using real hardware designs and not simply simulators. &lt;br/&gt;&lt;br/&gt;The OpenPiton 2 project creates an academic infrastructure that allows researchers to design and build many-core processors of large scale. In particular, this research investigates different Input/Output types, enables researchers to use the OpenPiton infrastructure on different FPGA manufacture's FPGAs and provides a hosted FPGA platform to run high core-count OpenPiton 2 designs for academic researchers that are otherwise not possible with typical individual university resources. This research focuses on supporting the academic community and hence features a large academic outreach component. This work can have large impacts on the scientific community and broader world by enabling more efficient microprocessors to be designed thereby saving energy and enabling more scientific research to be accomplished.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823222</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Wentzlaff</LastName>
+<EmailAddress>wentzlaf@princeton.edu</EmailAddress>
+<StartDate>06/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

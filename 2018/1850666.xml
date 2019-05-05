@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Law Enforcement and the Educational Performance of Youth</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>343995.00</AwardTotalIntnAmount>
+<AwardAmount>343995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project examines the consequences of neighborhood and school-level exposure to aggressive law enforcement strategies and tactics for the educational outcomes of youth.  Over the last three decades, cities across the United States have adopted strategies involving strict enforcement against low-level crimes and extensive use of pedestrian stops.  As a consequence of these changes in strategies and tactics, an increasing number of youth have involuntary contact with the criminal justice system.  The primary objective of this project is to examine the consequences of neighborhood and school-level exposure to these strategies and tactics for the educational outcomes of youth as a function of a number of factors, such as neighborhood and individual characteristics.  Findings will contribute to our understanding of the link between the criminal justice system and social opportunity. They will benefit society by helping policymakers and other stakeholders make more informed decisions about enforcement.&lt;br/&gt;&lt;br/&gt;The project will build a large-scale data infrastructure by combining administrative school district records from New York City and New York Police Department (NYPD) data over the years 2004 to 2017. This data infrastructure is the foundation for a series of statistical analyses that estimate effects on educational outcomes by various demographic categories and explore the underlying mechanisms.  Goals of the project include determining short-term and long-term consequences of law enforcement strategies.  The project also examines how the consequences differ by demographic characteristic, as well as showing effects of school-level exposure, determining effects of high-profile cases, and uncovering the mechanisms that explain the outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/28/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/28/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850666</AwardID>
+<Investigator>
+<FirstName>Joscha</FirstName>
+<LastName>Legewie</LastName>
+<EmailAddress>jlegewie@fas.harvard.edu</EmailAddress>
+<StartDate>02/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1372</Code>
+<Text>LAW AND SOCIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1698</Code>
+<Text>DS - Developmental Sciences</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1698</Code>
+<Text>DEVELOP&amp; LEARNING SCIENCES/CRI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

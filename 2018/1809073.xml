@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Three-Dimensional Simulations of Core-Collapse Supernovae</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>8100</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Core-collapse supernovae dramatically announce the death of massive stars and the birth of neutron stars. These supernovae occur when the iron core of a massive star collapses to a neutron star. Releasing its gravitational binding energy in a violent explosion as neutrinos, the resulting neutron star, for a few seconds, outshines the rest of the observable universe.  Viewed as a nuclear physics laboratory, core-collapse supernovae produce the highest densities of matter and energy in the modern universe.  However, the precise mechanism of this explosion has not been unambiguously pinned down and this fifty-year old conundrum is one of the central remaining unsolved problems in theoretical astrophysics.  Supernova theory is an amalgam of much of physics, and represents one of the most complex computational problems of modern science. Supercomputers, such as Blue Waters, are essential to make progress in simulating and understanding the evolution of the supernova event and neutron star birth.  A solution to the core-collapse supernova problem would benefit ongoing efforts of observers and instrument designers in the U.S. and around the world engaged in projects to determine the origin of the elements, measure gravitational waves (LIGO), and other important physics experiments.&lt;br/&gt;&lt;br/&gt;The project will conduct three-dimensional radiation/hydrodynamic simulations of core-collapse supernovae with the goal of constraining, and ultimately determining, the mechanism of explosion.  During this explosion process, a combination of high-density nuclear physics, multi-dimensional hydrodynamics, radiation transport, and neutrino physics determines whether and how the star explodes.   The project will use the newly developed and tested code FORNAX incorporating state-of-the-art microphysics and methodologies, with excellent scalability to beyond 100,000 cores per tasks.   Various observational diagnostics, such as neutrino and gravitational-wave signatures and residual neutron star masses and kicks, will be derived for all models calculated.  Supernova explosions and their products are central to the origin of the elements, the birth of pulsars and black holes, and the dynamics of galaxies and the interstellar medium, and a fundamental theoretical understanding of such explosions will inform the interpretation of data derived from, among other platforms, NASA's Chandra X-ray Observatory, the Hubble Space Telescope, Swift, NuStar, and the upcoming James Webb Space Telescope.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1809073</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Burrows</LastName>
+<EmailAddress>burrows@astro.princeton.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramElement>
+</Award>
+</rootTag>

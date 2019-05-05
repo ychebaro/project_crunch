@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Elucidation and Engineering of Complete Firefly Luciferin Biosynthesis</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>700000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Devaki Bhaya</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The ability of fireflies to produce light, called bioluminescence, is a remarkable trait essential for their unique courtship communication in the dark. Since its initial discovery decades ago, the firefly luciferin-luciferase pair responsible for the light-giving reaction has become widely used in agricultural and biomedical research. However, the metabolic pathway underlying luciferin biosynthesis remains unknown, which greatly limits the potential applications of firefly bioluminescence in a broader context. This project will investigate luciferin biosynthesis in fireflies. The new tools identified through this research will facilitate genetic engineering of autonomous bioluminescence without the need of supplying exogenous luciferin. Through the topic of bioluminescence, the scientific outreach activities associated with this project will also positively impact about 300 local K-12 students and about 100 high school teachers over the period of three years.&lt;br/&gt;&lt;br/&gt;The project involves interdisciplinary approaches including biochemistry, genetics, structural biology, and synthetic biology to elucidate and engineer firefly luciferin metabolism. To resolve the metabolic pathway and enzymes underlying luciferin de novo biosynthesis, a series of isotopically labeled tracers will be used in live fireflies to identify the key luciferin biosynthetic intermediates. The candidate enzymes will be identified through a candidate gene approach, and their biochemical functions will be characterized both in vitro and in vivo. The project further seeks to identify additional accessory enzymes that support luciferin recycling from the luciferase product oxyluciferin. With these newly identified firefly luciferin metabolic genes in hand, the firefly autoluminescent system will be reconstituted in several model organisms. This project will ultimately yield a new set of optogenetic tools with broad applications in both basic and translational research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818132</AwardID>
+<Investigator>
+<FirstName>Jing-Ke</FirstName>
+<LastName>Weng</LastName>
+<EmailAddress>wengj@wi.mit.edu</EmailAddress>
+<StartDate>07/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Whitehead Institute for Biomedical Research</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021421479</ZipCode>
+<PhoneNumber>6172585000</PhoneNumber>
+<StreetAddress>455 Main Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: A Scientific Deployment of a C-Band Radar to Observe Heavy Precipitation and Convective System Dynamic Processes in RELAMPAGO</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>184508</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chungu Lu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>RELAMPAGO (Remote sensing of Electrification, Lightning, And Mesoscale/microscale Processes with Adaptive Ground Observations) will observe convective storms in the lee of the Andes Mountains in central Argentina during 1 November 2018 - 31 January 2019 (see NSF funded project AGS-1661799).  This project will fund deployment of the Colorado State University's C-Band dualpolarization radar.   The project will leverage other activities funded by NSF to staff the radar during its deployment, as well as perform post-project data quality and dissemination of the data. Data from this radar will be available to the scientific community under the RELAMPAGO data policy to address RELAMPAGO scientific objectives.&lt;br/&gt;&lt;br/&gt;Intellectual Merit:&lt;br/&gt;Heavy-rain producing storms will advance the science of heavy rainfall prediction globally, a risk which faces many regions of the world.  Physical processes leading to deep convection and High Impact Weather (HIW) in the US rely on a specific set of ingredients that are based on weather and climate experienced there.  However, the learning of deep convection and HIW outside of the US will not only improve our understanding of how it operates in other regions, but also improve our understanding of deep convection and HIW in the US.  Advancing our understanding of heavy rainfall and its processes and precursors will enable improved prediction of rainfall extremes on weather and climate timescales. The C-Band radar will aid in addressing these objectives by providing high-quality dual-polarization radar measurements for a 3-month period during the RELAMPAGO intensive observing period and also following the campaign during the RELAMPAGO hydrometeorological observing period during the wet season.&lt;br/&gt;&lt;br/&gt;Broader Impacts:&lt;br/&gt;The exposure and vulnerability of the global population to HIW is increasing as a result of population growth, land use/land cover change, urbanization, and climate change. Severe convective storms have significant impacts on the human-managed environment around the globe. Enhancing our understanding processes capable of triggering intense, deep moist convection will help in mitigating its consequences, and is critical for social, environmental, and economic applications. Through the course of the research, significant training of graduate students, postdoctoral fellows, and close scientific interactions of the participants with Latin American scientists and students will be conducted.  Local students will be given tours of the radar facility, coordinated through RELAMPAGO outreach efforts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849409</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Nesbitt</LastName>
+<EmailAddress>snesbitt@illinois.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>Champaign</CityName>
+<ZipCode>618207406</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>1901 South First Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1529</Code>
+<Text>LOWER ATMOSPHER OBSER FACILITI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

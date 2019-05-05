@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dynamic tuning of barrier properties of biogels using weakly adhesive third-party crosslinkers</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>331063</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Germano Iannacchione</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Abstract&lt;br/&gt;&lt;br/&gt;Hydrogels, composed of a network of fibers suspended in an aqueous environment, are ubiquitous in living systems.  Hydrogels not only offer unique structural and mechanical properties essential for numerous physiological functions, but also serve as a barrier against foreign species.  Current methods to tune the ability of biological hydrogels (biogels) to function as a physical barrier typically rely on either changing the spacing between the fibers, or by tuning the molecular composition of the fibers.  However, both methods have important limitations.  Here, we would explore the use of third-party molecules that can crosslink foreign species to the matrix by binding tightly to the foreign species while binding lightly to the matrix fibers.  We will study a variety of biogels to identify the specific molecules that the crosslinkers can bind to on the fibers.   We will also explore improving the potency of the crosslinkers by tuning its interactions with the fibers and/or its ability to crosslink foreign species.  Finally, we will develop mathematical theory and computational model that can account for the experimental observations.  Altogether, these studies should help us substantially advance a novel approach to changing the effectiveness of biogels to serve as a barrier.&lt;br/&gt;&lt;br/&gt;Technical Abstract&lt;br/&gt;&lt;br/&gt;Current methods to tune the barrier properties of biological hydrogels (biogels) typically involve either stimuli-induced bulk changes to the mesh spacings of the matrix, and/or covalent modification of the matrix elements.  These methods greatly limit the ability to dynamically tune the barrier properties of biogels against diverse species.  In this proposal, we will elucidate a third strategy, based on harnessing adaptive third-party crosslinkers that can interact weakly with matrix elements and bind specifically to foreign epitopes to tune the barrier properties of biogels against nano-sized particles and active bodies with molecular specificity.  In particular, we will focus on utilizing antibodies (Ab), which we have recently discovered can interact transiently with mucins and laminin via N-glycans on its Fc domain, as model third party crosslinkers.  In Aim 1, we will explore the interactions of Ab with a variety of biogels; the systemic screening will allow us to gain molecular insights into the specific elements on biogel matrix that mediate the interactions with Ab.  In Aim 2, we will explore whether tuning Ab affinity to matrix constituents, or improving the ability of Ab to agglutinate, will result in more effective immobilizing of active species in biogels.  Finally, in Aim 3, we will develop a comprehensive theoretical framework and computational model of the experimental observations.  Successful completion of the proposed studies will substantially improve our understanding of this novel strategy to tune the barrier properties of biogels.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810168</AwardID>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Lai</LastName>
+<EmailAddress>lai@unc.edu</EmailAddress>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7623</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7573</Code>
+<Text>BIO-RELATED MATERIALS RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

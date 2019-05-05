@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Wearable Medical Device for Menopause Management</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project (NSF Lineage: Award Number 1644664) is borne from the development of a customizable symptom management tool to support women experiencing menopause. The negative perception of menopause causes symptom embarrassment which leads to deficiencies in health literacy and inefficient symptom management.  This project's technology, a wearable-app system, addresses this inefficiency by providing the means to inform and support women throughout menopause. The proposed I-Corps program explores commercialization opportunities within the project's initial application focus of menopause symptom management and also investigates the potential of applications in the cancer symptom management and data sales markets. With respect to the latter, the prospective technology will gather an abundance of data that may be used to streamline biotechnology and pharmaceutical product development. Through adoption of this technology, women will be able to better communicate their symptoms to a more aware and understanding society. This opens the door to future innovations in additional areas of healthcare that are traditionally not openly discussed.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on the premise that leveraging personal mobile devices and user data may create disruptive innovation in the healthcare space. The project's technology utilizes multiple sensors to collect personalized data which is used to provide the user with multiple ways to optimize management of her menopause symptoms, with the goal of minimizing their negative impact on her daily routine. Progress on the project to date includes development of an alpha prototype that has been used to test the feasibility of both hardware and software components. Current areas of focus include optimization of the physical design and data acquisition capability. The I-Corps process will allow us to improve our understanding of our customers? unmet needs and the ability of our technology to address them. This will guide the development of our technology, including optimization for manufacturing and feature enhancement, to address needs found in customer discovery and accelerate introduction of a useful product to market.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849927</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Garanich</LastName>
+<EmailAddress>jgaranich@ccny.cuny.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>New York</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>Convent Ave at 138th St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

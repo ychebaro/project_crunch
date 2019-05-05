@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Southwest Local Algebra Meeting 2018</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janet Striuli</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the participation in the Southwest Local Algebra Meeting 2018, to be held at the University of Arkansas in Fayetteville on February 24-25, 2018. This conference will encourage professional networking and interactions between students and faculty with interests in ring theory, broadly interpreted, from institutions in the Southwest region. The meeting will provide an effective environment for scientific interaction, thanks to inspiring talks from established experts, ample time dedicated to graduate students poster presentations and opportunities for participants to begin new collaborations and exploring new research directions. About 50 participants are expected, including students and both junior and senior faculty from throughout the Southwest and South. The participation of students from underrepresented minority groups, women, untenured faculty and faculty at non-PhD granting institutions is particularly encouraged. Six experts will deliver hour-long talks on topics within their areas of specialty; the lectures will be accessible to graduate students. The meeting will also feature three hour-long poster sessions in which the participating students will present and discuss their research with the participants. More information can be found at the conference webpage http://www.math.ttu.edu/~lchriste/slam2018.html.&lt;br/&gt; &lt;br/&gt;The study of rings, in the broadest sense, is essential in many branches of mathematics, including commutative and non-commutative geometry, number theory, coding theory, group representations and cryptography. The speakers are specialists in differential graded algebras, intersection multiplicities, Rees algebras, Lie theory, representations of finite and algebraic groups, algebraic combinatorics, complexity theory, homological methods. This variety of interests among our speakers should provide directions for new algebraic interactions between all participants and expand their potential research horizons.</AbstractNarration>
+<MinAmdLetterDate>01/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803445</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>markj@uark.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paolo</FirstName>
+<LastName>Mantero</LastName>
+<EmailAddress>pmantero@uark.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Louiza</FirstName>
+<LastName>Fouli</LastName>
+<EmailAddress>lfouli@nmsu.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Jorgensen</LastName>
+<EmailAddress>djorgens@uta.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lars</FirstName>
+<LastName>Christensen</LastName>
+<EmailAddress>Lars.W.Christensen@ttu.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arkansas</Name>
+<CityName>FAYETTEVILLE</CityName>
+<ZipCode>727011201</ZipCode>
+<PhoneNumber>4795753845</PhoneNumber>
+<StreetAddress>210 Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arkansas</StateName>
+<StateCode>AR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

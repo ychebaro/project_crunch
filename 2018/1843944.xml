@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Integrated Solution for Low Cost Distributed Wind Energy Generation</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>224999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project is to enable broad market adoption of rooftop and other methods for local wind energy generation through reduction in costs. This is achieved through development of technology designed to lower the cost of wind turbine drive trains and associated power electronics, high cost items which are often left without innovation in new wind turbine designs. Prohibitively high costs are currently the biggest barrier to widespread adoption of distributed wind turbines, and power electronics can be as much as 50% of these costs. Significant cost reduction has the potential to increase worldwide distributed wind power adoption. The innovative power train technology developed in this project is specifically designed to couple with a proprietary technology for wind capture at rooftop edges. When combined with this technology, costs estimates are competitive with rooftop solar energy, enabling wind energy to become a common addition to rooftop solar installations. Successful deployment of this technology will contribute to society by decreasing the carbon footprint of energy production, increasing energy resiliency, and creating new jobs associated with manufacturing and deployment. Significant manufacturing efforts are likely to remain in the US, creating local job opportunities and economic growth. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project proposes to use a novel drive train architecture to reduce small wind turbine power train costs. In this architecture, costs are lowered by temporarily storing the energy coming out of the wind turbine rotor in a flywheel before passing it on to the generator. This allows for the power train to include a generator and inverter that are sized for average rather than peak power outputs, enables removal of diversion load, and allows for the use of a faster spinning, and therefore lower cost generator. The Phase I project seeks to prove the feasibility of developing a low-cost flywheel which meets the needs of the overall drive train (including efficiency and reliability), a powertrain control system which maintains high efficiency, and a powertrain system configuration which maintains the reduced cost projections required for market traction. Research efforts include development of a bench-scale drive train to test the controls of the flywheel, powertrain simulation to test alternative generator and converter topologies, and benchmarking of generator candidates to determine efficiency and power density.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843944</AwardID>
+<Investigator>
+<FirstName>Mahesh</FirstName>
+<LastName>Krishnamurthy</LastName>
+<EmailAddress>kmahesh@ece.iit.edu</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Erika</FirstName>
+<LastName>Boeing</LastName>
+<EmailAddress>eboeing@acceleratewind.com</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Accelerate Wind LLC</Name>
+<CityName>St. Louis</CityName>
+<ZipCode>631011272</ZipCode>
+<PhoneNumber>3143268180</PhoneNumber>
+<StreetAddress>911 Washington Ave, Suite 501</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

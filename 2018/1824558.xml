@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SpecEES: Dynamic Space Frequency Multiplexing - A New Paradigm for Filterbank Multicarrier Spectrum Access</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>674558.00</AwardTotalIntnAmount>
+<AwardAmount>674558</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Akbar Sayeed</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>SpecEES: Dynamic Space Frequency Multiplexing - A New Paradigm for Filterbank Multicarrier Spectrum Access&lt;br/&gt;&lt;br/&gt;The exponential growth of mobile data traffic has driven wireless communication technologies at an unprecedented pace. However, the amount of available spectrum has not kept up. As the use of spectrum becomes increasingly condensed, it is critical to develop new technologies to improve the efficiency of spectrum utilization. Technologies that can better utilize the limited resources of frequency, time, and energy are needed to enable highly versatile and frequency-agile dynamic spectrum access. The proposed project develops a unique approach termed Dynamic Space Frequency Multiplexing (DSFM) for dynamic spectrum access by optimizing space and frequency utilization in physical-layer and integrating with novel channel coding, multiple access control (MAC) layer and coded caching designs to maximize spectral and energy efficiency. Successful execution of this project will improve spectral efficiency by at least an order of magnitude. The proposed design is posed to meet future 5G challenges such as cell densification and massive Internet-of-things (IoT) due to its great flexibility in supporting multiuser asynchronous communication. This project will provide valuable research opportunities for undergraduate and graduate students. Outcomes of this project will also be tightly integrated into classroom teaching and outreach.&lt;br/&gt;&lt;br/&gt;The proposed DSFM design builds upon two complementary technologies -- filter bank multicarrier (FBMC) for frequency multiplexing and massive multiple-input multiple-output (MIMO) for spatial multiplexing. FBMC has superior spectral property to that of orthogonal frequency division multiplexing (OFDM) due to a flexible prototype filter whose locality in both time and frequency can be controlled. The emerging technology of massive MIMO offers complementary benefits to that of FBMC through spatial multiplexing. It enables a crucial self-equalization property for FBMC systems that allows for great flexibility in the allocation of subcarrier bandwidth in accordance to dynamic spectrum availability. On the other hand, FBMC offers effective frequency multiplexing needed for practical massive MIMO systems.  The proposed DSFM design will maximize mutual benefits of FBMC and massive MIMO and thus is an exceptional candidate for both spectrum efficient and energy efficient dynamic spectrum access. This project is highly innovative in that it develops (1) novel adaptive prototype filter designs that enable self-equalization of FBMC for massive MIMO networks; (2) hybrid beamforming architectures to improve energy efficiency; (3) low complexity channel coding and decoding algorithms for high spectral and energy efficiency communications; (4) cache-aided DSFM carrier aggregation for improving spectral and energy efficiency; (5) DSFM-enabled dynamic MAC layer schemes; (6) city-scale testbed validation using the National Science Foundation (NSF) Platforms for Advanced Wireless Research (PAWR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824558</AwardID>
+<Investigator>
+<FirstName>Behrouz</FirstName>
+<LastName>Farhang-Boroujeny</LastName>
+<EmailAddress>farhang@ece.utah.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sneha</FirstName>
+<LastName>Kasera</LastName>
+<EmailAddress>sneha.kasera@gmail.com</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rong-Rong</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>rchen@ece.utah.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mingyue</FirstName>
+<LastName>Ji</LastName>
+<EmailAddress>mingyue.ji@utah.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>059Y</Code>
+<Text>SpecEES Spectrum Efficiency, E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>055Z</Code>
+<Text>SpecEES Spectrum Efficiency, Energy Effi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

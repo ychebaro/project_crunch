@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Strategic Approaches to Cycloheptanoid Natural Products</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tarek Sammakia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Organic synthetic chemistry is driven by the ongoing need to find efficient ways to construct carbon-based molecules from readily available starting materials. With this award, Professor Brian Stoltz at Caltech is synthesizing two complex naturally occurring molecules using novel approaches that have not been previously utilized for this purpose. These classes of molecules can be of benefit to society, particularly as medicinal agents in the treatment of debilitating and life-threatening diseases such as cancer. The research team is also studying new methods for making other important carbon-based molecules. Professor Stoltz strongly supports a variety of outreach programs with the intent of teaching and inspiring future scientists. With this award he is offering summer undergraduate research positions in his laboratory for exceptional students and providing science demonstrations at local elementary schools. Outreach programs such as these encourage participation from groups that are otherwise underrepresented in the sciences.&lt;br/&gt;&lt;br/&gt;Professor Stoltz is exploring various strategies for the syntheses of two structurally intriguing natural products, namely scabrolide A and curcusone C. The total syntheses of these targets have not yet been reported. Although distinct, these compounds have several common structural features that relate the project at an intellectual level. Most notably, both targets contain a carbon-based polycyclic framework possessing either a peripherally-fused or centrally-fused cycloheptane ring, respectively. The [5,6,7]-tricyclic framework of scabrolide A is being constructed via a ring-closing metathesis (RCM) and transannular Diels-Alder strategy, whereas the [5,7,6] core of curcusone C is being synthesized by means of a cross-electrophile coupling and Michael-type annulation. Professor Stoltz and his students are currently engaged in various outreach activities in order to encourage talented young scientists to explore similar projects.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800511</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Stoltz</LastName>
+<EmailAddress>stoltz@caltech.edu</EmailAddress>
+<StartDate>06/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6878</Code>
+<Text>Chemical Synthesis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

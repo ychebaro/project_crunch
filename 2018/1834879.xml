@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2018 Plant Cell Dynamics (PCD) Meeting; May 29-June 1, 2018; University of Wisconsin-Madison</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthias Falk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Uncovering fundamental mechanisms of organelle and cell dynamics is required for a comprehensive model of plant growth and development as well as for understanding how plants adapt to their environment. Such knowledge is critical for fundamental advances in basic plant cell biology and promoting future applications to agriculture. The 2018 Plant Cell Dynamics conference, to be held May 29-June 1, 2018 at the University of Wisconsin, Madison campus will focus on providing opportunities for plant cell biologists to learn quantitative approaches to analyze cellular dynamics and function, including live cell imaging and computational tools. It will also provide a venue for students, postdoctoral scientists, and new investigators to interact with established leaders in the field of plant cell biology, thus providing positive impacts on career development for students and trainees at all levels. By encouraging and supporting attendance of trainees from underrepresented groups, the conference will broaden participation in this developing field, which employs techniques of quantitative, predictive, and theory-driven biology, and encourages multidisciplinary approaches. &lt;br/&gt;&lt;br/&gt;The conference will include keynote talks from experts in the field of plant cell biology on methodology appropriate for quantitative studies that probe how plant cells integrate metabolism, cytoskeletal organization, and vesicle trafficking in overall cellular function. In addition, there will be opportunities for oral and poster presentations by trainees and participation in hands-on workshops on sample preparation, long-term time-lapse imaging, and image processing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834879</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Szymanski</LastName>
+<EmailAddress>dszyman@purdue.edu</EmailAddress>
+<StartDate>05/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Simon</FirstName>
+<LastName>Gilroy</LastName>
+<EmailAddress>Sgilroy@wisc.edu</EmailAddress>
+<StartDate>05/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marisa</FirstName>
+<LastName>Otegui</LastName>
+<EmailAddress>otegui@wisc.edu</EmailAddress>
+<StartDate>05/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sebastian</FirstName>
+<LastName>Bednarek</LastName>
+<EmailAddress>sybednar@wisc.edu</EmailAddress>
+<StartDate>05/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1131</Code>
+<Text>ARABIDOPSIS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

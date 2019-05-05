@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Braided Tensor Categories, Their Structures, Symmetries, and Graded Extensions</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>149957</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janet Striuli</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project concerns the study of tensor categories. These  are mathematical structures consisting of objects that can be added and multiplied using certain natural rules.  The abstract nature of these structures makes them a very convenient tool to study symmetries, both in the classical and quantum arenas. Recently, tensor categories were proposed as mathematical models of a topological quantum computation, one of the most promising models for the construction of a quantum computer. They are also closely related to symmetries of topological phases of matter and are used to predict the existence of new types of such phases and their physical realization. This project deals with algebraic aspects of the theory of tensor categories: their structure, classification, and arithmetic properties. The emphasis is on categories that are most widely used in applications. Such categories admit an additional symmetry constraint called braiding that is used to model interaction of pairs of quantum particles. &lt;br/&gt;&lt;br/&gt;Tensor categories provide a unified framework for studying various quantum symmetries such as quantum groups, vertex operator algebras, Jones-von Neumann subfactors,and conformal field theories. Categorical methods in the theory of Hopf algebras and quantum groups led to a number of important classification results and continue to bring forth new insights.  This project will use the machinery that has already been developed to approach fundamental questions concerning the structure and classification of tensor categories. It will address problems related to extensions of braided tensor categories, their modules, and groups of symmetries. The concrete areas of research include the following:  (1) the theory of graded extensions of braided tensor categories and classification of minimal non-degenerate extensions, (2) the Picard groups of braided tensor categories and their actions on categorical orthogonal Grassmannians with applications to the representation categories of small quantum groups; (3) arithmetic properties and structure of fusion categories and semisimple Hopf algebras; (4) classification of non-semisimple pointed braided tensor categories and their module categories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801198</AwardID>
+<Investigator>
+<FirstName>Dmitri</FirstName>
+<LastName>Nikshych</LastName>
+<EmailAddress>dmitri.nikshych@unh.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Hampshire</Name>
+<CityName>Durham</CityName>
+<ZipCode>038243585</ZipCode>
+<PhoneNumber>6038622172</PhoneNumber>
+<StreetAddress>51 COLLEGE RD SERVICE BLDG 107</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

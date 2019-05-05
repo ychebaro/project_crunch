@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>LTER:  Luquillo LTER VI: Understanding Ecosystem Change in Northeastern Puerto Rico</AwardTitle>
+<AwardEffectiveDate>02/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2025</AwardExpirationDate>
+<AwardTotalIntnAmount>6762000.00</AwardTotalIntnAmount>
+<AwardAmount>1127000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colette St. Mary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Since the Luquillo LTER began in 1988, multiple hurricanes and droughts have affected the site. Building on a 90-year research history on ecology in natural and human-modified forests, the Luquillo LTER has shown that while tropical forests exhibit resilience to individual disturbance events, the potential combination of increased frequency of intense storms, like Hurricane Maria in 2017, and more frequent drought, may compromise ecosystem resilience in the long-term. The Luquillo Long-Term Ecological Research Program (LTER) combines long-term measurements, experimental manipulations, and computer simulations to determine the effects of changes in the frequency and intensity of disturbance events, such as hurricanes and droughts, on tropical forests represented by the Luquillo Mountains in eastern Puerto Rico, USA. During the next six years, the Luquillo LTER will document the impacts of Hurricane Maria, the most intense storm to impact the island in ninety years, on the forests of the Luquillo Mountains while continuing to evaluate the potential effects of increased drought predicted for the region. It is important to understand how tropical forests respond to these disturbance events because they play a key role in global carbon and water dynamics and provide essential ecosystem services, such as clean water and carbon dioxide absorption, to people worldwide. The Luquillo LTER will continue to train numerous undergraduate and graduate students, as well as secondary school students and teachers, especially members of underrepresented groups, producing a cadre of new multidisciplinary scientists and citizens who have the skills and experiences to address the pressing environmental challenges of the 21st Century.&lt;br/&gt;&lt;br/&gt;The research tests hypotheses that changing disturbance regimes, interacting with the effects of past disturbance events, will result in new combinations of species and altered biogeochemical dynamics different from previous environmental conditions and characteristics. These new ecosystem states will arise from the legacies of multiple disturbances, as well as from the immigration of species adapted to drier and hotter conditions associated with canopy openings and more frequent droughts. The research will continue to characterize the spatial and temporal dynamics of biota and biogeochemical processes in native tabonuco forest and leverage elevational variation in the Luquillo Mountains as a climate proxy to provide context for our measurements. The continuing Canopy Trimming Experiment will test hypotheses that more frequent intense hurricanes will increase the dominance of shade intolerant species with cascading effects through other biota and consequences for biogeochemical dynamics. Two new experiments, the Throughfall Exclusion Experiment and the Stream Flow Reduction Experiment, will address hypotheses that increased drought frequency will alter species composition and distribution as well as soil carbon and nutrient storage along hillslopes and in streams. Computer models and data-model integration will provide predictive understanding of the combined effects of increased drought and hurricane frequency on tropical forests, as well as facilitate synthesis across scales, and forecasting of future ecosystem states.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/15/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/15/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831952</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Brokaw</LastName>
+<EmailAddress>nvbrokaw@ites.upr.edu</EmailAddress>
+<StartDate>02/15/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jess</FirstName>
+<LastName>Zimmerman</LastName>
+<EmailAddress>jesskz@ites.upr.edu</EmailAddress>
+<StartDate>02/15/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Whendee</FirstName>
+<LastName>Silver</LastName>
+<EmailAddress>wsilver@berkeley.edu</EmailAddress>
+<StartDate>02/15/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Grizelle</FirstName>
+<LastName>Gonzalez</LastName>
+<EmailAddress>ggonzalez@fs.fed.us</EmailAddress>
+<StartDate>02/15/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Willig</LastName>
+<EmailAddress>michael.willig@uconn.edu</EmailAddress>
+<StartDate>02/15/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Puerto Rico-Rio Piedras</Name>
+<CityName>San Juan</CityName>
+<ZipCode>009252512</ZipCode>
+<PhoneNumber>7877634949</PhoneNumber>
+<StreetAddress>18 Ave. Universidad, Ste.1801</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1195</Code>
+<Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1195</Code>
+<Text>LONG TERM ECOLOGICAL RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

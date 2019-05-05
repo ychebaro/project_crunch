@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Smart Optical Sensing Patch for Early Detection of Pressure Ulcers</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to alleviate the pain and suffering to patients and the cost to the healthcare system caused by pressure ulcers, or more commonly known as bedsores. Costs associated with treating pressure ulcers have increased significantly in recent decades. Individuals with a pressure ulcer are also at an increased risk of developing an infection at the site of the wound. Notably, hospital-acquired advanced ulcers are reportable to healthcare agencies and thus non-reimbursable, leaving clinical entities absorbing all treatment and legal costs, in addition to a decrease of their healthcare quality ratings.&lt;br/&gt;&lt;br/&gt;This I-Corps project will evaluate the commercial viability of a disposable, adhesive sensor that provides nurses with actionable data about the status of their patients' skin, thus eliminating the need for constant visual inspection. The device uses optical sensing technology to monitor structural and functional changes that occur both superficially and under a patient's skin to detect the earliest signs of a pressure ulcer before they become visible to the human eye. In addition to exploring marketability, this project will collect valuable information that will guide potential product development in preparation to clinical validation.</AbstractNarration>
+<MinAmdLetterDate>12/15/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/15/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803826</AwardID>
+<Investigator>
+<FirstName>Luca</FirstName>
+<LastName>Pollonini</LastName>
+<EmailAddress>lpollonini@uh.edu</EmailAddress>
+<StartDate>12/15/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Houston</Name>
+<CityName>Houston</CityName>
+<ZipCode>772042015</ZipCode>
+<PhoneNumber>7137435773</PhoneNumber>
+<StreetAddress>4800 Calhoun Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

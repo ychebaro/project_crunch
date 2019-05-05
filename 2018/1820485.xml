@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Highly Specific Flex-Hinge Antibody-Like Checkpoint Inhibitors for Safer and More Effective Cancer Therapy</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>224455</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project introduces a new design for antibody-based therapeutic molecules. The generally rigid arms in Y-shaped conventional antibodies are replaced with flexible and extendible linkers attached to binding domains that are smaller than those found in conventional antibodies. This new design allows multiple therapeutic targets to be bound at once, with greater binding strength and fewer off-target effects than was previously possible. This project will remake two of the most successful cancer drugs of the last decade, creating improved versions of each. In addition, a new molecule combining the functionality of both will be produced. If this project is successful, it may improve the treatments available for many kinds of advanced metastatic cancer, especially melanoma and lung cancer. Though the current focus is on cancer, the method described here may improve or combine the performance of many therapeutic antibodies; this project is just the first demonstration. The potential long-term impact of this SBIR Phase I project may extend throughout the pharmaceutical industry, representing a significant commercial opportunity and a milestone of applied biological research.&lt;br/&gt;&lt;br/&gt;This project introduces a novel drug design that improves on monoclonal antibodies (mAbs). It uses a chemical assembly method that joins immunoglobulin Fc domains to small, single-chain fibronectin binding domains through flexible, extendible, non-peptidyl linkers. The resulting flexible drug molecules benefit from two-handed cooperative binding, in which both domains are able to bind a disease target or targets simultaneously. They thus achieve higher binding affinity and target selectivity than mAbs, while also being smaller and easier to manufacture. These molecules can also be mono- or bispecific as needed. This project will produce flexible monospecific and bispecific molecules against the targets of the two most successful checkpoint inhibitors in current cancer immunotherapy. This project encompasses chemical synthesis, verification of binding stoichiometry, in vitro measurements of binding affinity to both purified protein and target cells, and cellular assays of both checkpoint inhibition and bispecific binding. It sets the stage for pre-clinical animal studies of these cancer drugs, and showcases a molecular design that could be used to improve most antibody therapies in the broader pharmaceutical market.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820485</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Capon</LastName>
+<EmailAddress>dan.capon@hingebio.com</EmailAddress>
+<StartDate>05/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Hinge Bio, Inc.</Name>
+<CityName>Burlingame</CityName>
+<ZipCode>940101311</ZipCode>
+<PhoneNumber>6507930923</PhoneNumber>
+<StreetAddress>863 Mitten Road, Suite 101</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

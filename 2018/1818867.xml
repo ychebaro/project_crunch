@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Simulation and Numerical Analysis in Elastodynamics</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>325000.00</AwardTotalIntnAmount>
+<AwardAmount>127999</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The numerical simulation of transient elastic waves has the overall goal of developing robust and reliable computational tools to handle the study of deformation and stress in solids. The results of this project could impact a wide range of applications, including inverse problems in geophysics (seismic imaging with applications in earthquake simulation and oil exploration), magnetic resonance elastography for medical applications, control of electromechanical systems (the use of solid deformation to control electric fields or viceversa), and fracture detection in solids. The understanding of the computational approximations to complex model equations describing the interaction of varied physical phenomena (solid deformation, electromagnetism, acoustic propagation, and thermal diffusion) is of great importance to assess the quality and validity of the proposed simulations.&lt;br/&gt;&lt;br/&gt;The project focuses on the numerical analysis and computation of transient elastic waves, including their interaction with acoustic waves. The proposal addresses multiple physical models where elastodynamics is involved, with an emphasis on viscoelastic behavior, piezoelectric effects, and fully coupled thermoelasticity. The project proposes to unify and simplify the treatment, theoretical and numerical, of several of these models. The numerical approximation will be handled using Finite Element Methods and Hybridizable Discontinuous Galerkin schemes for the space variables, and high order time-stepping tools disguised as Convolution Quadrature methods. The expected outcomes of this proposed research range from stability and convergence analysis for the fully discrete methods to practical implementation in three dimensional geometries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818867</AwardID>
+</Award>
+</rootTag>

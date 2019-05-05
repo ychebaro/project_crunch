@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Biochar Systems for Sustainable Applications in the Food-Energy-Water Nexus</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>519562.00</AwardTotalIntnAmount>
+<AwardAmount>402712</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Biochar is a carbon-rich solid byproduct of thermochemical biomass conversions. It has potential applications in food, energy, and water systems. This project aims to advance potential biochar applications by (1) using artificial intelligence (machine learning) approaches to predict process data and life cycle assessment (LCA) of various combinations of biomass feedstocks, conversion pathways, and applications of biochar; (2) building an integrated framework for modeling and analysis of biochar systems in the food-energy-water (FEW) nexus; and (3) demonstrating the framework through real-world case studies in different geographic, temporal, and socioeconomic contexts. The educational and outreach objectives include (1) attracting underrepresented students to STEM fields by developing a multimedia package for FEW and biochar sustainability; (2) developing both in-class and online courses and providing training and professional development opportunities to integrate research and education activities for undergraduate and graduate students; (3) developing an international network of scholars for FEW, biochar sustainability, and interdisciplinary research communities with a long-term goal of forming an international research and education program.&lt;br/&gt;&lt;br/&gt;This project targets bridging knowledge gaps for biochar production and effective applications in enhancing FEW sustainability by integrating LCA, technico-economic analysis (TEA), Geographic Information System (GIS), machine learning, and dynamic modeling. Understanding the impacts of using various biomass substrates for different biochar applications on the environment, economics, and communities will lay a foundation for the further design and implementation of large-scale biochar systems under different socioeconomic, climate change, and resource limiting conditions. Integration of advanced modeling tools including LCA, GIS, and machine learning that are commonly used in different disciplines is an important feature of the approach. Through integration of advanced modeling methods from engineering, environmental science, natural science, and data science, this project seeks to demonstrate how transdisciplinary research can create improved societal outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847182</AwardID>
+<Investigator>
+<FirstName>Yuan</FirstName>
+<LastName>Yao</LastName>
+<EmailAddress>yyao5@ncsu.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7643</Code>
+<Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

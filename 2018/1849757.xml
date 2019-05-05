@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CIF: Distributed Computing with Privacy and Security Considerations</AwardTitle>
+<AwardEffectiveDate>06/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>175000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Modern datasets have reached such sizes and complexities as to make them difficult to analyze and process using traditional centralized approaches. Distributed computing enables large-scale data processing, by distributing the effort of a computing task over such datasets across a network of machines that operate in parallel. With the proliferation of sensitive data that needs to be processed, and the ever-growing computational power of adversarial parties, ensuring data privacy and security of the computing process represents a critical aspect for the design of modern distributed computing systems. This project aims at developing a theoretical foundation to investigate the performance of distributed computing in the presence of machines that are not trusted or well-protected. This project will promote undergraduate and graduate research, and the outcomes of the proposed research will be integrated into education.&lt;br/&gt;&lt;br/&gt;This project considers two different distributed computing scenarios and seeks their theoretical performance limits. In the first scenario, the dataset contains sensitive information (such as clinical/genome information) and, when distributed, has to remain confidential from the machines. An optimization framework is used which seeks to quantify the trade-off between the performance of the computing task and the level of data privacy that can be guaranteed. In the second scenario, the machines may have been compromised and hence may introduce false information to the system. The main focus is on the design of distributed computing techniques that are robust to different message-tampering attacks and allow one to efficiently identify the attacked machines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/05/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/05/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849757</AwardID>
+<Investigator>
+<FirstName>Martina</FirstName>
+<LastName>Cardone</LastName>
+<EmailAddress>cardo089@umn.edu</EmailAddress>
+<StartDate>02/05/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

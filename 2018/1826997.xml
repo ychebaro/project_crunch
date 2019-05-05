@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Integration: Delivering a Dynamic Network-Centric Platform for Data-Driven Science (DyNamo)</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deepankar Medhi</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computational science today depends on many complex, data-intensive applications operating on datasets that originate from a variety of scientific instruments and data stores. A major challenge for data-driven science applications is the integration of data into the scientist's workflow. Recent advances in dynamic, networked cloud infrastructures provide the building blocks to construct integrated, reconfigurable, end-to-end infrastructure that has the potential to increase scientific productivity. However, applications and workflows have seldom taken advantage of these advanced capabilities.&lt;br/&gt;Dynamo will allow atmospheric scientists and hydrologists to improve short- and long-term weather forecasts, and aid the oceanographic community to improve key scientific processes like ocean-atmosphere exchange, turbulent mixing etc., both of which have direct impact on our society.&lt;br/&gt; &lt;br/&gt;The Dynamo project will develop innovative network-centric algorithms, policies and mechanisms to enable programmable, on-demand access to high-bandwidth, configurable network paths from scientific data repositories to national CyberInfrastructure facilities, and help satisfy data, computational and storage requirements of science workflows. This will enable researchers to test new algorithms and models in real time with live streaming data, which is currently not possible in many scientific domains. Through enhanced interactions between Pegasus, the network-centric platform, and new network-aware workflow scheduling algorithms, science workflows will benefit from workflow automation and data management over dynamically provisioned infrastructure. The system will transparently map application-level, network Quality of Service expectations to actions on programmable software defined infrastructure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826997</AwardID>
+<Investigator>
+<FirstName>Ewa</FirstName>
+<LastName>Deelman</LastName>
+<EmailAddress>deelman@isi.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Zink</LastName>
+<EmailAddress>zink@ecs.umass.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anirban</FirstName>
+<LastName>Mandal</LastName>
+<EmailAddress>anirban@renci.org</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ivan</FirstName>
+<LastName>Rodero</LastName>
+<EmailAddress>irodero@cac.rutgers.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cong</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>cwang@unc.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2890</Code>
+<Text>CISE RESEARCH RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

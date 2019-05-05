@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Small: Dynamics of repulsion and reinforcement in point process, latent variable, and trajectory models</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>234003</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Weng-keen Wong</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Most traditional ways of analyzing data assume that data points are sampled independently of one another.  In many problems, however, this assumption is incorrect.  This project focuses on data where one observation influences others, either as reinforcing (likely to have a similar value) or repulsing (likely to have a greatly different value). Such interactions might arise between static measurements, between trajectories evolving in space/on a network, or may be desirable biases in algorithms to promote goals like robustness, diversity or fairness. These might arise as a consequence of competition for finite resources, because of rich-get-richer dynamics from propagating social influence, because of interacting processes in physical and biological systems, or out of a desire to learn compact representations of complex systems. Examples include the locations of cells or service stations, interactions among particles or populations, traffic trajectories, users navigating social media, the spiking of neurons or the spread of disease. The research brings together applied problems and theoretical ideas from fields like machine learning, statistics, physics and computer science. Such tools open new avenues to data-summarization, exploration and visualization, and allow practitioners to explore trade-offs between interpretability and predictive accuracy. The applied aspects of this project provide an opportunity for undergraduate research and for the integration of research and teaching through an undergraduate course on stochastic processes and simulation.&lt;br/&gt;&lt;br/&gt;At a technical level, this project develops principled statistical models and efficient algorithms that relax assumptions of independence among observations lying on a shared space. It considers interactions for three classes of problems: 1) point process models, 2) latent variable models and 3) trajectory models. Central to the work are two kinds of stochastic process models: the Hawkes process for reinforcement, and the Matern type-III process for repulsion. Both processes share intuitive and mechanistic generative schemes from an underlying Poisson process, whose rate is modulated by event history. This allows a framework that jointly models richer repulsive and reinforcing interactions in stationary and trajectory data. The connection with the Poisson process allows novel models and mechanisms of reinforcement and repulsion, as well as new, scalable algorithms, allowing investigations into the fundamental role of non-Poissonness in real applications. Incorporating repulsive priors into latent variables of hierarchical models also allow novel repulsive latent variable models with biases towards parsimony and interpretability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816499</AwardID>
+<Investigator>
+<FirstName>Vinayak</FirstName>
+<LastName>Rao</LastName>
+<EmailAddress>varao@purdue.edu</EmailAddress>
+<StartDate>08/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

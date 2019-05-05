@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSCI: Advancing U.S. Competitiveness through Public-Private Partnerships for Advanced Computing</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>453997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vipin Chaudhary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Advanced computing is a foundational technology that has an enormous and growing impact on America's science, security and economic interests - all of which are interrelated. This project aims to: identify strategic public-private research areas for American leadership in advanced computing, optimize the way the public and private sector collaborate so research advances are deployed in meaningful ways that serve America's security and prosperity, and engage many stakeholder groups and help them prepare a diverse community of Americans to lead this shift in computing. By helping the United States field a more competitive advance computing ecosystem, the project would also advance scientific knowledge that underpins that same security and prosperity, and build the resulting industry of the future - along with the accompanying jobs - in the United States.&lt;br/&gt;&lt;br/&gt;High performance computing represents a foundational technology and business asset for improving United States? competitiveness. However, the United States, a long-time leader in the supercomputing realm, has been falling behind other nations in the development of advanced computing resources potentially ceding leadership in this space and as the global innovation leader to other countries investing in the resources to power innovation. This project will improve and expand collaboration between public and private sector groups to use the limited resources available to the high-performance computing community effectively, and strengthen the ability of firms to leverage advanced computing for economic advantage by developing skills within the American workforce, new software partnerships, and greater access to advanced computing resources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817573</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Evans</LastName>
+<EmailAddress>cevans@compete.org</EmailAddress>
+<StartDate>04/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Council on Competitiveness</Name>
+<CityName>Washington</CityName>
+<ZipCode>200062515</ZipCode>
+<PhoneNumber>2026824292</PhoneNumber>
+<StreetAddress>900 17th ST NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8005</Code>
+<Text>Scientific Software Elements</Text>
+</ProgramReference>
+</Award>
+</rootTag>

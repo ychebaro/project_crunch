@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Inaugural TCS Women Meeting at Symposium of Theory of Computing 2018</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>5000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy J. Kimbrel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support student attendance at the Inaugural TCS Women Event which will be co-located with the 50th Annual Association for Computing Machinery (ACM) Symposium on the Theory of Computing (STOC), June 25-29, 2018. Scientists all over the world are now increasingly acknowledging the need for diversity. Many diversity-related workshops are being organized with the goal of building community, increasing camaraderie, and helping minorities to share their experience and receive mentoring. While these workshops and meetings of minority communities are extremely important, it is equally important to co-locate these meetings with major technical conferences whenever possible. In this way, the issues of the minorities will get heard by the broader research community. In addition,  the number of participants of women and other minorities are dwindling in many conferences. Instead of being an enjoyable and learning experience, attending conferences often becomes an intimidating experience for them, especially in their early career.&lt;br/&gt;&lt;br/&gt;STOC is one of the flagship annual research conference in the field of Theoretical Computer Science (TCS). STOC features presentations covering all aspects of TCS and encourages papers that broaden the reach of theory. Moreover, the co-located theory festival organizes invited sessions with the best theoretical papers presented outside the TCS community. This award will provide partial support to approximately 10 students to attend this leading conference as well as the TCS Women event which will consist of a panel of senior female researchers and a research rump session, and will provide opportunities for network-building among women researchers in TCS.  It will contribute towards attracting more under-represented groups to TCS research and will provide a positive environment for their future professional development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834336</AwardID>
+<Investigator>
+<FirstName>Barna</FirstName>
+<LastName>Saha</LastName>
+<EmailAddress>barna@cs.umass.edu</EmailAddress>
+<StartDate>05/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>SPECIAL PROJECTS - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

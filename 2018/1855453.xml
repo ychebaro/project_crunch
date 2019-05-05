@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Acquisition of Critical Data for the Validation of Watershed Response Models in Eastern North Carolina</AwardTitle>
+<AwardEffectiveDate>12/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2019</AwardExpirationDate>
+<AwardAmount>49982</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Holly Barnard</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>There have been many hurricanes over the past few years that have made landfall or severely impacted the east/southeast coast of United States. Data from such hurricanes that impacts the terrestrial water cycle such as flooding - standing water on different land surface types is often poor. The project will collect three different kinds of observations - citizens mapping the flood extend, use of unmanned aerial vehicles to image flooded areas and the water quality samples for surface and groundwater in these areas in eastern North Carolina. These data will be collected over different land use types such as agriculture, urban, suburban and barrier islands. These data will be used in later studies to understand the behavior of flow and storage in the aftermath of record setting precipitation following a hurricane and to relay this information to the society.&lt;br/&gt;&lt;br/&gt;Flood inundation models face a problem of lack of data for calibration and validation. Models for flooding are distributed and yet traditional hydrology often collects only lumped data - discharge at a few points in the stream channel in the catchment and at the outlet. This is not sufficient to characterize the spatial response of a watershed. By collection of flood inundation data after Hurricane Florence of standing water using citizen mapping, use of unmanned aerial vehicles and water quality samples, the PI and his team will be able to generate a data set that can be used later for answering important science questions on water shed hydrology during floods. These questions include - how accurate are our flood hydrology models for a watershed; what is the response time for landscapes to recover from floods and does this vary among different land use type and lastly can we change the land use management to minimize the impact of floods. These questions can be adequately answered by the data collected in this RAPID project. The collection of water quality data feeds to the last question as to the land management strategies for minimizing impact of floods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855453</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>O'Driscoll</LastName>
+<EmailAddress>odriscollm@ecu.edu</EmailAddress>
+<StartDate>12/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Moysey</LastName>
+<EmailAddress>moyseys18@ecu.edu</EmailAddress>
+<StartDate>12/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Humphrey</LastName>
+<EmailAddress>humphreyc@ecu.edu</EmailAddress>
+<StartDate>12/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hannah</FirstName>
+<LastName>Cooper</LastName>
+<EmailAddress>cooperh18@ecu.edu</EmailAddress>
+<StartDate>12/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>East Carolina University</Name>
+<CityName>Greenville</CityName>
+<ZipCode>278584353</ZipCode>
+<PhoneNumber>2523289530</PhoneNumber>
+<StreetAddress>Office Research Administration</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7222</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>080Z</Code>
+<Text>Research related to Hurricane Florence</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

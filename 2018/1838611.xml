@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The trajectory of research at the intersection of biology and engineering</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>49541.00</AwardTotalIntnAmount>
+<AwardAmount>49541</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Given the increasing interdisciplinary nature of research, exchanges between leading investigators working at the interface of biology and engineering are becoming increasingly important. In order to facilitate these exchanges, this workshop assembles a group of approximately 250-300 predominantly US scientists and engineers, at all career stages, on the campus of Cornell University in Ithaca, NY June 22, 2018. Invited speakers from academia and industry and a limited number of international participants, will discuss the current and future prospects of several important and emerging fields that encompass biochemical engineering, nano-biotechnology, protein engineering and design, synthetic biology, systems biology, regenerative medicine, and personalized medicine. Invited speakers, as well as other academic and industrial leaders in attendance, will make themselves available over the course of the meeting for intellectual exchange and networking with all attendees, especially postdocs, graduate students, and undergraduate students. The results of the workshop would be posted on a website for broad dissemination.&lt;br/&gt;&lt;br/&gt;This award supports a workshop that brings together a group of approximately 250-300 predominantly US scientists to discuss the trajectory of research at the interface of biology and engineering. The workshop convenes on the campus of Cornell University in Ithaca, NY. The workshop goals are as follows: (a) to mutually inform participants on current and future activities related to biochemical engineering at the interface of biology and engineering, (b) to discuss translational potential and challenges and concerns associated with the technologies related to the scientific areas of discussion, (c) to explore the educational needs and best practices for education and training and (d) to assess common ground and opportunities for collaboration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838611</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>DeLisa</LastName>
+<EmailAddress>md255@cornell.edu</EmailAddress>
+<StartDate>06/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lawrence</FirstName>
+<LastName>Bonassar</LastName>
+<EmailAddress>lb244@cornell.edu</EmailAddress>
+<StartDate>06/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

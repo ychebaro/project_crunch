@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Probing and Braiding Chiral Majorana Fermions in Quantum Anomalous Hall Insulator-Superconductor Hybrid Structures</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardAmount>128804</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical abstract:&lt;br/&gt;The rapidly increasing need for high computing power requires a drastic paradigm shift away from traditional computers based on silicon transistors. A quantum computer, which makes use of quantum physics to store information and execute calculations is expected to be vastly more efficient and hence more powerful than a traditional computer. An attractive scheme towards quantum computation involves a newly-discovered class of materials, called topological insulators, where the interior is insulating but the surface is electrically conducting. Magnetic elements can be incorporated into such a topological insulator sample to achieve a curious phenomenon called quantum anomalous Hall effect. In this state the surface electrons are confined to the edges of the sample and flow without resistance. It has been predicted that quantum computation can be achieved in a device where this resistance-free edge current of the quantum anomalous Hall insulator is utilized. This project aims to test this prediction. Active education and outreach programs for graduate and undergraduate students, K-12 students and teachers, and the general public are integral part of planned work.&lt;br/&gt;&lt;br/&gt;Technical Abstract:&lt;br/&gt;The coupling of the spin-polarized dissipation-free edge state of a quantum anomalous Hall insulator and a conventional superconductor has been predicted to harbor a topological superconductivity phase that supports gapless Majorana fermion excitation at surfaces or edges of the sample. Topological superconductivity can reveal transformative new physics, such as non-Abelian statistics, and enable new architectures for topological quantum computation. In this project, the principal investigator pursues the quantum coherent oscillations as a function of vortices number in a micrometer-sized quantum anomalous Hall/superconductor Mach-Zehnder interferometer to ascertain the existence of the Majorana fermion and the non-Abelian braiding of such Majorana fermions in a quantum anomalous Hall/superconductor device with Corbino geometry. This project also explores the transport signatures of external electrical field induced topological superconductivity phase in quantum anomalous Hall/superconductor hybrid structures under homogenous magnetization and multiple chiral Majorana fermions in high-Chern-number quantum anomalous Hall/superconductor heterostructures. The success of the project will lead to significant new understanding of the microscopic mechanisms of topological superconductivity phase and carries far-reaching technological implications especially for the development of the topological quantum computer.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847811</AwardID>
+<Investigator>
+<FirstName>Cui-Zu</FirstName>
+<LastName>Chang</LastName>
+<EmailAddress>cxc955@psu.edu</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

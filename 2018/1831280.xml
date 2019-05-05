@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Scalable Collaborative Analytical Modeling</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>730919</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research Phase II project is to enable organizations - whether businesses, governments, or non-profits - to make more informed, more data-driven decisions. All organizations must decide how to allocate limited resources and do so in the context of meeting a set of objectives, such as profit, social wellbeing, or health. Modeling as a process and models as artifacts of that process allow decision makers to understand data through the lens of objectives and to then make decisions; data alone, no matter how much, cannot make decisions. As more aspects of the world are instrumented and captured digitally, the breadth and quantity of data will out of necessity require larger, more complex models to be built. Organizations will need a modeling workflow and supporting tools that scale with these demands.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project addresses the challenge of many users collaboratively building and maintaining analytical models that are consistent and reproducible while allowing for divergent and convergent change. This project will address the resource management challenges identified in development and the interactivity gaps identified in user testing of the Phase I prototype. The result will be a commercial software application for building models that manages code, data, and the evolution of both over time by many users.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831280</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Brady</LastName>
+<EmailAddress>stephen@fac.tt</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Fact Labs Inc.</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941032252</ZipCode>
+<PhoneNumber>4159927974</PhoneNumber>
+<StreetAddress>1864 15th St Unit 204</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

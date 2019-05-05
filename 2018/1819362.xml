@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  SmartBot360: A Platform to Enable an Effective Chatbot Ecosystem</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to enable smaller businesses to participate to the chatbot revolution, by making it easier to design and deploy chatbots. The initial focus of this project is healthcare, where there is great opportunity to improve the quality and availability of patient services. The key technological innovation is the facilitation of an ecosystem of chatbot designers and agents, through the creation of novel chatbot design, collaboration and deployment tools.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will create the technology to allow chatbot designers to incorporate human agents into the logical flow of chatbots. Currently, chatbots are designed in an ad-hoc trial-and-error manner, which is infeasible for small businesses who do not have the resources to constantly refine and evaluate their chatbots. The project will also create techniques to allow human agents to be productive when taking over chatbot sessions, and allow designers to improve the logical flow of chatbots based on usage data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819362</AwardID>
+<Investigator>
+<FirstName>Preston</FirstName>
+<LastName>Giorgianni</LastName>
+<EmailAddress>pgior001@ucr.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Wiley</LastName>
+<EmailAddress>mwiley63@gmail.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate>07/12/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SmartDocFinder LLC</Name>
+<CityName>Riverside</CityName>
+<ZipCode>925013617</ZipCode>
+<PhoneNumber>3057818044</PhoneNumber>
+<StreetAddress>3499 10th St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

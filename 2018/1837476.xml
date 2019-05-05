@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Adapt, Implement and Research at Nebraska: A Statewide Implementation Study of a Researcher-Practitioner Partnership for K-8 Computer Science Education</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>2000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen King</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project extends a successful researcher-practitioner partnership (RPP) between the University of Nebraska-Lincoln and the Lincoln Public Schools to other school districts in Nebraska. The primary goal is to study how a computer science (CS) curriculum for K-8 students is adopted by school districts with different strengths and challenges to broaden participation in computing. The project will also develop instructional capacity for K-8 CS education with diverse learners. The specific aims are to support new, partner districts by 1) adapting and implementing the existing CS curriculum, learning progression models, and assessment metrics for their needs; 2) customize the current professional development model to their educators; (3) create a teacher virtual network support model for ongoing logistical and content support; and 4) adapt, develop, and validate instruments to measure CS knowledge and self-efficacy.&lt;br/&gt;&lt;br/&gt;The project will be conducted as part of a research-focused networked improvement community (NIC) grounded in design-based research. During the project's iterations, the researchers will study 1) how the K-8 curriculum/resources implemented in diverse partner districts, and 2) how useful are the curricula and resources in supporting teacher and students CS knowledge, attitudes, and practices. The studies will pay particular attention to the similarities and differences that occur between various subgroups (i.e., underrepresented minorities, male/female). The project will result in case studies of rural, highly underrepresented, and Native American schools that guide other states and districts seeking to infuse computer science into K-8 education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837476</AwardID>
+<Investigator>
+<FirstName>Guy</FirstName>
+<LastName>Trainin</LastName>
+<EmailAddress>gtrainin2@unl.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kent</FirstName>
+<LastName>Steen</LastName>
+<EmailAddress>ksteen@lps.org</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leen-Kiat</FirstName>
+<LastName>Soh</LastName>
+<EmailAddress>lksoh@cse.unl.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gwen</FirstName>
+<LastName>Nugent</LastName>
+<EmailAddress>gnugent@unl.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wendy</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>wsmith5@unl.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

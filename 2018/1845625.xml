@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Triumvi - A Rapidly Deployable, Energy-Harvesting Real-Power Meter</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is a shift towards both accuracy and affordability within the world of energy sub-metering.  This metering system will have a dramatic impact on the market for submetering commercial real estate. By drastically reducing the cost and knowledge hurdles associated with accurate submetering and bringing the costs of submetering in line with value, this technology opens the door for a mass-market approach to circuit-level energy use data. The market for this commercial submetering is expected to reach $2.5 billion annually within six years, but could grow substantially larger with the introduction of low-cost, high-accuracy technologies. Additionally, it is estimated that access to metering data alone can reduce energy consumption within a building between 5% and 15%, meaning a wide deployment of these technologies could have wide-reaching environmental and energy security benefits.  &lt;br/&gt;&lt;br/&gt;The proposed project will advance the state-of-the-art in true power metering by providing revenue quality AC power submetering using an energy-harvesting, as opposed to plug-in, design. Doing so requires fundamental improvements in circuit design, embedded software architecture and signal analysis. The result is a self-contained system that drastically reduces deployment and installation costs. This project will simplify the system implementation and reduce the cost of production, and the ability for Triumvi meters to share data and, more importantly, energy harvested. Specific key technical objectives include creating a daisy-chain framework through which individual nodes within a metering system can share energy and data, improving accuracy in the myriad of potential field conditions, and creating a system of runtime-diagnostics to identify, and fix, human error in real time. Study and pursuit of these objectives will take place both in the lab, as well is in the field, where installation and accuracy can be benchmarked against conventional hardwired metering solutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845625</AwardID>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Block</LastName>
+<EmailAddress>ablock@allumia.com</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ALLUMIA, LLC</Name>
+<CityName>SEATTLE</CityName>
+<ZipCode>981125412</ZipCode>
+<PhoneNumber>4252987834</PhoneNumber>
+<StreetAddress>2315 E JOHN ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

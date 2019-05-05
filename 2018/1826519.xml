@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CIF: Small: Inverse Methods for Parametric Mixture Models</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>213168</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many imaging modalities in emerging science and engineering applications involve super-resolving low-resolution observations of point sources coming from mixed memberships encoded by different point spread functions. A notable example is super-resolution fluorescence microscopy, whose importance is recognized by the 2014 Nobel Prize in Chemistry, due to its ability of noninvasive imaging of complex biological processes at the nanometer scale. The next frontier, which is three-dimensional super-resolution single-molecule microscopy, allows reconstruction of three-dimensional structures from two-dimensional images, using engineered point spread functions to encode the axial information of different molecules, e.g. by introducing a cylindrical lens. The algorithmic challenge is therefore to simultaneously separate and resolve as many molecules as possible from their superposition in order to enhance the time resolution of imaging.&lt;br/&gt;&lt;br/&gt;This research program will develop a unified framework to understand when separation and super-resolution in such mixture models is simultaneously possible, as well as develop algorithms that are computationally efficient, provably correct, and robust to noise. Algorithms will be implemented on real data of three-dimensional super-resolution single-molecule imaging with collaborators at the Dorothy M. Davis Heart and Lung Research Institute at OSU. The project provides interdisciplinary opportunities for students training, where students will develop expertise in mathematical signal processing, optimization, and biomedical data analysis. The results of this project will be integrated into graduate-level courses on inverse problems and high-dimensional data analysis at OSU.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826519</AwardID>
+<Investigator>
+<FirstName>Yuejie</FirstName>
+<LastName>Chi</LastName>
+<EmailAddress>yuejiechi@cmu.edu</EmailAddress>
+<StartDate>03/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Understanding of Diffusion and Deformation Mechanisms in Multi-Principal Element Alloy Interlayers for Manufacturing of Multi-Material Structures</AwardTitle>
+<AwardEffectiveDate>06/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Schmid</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In almost every manufacturing sector, challenges exist in joining dissimilar materials due to the mismatches in their thermal, physical, and chemical properties. These challenges are exacerbated as component and system designs demand ever-increasing performance, and as interest in additive manufacturing of advanced multi-material structures continues to grow. A promising approach to prevent detrimental reactions at joint interfaces is to place an interlayer between the two metals, which can be used to improve ductility and prevent chemical diffusion of the base materials. This Faculty Early Career Development Program (CAREER) award supports research to establish a computational design methodology to accelerate the interlayer alloy design, providing new fundamental knowledge of the mechanisms that control diffusion and mechanical performance in these joints. This has the potential to enable joining of dissimilar and previously incompatible materials while optimizing performance for a wide range of applications in the automotive, aerospace and power generation industries. This project will also provide a platform for the education of the next generation of scientists and engineers in the field of joining and advanced manufacturing, with a focus on fundamental scientific knowledge, advanced computational skills, hands-on research experiences, and strong industrial engagement.&lt;br/&gt;&lt;br/&gt;Multi-principal element alloys have been reported to exhibit excellent mechanical properties. This work will provide critical insights to the thermodynamics, kinetics, and mechanics of multi-principal element alloys. The research program will investigate the relationships between diffusion behavior and composition, phase stability, and mechanical performance. Complex deformation mechanisms in multi-principal element alloys with a primary FCC phase will be investigated, using multiscale physics-based models and in-situ advanced characterization methods to reveal the underlying mechanisms, quantify the key parameters, and challenge existing theories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847630</AwardID>
+<Investigator>
+<FirstName>Zhenzhen</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>zyu@mines.edu</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado School of Mines</Name>
+<CityName>Golden</CityName>
+<ZipCode>804011887</ZipCode>
+<PhoneNumber>3032733000</PhoneNumber>
+<StreetAddress>1500 Illinois</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>088Y</Code>
+<Text>AM-Advanced Manufacturing</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>080E</Code>
+<Text>DEFORMATION PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>088E</Code>
+<Text>THERMALLY DRIVEN PROCESSES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8021</Code>
+<Text>Materials Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8025</Code>
+<Text>Advanced Materials Processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

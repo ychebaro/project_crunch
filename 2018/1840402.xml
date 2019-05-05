@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for In-Situ Control of the Nitrogen Cycle (In-SINC)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>99985</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dana L. Denick</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research. This planning grant will develop well-formulated plans for a future Engineering Research Center for In-Situ Control of the Nitrogen Cycle.  The program combines expertise in engineering, chemistry, data science and analytics, environmental science, and social and policy science, and establishes a flexible and robust process to identify and engage stakeholders. These stakeholders span academia, industry, and government, and will collaborate in the planning grant to define convergent research themes within four primary thrusts: (1) distributed fertilizer manufacturing, (2) efficient and controlled application of nitrogen fertilizer, (3) fertilizer recycling, and (4) nitrogen cycles as social-ecological systems. Development within these themes provides a platform for a sustainable "closed loop approach" for 21st century food supply, where nitrogenous fertilizers are efficiently produced, applied, and recycled at or near the site of application. Information gathered from the core team and stakeholders during the initial stages of the planning process will be developed into a formal set of technical goals within each of the four thrust areas.&lt;br/&gt;&lt;br/&gt;This project has the potential to advance knowledge in the distributed small-scale ammonia production, the availability of nitrogen flow and application models, knowledge of soil and water chemistry and nitrogen-based environmental effects, and achieving a heightened understanding of the interface of technologies with socio-ecological systems. The proposed program establishes the necessary convergence approach required to address these challenges, while narrowing focus to challenges related to fertilizer inefficiencies, and to engineering-based approaches and adoption. The program brings broad expertise, including expertise required to link technology efforts with societal impact, establishes convergence research themes, and develops metrics appropriate for measuring progress towards these themes. &lt;br/&gt;&lt;br/&gt;Over-production and application of nitrogen fertilizer in the developed world is responsible for a broad range of deleterious environmental effects, even while agriculture in the developing world suffers from a lack of bioavailable nitrogen. The planning grant catalyzes a process to solve challenges related to fertilizer production, application, and recycling, with additional focus on the regulatory and economic factors that ultimately connect engineering innovation with societal impact.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840402</AwardID>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Benner</LastName>
+<EmailAddress>BENNER@mailbox.sc.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Derek</FirstName>
+<LastName>Kauneckis</LastName>
+<EmailAddress>kaunecki@ohio.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gerardine</FirstName>
+<LastName>Botte</LastName>
+<EmailAddress>botte@ohio.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>French</LastName>
+<EmailAddress>roger.french@case.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marta</FirstName>
+<LastName>Hatzell</LastName>
+<EmailAddress>marta.hatzell@me.gatech.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio University</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>457012979</ZipCode>
+<PhoneNumber>7405932857</PhoneNumber>
+<StreetAddress>108 CUTLER HL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

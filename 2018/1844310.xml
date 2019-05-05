@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RoL: EAGER: DESYN-C3: A Self-evolving independent ATP battery for Pseudocells</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>299987</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Energy is essential for life.  ATP is a biological energy molecule used by every known living organism. It is produced inside cells. This project will fabricate and evaluate the novel concept of an "ATP battery" that will continuously produce ATP in a controlled and independent manner. Electronic batteries can power a wide range of electronic devices. The ATP battery would energize a wide variety of synthetic cell functions. The ATP battery would have energy generating cells that convert chemicals fed to them into ATP continuously. The ATP generated could then flow downstream to synthetic cells, powering the production of vaccines, therapeutic drugs or other valuable products. This project also has a detailed education and outreach plan. It focuses on expanding the research experiences and horizons for high school and undergraduate students.  &lt;br/&gt;&lt;br/&gt;ATP is an ideal energy choice for a synthetic cell. However, efficient production of ATP is currently limited to biological mechanisms. The creation of a controllable means to connect ATP generation to bioprocesses and supply it in a stand-alone manner, i.e. an ATP battery, would support the development of synthetic cells. Therefore, the primary goal of this project is to develop a device producing sufficient ATP in a continuous and controllable manner to drive external synthetic cells. An additional goal is to develop the battery in such a way that it can be evolved to meet the changing requirements of different synthetic cells. The proposed approach is inspired by electric batteries and cellular mitochondria. It builds on the research team's expertise and previous work on DNA hydrogels and synthetic biology. Utilizing cloned ATP synthase genes and combining 3D printing and microfluidics, the research team will build a stand-alone ATP battery that can convert a proton gradient to ATP continuously. The produced ATP will also be used to power the evolution of the battery cells themselves. The self-evolvable nature will make the proposed ATP batteries versatile, enabling applications beyond synthetic cells.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844310</AwardID>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Luo</LastName>
+<EmailAddress>dl79@cornell.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

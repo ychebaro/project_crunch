@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NCS-FO: Using fMRI to revise psychological variables</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>296437</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kurt Thoroughman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>One of the greatest challenges to understanding variability in human behavior and cognition, in both health and disease, is the relative disconnection between scientific psychology and neurobiological knowledge.  Not much is known of how personality, intelligence, and other variables are related, and we do not know how they arise from brain activity.  The overarching, high-risk goal of this NSF-EAGER project is to use neuroscience data to discover the architecture of the mind: can we build a new psychology from knowledge about the brain?  The starting point of this work is the notion that instead of personality, intelligence, positive mood, attention and other current psychological constructs, none of which were derived based on neuroscience data, one might end up with a very different inventory if these psychological variables were derived in a data-driven fashion from neuroimaging data.  This project is exploratory, since there are no extant paths for approaching this issue.  The project will use approaches from the field of causal discovery, essentially asking if we can identify features in neuroimaging data that best explain new, revised psychological variables.  The results will be a proof-of-principle that such an approach could yield new psychological constructs, and if successful will provide an initial direction in which this new field could evolve. The project will also use open science practices throughout its activities. &lt;br/&gt;&lt;br/&gt;This EAGER project investigates individual differences in psychology and brain function to address a high-risk, high-payoff question: can we use neuroscience to revise psychology?  It will focus on probing two domains of utmost importance to functioning in the real world: personality and intelligence.  There has been success in predicting classical derivations of personality dimensions and intelligence from neuroimaging data, but this approach is inherently limited by the particular psychological constructs used in the first place.  The further step taken here is to optimally combine test results in light of neural predictability, based on causal graphs that are estimated from resting-state fMRI data.  The project will also use a novel, entirely data-driven approach, Causal Feature Learning (CFL), to automatically derive candidate causal variables from the fMRI measurements that may explain the behavioral and psychometric measures used to determine personality and intelligence.  CFL has been used successfully in this fashion to analyze climate data, but it has never been applied to neuroscience. The project intends to make substantial contributions to philosophical and psychological conceptualizations of mental variables and cognitive architecture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845958</AwardID>
+<Investigator>
+<FirstName>Ralph</FirstName>
+<LastName>Adolphs</LastName>
+<EmailAddress>radolphs@hss.caltech.edu</EmailAddress>
+<StartDate>07/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Frederick</FirstName>
+<LastName>Eberhardt</LastName>
+<EmailAddress>fde@caltech.edu</EmailAddress>
+<StartDate>07/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8624</Code>
+<Text>IntgStrat Undst Neurl&amp;Cogn Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8551</Code>
+<Text>IntgStrat Undst Neurl&amp;Cogn Sys</Text>
+</ProgramReference>
+</Award>
+</rootTag>

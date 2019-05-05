@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EaGER: Inclusions of fluid-related minerals in diamonds from the transition zone or lower mantle</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>40366</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sonia Esperanca</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Although the surface of the Earth can be easily observed at many scales, the interior of the Earth is opaque and not accessible. There are only a small number of samples of minerals and rocks that derive from depths greater than 100 km.  Natural diamonds are not only the hardest natural materials we know but also our most valuable resources for direct interrogation of greater depths in the Earth's interior.  This Early Grant for Exploratory Research (EaGER) will support the study of a few precious diamond inclusions that are rich in fluid-bearing minerals, such as ice and calcite. The project will explore new methods in the study of unusual diamond inclusion, using state-of-the-art spectroscopic tools. &lt;br/&gt;&lt;br/&gt;The purpose of this EaGER is to expand on recent studies that have reported the occurrence of inclusions of ice-VII in diamonds from locations in Africa and China. Other inclusions of fluid-related crystalline precipitates such as magnesian calcite and halite have been identified and are expected to have residual pressures of 5-12 GPa and up to 25 GPa. Other inclusions of minerals of high residual pressure such as ilmenite and taenite have also been identified as inclusions that might have formed within the Transition Zone and lower mantle. This EaGER will extend the preliminary study to constrain pressure- and temperature regimes of fluid occurrences in the Transition Zone by analyzing a larger number of diamond inclusions using synchrotron micro-XRD and-XRF, optical spectroscopy, and subsequent EPMA wherever applicable. The results should contribute to to our understanding of the global water- and carbon budget by using an entirely combination of methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838330</AwardID>
+<Investigator>
+<FirstName>Oliver</FirstName>
+<LastName>Tschauner</LastName>
+<EmailAddress>olivert@physics.unlv.edu</EmailAddress>
+<StartDate>05/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nevada Las Vegas</Name>
+<CityName>Las Vegas</CityName>
+<ZipCode>891541055</ZipCode>
+<PhoneNumber>7028951357</PhoneNumber>
+<StreetAddress>4505 MARYLAND PARKWAY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1573</Code>
+<Text>PETROLOGY AND GEOCHEMISTRY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1574</Code>
+<Text>GEOPHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

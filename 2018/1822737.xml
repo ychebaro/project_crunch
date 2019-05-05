@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRI: II-New: A Software Defined Infrastructure for Cross-Layer Research on Reconfigurable Architecture and Systems</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>700000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuanyuan Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Rapid advances in computer technologies bring many disruptive changes to conventional wisdoms of software and hardware systems. Such disruption requires the increasing attention and efforts from computing researchers to develop commensurate software and hardware tools that can facilitate the service of computer technologies to the applications and end users. Significant research on computer architecture, network, and storage systems is needed to meet these requirements. The Department of Computer Science at Florida State University has been carrying out many systems research projects that could make use of cutting-edge equipment on software defined networking, processor and memory architectures, high-bandwidth storage devices, and reconfigurable computer systems. &lt;br/&gt;&lt;br/&gt;To meet the need, this project develops a software-defined, reconfigurable infrastructure called NoleLand. It features advanced manycore processors, software-defined networking, and 3D Xpoint High Bandwidth Memory devices for computer systems research. These capabilities enable cross-layer research projects on performance, scalability, and resilience of large-scale systems, as well as the development of software-defined file and storage systems for data-intensive applications. In addition, NoleLand provides an incubator for more collaborative opportunities and multidisciplinary research projects. Furthermore, NoleLand helps recruit more under-represented Hispanic and African-American students and prepares them for professional careers. It delivers a state-of-the-art infrastructure that significantly strengthens computing research and education activities at the Florida State University and the local community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822737</AwardID>
+<Investigator>
+<FirstName>Weikuan</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>yuw@cs.fsu.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Whalley</LastName>
+<EmailAddress>whalley@cs.fsu.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xin</FirstName>
+<LastName>Yuan</LastName>
+<EmailAddress>xyuan@cs.fsu.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida State University</Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323064166</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress>874 Traditions Way, 3rd Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

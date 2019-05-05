@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Examining how functional protein aggregates evade protein quality control degradation systems</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>800000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wilson Francisco</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Aggregation (or clumping) of proteins is generally harmful to cells, so cells contain elaborate machinery designed to prevent protein aggregation. However, certain proteins have evolved to form functional protein aggregates that are used to regulate various cellular activities. This project will examine how functional protein aggregates evade the protein quality control systems designed to degrade aggregation-prone proteins. These studies will offer insight into protein evolution, and will provide tools for protein design. This experimental work will be integrated with educational opportunities. Some of the research in this project will be conducted in the context of an undergraduate laboratory course, which is designed as a hybrid of independent research and traditional laboratory classes. The structured environment of the class will allow for training of many more students than would be possible with separate independent projects, thereby expanding undergraduate research opportunities. Additionally, the PI will continue his Biochemistry is Elementary outreach program. This program uses hands-on biochemistry and genetic experiments to introduce elementary school students to the scientific method and the fields of biochemistry and genetics. &lt;br/&gt;&lt;br/&gt;The experimental work will utilize yeast prion proteins as a model system. Yeast prions result from the structural conversion of proteins from a soluble form into an insoluble aggregated form. These prions can be stably passed from mother to daughter cells, allowing the prions to act as protein-based genetic elements. This project builds on exciting preliminary results demonstrating that subtle changes in amino acid sequence can dramatically change the balance between protein aggregation and degradation. Using this experimental system, the researchers will quantitatively define the amino acid sequence features that allow certain protein aggregates to evade the cellular anti-aggregation machinery, and explore the mechanism by which these proteins evade degradation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817622</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Ross</LastName>
+<EmailAddress>eric.ross@colostate.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

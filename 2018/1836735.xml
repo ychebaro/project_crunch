@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Enabling rational design of MOF-polymer mixed matrix membranes for liquid separations through understanding of microscale and macroscale properties</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>185000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christina Payne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Gasoline, plastics, laundry detergent, many pharmaceuticals, and cosmetics are all derived from organic liquids. Organic liquids are essentially the liquid fraction of crude oil. The molecules in crude oil are a complex mixture, that must first be separated before they can be converted to useful consumer products. Today, separation of the mixture requires the organic liquids be boiled and distilled. Boiling the liquid requires a large energy input, the cost of which is ultimately passed on to the consumer. Given the vast consumption of consumer products derived from organic liquids, this separation utilizes a sizable fraction (about 10%) of the nation's total energy consumption. The development of alternative, low-cost and low-energy separations of organic liquids will allow the nation to continue, or improve upon, its standard of living while reducing energy consumption. To achieve this goal, there is growing interest in using solid mass separating agents to separate organic liquids, rather than distilling the mixture. One such example of a mass separating agent is a membrane, which acts as a sieve to separate the components of the mixture. Unlike a macroscopic sieve, a membrane contains nanometer-sized pores with specific chemical functionalities. Molecules pass through the pores and interact with the chemical functionalities in different manners, leading to a separation of different types of molecules. To separate organic liquids, which can dissolve many materials, the membrane must be chemically robust. This research project will couple traditional and advanced characterization techniques to track the movement of the organic molecules through membranes, in order to advance the rational design of mass separating agents that separate organic liquids. &lt;br/&gt;&lt;br/&gt;This research project will seek to understand changes of the transport, structural, and sorption properties of organic liquids in polymers, metal-organic frameworks (MOFs), and mixed-matrix membranes consisting of both of these components. Diffusion will be determined using both traditional transport measurements of molecular flux, as well as pulsed field gradient nuclear magnetic resonance spectroscopy. To evaluate diffusion with sub-micrometer spatial resolution, high magnetic field gradients and a high static magnetic field will be used. An analytical model will be developed to link microscopic and macroscopic diffusivities, transport properties, sorption, and structural properties. The goal of this model will be to develop design principles for MOF-based mixed-matrix membranes for organic liquid separations. Educational and outreach aspects of the work will leverage existing programs, introduce animations and educational demonstrations, and offer students participation in well-defined engineering projects related to membrane separations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836735</AwardID>
+<Investigator>
+<FirstName>Sergey</FirstName>
+<LastName>Vasenkov</LastName>
+<EmailAddress>svasenkov@che.ufl.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1417</Code>
+<Text>Process Separations</Text>
+</ProgramElement>
+</Award>
+</rootTag>

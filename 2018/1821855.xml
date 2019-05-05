@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>International Conference on Biomolecular Engineering Asia 2018</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The International Conference on Biomolecular Engineering Asia 2018 (ICBE Asia 2018) is sponsored by the American Institute of Chemical Engineering. It will be held in Singapore on January 8-10, 2018.   This international conference will bring together biologists, chemists, and engineers to discuss ways in which their disciplines can collaborate to find novel solutions to problems that are limiting the development of new technologies and therapies. The meeting addresses the mission of NSF, which has been increasingly committed to integrating the engineering sciences with the life sciences, encouraging research and development in multidisciplinary areas, educating the next generation of young scientists, aiding translational medicine and supporting cutting edge science to answer current and future challenges as well as making sure US-based scientists interact internationally. &lt;br/&gt;&lt;br/&gt;Topics will focus on development of foundational technologies for biomolecular engineering across length. There will be three conference topics, presented in a single-track format. Foundational Technologies for Biomolecular Engineering will focus on new tools and platforms developed to enable engineering of molecules, cells, and multi-cellular entities.  Biomolecular Programming - from DNA to Community will present programming approaches that can be applied to a single length scale or across multiple length scales, including bioprocess engineering, microbiome programming, and molecular networks. Translational Biomolecular Engineering will showcase applications ranging from the production of high value chemicals, to cellular immunotherapies, to catalytic protein materials. The peer-reviewed conference proceedings will be published in a special issue of Biotechnology Progress, a joint publication of the ACS and AIChE.</AbstractNarration>
+<MinAmdLetterDate>01/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821855</AwardID>
+<Investigator>
+<FirstName>Julie</FirstName>
+<LastName>Champion</LastName>
+<EmailAddress>julie.champion@chbe.gatech.edu</EmailAddress>
+<StartDate>01/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gabriel</FirstName>
+<LastName>Levesque-Tremblay</LastName>
+<EmailAddress>gabrl@aiche.org</EmailAddress>
+<StartDate>01/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Institute of Chemical Engineers</Name>
+<CityName>New York</CityName>
+<ZipCode>100054020</ZipCode>
+<PhoneNumber>6464951350</PhoneNumber>
+<StreetAddress>120 Wall Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Role of Hydrodynamics in the Behavior of Active Matter</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>335000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Olbricht</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A distinguishing feature of many living organisms is their ability to move, to self-propel, to be active.  Constituents of "active matter" systems are capable of independent self-propulsion by converting fuel into mechanical motion. Examples of active matter include both microscopic entities like microorganisms and motor proteins within our cells and large bodies like fishes and birds.  Inanimate, nonliving bodies can also achieve self-propulsion using mechanisms that are different than living organisms. The outcome of the collective behavior of these nonliving active systems is not necessarily different from living active systems.  Indeed, active matter systems of all scales have the tendency to associate together and move collectively, from colonies of bacteria, swarms of insects, flocks of birds, schools of fish, to herds of cattle.  The question addressed in this research is the micromechanical, hydrodynamic, origin for living (and nonliving) organisms to exhibit collective and coherent motion and how it can be explained and modeled using simple physical principles.  Such insight will enable the prediction, design, and control of active soft matter systems and their exploitation in nature and in industry.&lt;br/&gt;&lt;br/&gt;The intrinsic activity imparts new behaviors to active matter that distinguish it from equilibrium condensed matter systems.  Active matter systems generate their own internal stress, which drives them far from equilibrium and thus frees them from conventional thermodynamic constraints, and by so doing can control and direct their own behavior and that of their surrounding environment.  Active matter is always at least a two-component system - the active body and the embedding medium off of which the active body self-propels.  In this research fluid-mediated hydrodynamic interactions among self-propelled bodies are incorporated for the first time.  Hydrodynamics significantly affect the forces active particles exert on boundaries or other objects and can profoundly affect the phase separation in active systems by modifying the mechanical "swim pressure."  The swim pressure provides a pressure-concentration relation for active matter that can quantitatively predict condensation and phase separation in active systems and provides a route for determining the amount of work that can be harvested from the often random motion of active systems.  We also show that, in general, the swim stress has off-diagonal or deviatoric contributions, especially when an active system is subject to shearing motion.  The swim stress predicts that, under very general conditions, active particles can reduce the suspension effective viscosity to zero, enabling spontaneous flow of active matter.  The mechanical swim stress perspective allows one to understand, analyze and exploit a wide class of active soft matter systems, from swimming bacteria to catalytic nanobots to molecular motors that activate the cellular cytoskeleton.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803662</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Brady</LastName>
+<EmailAddress>jfbrady@caltech.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1415</Code>
+<Text>PARTICULATE &amp;MULTIPHASE PROCES</Text>
+</ProgramElement>
+</Award>
+</rootTag>

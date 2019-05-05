@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RoL: EAGER: DESYN-C Spontaneously Synthesized RNA Protocells for Biological Catalysis</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>299998.00</AwardTotalIntnAmount>
+<AwardAmount>299998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The core activity of a cell involves the high-fidelity replication of RNA and DNA. Protein synthesis is necessary to accomplish this objective. The variety of protein activities present leads to complex cell behavior. This variety is due in large part to external environmental forces. This project will attempt to create a precursor to a synthetic cell; a protocell. Think of this as a stepping stone between a vessel containing a mixture of chemicals and a fully-functional cell. The protocells will be micron-sized water droplets containing simple molecules. In such confined environments, spontaneous reactions have been observed to occur. This project, if successful, might help explain how life began, and facilitate the exploration of the catalytic functions of ribozymes.&lt;br/&gt;&lt;br/&gt;The project is an attempt to construct protocells from water microdroplets. The approach utilizes in situ synthesis of nucleotide, oligonucleotide, and phospholipids in aerosol microdroplets with geometric confinement and a heterogeneous air-water interface. The intellectual merits of the proposed research on synthesizing protocells and applications are: &lt;br/&gt;(1) How to form cellular membranes from simple phospholipid precursor molecules; &lt;br/&gt;(2) How to construct RNAs from ribose, nucleobase, metal and phosphoric acid; &lt;br/&gt;(3) How to build complex RNA molecules such as RNA oligomers, double-strand RNAs, ribozymes, and organometallic hybrid RNA enzymes; &lt;br/&gt;(4) How to utilize the protocell containing RNA ribozymes for catalysis, RNA editing, and switching biochemical reactions. &lt;br/&gt;The formation of oligomer products from the fluorescently tagged reactant nucleotides will be probed using fluorescence spectroscopy methods. Complete characterization of metabolic reactions and catalytic reactions using mass spectrometry will be achieved.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/28/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/28/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844119</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Zare</LastName>
+<EmailAddress>zare@stanford.edu</EmailAddress>
+<StartDate>03/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

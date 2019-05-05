@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: SHF Software and Hardware Architecture Co-Design for Deep Learning on Mobile Device</AwardTitle>
+<AwardEffectiveDate>02/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardAmount>175000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Almadena Chtchelkanova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Smartphones have become an indispensable part of our lives, acting as the primary tool for many essential functions. A smartphone carries a rich set of data with all kinds of personal information. Powered by machine learning, mobile applications are utilizing these data for better quality of service. Current practice requires users to offload computation tasks to the cloud with incumbent challenges on privacy, performance and user experience fronts. Boosted by the dramatic increase in mobile processing power, this project seeks to bring machine intelligence to mobile devices. The results are expected to inspire both theoretical and system research in the areas of software foundations for embedded machine intelligence. Lessons learned through this project will be fundamentally important in the designs of the next generation mobile operating system and hardware architecture. The results will be disseminated through publications and talks. &lt;br/&gt; &lt;br/&gt;This project seeks to develop a high-performance, privacy-preserving and energy-efficient mobile-based platform, with an application of behavioral authentication. The research will study the optimal representation of sensing data and develop a compact and powerful neural network architecture. All computation including both inference and training will be performed on the mobile device. A protocol to enable feature transfer between the mobile and the cloud will be developed to reduce overfitting and speed up model convergence, along with a new training algorithm to exploit cache locality and mitigate the memory bottleneck. The optimal combinations of batch size and learning rate will be explored within memory constraints and accuracy requirements to minimize training time. The problem of when and how training should be scheduled on a mobile device will be investigated by considering low-level operation with high-level user interaction to achieve a good balance between performance and resource consumption. All these modules will be integrated and implemented in Android and evaluated on various smartphone models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850045</AwardID>
+<Investigator>
+<FirstName>Cong</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>c1wang@odu.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Old Dominion University Research Foundation</Name>
+<CityName>Norfolk</CityName>
+<ZipCode>235082561</ZipCode>
+<PhoneNumber>7576834293</PhoneNumber>
+<StreetAddress>4111 Monarch Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

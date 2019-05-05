@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: A Social Platform that Models User Identity Via Interactive Stories</AwardTitle>
+<AwardEffectiveDate>12/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamular Mccauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project results from its utility for customizing interactive media experiences for diverse users in systems including workplace learning software, streaming media, educational games, and recommendation applications. This is enabled by the project's novel approach to implementing more nuanced user representations in software (online accounts, user profiles, avatars, etc.). Currently, customized systems' responses for specific user representations are expensive to produce and not expressive enough: they often are hardcoded, labor intensive to implement, and fail to support the particular needs of diverse users. In most such systems users' membership in categories (e.g., demographic groups or experts vs. novices) is determined in a top-down fashion, with no possibility for systems to respond to user representations that only partially fit in categories, inhabit multiple categories, or change over time. These deficiencies prevent systems from achieving the nuance of social category membership in everyday life. Finally, a key potential application is building interactive media supporting prosocial skill and knowledge development.&lt;br/&gt;&lt;br/&gt;This I-Corps project will advance knowledge related to modeling user identities in commercial and socially impactful digital media systems. Key to the intellectual merit of the project, the core technology is a computational engine that models identities (using data from profiles, avatars, characters, and accounts) by mathematically computing users' degrees of membership across multiple categories over time. To computationally model category degrees of category membership, the engine computes a closeness value corresponding to the degree to which an actor deviates from a prototypical member of a category, who is defined via a set of features. The degree of membership fluctuates throughout an interactive narrative based on user behaviors. Modeling these scenarios draws upon specific concepts from sociolinguistics, cognitive science, and sociology of classification. They include: category gradience, category dynamics, multiple memberships, inter-category relationships, and prototypes. Along with numerous publications, relevant prior work has been conveyed through invited keynotes and talks at major universities, foundations, and academic venues internationally.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850937</AwardID>
+<Investigator>
+<FirstName>D. Fox</FirstName>
+<LastName>Harrell</LastName>
+<EmailAddress>kitsune@mit.edu</EmailAddress>
+<StartDate>11/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

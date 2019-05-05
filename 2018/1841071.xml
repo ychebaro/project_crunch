@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FY18 and FY19 NCO/NITRD Rent to GSA</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>342565</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>12000000</Code>
+<Directorate>
+<LongName>National Coordination Office</LongName>
+</Directorate>
+<Division>
+<LongName>National Coordination Office</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Diane Theiss</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>06/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841071</AwardID>
+<Investigator>
+<FirstName>Kathleen</FirstName>
+<LastName>Roberts</LastName>
+<EmailAddress>robertsk10@nku.edu</EmailAddress>
+<StartDate>06/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>General Services Administration</Name>
+<CityName>Washington</CityName>
+<ZipCode>20405</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1280</Code>
+<Text>NCO PROGRAM OFFICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1280</Code>
+<Text>NCO PROGRAM OFFICE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

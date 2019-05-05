@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Excellence in Research: Evaluating the Use of Virtual Mentoring for HBCU Undergraduates in Computer Science</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>992892.00</AwardTotalIntnAmount>
+<AwardAmount>992892</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fay Cobb Payton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Morehouse College and Alabama A&amp;M University proposes a collaborative research project to explore the use of avatars, formally known as embodied conversational agents, to provide career mentoring for undergraduate computer science majors who are considering pursuing a graduate degree in computing. The study will include participating students from ten different Historically Black Colleges and Universities (HBCUs). African Americans with terminal degrees in computer science are scarce, however HBCUs have a strong history of producing African American students who go on to get advanced degrees in computing. Research in this field will enable effective mentors in computer science to scale their best practices to a larger percentage of undergraduate students at HBCUs. This project will also fund the development of formal collaboration between Morehouse College and the Online Masters in Computer Science Program at the Georgia Institute of Technology. This groundbreaking program will allow the Principal Investigator to serve as the thesis advisor for Masters students at Georgia Tech while they are trained as researchers at Morehouse College.&lt;br/&gt;&lt;br/&gt;This project will investigate the barriers faced by African American students when deciding on pursuing advanced degrees in computing as well as how intelligent virtual mentors affect their decision. It will examine what is the most effective way for an embodied conversational agent to interact with these specific group of students. Once completed, the findings from this study will be used to expand to other underrepresented groups to provide career mentoring for an assortment of science careers. Additionally, the findings from this research will help to build the research capacity at two HBCUs, Morehouse College and Alabama A&amp;M University.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/14/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831964</AwardID>
+<Investigator>
+<FirstName>Kinnis</FirstName>
+<LastName>Gosha</LastName>
+<EmailAddress>kinnis.gosha@morehouse.edu</EmailAddress>
+<StartDate>09/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tonya</FirstName>
+<LastName>Davis</LastName>
+<EmailAddress>tonya.davis@aamu.edu</EmailAddress>
+<StartDate>02/14/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Morehouse College</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303143773</ZipCode>
+<PhoneNumber>4706390221</PhoneNumber>
+<StreetAddress>830 Westview Drive S W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>070Y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041Z</Code>
+<Text>HBCU-Strengthening Research Capacities</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: JUNO2: Collaborative Research: STEAM: Secure and Trustworthy Framework for Integrated Energy and Mobility in Smart Connected Communities</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>239996.00</AwardTotalIntnAmount>
+<AwardAmount>91090</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Corman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The rapid evolution of data-driven analytics, Internet of things (IoT) and cyber-physical systems (CPS) are fueling a growing set of Smart and Connected Communities (SCC) applications, including for smart transportation and smart energy.  However, the deployment of such technological solutions without proper security mechanisms makes them susceptible to data integrity and privacy attacks, as observed in a large number of recent incidents. If not addressed properly, such attacks will not only cripple SCC operations but also influence the extent to which customers are willing to share data. This in turn will make trustworthiness in SCC applications very challenging. To address this, a synergistic team of researchers from the US and Japan, under the JUNO2 program,  will collaborate on this project, called STEAM (Secure and Trustworthy framework for integrated Energy and Mobility) to develop a  framework to ensure data privacy, data integrity, and trustworthiness in smart and connected communities. The collaboration provides the project with a significant amount of automotive (transportation) data from Japan, and also access to a testbed in Japan. Although the target applications are smart mobility and smart energy (the choice is deliberate to exploit the complementary strengths of Japan and US in these two domains), the proposed techniques and solutions have wide applicability to other domains, such as smart healthcare. &lt;br/&gt;&lt;br/&gt;The novelty of the STEAM project lies in its integrated approach to handling security and trustworthiness in SCC applications. Specifically, the research team will develop innovative privacy-preserving algorithms and models for anomaly detection, trust and reputation scoring used by application providers for data integrity and information assurance. Towards that goal, they will study trade-offs between security, privacy, trust levels, resources, and performance using two exemplar applications in smart mobility and smart energy exchange in communities. Finally, they will design a modular, secure and trustworthy middleware architecture that implements privacy-preserving algorithms, resource constraints, and trustworthiness of data sources or content and decision-making schemes. The project has access to smart meter data from Texas, California, and Ireland and a large volume of automobile data from Japan.  The evaluation plan includes integration of the project's anomaly detection and trustworthy decision-making algorithms into a smart vehicle route planning application and a transactive energy system in a plug-in electric vehicle testbed in Japan.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/13/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818942</AwardID>
+<Investigator>
+<FirstName>Sajal</FirstName>
+<LastName>Das</LastName>
+<EmailAddress>sdas@mst.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shameek</FirstName>
+<LastName>Bhattacharjee</LastName>
+<EmailAddress>shameek.bhattacharjee@wmich.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Missouri University of Science and Technology</Name>
+<CityName>Rolla</CityName>
+<ZipCode>654096506</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress>300 W 12th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7071</Code>
+<Text>JUNO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

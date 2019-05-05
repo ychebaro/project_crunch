@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: SCC: Scoping an NSF Prize Challenge For Smart and Connected Communities</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Corman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project seeks to design and structure a Smart &amp; Connected Communities (S&amp;CC) Prize Challenge that provides innovative solutions to technically and socially complex needs that are of broad and pressing interest to communities. The proposer will harness the expertise of researchers, communities, philanthropy, and industry to scope and plan the Prize Challenge, including: 1) identification of prize challenge topics ; 2) the structuring and recruitment of a consortium of funding partners from the philanthropic and corporate community; and 3) the development of a governance structure, launch plan, and review process for the prize challenge.&lt;br/&gt;&lt;br/&gt;The research component of this project will test the creation of a new framework that will drive truly integrative, community-focused research done in partnership with funders from philanthropy and industry.  This new structure introduces questions about how community-focused research is crafted and how that research integrates into the broader ecosystem of state and local government, public planning, philanthropic programming, industry research and development (R&amp;D) activities, and collaboration across communities. This process will test the impact of more guided research prompts on the quality of responses from researchers and communities.  It will also seek to create funding partnerships that will broaden the research-to-deployment pipeline, thereby enhancing the technical and societal impact of S&amp;CC research.  The project will draw from MetroLab Network's experience working with universities, communities, philanthropies and other civic-focused stakeholders.  The team will work with a range of partners to undertake this project, including subject-matter experts across S&amp;CC topics; it includes partners who have collaboratively developed new approaches to how data and technology are integrated in the policy planning and implementation process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833054</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Levine</LastName>
+<EmailAddress>brlevine@andrew.cmu.edu</EmailAddress>
+<StartDate>06/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

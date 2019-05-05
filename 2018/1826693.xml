@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Fluorescent Dyes and Pigments by Small Molecule Isolation Lattices, SMILES</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is related to the development of fluorescent materials. Commercial potential is expected to emerge when replacing costly existing technologies (like quantum dots) with inexpensive materials able that can be embodied as highly fluorescent organic solids. Such materials are expected to create new value and have commercial potential in several markets in which either aesthetics, brightness, or color transmission is critical for performance. Our primary markets of interest are colorants in paints and polymers. Fluorescent brighteners represent an important segment of the global dyes and pigments market (a &gt;$30B per year industry). We believe our technology can expand this segment by streamlining the formulation and processing of fluorescent materials, and by broadening the available color palate. Immediate applications would arise in creation of new fluorescent paints and coatings for construction and safety applications, and may also provide new user-friendly color options to the growing market for 3D printing materials. We anticipate additional downstream applications to arise in customized biolabeling technologies and solar power generation. If successful, the broader impacts also include the training of scientists in the process of commercialization. &lt;br/&gt;&lt;br/&gt;This I-Corps project provides a universal tool to address the outstanding intellectual challenge of understanding how to reverse loss of fluorescence from solid-state formulations of organic dyes. The intellectual merits will derive from new synthetic preparations of fluorescent dye and pigment technology by a method called small molecule isolation lattices, or SMILES. This project derives from research that has provided a way to insulate the color-carrying dye molecules from one another allowing their fluorescence to be rescued. A wide range of proof-of-principle experiments shows how to prepare the SMILES materials simply by mixing a proprietary compound with existing fluorescent compounds. The results show fluorescence in solids, as films, crystals, dyes, and particles under identical conditions that render conventional fluorescent dyes non-emissive.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826693</AwardID>
+<Investigator>
+<FirstName>Amar</FirstName>
+<LastName>Flood</LastName>
+<EmailAddress>aflood@indiana.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

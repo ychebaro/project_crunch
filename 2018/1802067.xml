@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Applications of Representation Theory in Commutative Algebra</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>282000.00</AwardTotalIntnAmount>
+<AwardAmount>93250</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janet Striuli</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project involves the study of problems from several branches of algebra. Commutative algebra studies sets defined by polynomial equations. The first and second part of the project are devoted to studying polynomial equations defining certain sets characterized geometrically. The third part of this project will be a systematic study of certain kinds of graphs from a geometric point of view.&lt;br/&gt;&lt;br/&gt;This project consists of several interrelated parts. The first part is to study the structure of generic rings for finite free resolutions. The principal investigator proposes to develop his discovery of a link between the generic ring for resolutions of length 3 and Kac-Moody Lie algebras related to T-shaped graphs. The second part is related to calculating local cohomology. The PI plans to develop his calculation of local cohomology for certain classes of commutative rings.  The third part involves several other projects on noncommutative algebra. The PI will study picture groups defined for modulated quivers and the geometry of the components of representation spaces for quivers with relations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802067</AwardID>
+<Investigator>
+<FirstName>Jerzy</FirstName>
+<LastName>Weyman</LastName>
+<EmailAddress>jerzy.weyman@uconn.edu</EmailAddress>
+<StartDate>04/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

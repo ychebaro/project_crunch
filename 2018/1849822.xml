@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CHS: Novel technology for improving access to trainer-led aerobic exercise for people who are blind</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>174995.00</AwardTotalIntnAmount>
+<AwardAmount>174995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>People who are blind or have low vision are more likely to be obese than people with normal vision. One effective way to prevent obesity is by exercising regularly, but exercise instructors typically give verbal directions and feedback based on the premise that the trainee is sighted. To address this problem, this research will create a system that uses a sensing mat to track a trainee's feet during step aerobics and provide reorienting feedback if s/he falls out of sync with the class. Studies with people who are visually impaired will be used to determine how best to design verbal feedback to the trainee and when the verbal feedback should be provided.  System accuracy will also be measured.  This research will create knowledge that will help designers of future assistive technologies. The research will also help enhance the quality of life for people who are visually impaired, providing them with an opportunity to have an accessible experience in group-based aerobic exercise classes.  &lt;br/&gt;&lt;br/&gt;To achieve the project's goals, an empirical user study will first be conducted where people with visual impairments perform aerobic exercises with video and audio workouts. Participants will be video recorded during exercise, and the research team will analyze the recordings to determine which verbal phrases help or confuse participants. Second, sensor mat technology and associated algorithms will be developed to track the trainee's feet with template matching to determine when the trainee falls out of sync during step aerobics. Two kinds of verbal feedback will be developed: proactive feedback if the system detects unhelpful verbal phrases, and reactive feedback if the person performs three missteps in a row. User studies will be conducted to determine the effectiveness of this feedback, as well as participant preferences with respect to type of verbal feedback.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/25/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/25/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849822</AwardID>
+<Investigator>
+<FirstName>Kyle</FirstName>
+<LastName>Rector</LastName>
+<EmailAddress>kyle-rector@uiowa.edu</EmailAddress>
+<StartDate>03/25/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421320</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>2 GILMORE HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

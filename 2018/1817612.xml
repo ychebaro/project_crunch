@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Citizen science technology platform</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamular Mccauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project capitalizes on the current growth in citizen science to explore the commercial potential of a technological platform that streamlines data capture, collection, integration, hosting, visualization, analysis, and sharing for citizen science projects. Although widely popular, the tasks necessary to do citizen science well are onerous, complex, and frustrating leading to inefficiencies, lost time, and added expense. Project managers need tools that help them and their volunteers execute research in a fast, easy, and cost effective method. They need to easily tailor the governance of members and data and be able to quickly recruit, communicate with, and oversee members. They need data collection tools flexible enough to support their specific and evolving needs; they need data to be high quality, secure, backed up, curated, and accessible all in a centralized place. They need to easily detect outliers, be able to fix errors, upload data, create reports, and efficiently automate the sharing and delivery of data to stakeholders.&lt;br/&gt;&lt;br/&gt;This I-Corps project explores the market need for an online platform to realize the full potential of citizen science. Citizen science engages the public in scientific research and is growing rapidly. Currently, thousands of citizen science projects engage millions of participants. However, there is a disconnect between software features and project needs. Current projects remain fraught with inefficiencies and software and data systems are ad hoc and disjointed.  This results in software and data silos. Current solutions limit observations to single points, lack support for rigorous scientific experimentation and analysis, and cannot deliver data to consumers in a readily usable format. This platform streamlines data collection and sharing through flexible, fully customizable, and synchronized real-time web and mobile applications.  It improves project data management, analysis, and visualization.  It amplifies the impacts of projects by increasing awareness, collaboration, and sharing across projects.</AbstractNarration>
+<MinAmdLetterDate>01/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817612</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Newman</LastName>
+<EmailAddress>Gregory.Newman@ColoState.Edu</EmailAddress>
+<StartDate>01/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

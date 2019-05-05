@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a 500 MHz Nuclear Magnetic Resonance (NMR) Spectrometer to Benefit Research and Education in Maine</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>535900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation and the Chemistry Research Instrumentation programs. Professor Matthew Brichacek from University of Maine (UM) and colleagues Alice Bruce (UM), William Gramlich (UM) and Thomas Schwartz (UM) as well as Karl Bishop from Husson University have acquired a 500 MHz NMR spectrometer. This spectrometer allows research in a variety of fields such as those that accelerate chemical reactions of significant economic importance, as well as allow study of biologically relevant species. In general, Nuclear Magnetic Resonance (NMR) spectroscopy is one of the most powerful tools available to chemists for the elucidation of the structure of molecules. It is used to identify unknown substances, to characterize specific arrangements of atoms within molecules, and to study the dynamics of interactions between molecules in solution or in the solid state. Access to state-of-the-art NMR spectrometers is essential to chemists who are carrying out frontier research. The instrument is the first 500 MHz NMR spectrometer in the state. Having a spectrometer with this field strength positively impacts educators and scientists at institutions ranging from biomedical research institutes such as Mount Desert Island Biological Laboratory, the Jackson Laboratory, and Maine Medical Center Research Institute to local high schools such as Bangor High School and colleges such as Husson University, Eastern Maine Community College, and Kennebec County Community College as well as industries such as Sappi North America.&lt;br/&gt;&lt;br/&gt;The award of this NMR spectrometer is aimed at enhancing research and education at all levels. It especially aids in the characterization of glycans produced by automated synthesis as well as studies of metabolomics of blue mussels. The instrument is also used in investigations of the mechanisms of metal mediated thiolatedisulfide exchange reactions and the search for microprobes for bioanalysis.  In addition, it is used in studies of biofuels and heterogeneous catalysis and for preparing sustainable polyesters with selectable, lignin derived pendent groups.  The spectrometer also serves researchers investigating the synthesis and characterization of azobenzene photoswitches in petrochemicals and converting biomass to chemicals and fuels.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828408</AwardID>
+<Investigator>
+<FirstName>Karl</FirstName>
+<LastName>Bishop</LastName>
+<EmailAddress>bishopk@husson.edu</EmailAddress>
+<StartDate>08/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Brichacek</LastName>
+<EmailAddress>mbrich@maine.edu</EmailAddress>
+<StartDate>08/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alice</FirstName>
+<LastName>Bruce</LastName>
+<EmailAddress>abruce@maine.edu</EmailAddress>
+<StartDate>08/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Gramlich</LastName>
+<EmailAddress>william.gramlich@maine.edu</EmailAddress>
+<StartDate>08/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Schwartz</LastName>
+<EmailAddress>thomas.schwartz@maine.edu</EmailAddress>
+<StartDate>08/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maine</Name>
+<CityName>ORONO</CityName>
+<ZipCode>044695717</ZipCode>
+<PhoneNumber>2075811484</PhoneNumber>
+<StreetAddress>5717 Corbett Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>034Z</Code>
+<Text>Clean E-BioE/Cellulosic Ethanol</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

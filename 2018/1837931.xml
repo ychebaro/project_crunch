@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BIGDATA: F: Computationally Efficient Algorithms for Large-Scale Crossed Random Effects Models</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>800000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nandini Kannan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The problems of deciding what to buy, where to eat, which movie to watch, and so forth are of enormous economic value to consumers, sellers, and the people employed making those goods and services. Companies try to match people and products using vast data sets recording purchases and opinions. Even with a large data set it is a challenge to get reliable results. Measurements on the same or similar products are correlated, as are measurements by the same or similar people; however, correlated data yield less information than uncorrelated data.  Properly accounting for the correlation requires too much computation, even on modern large computers, because the amount of computation grows as a power of the size of the data.  Ignoring those correlations will produce an analysis that becomes overconfident and findings that are not reproducible, leading to inefficiency and wasteful decisions.  This project will develop computationally efficient and reliable methods to handle data of this kind as well as more complicated data structures.  The results of this research will benefit both industry and individuals making purchasing decisions.&lt;br/&gt;&lt;br/&gt;The problems described above are known as crossed random effects in the statistical literature.  The statistically proper tools are linear mixed models and generalized linear mixed models.  The usual ways to fit linear mixed models have a cost that grows faster than linearly in the size of the data set.  The exponent is three halves.  The same cost arises in a Bayesian approach. With large modern data sets these costs are completely out of reach. Some recent solutions work with the method of moments at a cost that scales linearly with the data size.  This project will develop a backfitting method that starts with the moment method and then iterates towards the maximum likelihood solution.  It will also extend to the generalized linear mixed model case in order to handle binary outcomes, such as whether the customer did or did not buy a particular item.   While crossed random effects are prevalent in electronic commerce, they can arise in any setting where there are many to many relationships connecting one sort of entity to another.  Any place where we have observations on the edges of a bipartite graph is a place where crossed random effects may arise.   This work will also include random slope models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837931</AwardID>
+<Investigator>
+<FirstName>Art</FirstName>
+<LastName>Owen</LastName>
+<EmailAddress>owen@stat.stanford.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Trevor</FirstName>
+<LastName>Hastie</LastName>
+<EmailAddress>hastie@stanford.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dynamics of 3-Dimensional Deformation at the Mendocino Triple Junction Across Timescales</AwardTitle>
+<AwardEffectiveDate>06/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>227215.00</AwardTotalIntnAmount>
+<AwardAmount>111931</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Raterron</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project seeks to measure the ongoing deformation at the Mendocino Triple Junction, where three major tectonic plates meet in northern California. This region hosts larger earthquakes than any other in the western United States. To understand the factors contributing to its seismicity, the PI's team will focus on vertical displacements using GPS and satellite radar data. Vertical deformation rates are key to the understanding of the processes generating earthquakes in convergent plate boundaries. Although it is challenging to measure accurately vertical displacements, ongoing technical advances improve the accuracy each year. The Mendocino Triple Junction is uniquely suited for this study because of its extremely high surface uplift rates. The team will model in three dimensions the deformation data and compare them with other geophysical observations. The goal is to separate and quantify the long-term, permanent, deformation from the short-term deformation which loads the faults and potentially drives earthquake ruptures. This work will contribute to better understand long-standing issues in active tectonics, such as the relationship between short-term and long-term deformation, as well as the mechanisms of crustal uplift in northern California. The two-year project will provide support for a female graduate student in Geology and the expected results will help assessing and forecasting earthquake hazards in the western United States.  &lt;br/&gt;&lt;br/&gt;The accurate measurement of uplift rates at convergent plate margins provide critical information on the underlying processes generating earthquakes and building permanent topography. Measuring and interpreting uplift rates is challenging, as tectonic rates are slow and the relationship between short-term (over earthquake cycles) and long-term deformations remains unclear. The Mendocino Triple Junction, where the Pacific, Juan de Fuca, and North American plates meet, provides a unique natural laboratory for studying vertical deformation. In this region, geologic rates of coastal uplift are among the highest in the continental United States. Here, the PI's team will develop a dense interseismic velocity field of the Mendocino Triple Junction by integrating three types of geodetic data (GPS, InSAR, and GRACE). The goal is to use the three-dimensional dataset to test models of elastic interseismic strain accumulation, permanent inelastic deformation, and geodynamic crustal structure. The two-year project will provide support for a female graduate student and help assessing earthquake hazards by quantifying fault elastic-strain loading, hence the fault potential to produce earthquake-generating ruptures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/15/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/15/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841371</AwardID>
+<Investigator>
+<FirstName>Roland</FirstName>
+<LastName>Burgmann</LastName>
+<EmailAddress>burgmann@seismo.berkeley.edu</EmailAddress>
+<StartDate>02/15/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1572</Code>
+<Text>TECTONICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1574</Code>
+<Text>GEOPHYSICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

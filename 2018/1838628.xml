@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Integrative Structural Determination Federation (iSDF) Workshop</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Beth Plale</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The PIs will organize a workshop that brings together members and stakeholders of the integrative Structure Determination Federation (iSDF), a new entity that is envisioned as a network of model and data resources that contribute to structural biology. The proposed workshop is aimed at initiating engagement of diverse experimental data and structural model communities in order to plan for an interoperating network of model and data repositories.  The workshop builds upon three years? effort on building blocks required for developing  coordinated network of structural biology resources.   This earlier effort stems from an action in 2014 by wwPDB to create an Integrative/Hybrid Methods task force which had, as one of its key recommendations, to create a federated system of model and data archives.  The outcome of the workshop is a set of requirements for creating well-aligned data standards and protocols for efficient data exchange among participating repositories.  &lt;br/&gt;&lt;br/&gt;This project is supported by the National Science Foundation Public Access Initiative which is managed by the NSF Office of Advanced Cyberinfrastructure on behalf of the Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838628</AwardID>
+<Investigator>
+<FirstName>Helen</FirstName>
+<LastName>Berman</LastName>
+<EmailAddress>berman@rcsb.rutgers.edu</EmailAddress>
+<StartDate>08/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>Piscataway</CityName>
+<ZipCode>088543925</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>33 Knightsbridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7414</Code>
+<Text>NSF Public Access Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

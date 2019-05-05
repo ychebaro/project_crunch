@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CIF: Resource Allocation in Data Center Networks: Algorithms, Fundamental Limits and Performance Bounds</AwardTitle>
+<AwardEffectiveDate>06/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>175000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Today's era of big data and the proliferation of web apps and mobile apps is powered by enormous computing data centers, consisting of up to hundreds of thousands of computing servers with data distributed over these servers. In order to serve user requests, these servers need to communicate with each other, and this is facilitated by a data center network. Design and operation of these networks becomes more challenging as the size of the data centers increases. Today's data centers are typically operated at very low utilizations in order to meet stringent latency requirements of the users. The focus of this project is to develop analytical techniques to study the delay performance of algorithms that are used to make connections between the servers in a data-center network. This analysis will feed the development novel algorithms that maintain low latency and implementation complexity while improving utilization. The project includes engagement with companies to explore the use of these algorithms, training of graduate students, dissemination of this research through undergraduate and graduate courses, outreach activities to high-school students and involving undergraduate students in research. &lt;br/&gt;&lt;br/&gt;This project consists of two main parts. The first develops analytical tools to study the performance of scheduling algorithms for data-center networks. Prior work in this area used methods based on diffusion limits and Brownian approximations, which become unwieldy when studying data-center networks. More recent work demonstrates the power of a much simpler drift-based approach. This project employs the drift method to study the performance of tail latencies, and a novel moment-generating function method will be developed to overcome the limitations of the drift method. In the second part, these tools will be leveraged to develop novel low-complexity algorithms for data-center networks. A key focus in the development of these algorithms is accommodating more realistic traffic patterns beyond the independent and identically distributed random arrivals assumed in the literature.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850439</AwardID>
+<Investigator>
+<FirstName>Siva Theja</FirstName>
+<LastName>Maguluri</LastName>
+<EmailAddress>siva.theja@gatech.edu</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

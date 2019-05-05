@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Single-molecule field-effect transistor arrays for multiplexed genomic identification of infectious diseases</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research Project (SBIR) project is the development of a platform for pathogen identification and other genomic applications that achieves rapid, sensitive, multiplexed single-molecule detection.  The genomic diagnostics market is poised to grow to $40 billion by 2021.  The goal of this platform will be to offer multiplexed detection of more than 1,000 pathogens, allowing accurate point-of-care diagnosis of infectious diseases.  Other genomic applications that also are possible include assessment of the microbiome or monitoring opportunistic infections in pulmonary diseases.  In addition, the platform has the potential for use in genomic sequencing, a market that is expected to reach $9 billion by 2020.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this SBIR Phase I project is to develop a highly multiplexed, bioelectronic, label-free assay platform capable of real-time, label-free detection of thousands of nucleic acid targets without amplification. This will be accomplished  through the use of nanoscale single-molecule field-effect transistors (smFETs) on a complementary metal-oxide semiconductor (CMOS) integrated-circuit platform, which fully leverages the economies of scale of modern semiconductor manufacturing. The initial target application for this technology is multiplexed pathogen identification at the point-of-need. This project will bring the technology to wafer-scale manufacturing, which will both improve device quality and lower the per device cost of manufacture, and demonstrate proof-of-concept for genomic detection (without amplification) on clinical samples.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/15/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843244</AwardID>
+<Investigator>
+<FirstName>Inanc</FirstName>
+<LastName>Meric</LastName>
+<EmailAddress>inancmeric@quicksilverbiosciences.com</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate>02/15/2019</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Warren</LastName>
+<EmailAddress>swarren@quicksilverbiosciences.com</EmailAddress>
+<StartDate>02/15/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>QUICKSILVER BIOSCIENCES, INC.</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100145429</ZipCode>
+<PhoneNumber>9146438717</PhoneNumber>
+<StreetAddress>180 VARICK ST RM 526</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

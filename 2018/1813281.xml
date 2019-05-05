@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CHS: Small: Enhancing Data Analysis Strategies with Mixed-Initiative Visual Analytics</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>491371</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>People make important decisions based on data every day, from simple choices such as which restaurant to dine at when visiting a city, to important and complex decisions in healthcare about which course of treatment to pursue, and even decisions that impact national security and policy. Visual analytic systems play a critical role in these decision-making processes. They allow people to interact with their data and analytic models to view different perspectives of data and gain insights. This interactive data analysis process consists of people incrementally guiding analytic models to produce alternate views of the data in support of their tasks. In most cases, such human-in-the-loop processes have successful, insightful outcomes. However, the cognitive sciences tell us that people can exhibit innate biased behavior. As a result, their data analysis behaviors and strategies may suffer. Ultimately, this could lead to decisions made from incomplete information and limited perspectives on how the data can be interpreted. Biased analysis processes can lead to biased results and misinformation. This project will perform fundamental research to discover how to detect such potential bias and develop visual analytic systems that mitigate it.  It will also produce educational impacts for graduate and undergraduate students from groups underrepresented in STEM fields, in part through outreach workshops with instructors from minority-serving institutions and historically black colleges and universities to help them integrate visual analytics and general data literacy learning objectives into course curricula. &lt;br/&gt;&lt;br/&gt;The proposed multi-disciplinary research will develop techniques that enhance mixed-initiative visual analytic analysis processes by intervening and providing guidance when necessary. To accomplish this goal, three primary lines of research are proposed. First, the team will develop and evaluate computational metrics to detect poor and potentially biased analysis strategies from user interaction patterns and system parameters. These metrics consist of probabilistic computational models that take into consideration metrics such as data coverage over the duration of the data exploration. Second, the team will develop and study different visual analytic system designs to guide and improve people's analysis processes. Each prototype will give people guidance using the metrics, but display information to users via different interface designs (e.g., dialog boxes, visual overlays of coverage, etc.) They will be developed, evaluated, and made available via publications and open-source code. Third, the studies proposed will generate empirical results and design guidelines for future mixed-initiative visual analytic systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813281</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Endert</LastName>
+<EmailAddress>endert@gatech.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

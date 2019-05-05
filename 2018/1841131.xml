@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Development of a novel graft to provide safe and reliable vascular access for hemodialysis patients</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>224975</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project will advance the development of a novel arteriovenous graft that will minimize injury and decrease the probability of serious complications for chronic hemodialysis patients. Hemodialysis is a life-sustaining therapy for patients suffering from kidney failure; it requires that blood be withdrawn and cycled through a dialysis machine that performs the function of the failed kidneys. This process must be performed at regular intervals and requires access to the blood with large bore needles. Graft failure complications, many directly attributable to  needle injury, cost the healthcare system billions of dollars per year and lead to significant morbidity and even mortality for patients. There are nearly 2.5 million patients with kidney failure who receive dialysis worldwide, and this population is growing at a rate of 8% per year. Currently, no technology on the market addresses dialysis graft needle injury or graft material degradation due to needle trauma. InnAVasc Medical's novel graft design has the potential to reduce complications associated with aggressive graft compression and inadvertent punctures, thus reducing adverse events and dramatically improving patient outcomes and quality of life while significantly reducing health care costs related to chronic dialysis graft injury. &lt;br/&gt;&lt;br/&gt;This project will substantially advance the development of an innovative device that will simultaneously allow for immediate cannulation following graft implantation (typical is to allow 4 weeks to heal prior to cannulation) and eliminate complications associated with repeated cannulation during maintenance hemodialysis. The ultimate goal of this proposal is to identify and engineer a suitable biocompatible material that will provide the desired mechanical strength to withstand passage of the dialysis needle into undesirable areas, while being sufficiently flexible to allow for optimal blood flow through the device and adequate conformity for patients of all shapes, sizes, and skin integrity. The first technical objective will focus on identifying candidate materials and testing their strength, flexibility and durability. The second objective will take promising candidate materials and develop prototype devices to assess manufacturability and performance. These aims will identify a suitable material that will enable the InnAVasc graft to be marketable to the broadest patient population. Successful completion of this project will provide a prototype device constructed of materials that will simultaneously optimize the desired ratio of mechanical strength to flexibility.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841131</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Knight</LastName>
+<EmailAddress>joseph.knight@innavasc.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>INNAVASC MEDICAL, INC.</Name>
+<CityName>DURHAM</CityName>
+<ZipCode>277054880</ZipCode>
+<PhoneNumber>8139022228</PhoneNumber>
+<StreetAddress>110 SWIFT AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

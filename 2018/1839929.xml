@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF BSF: The Effect of Spanwise Landscape Heterogeneities on the Hydrological Cycle in the Atmospheric Boundary Layer</AwardTitle>
+<AwardEffectiveDate>12/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2021</AwardExpirationDate>
+<AwardAmount>194617</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Holly Barnard</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wind flow over changes in the landscape often introduce circulations that can impact temperature and evaporation on small scales.  Most of the prior work on this subject has been for winds that flow from one type of surface to another, such as from a wooded area to an open field.  This study will instead look at the circulations that form when the wind is blowing in the same direction as the boundary between land surface types.  This work has important implications for sustaining agriculture in very dry areas, such as the southwestern United States.  In addition to water resources, understanding these flows may also have impacts on pollen, dust, and pesticide transport and the movement of aphids.  The award also represents an international collaboration with scientists from Israel.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This award is an international collaboration among researchers funded by the U.S. National Science Foundation and the U.S.-Israel Binational Science Foundation. The research team plans to study the role of landscape heterogeneities on small-scale atmospheric flows.  A significant amount of research has taken place on landscape changes that are perpendicular to the flow, but not as much on the circulations that set up when the landscape changes are along the flow vector.  The overall intent of the project is to advance fundamental understanding of atmospheric boundary layer turbulence when responding to the presence of abrupt landscape heterogeneities.  The research team will systematically explore how spanwise heterogeneity of the aerodynamics characteristics of vegetative canopies induces secondary rolls, which have major implications for evapotranspiration and heat fluxes.  The work will make use of large-eddy simulation modeling (US component) and laboratory studies using a 12m environmental wind tunnel with particle image velocimetry and constant temperature anemometry measurements (Israel component).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839929</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Anderson</LastName>
+<EmailAddress>william.anderson@utdallas.edu</EmailAddress>
+<StartDate>12/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Dallas</Name>
+<CityName>Richardson</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress>800 W. Campbell Rd., AD15</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Electrochemical Imaging with Ion Channels</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>414700</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Bushey</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project is funded by the Chemical Measurements and Imaging program of the Division of Chemistry. Professor Lane Baker of Indiana University is developing new tools to measure very small concentrations of ions, molecules, and proteins at scales that are smaller than an individual cell. To meet this challenge, new instruments are being constructed that make use of advanced signal processing and new chemical and biochemical sensors. Chemically selective imaging provides new nanoscale information related to nerve communication and wound healing.  This research advances the understanding of molecular biology, and in turn informs efforts to improve human health and the treatment of disease. Students trained in this project learn state-of-the-art fabrication, measurement and characterization protocols, which add to their high-level technical skills. This education enhances their contributions to the STEM workforce upon their graduation. In addition, efforts to improve education at the undergraduate and graduate level, and to engage the local community in science outreach are underway.&lt;br/&gt;&lt;br/&gt;This project focuses on sensing and imaging with chemical selectivity at the nanoscale, a significant goal for modern bioanalytical chemistry. This objective is accomplished by integrating ion channels at the probe tip in scanning ion conductance microscopy (SICM). An SICM with ion channels sequestered at the tip is developed as an imaging platform designed around a Field Programmable Gate Array (FPGA) processor. This is a new tool to investigate local, temporal release of high-value, but difficult to study biological analytes. The developed instrumentation is used to probe local distribution and release of neurotransmitters in differentiated PC12 cells as well as the transient ion concentration in epithelial wound models. Broader impacts focus on two specific aims. The first aim is the development of new ways to teach analytical chemistry at the graduate and undergraduate level. This includes the inclusion of instrument building (3D printer construction) and development of a regional graduate analytical chemistry course between Indiana University, Purdue University and the University of Notre Dame. The second aim is to make full use of outreach activities with the student Electrochemical Society (ECS) chapter at Indiana University.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808133</AwardID>
+<Investigator>
+<FirstName>Lane</FirstName>
+<LastName>Baker</LastName>
+<EmailAddress>lanbaker@indiana.edu</EmailAddress>
+<StartDate>05/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+</Award>
+</rootTag>

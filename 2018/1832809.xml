@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding and Designing Novel Anode Materials for Solid Oxide Fuel Cells</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>160000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lynnette D. Madsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL: As a result of the recent shale gas developments, there are abundant supplies of natural gas in the U.S. and there is a critical need for a highly efficient and environmentally friendly natural gas-to-electrical energy conversion technology. Solid oxide fuel cells (SOFCs) offer great promise for such an efficient and cost-effective conversion, particularly for distributed power generation. However, the state-of-the-art SOFC nickel cermet anodes suffer from rapid performance degradation upon direct oxidation of hydrocarbon fuels. The objective of this research is to create a scientific basis for the design of novel SOFC anode materials that can maintain performance stability when directly utilizing natural gas as fuel for electricity generation. The goal of this study is to overcome SOFC anode deactivation issues, and consequently facilitate the rapid application and commercialization of SOFC technology. Widespread deployment of SOFCs will have beneficial economic and environmental impacts, making energy conversion from abundant natural gas more efficient and more environmentally benign. University students will be trained in the practice of experimental and computational material science and engineering. Graduates typically find employment in the advanced clean energy sector. Finally, the public will be educated on the benefits of fuel cell technology through various mechanisms such as interactive presentations at Science Cafes and an "Adventures in Fuel Cells" summer program that specifically targets high school students from rural areas and underrepresented groups.&lt;br/&gt;&lt;br/&gt;TECHNICAL DETAILS: In this study, ceramic oxides will be explored for overcoming the coking and sulfur poisoning problems that limit the lifetime of conventional nickel cermet SOFC anodes directly utilizing natural gas as fuel. Fundamental understanding of the ceramic oxides will guide further development of mixed ionic and electronic conducting ceramic materials for energy and engineering applications. The collaborative efforts in this research are expected to advance the fundamental understanding of high temperature oxide ion and electron conductivity and surface chemistry occurring in technologically important energy conversion devices. The focus will be on a molecular understanding of these physical phenomena and how different B-site elements in a layered perovskite oxide affect both bulk material properties such as oxide ionic and electronic conductivity and surface properties such as electrocatalytic activity and resistance to coking and sulfur poisoning. This research represents one of the first case studies for deep integration of computational predictions with experimental observations for high temperature materials in SOFCs. Students will be educated through the project to become experts in the practice of experimental and computational aspects of fuel cell technology. As a result, graduates will be well prepared to create sustainable engineering solutions to complex problems, contributing to the science and technology of energy conversion and storage.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832809</AwardID>
+<Investigator>
+<FirstName>Salai</FirstName>
+<LastName>Ammal</LastName>
+<EmailAddress>ammal@cec.sc.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Heyden</LastName>
+<EmailAddress>heyden@engr.sc.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Fanglin (Frank)</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>chenfa@cec.sc.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Carolina at Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>292080001</ZipCode>
+<PhoneNumber>8037777093</PhoneNumber>
+<StreetAddress>Sponsored Awards Management</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1774</Code>
+<Text>CERAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8249</Code>
+<Text>Sustainable Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

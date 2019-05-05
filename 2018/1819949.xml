@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  IoT System for Small Arms Detection and Response</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project views an IoT firearms detection system in the lens of the military due to their immediate need of such a device and associated data. In addition, a foothold in the military will allow for and influence the adoption in downstream markets such as private security and law enforcement who have already expressed interest in piloting and adopting this technology once fully developed. However, the broader goal and impact of this system more importantly grants the potential to save lives. Whether this system will be used in the military, law enforcement, or private citizens in cases of home and self defense, successful implementation and commercialization of the first firearms detection system will grant the capabilities to objectively monitor and leverage firearm usage data.&lt;br/&gt;&lt;br/&gt;The proposed project aims to research, develop, and commercialize an integrated IoT system dedicated to detecting and processing small arms firearm discharges. The challenge in achieving the goals of this project is two-fold: one to create an IoT system that satisfies the stringent and high standards of the customer and two, to create value within the data collected by these IoT sensors. The proposed research and development covers the creation of a prototype device as well as generating a roadmap based on product and user feedback towards effective use of the data to ensure commercial success.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819949</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Deng</LastName>
+<EmailAddress>williamdeng@armaments.us</EmailAddress>
+<StartDate>06/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Armaments Research Company, Inc.</Name>
+<CityName>Bethesda</CityName>
+<ZipCode>208162608</ZipCode>
+<PhoneNumber>2063954868</PhoneNumber>
+<StreetAddress>6422 Broad St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

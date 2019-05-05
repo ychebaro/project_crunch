@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Small: Collaborative Research: Design and Provisioning for Inter-Datacenter Multigranular Flexible Optical Networks</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>196217</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>There is an ever-increasing demand for cloud computing services, and large-scale datacenters are constantly evolving to meet this demand. As the need for data and data analytics grows, providers are turning to geo-distributed datacenters to provide customers very low latency access to information and computational capability. This results in high capacity, highly-varying inter-datacenter network traffic that must be reliably and cost-effectively accommodated by fiber optic networks.  Recent advances in agile and flexible optical networking have made Flexible Optical Networks (FONs) a promising candidate for meeting these dynamic and heterogeneous connection demands. The goal of this project is to develop network design and provisioning strategies for inter-datacenter FONs that can support a wide range of data traffic flow. To address the continued exponential growth in network capacity, the project includes consideration of a novel, flexible, cost-effective optical technology,  which introduces a way of bundling large traffic demands together as they get routed through the network.  The results of the project will inject leading-edge research into education, and enable more efficient and cost-effective distribution of information between datacenters.&lt;br/&gt;&lt;br/&gt;The research project addresses challenging problems in the design and operation of multigranular flexible optical networks. The challenges demand the development of new strategies to maximize the utilization of precious network resources. Novel algorithms for network design and resource provisioning will be developed, and will be accompanied by sophisticated mathematical models and bound analysis for performance quantification. The specific research objectives of this project are to: &lt;br/&gt;1. Explore the multigranular FONs design space and evaluate performance and complexity trade-offs, balancing performance against complexity or cost.&lt;br/&gt;2. Design algorithms for provisioning bandwidth requests in multigranular FONs.&lt;br/&gt;3. Design scalable and flexible algorithms on provisioning virtual network (VN) requests by jointly allocating compute and communication resources in inter-datacenter networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813772</AwardID>
+<Investigator>
+<FirstName>Juzi</FirstName>
+<LastName>Zhao</LastName>
+<EmailAddress>juzi.zhao@sjsu.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Jose State University Foundation</Name>
+<CityName>San Jose</CityName>
+<ZipCode>951125569</ZipCode>
+<PhoneNumber>4089241400</PhoneNumber>
+<StreetAddress>210 North Fourth Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

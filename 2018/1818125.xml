@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Evolution and reprogramming of DNA replication fidelity</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>670211</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>DNA is constantly subjected to mutations, and understanding how these mutations arise and are repaired is a critical step in cell and organismal survival.  The replication and repair enzymes that control DNA damage are found in every organism, but their efficiency vary greatly across known life.  In this project, high-fidelity replication enzymes that have evolved under natural conditions will be transferred into other organisms with low-fidelity replication enzymes.  Furthermore, the project will investigate how varying replication fidelity can influence the survival of an organism as well as shape the structure of the genome.  By reprogramming replication fidelity, the project seeks to reduce cellular mutation rates and increase cellular longevity and cellular health.  This work will be performed by K-12, undergraduate, and graduate students, and include bi-yearly genetic engineering workshops that will increase scientific participation and promote the careers of minorities in STEM research.&lt;br/&gt;&lt;br/&gt;The overall objective of this project is to study and manipulate the enzymes that drive DNA replication fidelity by 1) reprogramming yeast DNA replication using naturally existing, extremely high-fidelity DNA replication enzymes found in Paramecium tetraurelia, 2) use droplet-digital PCR to model the distribution of fitness effects in an effort to investigate how selection operates to refine replication fidelity based on deleterious load, 3) investigate how replication fidelity influences spatiotemporal mutation-rate variation in alphaproteobacteria with multiple chromosomes, 4) improve STEM education for K-12 students through the NC-MSEN pre-college program, and 5) promote minority and disadvantaged undergraduate, graduate, and postdoctoral researchers in STEM&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818125</AwardID>
+<Investigator>
+<FirstName>Way</FirstName>
+<LastName>Sung</LastName>
+<EmailAddress>wsung@uncc.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Charlotte</Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress>9201 University City Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

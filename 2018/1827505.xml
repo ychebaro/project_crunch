@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-RP: Smart and Accessible Transportation Hub for Assistive Navigation and Facility Management</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>749999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project lies in its ultimate goal to transform a large transportation hub into a smart and accessible hub (SAT-Hub), with minimal infrastructure change. The market opportunity is tremendous as there are various large transportation hubs in the United States. The solution can also be extended to indoor navigation of other public facilities, such as school buildings, libraries, office buildings, and airports. The project will lead to three important outcomes: live facility models for facility management by transportation agencies, free indoor positioning and navigation apps for end users, and a rich set of multimodal transportation data and tools for researchers and developers. The societal need is significant, especially impactful for people in great need, such as those with visual impairments and autism spectrum disorder (ASD), and those with challenges in finding places, particularly persons unfamiliar with metropolitan areas. In the U.S. alone, 6.6 million people have visual impairments, and 1 in 45 people have been diagnosed with ASD. The SAT-Hub will be an exemplar case to extend the reach of their mobility, give them more freedom, allow them to enhance the richness and quality of their lives, and improve their employment opportunities. &lt;br/&gt;&lt;br/&gt;The proposed project integrates an existing surveillance camera system, installed Bluetooth beacons, and a building information model of a transportation or other public facility, with a hybrid solution of a mobile phone localization app (using beacons, on-board sensors, and cameras along with 3D sensors). These will be incorporated with personalized user interfaces to provide a seamless service to the end users, while also providing valuable user information and facility use information to transportation infrastructure stakeholders.  Our solution is a system-engineering approach to a challenging problem in urban transportation that integrates three major components: multilayer live facility modeling tools, hybrid mobile navigation algorithms, and multimodal human-centric interface designs. The technology innovation lies in the integration of smart infrastructure (civil engineering) with accessible services (sensing and computing). The key technological challenges come from two sides: the seamless integration of the system with the main operations of a transportation or other facility base on obtaining information and data (such as surveillance data and 3D model data), and the optimization and personalization of user interfaces to address various user needs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827505</AwardID>
+<Investigator>
+<FirstName>Cecilia</FirstName>
+<LastName>Kelnhofer-Feeley</LastName>
+<EmailAddress>cfeeley@rci.rutgers.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jie</FirstName>
+<LastName>Gong</LastName>
+<EmailAddress>jg931@soe.rutgers.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Seiple</LastName>
+<EmailAddress>wseiple@lighthouseguild.org</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhigang</FirstName>
+<LastName>Zhu</LastName>
+<EmailAddress>zhigang.zhu.ccny@gmail.com</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arber</FirstName>
+<LastName>Ruci</LastName>
+<EmailAddress>Arber.Ruci@cuny.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CUNY City College</Name>
+<CityName>New York</CityName>
+<ZipCode>100319101</ZipCode>
+<PhoneNumber>2126505418</PhoneNumber>
+<StreetAddress>Convent Ave at 138th St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

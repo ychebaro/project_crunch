@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RET Site: Research Experiences in Cybersecurity for Nevada Teachers (RECNT)</AwardTitle>
+<AwardEffectiveDate>02/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardAmount>599307</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harriet Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This funding renews a Research Experience for Teachers (RET) Site at the University of Nevada, Reno (UNR). The primary objective of this RET Site is to explore unique ways to engage middle and high school teachers in summer research experiences that emphasize cybersecurity. Cybersecurity is an area of national importance that impacts the lives of all citizens.  The teachers will spend six weeks in the summer participating in research experiences and developing classroom modules and materials which will be implemented in their classrooms during the academic year. The project involves a partnership between the university, the school districts in the surrounding Nevada counties, and local industries. The project will develop a community of teachers who are passionate about cybersecurity and who can translate this excitement to their students through engaging, high-quality inquiry learning experiences.  This RET Site is co-funded by the Secure and Trustworthy Cyberspace (SaTC) program.  &lt;br/&gt;&lt;br/&gt;The project is anchored by a research area that is compelling and exciting for teachers and K-12 students and by a faculty team that has demonstrated expertise in both research and education.  The goals of the project are to: recruit a cohort of middle and high school teachers interested in introducing cybersecurity and computer science topics into their classrooms; engage the recruited teachers in research experiences with applications in various modern day systems and security; develop instructional modules that can be incorporated into a variety of classes; promote and disseminate the results to a large group of middle and high school teachers; and sustain long term partnerships between the RET Site teacher participants, the UNR mentor team and the university to bring the excitement of computing, problem solving and research to students and encourage them to pursue science, technology, engineering and math (STEM)-related careers. The site features projects that are teacher accessible as well as connected to current research and practice.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/06/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/06/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855159</AwardID>
+<Investigator>
+<FirstName>Shamik</FirstName>
+<LastName>Sengupta</LastName>
+<EmailAddress>ssengupta@unr.edu</EmailAddress>
+<StartDate>02/06/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Feil-Seifer</LastName>
+<EmailAddress>dave@cse.unr.edu</EmailAddress>
+<StartDate>02/06/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Regents, NSHE, obo University of Nevada, Reno</Name>
+<CityName>Reno</CityName>
+<ZipCode>895570001</ZipCode>
+<PhoneNumber>7757844040</PhoneNumber>
+<StreetAddress>1664 North Virginia Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1359</Code>
+<Text>RES EXP FOR TEACHERS(RET)-SITE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1359</Code>
+<Text>RET SITE-Res Exp for Tchr Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

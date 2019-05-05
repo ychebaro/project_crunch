@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>East Coast Oceanographic Consortium Proposal to Operate Regional Class Research Vessel (RCRV) #2</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2023</AwardExpirationDate>
+<AwardAmount>1000</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rose Dufour</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal is for the ship operator selection of RCRV # 2.  The monetary value of the proposal has no relation to the first year operational costs, and the selection process does not entitle the awardee to any ship operation funds until transition to operations has occurred.  The awardee will enter into a contract with OSU under the MREFC phase of construction and delivery.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835941</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Corliss</LastName>
+<EmailAddress>bcorliss@uri.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>dcsmith@uri.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dwight</FirstName>
+<LastName>Coleman</LastName>
+<EmailAddress>dcoleman@gso.uri.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Glennon</LastName>
+<EmailAddress>thomas_glennon@uri.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Palazzetti</LastName>
+<EmailAddress>djpalazzetti@uri.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rhode Island</Name>
+<CityName>KINGSTON</CityName>
+<ZipCode>028811967</ZipCode>
+<PhoneNumber>4018742635</PhoneNumber>
+<StreetAddress>RESEARCH OFFICE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5411</Code>
+<Text>SHIP OPERATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5411</Code>
+<Text>SHIP OPERATIONS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

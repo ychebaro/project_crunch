@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quantitative Ambient Imaging and Analysis at a Subcellular Level using Mass Spectrometry</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>420000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey D. Cook</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, and partial co-funding from the Systems and Synthetic Biology Cluster in the Division of Molecular and Cellular Biosciences, Professor Julia Laskin and her group at Purdue University are developing powerful new chemical imaging capabilities that will enable accurate spatial mapping of both high- and low-abundance biomolecules in cells using a combination of mass spectrometry, electrochemistry, and topography-sensitive shear force microscopy.  Whereas most chemical imaging techniques are limited to specific molecules or groups of molecules, mass spectrometric imaging enables mapping of hundreds of individual biomolecules in one experiment.  By improving the spatial resolution, speed of analysis, and quantitation capabilities of mass spectrometry imaging techniques, the Laskin group seeks to enable advances in understanding and controlling processes occurring in biological systems. These developments will provide unique insights into dynamic biological processes by examining both the localization and transport of molecules involved in cellular signaling.  Collaborations with an instrument vendor and a National Laboratory enhance both the interdisciplinary research opportunities of involved undergraduate and graduate students, and the prospects for commercialization of the approach.&lt;br/&gt;&lt;br/&gt;This project addresses several analytical challenges associated with accurate measurement of chemical gradients in biological systems along with confident identification and structural characterization of numerous compounds involved in biological processes. In particular, the Laskin group is developing approaches for robust imaging of biological samples with high spatial resolution using ambient ionization mass spectrometry, on-the-fly structural characterization of molecules in each pixel using ion mobility spectrometry and tandem mass spectrometry, and identification of redox-active signaling molecules using electrochemical microscopy. These new capabilities will be broadly applicable to studying metabolic processes in diverse biological systems including living cells, multicellular aggregates, and tissues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808136</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Laskin</LastName>
+<EmailAddress>jlaskin@purdue.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NRI: INT: Customizing Semi-Autonomous Nursing Robots Using Human Expertise</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>962572</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Remote-controlled robots have the potential to allow humans to perform useful tasks without putting themselves in danger, or without travelling long distances. This project explores how humans can control nursing robots that can communicate with patients, collect vital signs, and perform routine cleaning tasks in quarantine environments. The use of these robots has the potential to protect nurses from infection during disease outbreaks, and to protect patients with weakened immune system. A significant challenge in this effort is to make the user interface to the robot easy enough for nurses to use without significant training. Because engineers are not experts in nursing, the research will let nurses customize the user interface by teaching the robot about objects, places, and tasks that are typically used in nursing. After training, artificial intelligence algorithms will then automatically estimate which actions the nurse wants to perform, and these will be presented in a simple user interface that allows the nurse to select those actions quickly. &lt;br/&gt;&lt;br/&gt;This project will continue an interdisciplinary collaboration between Duke's School of Engineering and School of Nursing. Research will be conducted in three thrust areas: 1) smart human operator interfaces for supervised autonomy that learn mappings between multimodal sensor input streams to provide simple, interpretable task options and status feedback; 2) hierarchical task learning algorithms for helping human experts train novel composite tasks; and 3) real world evaluation of human-robot system speed, reliability, operator workload, and operator learning curve using registered nurses and nursing students performing simulated clinical tasks in training environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830366</AwardID>
+<Investigator>
+<FirstName>Kris</FirstName>
+<LastName>Hauser</LastName>
+<EmailAddress>kkhauser@illinois.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ryan</FirstName>
+<LastName>Shaw</LastName>
+<EmailAddress>ryan.shaw@duke.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

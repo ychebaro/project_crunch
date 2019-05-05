@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Superdiffusive Heat Transfer in Nanoscale Metal Multilayers</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardAmount>514078</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jose Lage</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Classical theory for macroscopic heat transport poorly predicts the evolution of heat in metals at the nanoscale, especially on ultrafast timescales, e.g. a trillionth of a second. Engineers working in these areas must currently rely on simplistic models and incomplete data to estimate transport in metals following laser excitation. This project seeks to replace such guess work with a concrete framework for modelling transport. The new framework will be extensively tested though experimentation. Using a combination of short optical and electrical pulses to heat nanoscale metal systems, this project will measure heat transfer over the time- and length-scales that cannot be predicted by existing theory. This research will be integrated with outreach to middle and high school students in the predominantly Hispanic local community surrounding UCR. The research will also be integrated with a mentoring program designed to get promising community college students involved in research and encourage them to transfer to UCR to pursue science and engineering degrees.&lt;br/&gt;&lt;br/&gt;The goal of this CAREER project is to identify, quantify, and ultimately control the electron-electron and electron-phonon scattering processes that govern heat flow in nanoscale metal multilayers. On time-scales shorter than electronic scattering processes, heat transfer can either be ballistic, superdiffusive, or diffusive. To identify the time- and length-scales over which various heat transfer regimes apply, and to quantify the governing electronic scattering processes, this project uses a combination of ultrafast thermometry methods such as wavelength-dependent time-domain thermoreflectance measurements, time-resolved magneto-optic Kerr effect measurements, and temperature dependent electrical conductivity at THz frequencies.  These methods measure the evolution of heat in metal multilayers on sub-picosecond time-scales. Experimental data on the spatial and temporal evolution of heat in nanoscale metal layers are used to test first-principles based models for hot electron transport. The results of this project significantly advance the basic science of nanoscale heat transfer, and therefore allow improvements in technologies where thermal management is of critical importance, e.g. nanoelectronics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/13/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847632</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Wilson</LastName>
+<EmailAddress>rwilson@engr.ucr.edu</EmailAddress>
+<StartDate>02/13/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210217</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>Research &amp; Economic Development</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1406</Code>
+<Text>THERMAL TRANSPORT PROCESSES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

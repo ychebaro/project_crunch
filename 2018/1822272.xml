@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2018 Unidata Users Workshop Reducing Time to Science: Evolving Workflows for Geoscience Research and Education; Boulder, Colorado; June 25-28, 2018</AwardTitle>
+<AwardEffectiveDate>05/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>99946.00</AwardTotalIntnAmount>
+<AwardAmount>99946</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bernard Grant</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports the University Corporation for Atmospheric Research's Unidata Program Center to conduct a four workshop beginning June 25 - June 28, 2018.  The workshop will provide lectures and hands-on training to researchers, faculty, and students on how to utilize Unidata's software tools. It will incorporate information technology to address the challenges of locating, retrieving, processing, analyzing, and managing large volumes of geoscience data.  The workshop will keep community users current on new technologies and software to assist with data-driven science. It is expected that approximately 85 people will attend.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/09/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822272</AwardID>
+<Investigator>
+<FirstName>Mohan</FirstName>
+<LastName>Ramamurthy</LastName>
+<EmailAddress>mohan@ucar.edu</EmailAddress>
+<StartDate>04/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University Corporation For Atmospheric Res</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803012252</ZipCode>
+<PhoneNumber>3034971000</PhoneNumber>
+<StreetAddress>3090 Center Green Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1520</Code>
+<Text>COMPUTING FACILITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

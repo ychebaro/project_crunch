@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Raw Signal Processing and Peak Cluster Geometry to Discover and Quantify Co-Indicative Associations between Target and Non-Target Environmental Contaminants</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey D. Cook</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging program in the Division of Chemistry, Profs. Ananya Sen Gupta and Keri Hornbuckle and their groups at the University of Iowa are devising data interpretation tools to facilitate discovery and quantitation of associations between well-known and unknown toxic pollutants. The key idea is to connect the "big picture" (what are the major causes and transport pathways of environmental contamination?) with small-scale details by mathematically resolving overlapped signals to discover hidden contributors to data from instruments used for separation and chemical analysis of contaminants. Studies of environmental pollution typically focus on known pollutants ("targets") and ignore the potentially significant roles played by unknown constituents. Non-target compounds can vastly outnumber known target compounds, and may be closely associated with, and strongly indicative of, the presence of target pollutants.  Experimental data often contains rich information about non-target compounds, but this information is rarely tracked in studies of environmental pollution or considered in regulatory policies. The Sen Gupta and Hornbuckle groups are addressing this gap by devising a novel suite of computational techniques to enhance recovery of information from complex experimental data. Their work is applicable to a wide range of chemical pollutants, such as polychlorinated biphenyls (PCBs) and other industrial pollutants in city air; nitrates and arsenic in rural well-water; and hydrocarbon pollution from marine oil spills.  Beyond the scientific advances in pollution studies, the work is actively engaging women and other underrepresented groups through graduate and undergraduate research mentoring.&lt;br/&gt;&lt;br/&gt;The Sen Gupta/Hornbuckle team is devising a suite of computational techniques to examine raw instrument signal (primarily from gas chromatography and mass spectrometry) and to autonomously detect contributions from both target and non-target compounds, enabling quantitation of their relative associations in environmental contamination. The approach combines non-linear optimization, geometric clustering, and graph-based multi-scale networks, where the target analytes form the local neighborhood hub and non-targets cluster around the target hubs forming dense association sub-graphs. Techniques are validated across multiple data repositories and multiple applications, seeking unprecedented comprehensive interpretation of raw chromatographic and mass spectrometric signals. Specific objectives include: (i) discovery of "hidden peaks" that co-elute with target compounds; (ii) identification of associations between target and non-target compounds to enhance identification of contamination pathways; and (iii) provision of tools enabling integration of diverse data repositories, potentially transforming understanding of environmental contamination pathways.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808463</AwardID>
+<Investigator>
+<FirstName>Ananya</FirstName>
+<LastName>Sen Gupta</LastName>
+<EmailAddress>ananya-sengupta@uiowa.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Keri</FirstName>
+<LastName>Hornbuckle</LastName>
+<EmailAddress>keri-hornbuckle@uiowa.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421320</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>2 GILMORE HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

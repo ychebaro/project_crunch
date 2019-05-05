@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Multimodal Tactical Sensing for Consumer electronics &amp; Neuroprosthetics</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>224212</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project focuses on the growing multipoint touch sensors estimated at US $94B in 2024. Touch screens literally allowed access to the virtual world and its capabilities at our fingertips and enabled those who were keyboard illiterates to access the vast world wide web capabilities through this natural interface. A ubiquitous cost effective multipoint touch sensing technology would make a broader impact beyond consumer electronics by improving motor skills and potentially eliminating phantom pain for amputees fitted with neuro prosthetics limbs. As the digital world becomes more connected and continues to permeate our physical world in the form of the mobile Internet of Things, autonomous cars, and other wireless connected smart technologies, it is important to reduce the cost barrier for adoption and ease of interaction between the device and the human. A society that can enable all its members, youngsters to aging elders, to easily interface with connected assistive devices would have increased access to information, education, ecommerce and consequently will see faster economic growth. &lt;br/&gt; &lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project aims at demonstrating a ubiquitous multipoint touch and force sensing on planar or curved surfaces that are either conducting (metals) or insulators (glass/plastic). Current multipoint touch sensing technologies are limited to transparent, insulating and planar surfaces. These technologies involve patterning multiple layers of semitransparent films on a glass or polyamide substrate then integrated with the display in a complex manufacturing process. The films? semitransparent nature reduces the quality of the display image and requires increasing the display brightness which affects the battery life in mobile devices. The high manufacturing cost reduces deployment and hence limits access to the wider consumer society. This project targets developing a low-cost technology that detects force and location of multi touch points on any surface without film patterning. Successful execution and deployment of the proposed technology would increase deployment of multipoint touch and force sensing in consumer electronics and hence a broader access in the society. New opportunities for utilizing the technology both for scientific investigation as well as for end user value will evaluated for lower limb fitting to reduce phantom pain and in neuro prosthetics as a potential sensory feedback.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843976</AwardID>
+<Investigator>
+<FirstName>Mohamed</FirstName>
+<LastName>Abdelmoneum</LastName>
+<EmailAddress>mabdelgm@gmail.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Surfasense LLC</Name>
+<CityName>Portland</CityName>
+<ZipCode>972291141</ZipCode>
+<PhoneNumber>9713407624</PhoneNumber>
+<StreetAddress>3869 NW 148th Place</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

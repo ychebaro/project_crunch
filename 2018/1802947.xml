@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Probing Non-Coding RNA in Live Cells by Convertible Tetrahedral DNA</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>331191.00</AwardTotalIntnAmount>
+<AwardAmount>331191</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Ribonucleic acid (RNA) is a polymeric molecule essential in various biological roles in coding, decoding, regulation, and expression of genes. A non-coding RNA (ncRNA) is an RNA molecule that is not translated into a protein. Non-coding RNAs contribute to diseases including cancers, autism, and Alzheimer's. Non-coding (nc) RNAs, such as microRNA (miRNA) and long non-coding RNA (lncRNA), play pivotal roles in the regulation of various physiological and pathological processes. Nonetheless, the mechanistic&lt;br/&gt;regulation, subcellular distribution, and mode of action of ncRNAs remain elusive due to a lack of effective tools for probing ncRNAs in live cells. &lt;br/&gt;&lt;br/&gt;The PI will develope a multispectral single molecule barcode biosensor for dynamic multigene analysis. They will establish a convertible tetrahedral DNA (CTED) biosensor along with a multispectral single molecule sensing (MSMS) system for multiplex ncRNA detection in live cells.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802947</AwardID>
+<Investigator>
+<FirstName>Pak Kin</FirstName>
+<LastName>Wong</LastName>
+<EmailAddress>pak@engr.psu.edu</EmailAddress>
+<StartDate>06/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Optimizing  Openness in Human Participants Research: Harmonizing Standards for Consent Agreements and Data Management Plans to Empower the Reuse of Sensitive Scientific Data</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>299787</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Beth Plale</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Recent technological advances allow for an increase in the amount of sensitive human participants data that can be safely shared. Institutional Review Boards' (IRBs) traditional reluctance to allow the sharing of such data unnecessarily constrains their long-term reuse. This project seeks to close the gap between modern options for safely sharing sensitive data and IRB practices by establishing socio-technical infrastructure to support a sustained dialogue and productive partnerships between data repositories and IRBs with the objective to pilot new consensus guidance, protocols, and templates on the sharing and long-term re-use of sensitive data generated through research with human participants.&lt;br/&gt;&lt;br/&gt;This project is supported by the National Science Foundation Public Access Initiative which is managed by the NSF Office of Advanced Cyberinfrastructure on behalf of the Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839018</AwardID>
+<Investigator>
+<FirstName>Diana</FirstName>
+<LastName>Kapiszewski</LastName>
+<EmailAddress>dk784@georgetown.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lynette</FirstName>
+<LastName>Hoelter</LastName>
+<EmailAddress>lhoelter@umich.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Margaret</FirstName>
+<LastName>Levenstein</LastName>
+<EmailAddress>maggiel@umich.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Colin</FirstName>
+<LastName>Elman</LastName>
+<EmailAddress>celman@maxwell.syr.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Syracuse University</Name>
+<CityName>SYRACUSE</CityName>
+<ZipCode>132441200</ZipCode>
+<PhoneNumber>3154432807</PhoneNumber>
+<StreetAddress>OFFICE OF SPONSORED PROGRAMS</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7414</Code>
+<Text>NSF Public Access Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

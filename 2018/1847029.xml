@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Understanding Interfaces in Solid State Energy Storage Systems and Cross-Disciplinary Education</AwardTitle>
+<AwardEffectiveDate>06/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>515603.00</AwardTotalIntnAmount>
+<AwardAmount>515603</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Advanced lithium-ion batteries for vehicle transport and renewable electricity grid storage applications could improve domestic energy security but performance gaps in cost and battery lifetime limit use. The main cause of battery failure is undesirable chemical side reactions within the device that are difficult to quantify and to understand. Because of the lack of fundamental understanding, engineers are less able to design materials and devices that can last the expected lifetimes. This CAREER project will conduct fundamental research on advanced solid-state hybrid electrolytes that have the potential for greater energy density while retaining a safe operating environment. These hybrid electrolytes could replace currently used liquid organic electrolytes that have had issues with long cycle life. The active material's (lithium ion) transport within the electrolyte and to the electrode is not fully understood in these hybrids. This project will address fundamental knowledge of the underlying physics and chemical transformations that support understanding of ionic transport in the hybrid electrolytes. This knowledge will also have far-reaching applications of chemical sensors, fuel cells, and other battery chemistries. The educational plan intends to integrate the research findings directly into the Nashville community through outreach programs run through the Vanderbilt Institute for Nanoscience Engineering, Vanderbilt Engineering Ambassadors, and a research internship program with Harpeth Hall School for Girls. All outreach activities seek to expand scientific and engineering opportunities to underrepresented communities in STEM. &lt;br/&gt;&lt;br/&gt;This project will examine ionic transport pathways in a family of solid ion hybrid conductors. These electrolytes are composed of two different types of ion conductors: (1) polymers and (2) ceramics. Currently, it is unknown how ionic transport occurs between these two materials within the electrolyte. In order to achieve batteries that can be charged quickly and last a long time, it is necessary to control ion transport between these two materials. The research objective of this CAREER project is to understand ionic transport by focusing on the characterization of ion transport at the interfaces within the electrolyte.  There are two types of interfaces that can form in a solid electrolyte: intrinsic and extrinsic. Intrinsic interfaces occur in hybrid electrolytes between inorganic and organic constituents, and also occur in ceramic ion conductors at grain boundaries. These are examples of interfaces where an ion moves between ion conductors. Extrinsic interfaces are interfaces that emerge during device integration (electrode|electrolyte) and can affect performance. These interfaces involve transport between an ion conductor and a mixed ion and electron conductor. Establishing the role interfaces have on ionic transport will enable pathways toward achieving the competitive performance and functionality.  This project will use a multi-modal approach which couples physics-based modeling with electrochemical, spectroscopy, x-ray, and neutron experiments to describe transport mechanisms in hybrid solid electrolytes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847029</AwardID>
+<Investigator>
+<FirstName>Kelsey</FirstName>
+<LastName>Hatzell</LastName>
+<EmailAddress>kelsey.b.hatzell@vanderbilt.edu</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7644</Code>
+<Text>ENERGY FOR SUSTAINABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

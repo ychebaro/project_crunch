@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: A Computational Hyperspectral Fluorescence Lifetime Camera</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardAmount>323952</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project develops a computational imaging system for the selective capture of fluorescence images. Fluorescence is exhibited by many compounds and materials and provides information about the objects' molecular makeup and microstructure. While not usually directly visible to the eye, it can be made visible using controlled illumination and optical filters. The fast response of fluorescence to illumination is visible only to special ultrafast cameras. Interpretation of these signals significantly enhances conventional imaging capabilities, for example to distinguish between healthy and cancerous tissue, detect blood and other bodily fluids, assess plant health, match gunshot residue to a gun and gunpowder manufacturer, identify the paints used in paintings, and classify minerals. However, capturing the fluorescence spectra for all different possible illumination wavelengths along with their fast temporal behavior for each pixel in an image would lead to a high dimensional dataset involving immense amounts of data and is therefore impractical. To enable the use of fluorescence, this project therefore will design a flexible computational imaging system that is able to selectively and adaptively capture individual pieces of the multidimensional fluorescence signal.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Intellectual Merit The high resolution information available in the optical light field along&lt;br/&gt;multiple dimensions presents a fundamental challenge to all imaging systems. The amount of&lt;br/&gt;data available for sampling far exceeds the collection, processing and storage capacities of even&lt;br/&gt;the most advanced computing equipment. Capturing it ultimately is limited not only by technical capabilities, but also by the total number of photons available to the imaging system. It is reasonable that the answer to this problem is to design imaging systems that analyze light specific to an imaging task. Imaging systems are designed where a joint optimization is performed over computational feature space and available hardware components to perform selective sensing.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Broader Impacts This project will educate laymen and students about the prevalence of fluorescence, fluorescence lifetime and other "hidden" spectral phenomena in everyday scenes. We will also provide an important step in the direction of application specific, high dimensional selective imaging systems. This will result in smaller and more practical computational imaging and compressive sensing implementations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846884</AwardID>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Velten</LastName>
+<EmailAddress>velten@wisc.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1653</Code>
+<Text>Adaptive &amp; intelligent systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7936</Code>
+<Text>SIGNAL PROCESSING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

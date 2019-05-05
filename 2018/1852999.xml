@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Ureter Detection during Minimally Invasive or Robotic Surgery by Electrical Stimulus Evoked Responses</AwardTitle>
+<AwardEffectiveDate>04/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>701914.00</AwardTotalIntnAmount>
+<AwardAmount>701914</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project is to completely change how critical&lt;br/&gt;anatomic structures such as the ureter are identified and protected during surgery. As surgical&lt;br/&gt;technology advances and procedures are done using robots and through millimeter-sized&lt;br/&gt;incisions, there is an ever-increasing need for technology that quickly and easily identifies&lt;br/&gt;different structures in the body during surgery to increase the safety of these techniques,&lt;br/&gt;shorten the operations and decrease healthcare costs both from a procedure length standpoint&lt;br/&gt;as well as surgical complications. Precise electrical stimulation that generates targeted smooth&lt;br/&gt;muscle structure contractions make them immediately visible to the surgeon without needing&lt;br/&gt;to perform complex and risky dissections, and eliminates the need for costly (and invasive)&lt;br/&gt;products such as ureteral stents to keep patients safe. Smooth muscle stimulation during&lt;br/&gt;surgery will change how we operate both today, and in the future. It can help surgeons identify&lt;br/&gt;tissue structures with the push of a button, help determine healthy and unhealthy tissues from&lt;br/&gt;each other, and can guide clinical decision making. With an ever-increasing need to deliver&lt;br/&gt;quality care to patients, technology that increases surgical efficiency, patient safety and&lt;br/&gt;decreases healthcare costs will have high demand and significant commercial impact.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will greatly advance the field of&lt;br/&gt;surgery through design, development and clinical use of an innovative smooth muscle&lt;br/&gt;stimulation device. Surgeons currently spend up to 40% of their operating time looking for&lt;br/&gt;structures such as the ureter to prevent accidental injury in over 3 million operations done each&lt;br/&gt;year in the US alone, and injuries to this structure accounts for over $3 billion in annual&lt;br/&gt;healthcare over-spending. This Phase II project will bring a unique smooth muscle stimulation&lt;br/&gt;technology into the operating room to benefit surgeons and patients. A signal generator will be&lt;br/&gt;designed and built (with safety features in place), tested, and paired with sterile surgical&lt;br/&gt;instruments. These will be tested first in large animal models as well as in-silico studies to&lt;br/&gt;confirm safety and efficacy, and then a clinical pilot study will be performed in the hospital&lt;br/&gt;setting in patients that consent to participate. The anticipated result of this project is to have a&lt;br/&gt;medical device system that passes all standard electrical safety requirement for human use that&lt;br/&gt;is shown to be clinically effective in assisting surgeons in identification of structures such as the&lt;br/&gt;ureter during lower abdominal/pelvic operations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/17/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/17/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852999</AwardID>
+<Investigator>
+<FirstName>Albert</FirstName>
+<LastName>Huang</LastName>
+<EmailAddress>albert@allotropemed.com</EmailAddress>
+<StartDate>04/17/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Allotrope Medical</Name>
+<CityName>Houston</CityName>
+<ZipCode>770212041</ZipCode>
+<PhoneNumber>8327998546</PhoneNumber>
+<StreetAddress>2450 Holcombe Blvd Ste J</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

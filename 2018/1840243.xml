@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RoL: FELS: RAISE:  Collaborative Research:  Watershed Rules of Life</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>900000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kathryn Cottingham</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Rivers are the circulatory systems of the continents, delivering land-derived water, pollutants and elements to the ocean.  They are also sites with unique organisms, food webs, and microbial communities that can transform these materials during transport to the ocean.  Microbes are the engines for these transformations, with considerable capacity to remove or alter important elements (e.g., carbon, nitrogen, phosphorus, mercury, arsenic), produce greenhouse gasses, and support food webs. However, due to large changes in water flow from day to day, and the big differences in the types of streams and rivers across the landscape, understanding how riverine microbes impact the chemistry of rivers is difficult.  This project will research a set of "Watershed Rules of Life" that govern the establishment of riverine water column microbial communities that are critical to understanding rivers as circulatory systems.  The researchers have proposed a set of hypotheses that adds microbial ecology into the scaffolding of hydrology and geomorphology in order to research these Watershed Rules of Life.  The hypothesis will be tested by field work and modeling in a diverse set of watersheds throughout the United States.  The knowledge gained by these studies will allow for a broader understanding of rivers in both the U.S. and other temperate regions of the world.  The investigators will interact with the Yale New Haven Promise Internship program, which provides internships for students from New Haven interested in STEM. Professor Raymond will also interact with students at the Crested Butte Community School. This project will train graduate and undergraduate students at UMass, OSU and Yale. Findings will be incorporated into courses taught by the investigators.&lt;br/&gt; &lt;br/&gt;The researchers will target the emergent property of microbial functional trait distributions across the physical templates of watersheds and in response to hydrologic variability.  The project will sample the Connecticut, Deschutes, Gunnison and Willamette watersheds, which are similar in size but differ in climate and geomorphology.  Within each watershed, sampling will focus on streams of different sizes, the impact of reservoirs and hydrologic variability. The proposed research will develop mathematical expressions that relate multiple indices for the development and activity of planktonic microbial communities to stream order, stream hydraulics (e.g., velocity and depth), flow variability, and temperature.  These indices will be based on metagenomics for genomic diversity, metatranscriptomics for gene expression, and microbial 16S rRNA gene amplicon sequencing for phylogenetic diversity in riverine samples.  Microbial indices will be compared to modeled estimates of the time scale for water column microbial community development (i.e., residence time) and microbial transformation rates (e.g., denitrification).  It is hypothesized that geomorphology (e.g., depth, velocity), discharge variability, and temperature are the main determinants of when and where distinct planktonic microbial riverine communities emerge in the water column of river networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840243</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Raymond</LastName>
+<EmailAddress>peter.raymond@yale.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Colin</FirstName>
+<LastName>Gleason</LastName>
+<EmailAddress>cjgleason@umass.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Byron</FirstName>
+<LastName>Crump</LastName>
+<EmailAddress>bcrump@coas.oregonstate.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Yale University</Name>
+<CityName>New Haven</CityName>
+<ZipCode>065208327</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress>Office of Sponsored Projects</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7222</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7699</Code>
+<Text>ICER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7570</Code>
+<Text>SURFACE EARTH PROCESS SECTION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

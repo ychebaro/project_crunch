@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Design by Anyone and Build Anywhere (iMOS)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>99999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eduardo A. Misawa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research. The vision for this ERC is to solve the challenge of engineering the tools for anyone to engage in product design and have the ability to build the product anywhere. This ERC would study foundations for an underlying network connected operating system that drives the manufacturing of products (iMOS: Internet enabled Manufacturing Operating System). This project envisions center scale activities that  would enable humans to focus on their innate creativity while having tools that take care of lower level actions necessary to translate design intent to fully featured product models capable of it being manufactured. Once designed, the vision would enable a human to have the product be manufactured by capable and available service providers through a single click interaction. &lt;br/&gt;&lt;br/&gt;This proposal requires a convergent approach requiring expertise in Manufacturing Engineering, Computer Science, Industrial Engineering, Psychology, Economics and Business Management. This theme combines current convergent themes in Harnessing Data in the 21st century and Future of Work at the Human-Technology Frontier.  It will bring design, manufacturing and innovation to small companies, entrepreneurs and even students. Moreover, this approach to building supply chains will better utilize existing capacity, minimize marketing costs and the tedious and exhausting job of developing a supply chain. It also has to potential to expand US manufacturing and employment. This will have impact in rural America and enable start-up and small minority owned businesses to compete. The integration of widely disparate fields that integrate engineering,manufacturing, computer science, and behavioral sciences will enable a new paradigm for engineering education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840363</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Cohen</LastName>
+<EmailAddress>pcohen@ncsu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Binil</FirstName>
+<LastName>Starly</LastName>
+<EmailAddress>bstarly@ncsu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

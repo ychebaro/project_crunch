@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Perovskite Coating for Commercialization of Solar Power Harvesting</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project stems from a cheaper method to convert solar energy into electrical power. While the solar energy industry is booming, its share of the total energy market is well below 1% whereas oil, natural gas, and coal is used for 85% of total energy consumption. The exhaustion of oil and gas supplies is ever growing near, and the negative environmental impacts caused from these energy sources is of great concern. Solar power is an excellent alternative energy source, but the technology involved can be costly. This project's solar cell embedded coating is substantially cheaper than traditional solar panels and can be implemented onto structures where solar panels would not be feasible. Application of this coating onto standard roofing materials provides an economical way to take advantage of solar energy.&lt;br/&gt;&lt;br/&gt;This I-Corps project is for the commercialization potential of perovskite solar cells. The perovskite material is tin based, as opposed to the traditional, toxic lead-based variety. The lifetime of the perovskites is extended by the elimination of oxidation through encapsulating the perovskite solar cells at the atomic layer through our proprietary carbon bonding nanotechnology. These perovskite solar cells can be embedded into a coating to add solar energy capabilities to other materials. This technology expands the frontiers of nanoscience to address several core academic challenges: expanding the use of graphitic nanosystems into functional materials, developing alternative technologies to make solar power the dominant source of commercial energy in the United States, and providing skills of delivering this intellectual property into the marketplace through the I-Corps program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832455</AwardID>
+<Investigator>
+<FirstName>Chester</FirstName>
+<LastName>Wilson</LastName>
+<EmailAddress>chester@latech.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana Tech University</Name>
+<CityName>Ruston</CityName>
+<ZipCode>712723178</ZipCode>
+<PhoneNumber>3182575075</PhoneNumber>
+<StreetAddress>P O BOX 3168 TECH STATION</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

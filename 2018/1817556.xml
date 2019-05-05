@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Molecular Mechanisms of Spontaneous and Hsp 70-assisted Renaturation of Misfolded Proteins</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>849999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Proteins play numerous fundamental functions within a living cell. They are polymers that fold into unique 3D structures to support specific protein functions. Under non-ideal circumstances such as heat shock, the structures may become denatured, in which case proteins cannot function or even become toxic to cells. All cells have evolved mechanisms to correct the structures of denatured proteins with the help of enzymes termed chaperones. One important chaperone system is Hsp70, and the mechanism by which Hsp70 chaperones refold and rescue denatured proteins remains unclear. Understanding the Hsp70 mechanism is of fundamental significance, as failure of chaperones makes cells vulnerable to changes in the environment and is associated with age-related diseases such as Alzheimer's or Parkinson's. The goal of this project is to resolve the Hsp70 mechanism by novel research strategies involving Atomic Force Microscopy and cryogenic electron microscopy that allow examination of the behavior of individual protein and chaperone molecules. In addition, computer modeling will be used to examine interactions between denatured proteins and their rescue chaperones to identify key mechanistic actions of chaperones. This project will advance understanding of the mechanisms responsible for preserving protein structure and function, and will contribute to training graduate and undergraduate students, developing a new cadre of scientists educated in molecular biophysics. The project will also broaden basic knowledge among the general public about molecular mechanisms responsible for life self-preservation.&lt;br/&gt;&lt;br/&gt;The project will exploit a combination of protein engineering with Atomic Force Microscopy (AFM)-based single molecule force spectroscopy (SMFS), single-particle cryogenic electron microscopy (SP-cryo-EM) and computational modeling. The focus will be on elucidating the differences between spontaneous refolding pathways of misfolded proteins and refolding pathways steered by mechanical forces and by chaperones. SMFS measurements will examine proteins' propensity to misfold and will capture spontaneous refolding intermediates, which will be further characterized by SP-cryo-EM. The hypothesis about the "unfoldase action" of Hsp70 will be tested by emulating this action with AFM. These measurements will determine whether the unfoldase action is necessary and sufficient for spontaneous refolding. The forces between Hsp70 and its substrates, which are currently unknown, will be directly measured and their magnitude will be compared with computational predictions in order to evaluate the current "power stroke" model of Hsp70, in which the protein mechanically clamps on its substrate to remove non-native contacts. A new alternative model proposing that Hsp70 action resets the structure of misfolded proteins to their "nascent chain-like form" will be tested.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817556</AwardID>
+<Investigator>
+<FirstName>Weitao</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>weitao.yang@duke.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Piotr</FirstName>
+<LastName>Marszalek</LastName>
+<EmailAddress>pemar@duke.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

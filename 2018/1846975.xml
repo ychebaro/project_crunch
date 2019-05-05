@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: A New Sensor-Driven Framework for Real-time Monitoring, Control, and Decision Making in Dynamic Systems</AwardTitle>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Faculty Early Career Development Program (CAREER) grant supports research that addresses the efficient operation and maintenance of complex, sensor-driven engineered systems, promoting both the progress of science and advancing economic competitiveness and national prosperity.  Recent advancements in smart sensing technologies and large-scale data acquisition platforms have brought new opportunities for real-time monitoring and control of dynamic engineering systems in such diverse domains as renewable energy and smart manufacturing. To fully benefit from these new opportunities, research is needed on scalable models and methods to capture the dynamic behavior of these systems and efficiently analyze heterogeneous data collected from disparate sources so as to enable real-time decision making and control. Through collaborations with the National Renewable Energy Laboratory, Florida Power and Light, and Argonne National Laboratory, the project will use large scale databases collected on wind turbines and electric power grids as test cases for asset health monitoring and control.  The project also aims to enhance the participation of underrepresented minorities in STEM fields, particularly in data analytics, data-driven decision making, and computing science careers. &lt;br/&gt;&lt;br/&gt;This project will develop a fundamentally new quantitative framework that can efficiently utilize large-scale heterogeneous time-series data collected from various sources in engineered systems to generate real-time actionable insights and decision-making intelligence.  Using dynamic Bayesian hierarchical modeling and advanced recurrent neural networks without imposing strong parametric/distributional assumptions and prior knowledge, the project will develop and validate scalable optimization-based methods for training the state-space model using past data.  The framework will result in a new approach for real-time optimal control and dynamic decision- making inspired by deep reinforcement learning techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846975</AwardID>
+<Investigator>
+<FirstName>Ramin</FirstName>
+<LastName>Moghaddass</LastName>
+<EmailAddress>ramin@miami.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Miami</Name>
+<CityName>CORAL GABLES</CityName>
+<ZipCode>331462926</ZipCode>
+<PhoneNumber>3052843924</PhoneNumber>
+<StreetAddress>1320 S. Dixie Highway Suite 650</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

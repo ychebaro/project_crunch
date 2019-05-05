@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Expercoin Republics: Protocol for AI-Powered Decentralized Learning Economies on Blockchain</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>224788.00</AwardTotalIntnAmount>
+<AwardAmount>224788</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is that it will reskill those being displaced by the disruption caused by the impending AI and automation that is sweeping every industry. By providing training and fully integrated career services platforms at significantly lower cost than traditional models, Expercoin Republics will make education more accessible to organizations seeking to upskill their employees and professionals looking to reskill. According to Harvard Business School professor Clayton Christensen, 50% of all American colleges are bound for bankruptcy in the next few decades. Due to the rapid pace of technological change and new employment requirements, we are moving away from credentialing to continuous learning. This project will allow organizations of all kinds to use its protocol to create expert networks and content platforms, while leveraging tokens to reward participation among their users.  400 to 800 million people globally need to be reskilled. This is estimated to translate to $8.5 trillion in unrealized revenue due to lack of talent by 2030.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to embrace a novel intellectual approach and business model that empowers employees and employers through upskilling, continuous learning, and skill verification. The mission of Expercoin Republics is to instantly allow anyone to create a specialized community with marketplaces for training, assessments, mentorship and work opportunities. Expercoin will use blockchain to create decentralized autonomous organizations that advance learning and facilitate employment through the creation of thousands of specialized learning communities. A notable achievement of Expercoin would be to create the underlying infrastructure that helps businesses and governments launch learning economies that consist of self-regulated decentralized entities with features such as transparent voting, effective governance, fraud adjudication, spam prevention, account verification and rewards. An Expercoin token will provide a wide range of functions necessary to create a decentralized economy that is not governed by any central authority.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843169</AwardID>
+<Investigator>
+<FirstName>Harpreet</FirstName>
+<LastName>Singh</LastName>
+<EmailAddress>hsingh@expercoin.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>EXPERCOIN LLC</Name>
+<CityName>HOPKINTON</CityName>
+<ZipCode>017483111</ZipCode>
+<PhoneNumber>6174151300</PhoneNumber>
+<StreetAddress>42 GREENWOOD RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

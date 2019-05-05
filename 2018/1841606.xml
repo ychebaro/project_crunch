@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER SitS: Sensors and Materials for In-field Soil  Analysis of Nitrate and Other Oxoanions</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brandi Schottel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The development of tools to properly manage the nitrogen and phosphorous cycles is critical to the responsible and sustainable use of natural resources. Human activity, especially agriculture, has increased the amount of potentially harmful forms of phosphorous and nitrogen, such as phosphate and nitrate, in the environment. Application of nitrate and phosphate as fertilizers has improved food production efficiency and alleviated starvation in many areas of the world. However, consequences of the corresponding nitrate and phosphate imbalances include contributions to the greenhouse effect and contamination and disruption of ecosystems, including drinking water sources downstream from agricultural activity. A significant barrier to understanding the movement of nutrients through the environment is the lack of robust, rapid, and portable methods for nutrient measurement. This project seeks to develop a small, portable, research-grade tool for in-field nutrient measurements that would overcome this barrier, allowing researchers to make frequent enough measurements to follow nutrient changes. This sensing capability will enable long-term development and refinement of models to inform efficient nutrient management. If successful, this project could lead to better strategies to protect the Nation's natural resources. &lt;br/&gt;&lt;br/&gt;Achieving the goal of in-field nutrient measurement is limited by a lack of fundamental chemistries available for selective, robust, field-ready sensor devices. This project will meet the challenges of rapid and accurate nitrate and phosphate measurement by improving the chemistry and materials integration of current anion-sensing technologies. These technologies are based on chemically-sensitive field effect transistors (ChemFET) architectures and molecular recognition agents developed in the Johnson and Haley labs at the University of Oregon. This will focus on two complementary aims. Aim 1 seeks to improve the current library of chemically?]selective materials by covalently attaching receptor molecules to device substrates. This aim will develop modified versions of the current library of receptors, adding functional groups to these receptors which can be used to link receptors directly to sensor device substrates. Aim 2 seeks to i) develop and improve the interfacial chemistries needed to support the receptors from Aim 1; ii) improve the integration of these receptors in sensing devices, and; iii) evaluate the resultant devices. Broader impacts on this project include long-term economic benefits resulting from efficient management of environmental nitrogen and phosphorous arising from reduced and targeted nutrient input, the reduced contamination of ecosystems, and reduced cleanup and mitigation efforts. These environmental benefits are aligned with the economic benefits of improved management of the nitrogen cycle. Additionally, industrial collaboration and professional development in innovation expand the student training impacts of this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841606</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Haley</LastName>
+<EmailAddress>haley@uoregon.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Darren</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>dwj@uoregon.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Fontenot</LastName>
+<EmailAddress>sfonteno@uoregon.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oregon Eugene</Name>
+<CityName>Eugene</CityName>
+<ZipCode>974035219</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress>5219 UNIVERSITY OF OREGON</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019E</Code>
+<Text>SENSORS AND SENSING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1639</Code>
+<Text>SENSORS AND SENSING SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

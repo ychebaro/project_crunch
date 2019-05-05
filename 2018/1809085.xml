@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Two-Dimensional Substrates to Study and Control the Atomic-Scale Structure of Metal Nanoclusters</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>307486</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gary Shiflet</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non Technical Summary &lt;br/&gt;&lt;br/&gt;Nanoscale clusters (NCs) containing a finite number of metal atoms and attached to the surfaces of support materials play a pivotal role for applications in energy technologies.  Two-dimensional substrates offer a unique platform to study NCs owing to their large and well-defined surfaces with no dangling bonds, and minimal scattering of electrons, which allows for imaging of NCs with atomic resolution. The goal of this research is to employ a self-consistent, combined theoretical and experimental approach to study supported metal NCs, and how these adapt by substrate variations. The theoretical calculations are based on classical and quantum theories in conjunction with evolutionary algorithms, while as the experimental approach relies on electron microscopy to determine the structure at the nanoscale. Educationally, the proposed research will serve as an interdisciplinary platform for graduate and undergraduate students to learn about materials discovery at the nanoscale. Given the significant impact that novel materials will have on much of daily life and the national economy, this work will strengthen materials education at the University of Pittsburgh and the University of Illinois at Chicago via developing new course components and novel education modules, as well as conducting outreach activities for pre-college and high school students.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Summary &lt;br/&gt;&lt;br/&gt;The atomic structure of supported sub-nanometer clusters on two-dimensional (2D) substrates is a scientifically challenging and largely unexplored field of study. Upon completion, this work will determine how variations in 2D substrates can impact the atomic structure of supported NCs. The atomic structures are predicted using a genetic algorithm utilizing atomistic force fields and density functional theory, which are then validated using aberration-corrected scanning transmission electron microscopy. Significantly, correlating experimental results with theoretical predictions will lead to advances in the fundamental understanding of supported metals on 2D substrates that could be the basis for using such substrates as a means to control the structure of the metal clusters at the atomic scale. The proposed research efforts will be further integrated with educational efforts where graduate and undergraduate students will be trained in multidisciplinary research. Dedicated effort and resources will be used to recruit and support underrepresented students (women, African-Americans, Hispanics, and first-generation) in the proposed research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1809085</AwardID>
+<Investigator>
+<FirstName>Wissam</FirstName>
+<LastName>Saidi</LastName>
+<EmailAddress>alsaidi@pitt.edu</EmailAddress>
+<StartDate>07/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152132303</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>University Club</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1771</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RoL: FELS: EAGER: Simple scaling rules that define how genome size constrains metabolism: a test among photosynthetic pathways</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>331039</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010206</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Weeks</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The coordination between changes in metabolism and cellular structure, and between genome size and cell size, have been widely observed across all life.  The nature of these relationships and their implications for generating organismal diversity remain obscure. This project will address the gap in our understanding of this potential 'rule of life' by investigating how cellular anatomy and genome size of vascular plants evolve over time in correlation with changes in photosynthetic metabolism. Researchers will combine comparative anatomical, phylogenetic, and genomic data from across the vascular plant tree of life to clarify how changes in the basic structure of a genome -its size- relates to the size of cells and, subsequently, how individual cells and entire organisms process energy. The project will train undergraduate students, including individuals from under-represented groups, and facilitate collaboration among project team members having diverse expertise, most of whom are early-career researchers. Societal benefits of the research include the potential for discovering a new, fundamental scaling law in biology as well as new pathways for developing more productive agricultural crops.&lt;br/&gt;&lt;br/&gt;This project will test whether coordination between genome size, cell size, and metabolism represents a fundamental 'rule of life' that constrains the phenotypic diversity of organisms. Researchers will use vascular plants as a model system because its lineages have shifted repeatedly among C3, C4, and CAM photosynthetic metabolisms over evolutionary time and therefore provide multiple, independent tests of the overarching hypothesis. Researchers will determine the dependence of different photosynthetic metabolisms on genome-cellular allometry across about 360 vascular plants species that encompass multiple transitions among photosynthetic pathways. Sampling will include flowering plant clades known to have many C4 and CAM transitions, including the grass and bromeliad monocot families and the eudicot order containing cacti (Caryophyllales). Genome size and anatomical traits (leaf epidermal, guard cell and vein sizes and densities) will be quantified for all species. For a subset of species, the three-dimensional structure and organization of leaf cells will be measured using microCT imaging. Researchers will then characterize how vascular plant genomes have changed in size and composition by analyzing 288 whole plant genomes. Comparative analyses will reveal genomic architecture associated with shifts in photosynthetic metabolism and will uncover how early-diverging flowering plants reduced their genome size as compared to their gymnosperm relatives. Project outcomes will provide a direct test of genome-metabolic scaling as it applies to autotrophic metabolism and elucidate the evolutionary genetic mechanisms by which genomes expand and contract in response to selection on photosynthetic metabolism.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838327</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Roddy</LastName>
+<EmailAddress>adam.roddy@gmail.com</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Craig</FirstName>
+<LastName>Brodersen</LastName>
+<EmailAddress>craig.brodersen@yale.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Roy</LastName>
+<EmailAddress>roy@sfsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rorianne</FirstName>
+<LastName>Rohlfs</LastName>
+<EmailAddress>rrohlfs@sfsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Simonin</LastName>
+<EmailAddress>simonin@sfsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Francisco State University</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941321722</ZipCode>
+<PhoneNumber>4153387090</PhoneNumber>
+<StreetAddress>1600 Holloway Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7744</Code>
+<Text>RAHSS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

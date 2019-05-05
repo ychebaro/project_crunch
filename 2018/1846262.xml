@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  Determining the roles of individual tubulin isotypes in cellular microtubule functions</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardAmount>429284</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rita K. Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Microtubules are long cellular filaments that are comprised of the protein building block named tubulin. Microtubules are critical for important cellular processes including cell division and development of the nervous system.  The cells within complex organisms have multiple variations of tubulin, called isotypes, that cooperate to assemble microtubules.  Why cells have multiple variations of these similar yet distinct tubulin isotypes remains largely unknown.  The goal of this CAREER project is to determine the molecular mechanisms by which microtubules can perform diverse tasks in different types of living cells.  To further broaden the impact of the project, the Principal Investigator and members of the research group will utilize multiple aspects of the project to develop science-based learning activities and curriculums for high school and college students.  These curriculums will be administered through programs designed to engage and educate underrepresented high school students in science-related activities and careers.  A new section of a learning team will be developed for college students at Iowa State University with undeclared majors that focuses on the advantages of studying model organisms in science.  This learning team will emphasize how the study of these organisms advances medicine, agriculture and general biological knowledge.  This effort will increase the proportion of students exposed to science-based career activities, strengthen science literacy, and build communication skills.  These activities will impact about 450 students over the course of the project.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Microtubules are cytoskeletal polymers comprised of tubulin protein, a heterodimer of alpha and beta subunits.  The vast majority of eukaryotes express multiple variants, or isotypes, of alpha and beta tubulin.  A long-standing yet poorly understood question is the role of tubulin isotypes in microtubule functions.  This project utilizes a multifaceted approach to address the fundamental question of how tubulin isotypes dictate distinct microtubule functions.  The strategy draws on results with naturally occurring mutations and recent advances in the preparation of recombinant mammalian tubulin to test hypotheses for how specific isotypes function in axons and in oocyte meiosis.  These context-specific results will be complemented with genetic, proteomic and cell biological-based analyses of isotype function in the budding yeast model.  This comprehensive investigation will exploit the strengths of the yeast system to define mechanisms by which tubulin isotypes define specific microtubule functions.  Overall, the results of this project will generate paradigms for how tubulin isotypes mediate microtubule processes and have significant implications for understanding how they specify microtubule activities in diverse organisms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846262</AwardID>
+<Investigator>
+<FirstName>Mohan</FirstName>
+<LastName>Gupta</LastName>
+<EmailAddress>mgupta@iastate.edu</EmailAddress>
+<StartDate>12/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

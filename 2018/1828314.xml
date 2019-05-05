@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI:  Acquisition of a gamma-ray spectrometer for surface-process and ocean research</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>118947.00</AwardTotalIntnAmount>
+<AwardAmount>118947</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Russell Kelz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Maintenance of soil is critically important for sustaining the world's growing population.  Eroded surface sediment can also be a major pollutant degrading aquatic ecosystems worldwide through light attenuation and heavy-metal contamination.  This instrumentation grant will add to sediment mobility research through the measurement of decay products from naturally produced radioactive isotopes adsorbed to sediment. This instrument will help build a foundation for efforts to (1) create new datasets, (2) enhance infrastructure for interdisciplinary, collaborative research, and (3) train a diverse workforce capable of tackling society's environmental challenges through student training. Education impacts of this grant include the incorporation of the instrument into a new course and undergraduate student research projects through the NSF-funded Research Experience for Undergraduates program at Scripps Institution of Oceanography, UC San Diego. &lt;br/&gt;&lt;br/&gt;Measurement of fallout radionuclides provide a means to measure rates of surficial processes. Specifically, the short-lived beryllium nuclide 7Be can be used to understand the chemically similar 10Be radionuclide commonly used in surface-process research but typically only measured by more expensive accelerator mass spectrometry.  Detection of the abundant short-lived beryllium radionuclide (7Be) via acquisition of a Canberra/Mirion U-Style Cryostat Small Anode Germanium (SAGe) Well Detector System will facilitate research into the mobility of cosmogenic 10Be and the adsorption behavior of 9Be, which is a toxic pollutant. The acquisition of this instrument will drive scientific research (some already NSF-funded) and innovation and cultivate interdisciplinary collaborations among researchers studying low-temperature geochemistry, marine geoscience, ecology, archaeology, and Earth-surface dynamics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828314</AwardID>
+<Investigator>
+<FirstName>Jane</FirstName>
+<LastName>Willenbring</LastName>
+<EmailAddress>jwillenbring@ucsd.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego Scripps Inst of Oceanography</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930210</ZipCode>
+<PhoneNumber>8585341293</PhoneNumber>
+<StreetAddress>8602 La Jolla Shores Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Data-driven Koopman Operator Techniques for Chaotic and Non-Autonomous Dynamical Systems</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020106</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ming Cai</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project aims to develop data-driven Koopman methodologies for analyzing and identifying spectral properties of coherent patterns and predicting their dynamical evolutions in dynamical systems with both oscillatory modes and continuous spectrum as well subject to secular trends. Koopman operators were derived in the early 1930s and used to prove an important theorem on the behavior of idealized dynamical systems. But they remained largely unknown beyond dynamical systems theory until the early 2000s, when their usefulness for complicated, data intensive problems was recognized. Since then, the idea of Koopman operators in combination with machine learning algorithms has been applied to various problems in fluid dynamics, stability analysis of power networks, the development of financial trading algorithms, and brain activity research. Like these applications, climate research is often data-driven and involves analysis of a complex system, thus Koopman operators could be a valuable addition to the climate research toolkit. &lt;br/&gt;&lt;br/&gt;The advances in pattern extraction and predictive capabilities for complex systems stemming from this project will have great impacts in the field of nonlinear dynamical systems and will be applicable to various disciplines that deal with time-evolving phenomena, from climate science, fluid dynamics, to neuroscience and economics. The project will contribute towards STEM workforce development through the training of a postdoc and new course development for on data-driven dynamical systems modeling at Principal Investigator's home institution.&lt;br/&gt;&lt;br/&gt;This project will advance machine learning techniques and spectral Galerkin methods for identifying Koopman eigen-frequencies and eigenfunctions of complex dynamical systems that are subject to both stochastic forcing and external forcing (such as the Earth's climate system) from time series and spatiotemporal data without knowledge of the underlying governing equations and boundary conditions. The team will apply the data-driven methods to climate simulations of El Nino Southern Oscillation to study the interactions of natural variability and forced response of the climate system. This will demonstrate the ability of the methods to reveal and predict many aspects of the temporal evolutions of dominant modes in data, which cannot be achieved from conventional covariance-based methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842538</AwardID>
+<Investigator>
+<FirstName>Dimitrios</FirstName>
+<LastName>Giannakis</LastName>
+<EmailAddress>dimitris@cims.nyu.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5740</Code>
+<Text>CLIMATE &amp; LARGE-SCALE DYNAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

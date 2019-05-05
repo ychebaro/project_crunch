@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Social networks in wild resident social species in different environments: causes, function and consequences</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>982335.00</AwardTotalIntnAmount>
+<AwardAmount>422205</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090500</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Elekonich</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many animal species live in social groups, yet biologists don't fully understand why social behavior has evolved, how social structure is determined and how social structure functions to affect survival and reproduction. To study social behavior in nature, the investigators will use microchipped individuals of the well-studied food-storing bird species, the mountain chickadee, and Radio Frequency Identification (RFID)-technology in feeders that can provide different resources to each individual bird. The researchers will test whether differences in winter environmental conditions at higher and lower elevations in the mountains are associated with differences in social organization and information sharing; whether variation in learning and memory used in finding stored food is associated with differences in social behavior; whether reliability of information that individual birds provide to other birds affects their social status and social organization; and how changes in social groups to affect social group structure and function. This project will provide training to a postdoctoral researcher and numerous graduate and undergraduate students, collaborating with the UNR Biology Undergraduate Research Program and the Center for Student Cultural Diversity to recruit students from under-represented groups. The investigators will also create scientific displays for the members of the public and students from local schools at the University of Nevada Reno Museum of Natural History and at the local field research station. &lt;br/&gt; &lt;br/&gt;The evolution of sociality has been a topic of major interest in biology for decades. Questions about the causes and functions of social group structure have recently received a resurgence with the rapid development of social network analyses. Major challenges in collecting social network data lie in the reliable detection of social contacts, especially in highly mobile, free-living animals. The use of Radio Frequency Identification (RFID) technology has enabled automated detection of individual movements and contacts and allows a rather unprecedented avenue for investigating social behavior, notably by manipulating individual access to resources and hence the ability to experimentally re-structure who individuals interact with. This project will use comparative and experimental approaches to investigate structure, function and fitness consequences of social networks in environments that differ in winter climate severity in a highly social, resident, food-caching species that uses spatial cognition to find numerous food caches for overwinter survival, the mountain chickadee. Using a well-established field system in the Sierra Nevada mountains and RFID-based feeders this project will test whether (a) there are environment-related differences in social network structure and function; (b) variation in spatial cognitive ability is associated with differences in network position and function; (c) reliability of information and distribution of food resources affect social network structure and individual network positions; and (d) experimental, food-related reassignment of birds into different social groups are temporally stable and have fitness consequences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/25/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/25/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1856181</AwardID>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Pravosudov</LastName>
+<EmailAddress>vpravosu@unr.edu</EmailAddress>
+<StartDate>02/25/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Regents, NSHE, obo University of Nevada, Reno</Name>
+<CityName>Reno</CityName>
+<ZipCode>895570001</ZipCode>
+<PhoneNumber>7757844040</PhoneNumber>
+<StreetAddress>1664 North Virginia Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7659</Code>
+<Text>Animal Behavior</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7659</Code>
+<Text>ANIMAL BEHAVIOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

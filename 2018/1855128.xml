@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Molecular and Metagenomic Understanding of Coastal Water Quality and Health Risks After Hurricane Lane</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>198487.00</AwardTotalIntnAmount>
+<AwardAmount>198487</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This is a RAPID research project involving perishable data on microbial contamination as a consequence of Hurricane Lane, which hit the Hawaii islands during August 2018. As a consequence of Hurricane Lane, the City of Hilo on the Island of Hawaii experienced its wettest three-day period on record with 31.85 inches of precipitation, while a staggering 52.02 inches of rainfall occurred in Mountain View, Hawaii. These torrential rains throughout the Hawaii islands resulted in significant flooding and caused raw sanitary sewage spills in communities where aging sewer infrastructures were overwhelmed. Because of the diverse pollutant sources in storm-impacted coastal water, the conventional fecal indicator bacteria (FIB)-based water quality monitoring approach alone is inadequate for assessing human health risks. This project aims to achieve more comprehensive understanding of risks by using use molecular and metagenomic tools for direct pathogen detection, microbial source tracking, and assessment of coastal water microorganisms. &lt;br/&gt;&lt;br/&gt;It is important to understand how coastal water quality is impacted by the different sources of storm-related pollutants and how the coastal water quality recovers after major storms. The use of molecular and metagenomic tools is expected to provide a more comprehensive understanding than the traditional FIB-based approaches. This study will also generate water microbiology quality data that are urgently needed for such major storm-impacted water, which could improve future preparation and recovery efforts for similar events. Preliminary sampling efforts have been conducted and have collected unique and precious water samples that are essential for answering these important scientific questions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>10/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>10/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855128</AwardID>
+<Investigator>
+<FirstName>Tao</FirstName>
+<LastName>Yan</LastName>
+<EmailAddress>taoyan@hawaii.edu</EmailAddress>
+<StartDate>10/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222234</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7643</Code>
+<Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>080Z</Code>
+<Text>Research related to Hurricane Florence</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

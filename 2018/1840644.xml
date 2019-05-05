@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NCWIT Participation in BPCNet (Broading Participation in Computing Network)</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>299546</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice E. Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The National Center for Women and Information Technology (NCWIT) proposes a project to contribute to the design and population of the Broadening Participation in Computing (BPC) Network Resource Portal (BPCNet), an online set of resources to connect computing researchers with resources and opportunities to participate in BPC activities. NCWIT will collaborate with the Computing Research Association (CRA) in the design and implementation of BPCNet, providing program scaffolding, resources and advice, and playing a key role in its management and leadership. In addition, NCWIT will extend the activities of its most successful and scalable programs to include Computer and Information Sciences and Engineering (CISE) researchers. These include Aspirations in Computing, AspireIT, Counselors for Computing, and Extension Services for Undergraduate Programs, as well as other resources that have been evaluated and packaged as easy to use programs. &lt;br/&gt;&lt;br/&gt;NCWIT's large coalition of corporations, startups, academic institutions, government agencies, and non-profit organizations have a proven track record of successful programs that aim to increase the participation of women in computing. The Aspirations in Computing program, for example, supports women and girls throughout their entire academic and career pipeline by providing access to scholarships, internships, and job opportunities. All of NCWIT's programs involve participation of multiple stakeholders, and thus provide an extensive network that will be key in developing the strategy and infrastructure for the BPCNet initiative.&lt;br/&gt;&lt;br/&gt;This award is co-funded by NSF INCLUDES, which focuses on catalyzing the Science, Technology, Engineering, and Mathematics enterprise to collaboratively work for inclusive change.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840644</AwardID>
+<Investigator>
+<FirstName>Lucinda</FirstName>
+<LastName>Sanders</LastName>
+<EmailAddress>lucinda.sanders@colorado.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>032Y</Code>
+<Text>NSF INCLUDES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

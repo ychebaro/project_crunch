@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Optimal Order Execution Using Equilibrium Theory and Big Data</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>229993.00</AwardTotalIntnAmount>
+<AwardAmount>229993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pedro Embid</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The investigator, his collaborators, and his students seek to develop mathematical models for how to optimally buy or sell a given quantity of stocks over a short time interval. The project's novelty lies in the fact that both mathematics and equilibrium theory from the economics literature will be used to develop models which: (i) endogenize stock price dynamics as model output, and (ii) can deal with Big Data issues such as the very frequent arrival of massive amounts of new relevant data points. Currently, all trade execution models used by both practitioners and academics are not based on the sound and long standing economic principle which says that the stock price should be determined by equating stock demand with available stock supply. The goal is to build mathematically tractable models based on equilibrium theory which can deal with several Big Data issues.&lt;br/&gt;&lt;br/&gt;From a rigorous mathematical perspective, the investigator first seeks to prove existence of equilibria in continuous-time execution models governed by Brownian motions and more generally governed by Levy processes. Subsequently, the investigator seeks to investigate uniqueness and stability of these models. It is suspected that uniqueness fails which implies a refinement need: How to optimally choose an equilibrium? This optimization produces a new class of problems in mathematical finance related to the theory of calculus of variations from analysis. Furthermore, the equilibrium models are carefully designed such that while being mathematically tractable, the models can deal with many of the practical issues Big Data represent. The main Big Data issue to be addressed is the continuous arrival of new relevant data which forces the model implementation to be as an online algorithm.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812679</AwardID>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>WRF/WERF: Functionalized nanofiber networks for nutrient removal and recovery: Integrated electrochemical controls for sustainable and autonomous treatment technologies</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>460000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christina Payne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The nitrogen and phosphorous in agricultural runoff harms ecosystems, contaminates drinking water, and poses a risk to human health. These pollutants are not effectively removed by conventional treatment technologies. New approaches that both treat the water and recover these valuable nutrients are needed. This project will develop new integrated multi-functional materials that have dual activity for simultaneous nitrogen and phosphorous removal, with integrated electroactive substrates to facilitate nutrient release and sensing. It is anticipated that the integrated material functionality will increase the reliability and autonomy of drinking water treatment in off-grid rural areas or small public water systems. &lt;br/&gt;&lt;br/&gt;This project will use electrospinning to fabricate multifunctional, electrochemically active composite nanofibers. The fibers will incorporate dual active sites, with quaternary ammonium strong base anion exchange sites to target nitrogen, and iron oxides to simultaneously target phosphorous. The electrospinning process will be optimized to maximize surface availability of these active sites through interactions of surfactants, metal oxides, and polymers. Electroactive substrates will be incorporated to promote material regeneration, monitoring, and performance cycling through the application of an electrical potential. The most promising electroactive composites will be assessed for long-term, self-controlled regeneration using representative model water sources. The project will support interdisciplinary graduate student training, education, and outreach.  The latter will leverage ongoing activities associated with an NSF National Research Training program at Iowa. Participation in a local STEM conference will engage K-12 students and educators. Modules on sustainable technology development that are targeted for undergraduate engineering students will be developed at both participating institutions. Successful completion of the technical aspect of the work will enable protection of public and ecosystem health.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1804757</AwardID>
+<Investigator>
+<FirstName>Nosang</FirstName>
+<LastName>Myung</LastName>
+<EmailAddress>myung@engr.ucr.edu</EmailAddress>
+<StartDate>05/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210217</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>Research &amp; Economic Development</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1417</Code>
+<Text>Process Separations</Text>
+</ProgramElement>
+</Award>
+</rootTag>

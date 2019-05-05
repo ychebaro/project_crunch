@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>New Techniques for High-Dimensional Regression and Applications to Precision Medicine</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>42242</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nandini Kannan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on the study of statistical inference in high-dimensional regression and its applications towards biomedical research. A new analytic framework for inference-based variable selection will be developed to explicate key properties of selection performances, including the numbers of true positives, false positives, true negatives, and false negatives. Consequently, the investigator will develop novel procedures, with which practitioners can select variables based on Type I error control to prevent false discoveries, Type II error control to improve the chances of selecting a large proportion of signals, or some balanced criteria to meet their different needs. This study will be particularly valuable in areas where signals are relatively weak under high-dimensionality; such examples include whole-genome sequencing studies and precision medicine with a large number of prognostic factors. The education and outreach components of the project include new course development, involvement of undergraduates and under-represented groups, and an accessible website resource for the public.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project comprises several key innovations in establishing foundations for new high-dimensional variable selection procedures beyond those based on standard penalized regressions. These innovations include (1) accurate approximations for false discovery proportion (FDP) and false negative proportion (FNP) via higher-order Mehler's expansions and new theories for sparse inference under dependence; (2) data-driven approaches that are automatically adaptive to the unknown sparsity level of the regression coefficients and data dependence; (3) derivation of regression-based confidence intervals that are robust to outcome model misspecification in precision medicine. Further, accurate approximations of FDP and FNP lead to new interpretable variable selection procedures for big data applications; data adaptivity will allow the methods to be applicable across a spectrum of data scenarios; whereas robust inferential procedures can provide suitable personalized treatment decisions in the high-dimensional setting.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811360</AwardID>
+</Award>
+</rootTag>

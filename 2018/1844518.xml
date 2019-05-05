@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Collaborative Research: Toward Informing Users About Algorithmic Fairness</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>52170</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tonya Smith-Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computers make important decisions about people, including about criminal justice issues such as sentencing and bail. These decisions can sometimes be considered discriminatory if the computer system does not treat people -- for example, people of different races -- fairly. However, deciding what it means for a computer system to be "fair" is complicated: there are many possible mathematical definitions of fairness, and a system cannot achieve them all at the same time. For society to make policy related to these definitions of fairness, non-technical people -- from legal and policy experts to the general public -- must be able to understand subtle distinctions between mathematical concepts. This research will develop and evaluate approaches to explaining these concepts to non-experts, so that future research can investigate people's opinions about them. &lt;br/&gt;&lt;br/&gt;The proposed work will develop and evaluate text and graphical descriptions and/or vignettes illustrating different nondiscrimination properties and their tradeoffs. For concreteness, in this exploratory work the project will focus only on accuracy-like nondiscrimination properties, only in the context of criminal justice, such as algorithms used in bail and sentencing decisions. The project will use iterative, qualitative, person-centered design, including interviews and co-design studies with both non-computer-science subject-matter experts in law and social science and laypeople to develop and preliminarily evaluate the explanations. In parallel, the project will systematize the space of nondiscrimination properties.  This effort will inform qualitative design efforts; concurrently, interviews with legal and ethical experts will also shape the systematization, in a process of iterative refinement.  The end product will be a description of how various nondiscrimination definitions differ along the axes empirical studies find most important.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844518</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Tschantz</LastName>
+<EmailAddress>mct@icsi.berkeley.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>International Computer Science Institute</Name>
+<CityName>Berkeley</CityName>
+<ZipCode>947044115</ZipCode>
+<PhoneNumber>5106662900</PhoneNumber>
+<StreetAddress>1947 CENTER ST STE 600</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Photocontrolled Dynamic Covalent Crosslinkers for Light-Responsive Polymer Networks</AwardTitle>
+<AwardEffectiveDate>05/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>700000.00</AwardTotalIntnAmount>
+<AwardAmount>268096</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Suk-Wah Tam-Chang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Polymers that respond to external cues with changes in their physical properties can serve as sensors, actuators, controlled delivery systems, tissue mimics, and healable materials. Light is one of the most appealing stimuli because it can be delivered remotely with precise control over space, time, intensity, and color. The research group of Professor Julia Kalow at Northwestern University studies how light can be used to control the formation and breakage of reversible chemical bonds in polymers. When these photoswitchable chemical bonds are used to link polymer strands, the resulting polymer networks exhibit reversibly-controlled changes in properties, such as stiffness and adaptability. The novel materials and insights from this research help to create the next generation of high-performance, re-processable polymers. Additionally, the polymer materials may mimic tissue mechanics, acting as user-controlled matrixes to study biological processes like muscle contraction and to build synthetic organs. The broader impacts expand the exposure of students with visual impairment to STEM.  The educational program develops assistive technologies for visually impaired students and their teachers.  Students with visual impairment are often left out of traditional outreach activities and laboratory experiences. Professor Kalow's team works to fully include these students in STEM as the newly created polymer materials are used to create assistive tactile displays.&lt;br/&gt;&lt;br/&gt;With the support of the Macromolecular, Supramolecular, and Nanochemistry program of the Division of Chemistry, the Kalow group prepares new photoswitches and elucidates how control is translated from the molecular to macroscopic level.  This fundamental research combines physical organic techniques, synthesis, and mechanical characterization to study three distinct mechanisms for photoswitching dynamic covalent crosslinkers: crosslink stability, crosslink exchange rate, and crosslink topology.  The research aims to marry photoswitch conformation and dynamic covalent bonds to achieve dramatic and reversible physical changes in soft materials.  The expected outcomes of the research are the development of new photoswitches containing dynamic covalent bonds, improvement in the reversibly photocontrolled gels, elastomers, and vitrimers, and increased fundamental insight into the relationship between molecular reactivity and viscoelasticity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/03/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/03/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847948</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Kalow</LastName>
+<EmailAddress>jkalow@northwestern.edu</EmailAddress>
+<StartDate>04/03/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

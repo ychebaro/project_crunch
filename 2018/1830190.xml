@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: Evaluation of a Subcanopy Solar Radiation Model Under Real-Sky Conditions with Field Validation Measurements</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>14001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>jacqueline vadjunec</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This doctoral dissertation research project will study the complex interactions among topography, forest cover, and sky conditions on solar insolation, thereby providing more accurate and higher-resolution estimates of solar radiation reaching the ground surface.  The project will enhance the capabilities of researchers and practitioners to incorporate the effects of atmospheric conditions and vegetation in solar radiation models that are needed to advance research about surface solar radiation, heat flux, and ground and surface water temperature dynamics.  In addition to evaluating a high-resolution, spatially explicit approach to estimating the amount of solar radiation penetrating forest canopies over extensive areas, this project will demonstrate methods for incorporating real-sky conditions in the modeling of stream temperatures.  The integrative model to be developed by the doctoral student will have the potential to be a powerful, spatially explicit tool for demonstrating linkages among stream processes, land-management, and ecosystem outcomes that can be adapted to a broad range of natural and human-modified environments.  As a Doctoral Dissertation Research Improvement award, this award also will provide support to enable a promising student to establish a strong independent research career.  The project also will provide valuable experience in collaborative interdisciplinary research for another graduate student serving as a technician on this project.&lt;br/&gt;&lt;br/&gt;A recently developed subcanopy solar radiation modeling method that uses airborne LiDAR data and is integrated with an open-source, bare-earth solar radiation model demonstrated that light penetration through forest canopies could be estimated and used to produce high resolution estimates of subcanopy solar radiation for vegetated landscapes.  That solar radiation model allows parameterization of the effects of atmospheric conditions where the solar radiation reaching the canopy surface is affected by atmospheric aerosols, water vapor, and clouds. The information needed to parameterize atmospheric conditions is not widely available for most locations in the United States, however.  Although values representing uniformly clear or overcast sky conditions or published values of historic averages can be used, values more representative of real-sky conditions should improve the accuracy of the solar radiation estimates for specific locations and time periods.  The doctoral student will build on these recent advances in solar radiation modeling and the increased availability of remotely sensed data by incorporating the combined effects of atmospheric conditions, forest canopies, and topography to improve estimates of subcanopy solar radiation in a Southern Appalachian headwater basin.  The student will develop open-science workflows to compute the Linke Turbidity value and the clear sky index using existing methods and available satellite data for the parameterization of atmospheric conditions.  She will test the validity of the solar radiation models with general and computed atmospheric condition parameters, and she will evaluate model accuracy with field measurements of subcanopy solar radiation.  She also will determine whether the inclusion of real-sky and forest canopy conditions to estimate solar radiation improves the accuracy of steam temperature estimates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830190</AwardID>
+<Investigator>
+<FirstName>Stacy</FirstName>
+<LastName>Nelson</LastName>
+<EmailAddress>sanelso2@ncsu.edu</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Belica</LastName>
+<EmailAddress>labelica@ncsu.edu</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

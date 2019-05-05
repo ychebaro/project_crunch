@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NCS-FO: Distributed neural organization of sensorimotor dynamics</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>1000000.00</AwardTotalIntnAmount>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kurt Thoroughman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Speaking is one of the most complicated human behaviors and yet speech is produced easily and with little conscious effort.  Understanding the way the brain controls the various organs and muscles of vocalization is a basic scientific question that may illuminate more general principles that can describe how the brain programs and controls all behavior.  In order to understand the neural mechanisms of motor behavior in vocal production, the proposed research will test specific hypotheses about the timing of different brain regions, the timing of muscles that produce vocal behavior, and the response to normal and abnormal auditory feedback.  Understanding the neural mechanisms of motor control can have broad implications, including the development of more human-like robots, better computer-generated speech and vocal prostheses, as well as new therapies for treating articulatory disorders such as stuttering, dysarthria, aphasia, and other problems in speech production.&lt;br/&gt;&lt;br/&gt;The proposed research will measure the timing of neural circuits that control vocalization in humans and song birds.  The bird song production system has long been used as a model system that has relevance to understanding speech production. While simpler than humans and with less behavioral control of the experiments, studying birdsong is complementary in providing more granular measurements of neural activity in a vocal learning system than possible in humans. The experiments will test a novel hypothesis, that the motor system is not organized by the commonly assumed "top down" organizational scheme, but by a coherent network that operates as a unitary mechanism as described by certain mathematics of non-linear systems. The comparison between species will also be informative about how robust the results are across very different species and neural systems offering the possibility of generalization of the results.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835181</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Margoliash</LastName>
+<EmailAddress>dan@bigbird.uchicago.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Howard</FirstName>
+<LastName>Nusbaum</LastName>
+<EmailAddress>hcn@speech.uchicago.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372612</ZipCode>
+<PhoneNumber>7737028669</PhoneNumber>
+<StreetAddress>6054 South Drexel Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8624</Code>
+<Text>IntgStrat Undst Neurl&amp;Cogn Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8551</Code>
+<Text>IntgStrat Undst Neurl&amp;Cogn Sys</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI:Small:Smarter Hands with Direct-Drive Actuation</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>499297</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will explore a fundamental re-think of robot hand and gripper design.  Current designs use gears to produce large grip forces.  Unfortunately, gears lead to slow, stiff, unreactive behavior, due to friction and reflected inertia.  Gears limit the robot's ability to feel the contact with a task.  The remedy is to eliminate the gears, and couple the latest generation of high-torque motors directly to the fingers.  This direct coupling not only improves the responsiveness of the gripper, it provides additional perceptual information to support more intelligent behavior.  At the same time, the robot can use more intelligent behaviors to reduce the required forces, or reduce the duration of high-force behaviors.  &lt;br/&gt;&lt;br/&gt;The foundation of the work is a two-port dynamic system model of the coupling between motor and effector.  This model will provide a comparison with competing approaches, including series-elastic actuators, high gear ratios, strain gauges, and soft fingers.  The results will guide the design of direct-drive hands and controls.  Besides exploring the design principles, the project will develop the controls, perception, and behavior planning, exploiting direct drive to provide smarter and more dexterous behaviors.  The project will evaluate these concepts experimentally using tasks typical of key robot applications.  The project will publish designs and software, some aimed at commercial applications, and some aimed educational systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813920</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Mason</LastName>
+<EmailAddress>matt.mason@cs.cmu.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>amj1@andrew.cmu.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

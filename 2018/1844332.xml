@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Incubator Meeting on Metamaterial Films for In-Space Propulsion by Radiation Pressure, at OSA Headquarters, Washington, DC, 7-9 October 2018</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence S. Goldberg</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Advanced photonic materials called metamaterials provide new opportunities to navigate space by means of radiation pressure. This Incubator meeting, to be held at The Optical Society headquarters on 7-9 October 2018, will support multiple coordination activities with academia and industry by bringing together experts in the areas of diffractive metamaterials, radiation pressure, and astronautics to advance the development of in-space sailcraft propulsion, navigation, and control. The goal of the program is to showcase promising new research and technology while building enthusiasm around and establishing a path toward solar or laser-driven sailcraft using passive or active films based on engineered transmissive or reflective metamaterials. By advancing the technology for new ways to maneuver in space, this Incubator will have broad impact on the economics of space utilization, affecting everything from communication and remote sensing satellites to solar system and interstellar probes. These advances will enhance partnerships between academia, industry, and NASA, improve national security, and increase the economic competitiveness of the US. &lt;br/&gt;&lt;br/&gt;This Incubator meeting will bring together three different communities in space, materials, and opto-mechanics to stimulate and foster new applications for metamaterial films in light-driven space vehicles. As with many intellectually active areas in science, where advances come from the intersections between otherwise separate disciplines, the meeting will combine the relevant experts in the three communities to advance the understanding of how metamaterial films can be used to opto-mechanically steer sailcraft in outer space. Intellectually, the impact will be to stimulate advanced thinking of metamaterial film composition given the limitations of weight and thickness for space applications and to stimulate innovative uses of such a capability by spacecraft and satellite designers. The benefits will be to advance knowledge in how to create relevant materials and metamaterials for space sailcraft applications and to advance how spacecraft designers think about propulsion mechanisms with new capabilities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844332</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Duncan</LastName>
+<EmailAddress>mduncan@osa.org</EmailAddress>
+<StartDate>09/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Optical Society of America</Name>
+<CityName>Washington</CityName>
+<ZipCode>200361012</ZipCode>
+<PhoneNumber>2024166102</PhoneNumber>
+<StreetAddress>2010 Massachusetts Avenue NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8089</Code>
+<Text>Space Weather Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Expanding Computing Education Pathways 2.0</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>2492815</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The University of Texas at Austin proposes a project - Expanding Computing Education Pathways (ECEP 2.0) - that builds on the National Science Foundation-funded ECEP Alliance that began in 2012. That alliance facilitated state leadership teams in broadening participation as they expanded opportunities in K-16 computer science (CS) education. ECEP states share a common agenda with respect to broadening participation in computing (BPC), participate in mutually reinforcing activities including landscape report development, state summits, and the ECEP Annual Meeting, engage in continuous communication through monthly virtual conferences, connect with other BPC-focused projects such as the National Center for Women and Information Technology and Access Computing, mentor new states, and serve as national leaders in the emerging development of shared measurement systems for evaluating progress toward BPC. ECEP 2.0 will continue these efforts through mini-grants and toolkits supporting state landscape report development, stakeholder meetings and state summits, the ECEP Expert Bureau, ad hoc coaching sessions, and the ECEP Annual Meeting. In addition, ECEP 2.0 investigators will leverage their expertise and experience to facilitate three Networked Improvement Communities (NICs) for ECEP states, one focused on pre-service teacher preparation, one on 2-year to 4-year post-secondary pathways, and the third on BPC-related professional development. ECEP state teams will continue their work on education policy reform efforts and serve as the laboratories for iteratively developing, testing, and refining new state-level strategies, policies and interventions for K-16 BPC. &lt;br/&gt;&lt;br/&gt;ECEP 2.0 will employ three primary strategies: &lt;br/&gt;&lt;br/&gt;Strategy 1: Catalyze, incubate, and sustain state leadership teams focused on BPC. &lt;br/&gt;Strategy 2: Support states in developing long range goals for BPC as well as metrics and data infrastructures for tracking progress toward those goals. &lt;br/&gt;Strategy 3: Research best practices in BPC pathways at a state level, leverage the power of the ECEP network to capture best practices and lessons learned, and contribute to the emerging knowledge base around systems-level strategies for impacting BPC. &lt;br/&gt;&lt;br/&gt;ECEP 2.0 will also develop and disseminate resources and research regarding K-16 BPC so as to benefit both ECEP and non-ECEP states.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822011</AwardID>
+<Investigator>
+<FirstName>Debra</FirstName>
+<LastName>Richardson</LastName>
+<EmailAddress>djr@uci.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maureen</FirstName>
+<LastName>Biggers</LastName>
+<EmailAddress>biggersm@indiana.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carol</FirstName>
+<LastName>Fletcher</LastName>
+<EmailAddress>carol.fletcher@austin.utexas.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Leigh</FirstName>
+<LastName>DeLyser</LastName>
+<EmailAddress>leighann@csnyc.org</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Goodhue</LastName>
+<EmailAddress>jtgoodhue@mghpcc.org</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7487</Code>
+<Text>BROADENING PARTICIPATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

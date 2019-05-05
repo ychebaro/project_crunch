@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dissecting the Sphingolipid Metabolic and Regulatory Network</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>750000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Sphingolipids are the most abundant lipid component of the membrane that surrounds plant cells. This membrane separates the plant cell from the surrounding environment. Sphingolipid composition is important for the plant's ability to survive variable growth conditions, such as drought and freezing, and to fight infection from pathogenic fungi and bacteria.  Plant cells vary the amount of sphingolipid synthesized depending on environmental conditions. This project examines how plants make the required amount of sphingolipid for optimal growth. If there is too little sphingolipid, the plant's cells will not be able to grow and the presence of excess sphingolipid can trigger cell death. This project shows how sphingolipid metabolism is regulated and generates a computer model to predict the regulation of sphingolipid levels in plants. Regulation of sphingolipid metabolism is investigated under optimal growth conditions and in response to pathogen infection. The results of this project will enable plant breeders and biotechnologists to predictably alter sphingolipid metabolism in crops, such as corn and soybean. With the knowledge derived from this project plant breeders will be able to maintain plant productivity in response to drought, soil salinity, pathogenic fungi and bacteria and other environmental challenges. The project engages high school and undergraduate students in sphingolipid research to advance STEM education. Graduate student participants are trained broadly in the convergence of computation with experimentation to address significant biological questions.&lt;br/&gt;&lt;br/&gt;The project addresses fundamental gaps in knowledge of sphingolipid metabolic regulation in plants and its impact on biotic stress responses by integrating computational modeling with experimental approaches. Relative contributions of biosynthetic and catabolic reactions for sphingolipid metabolic regulation are determined through a kinetic model derived from metabolic flux analyses of wild-type and mutant plants exposed to biotic stresses. An extensive toolbox of plant mutants and engineered yeast strains are used for biochemical and genetic studies aimed at understanding mechanisms through which orosomucoid-like proteins function as central regulators. These regulators control the amounts and types of sphingolipids produced in response to biological stresses. Findings from these studies contribute to iterative kinetic model improvement through design-build-test-refine cycles for a more quantitative and mechanistic understanding of sphingolipid metabolic regulation in plants.  The project also advances the study of plant sphingolipids through development of a web portal that contains information on sphingolipid structural diversity, metabolism, function, and analysis and disseminates project-derived metabolic models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818297</AwardID>
+<Investigator>
+<FirstName>Teresa</FirstName>
+<LastName>Dunn</LastName>
+<EmailAddress>tdunn@usuhs.mil</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edgar</FirstName>
+<LastName>Cahoon</LastName>
+<EmailAddress>ecahoon2@unl.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Markham</LastName>
+<EmailAddress>jmarkham3@unl.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajib</FirstName>
+<LastName>Saha</LastName>
+<EmailAddress>rsaha2@unl.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a confocal microscope to enhance biological and materials research at Montana Tech</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>364383.00</AwardTotalIntnAmount>
+<AwardAmount>364383</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harsha Chelliah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A confocal microscope is a powerful instrument that will enhance research and educational opportunities at Montana Tech, a rural, primarily undergraduate institution (PUI) in southwest Montana. Confocal microscopy enables quantitative characterization of samples across various fields, including biological, environmental, and materials. At Montana Tech, 12 research users were identified, along with two users at Salish Kootneai College (SKC), a nearby tribal college that will benefit from the microscope's remote access capabilities. The microscope will be used by at least 25 graduate students, and 20 undergraduate students for research projects in the first year, and it will be included in the curriculum of five courses (including courses at SKC and University of Montana Western), introducing approximately 100 students to confocal fluorescent microscopy. Additionally, the microscope will be available to industrial users through an agreement with Alpha Technology, LLC, and it will be used in a collaboration with the Imagine Butte Resource Center, a local art collective. &lt;br/&gt;&lt;br/&gt;The proposed Leica SP8 confocal system is configured for maximum versatility and ease of use, given the needs of researchers and instructors at Montana Tech. It includes an upright configuration that enables easy visualization of biofilm samples, four laser lines necessary for excitation of fluorophores commonly used in the biological and environmental sciences, multiple detectors for simultaneous acquisition of different excited fluorophores, and a high definition detector necessary for live-cell work. The instrument will be used in a variety of projects, including examining the impact of biofilms on metals transport in mine waste-impacted streams, the adaptation of alpine plants in response to changes in climate, biofilm formation and treatment in water treatment systems, biofilm-assisted nitrate reduction, and the production of nanocomposite wound dressings and tissue scaffolds. Overall, the addition of a confocal microscope to the suite of analytical instruments at Montana Tech will increase research capacity and enhance education at a rural PUI, enable access to advanced instrumentation by a nearby tribal college, facilitate collaborations with industry, and promote science educational outreach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828523</AwardID>
+<Investigator>
+<FirstName>Martha</FirstName>
+<LastName>Apple</LastName>
+<EmailAddress>mapple@mtech.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jack</FirstName>
+<LastName>Skinner</LastName>
+<EmailAddress>jskinner@mtech.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katherine</FirstName>
+<LastName>Zodrow</LastName>
+<EmailAddress>kzodrow@mtech.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Montana Tech of the University of Montana</Name>
+<CityName>Butte</CityName>
+<ZipCode>597018932</ZipCode>
+<PhoneNumber>4064964102</PhoneNumber>
+<StreetAddress>1300 W. Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

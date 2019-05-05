@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Soft Light-Harvesting Systems Based on inter-Conjugated Polyelectrolyte Complexes</AwardTitle>
+<AwardEffectiveDate>03/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>674999.00</AwardTotalIntnAmount>
+<AwardAmount>254909</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Papanikolas</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Natural photosynthetic organisms use highly specialized super-structures that house many molecular components.  These components work in concert to efficiently convert sunlight to chemical fuel for the cell.  The components are arranged so that when sunlight is absorbed by the pigments (color-containing compounds), the energy can move quickly from one component to the next before the energy is lost.  Nature accomplishes energy transfer with remarkable efficiency using light-harvesting organelles. Mimicking such a complex structure artificially could lead to formation of light-weight materials, whose photosynthetic function could be exquisitely controlled. However, making artificial photosynthetic systems remains a major challenge.  With support from the Macromolecular, Supramolecular and Nanochemistry Program of the NSF Division of Chemistry, Professor Ayzner at the University of California, Santa Cruz (UCSC) and his students are building artificial light-harvesting organelles based on soft molecular materials, such as polymers. These polymers can self-assemble into larger structures that can rapidly transport excited states through space, thus mimicking the fundamental aspects of photosynthetic organelles. The project is providing training opportunities for graduate students.  Professor Ayzner is using the topic of energy harvesting as the vehicle to teach advanced chemical problem-solving skills to transfer students, thereby helping to prepare them for sustained success in the chemical sciences. &lt;br/&gt;&lt;br/&gt;Accomplishing the formation of an artificial light-harvesting organelle first requires laying a foundation for assembling and interfacing an efficient electronic energy transfer (EET) relay with a larger structural scaffold. To this end, Professor Ayzner is synthesizing and assembling conjugated polyelectrolytes (CPE) into donor/acceptor complexes, whose structure and thermodynamics can be controlled via the coupling between electronic and ionic degrees of freedom. This project elucidates how the backbone of a CPE influences the EET efficiency within the complex by systematically tuning the mean polyelectrolyte length and chemical structure. The phase separation behavior and EET in co-existing phases of inter-CPE complexes is then characterized to elucidate the influence of excess ions on light-harvesting. Complexes are then interfaced with self-assembled vesicle-type compartments to form the foundation of a soft light-harvesting super-structure. Characterization of resulting assemblies involves combining time-resolved electronic spectroscopy, photon scattering, microscopy and rheological measurements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/04/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/04/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848069</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Ayzner</LastName>
+<EmailAddress>aayzner@ucsc.edu</EmailAddress>
+<StartDate>03/04/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 High Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

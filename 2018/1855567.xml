@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Impact of Hurricane Florence on well quality in communities surrounding coal ash impoundments in North Carolina</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>199618.00</AwardTotalIntnAmount>
+<AwardAmount>199618</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A state of emergency was declared in North Carolina after Hurricane Florence caused storm surges, historic rainfall, and widespread flooding. The flooding caused collapses at coal ash storage sites. Coal ash is a waste byproduct from coal combustion and is one of the largest classes of industrial waste generated in the United States. Researchers have observed elevated levels of toxic metals, such as arsenic, hexavalent chromium, selenium, strontium, and vanadium, in the rivers and private wells impacted by coal ash. Little is known about the impacts of flooding on coal ash sites. There are more than 85,000 North Carolina well users in counties where coal ash impoundments have been impacted by Hurricane Florence, demonstrating a potentially significant risk of contamination. The hypothesis of this study is that private wells surrounding flood-impacted coal ash impoundments are at increased risk of heavy metal contamination. Through this RAPID grant, the research team will conduct temporal and spatial sampling to evaluate flood-associated well water hazards in communities potentially affected by contamination from coal ash impoundments. In addition, surveys will be distributed to obtain information to improve communication, education, and empowerment of impacted well owners. &lt;br/&gt;&lt;br/&gt;This research project aims to: 1) characterize well water heavy metal and bacterial contamination in counties with flood-impacted coal ash impoundments; 2) examine well users' risk perceptions, behaviors, and resource needs related to flood preparation and recovery; and 3) determine site-specific hazard proximities, hydrogeologic factors, well construction characteristics, and well user behaviors that increase the likelihood of contamination. Inorganic contaminants must be evaluated to ensure residents have safe, potable drinking water. Fingerprinting techniques have been developed to determine the sources of heavy metal contamination in drinking water, both from well water infrastructure and coal ash sources. However, these methods have not been widely utilized to systematically track the source of heavy metal contamination in flooded private wells. In addition, local North Carolina health departments are required to maintain well construction records, which can be used to further understand well construction factors that can influence contaminant transport during flooding. Finally, surveys of well owners will provide valuable knowledge about well owner preparedness and recovery behaviors. These information sources collectively support customized emergency planning resources and recovery strategies for communities near coal ash impoundments. This research project will provide insights into the potential sources and contamination pathways of microbial and toxic metal contamination in flood-impacted wells near coal ash sites and will help elucidate well owner resource needs that will enable autonomous well water protection.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>10/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>10/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855567</AwardID>
+<Investigator>
+<FirstName>Marc</FirstName>
+<LastName>Edwards</LastName>
+<EmailAddress>edwardsm@vt.edu</EmailAddress>
+<StartDate>10/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kathleen</FirstName>
+<LastName>Gray</LastName>
+<EmailAddress>kmgray@email.unc.edu</EmailAddress>
+<StartDate>10/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kelsey</FirstName>
+<LastName>Pieper</LastName>
+<EmailAddress>kpieper@vt.edu</EmailAddress>
+<StartDate>10/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Adrienne</FirstName>
+<LastName>Katner</LastName>
+<EmailAddress>akatn1@lsuhsc.edu</EmailAddress>
+<StartDate>10/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Rhoads</LastName>
+<EmailAddress>wrhoads@vt.edu</EmailAddress>
+<StartDate>10/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7643</Code>
+<Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>080Z</Code>
+<Text>Research related to Hurricane Florence</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

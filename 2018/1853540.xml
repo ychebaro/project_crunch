@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DOI/OAS Direct Reimbursable Support to the USAP for Aviation Service</AwardTitle>
+<AwardEffectiveDate>09/11/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/11/2023</AwardExpirationDate>
+<AwardAmount>215214</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090200</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>gary james</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>09/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853540</AwardID>
+<Investigator>
+<FirstName>Walker</FirstName>
+<LastName>Craig</LastName>
+<EmailAddress>walker_craig@ios.doi.gov</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>NATIONAL BUSINESS CENTER INC</Name>
+<CityName>WASHINGTON</CityName>
+<ZipCode>202400001</ZipCode>
+<PhoneNumber>2084335000</PhoneNumber>
+<StreetAddress>1849 C ST NW MS 1210-MIB</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5140</Code>
+<Text>OPERATIONS SUPPORT PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

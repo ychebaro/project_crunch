@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>III: Small: Predictive Analysis of Diabetes Dedicated Social Networks</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>462560</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aidong Zhang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will study diabetes dedicated social networks.  It aims to harness diabetes patients' online social behaviors from multiple networks to predict their biomarker measurements such as glycated hemoglobin and fasting blood glucose. This project will provides a paradigm shift from exploration to prediction compared with state-of-the-art research on diabetes dedicated social networks, transforming the massive social behavioral data into clinically meaningful insights and tools. This project will advance computer science by providing a suite of novel predictive models and methods for multi-modality information extraction, densification, and prediction. It will also advance diabetes care by revealing the mutual impact between diabetes patients' online behaviors and their medical conditions. This project will involve students at various levels, including both graduate and undergraduate students. The project teams plans to disseminate the research outcomes from this project at major conferences and journals in both computer science and healthcare.&lt;br/&gt;&lt;br/&gt;This project will consist of four complementary research thrusts. The first thrust will extract features that characterize diabetes patients' online social behaviors, including social content features and social connectivity features. The second thrust will extract and infer diabetes patients' biomarker measurements, with the help of auxiliary data. The third thrust will learn the prediction function that connects patients' online social behaviors with diabetes biomarkers; this thrust will start from a single pair of feature and biomarker, and then jointly build the predictive models for multiple pairs via a tensor-based regularization method. The fourth thrust will thoroughly evaluate the models and methods from the previous three thrusts using data from various sources, such as multiple diabetes dedicated social networks, diabetes patients' clinical data, the online encyclopedia data, and data from online and clinic-based surveys.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813464</AwardID>
+<Investigator>
+<FirstName>Curtiss</FirstName>
+<LastName>Cook</LastName>
+<EmailAddress>cook.curtiss@mayo.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jingrui</FirstName>
+<LastName>He</LastName>
+<EmailAddress>jingruih@asu.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

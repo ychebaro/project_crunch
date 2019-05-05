@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Measuring Real World Application Performance on Next-Generation Computing Systems</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project proposes to create a benchmark suite using real-world scientific applications. The benchmark suite will be developed jointly with the High-Performance Group (HPG) of the Standard Performance Evaluation Corporation (SPEC), a non-profit organization with the goal of creating and maintaining standardized benchmarks to evaluate performance and energy efficiency for the newest generation of computing systems. The project will leverage SPEC infrastructure to ensure continuous maintenance of the benchmark suite, as well as support for result submission, review, and publication on the SPEC website. Furthermore, the project will use the published results of the benchmark suite to create a public ranking of High-Performance Computing (HPC) systems deployed across the world. Partnership with SPEC will ensure that the results of the project will be disseminated to industry.&lt;br/&gt;&lt;br/&gt;The creation of a new real-world application benchmark suite jointly with SPEC/HPG, as well as the development of performance metrics suitable for application benchmarks, will lead to improved HPC system design and enable the better understanding of how next-generation computing systems must evolve. In addition to evaluating HPC systems, the proposed application benchmark suite will also enable the comparative performance evaluation of novel software and hardware ecosystems.  Moreover, the proposed work builds on NSF investment in domain science application development by including these applications in the suite. Importantly, the project will be an opportunity to bring the benchmark community together to develop and define performance and throughput metrics for real world scientific applications. Finally, the project will deliver a benchmark suite that will be freely available to non-profit organizations and sustained by SPEC.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842623</AwardID>
+<Investigator>
+<FirstName>Rudolf</FirstName>
+<LastName>Eigenmann</LastName>
+<EmailAddress>eigenman@udel.edu</EmailAddress>
+<StartDate>08/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Henschel</LastName>
+<EmailAddress>henschel@indiana.edu</EmailAddress>
+<StartDate>08/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sunita</FirstName>
+<LastName>Chandrasekaran</LastName>
+<EmailAddress>schandra@udel.edu</EmailAddress>
+<StartDate>08/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7476</Code>
+<Text>ETF</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

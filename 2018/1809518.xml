@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Manipulating light-matter interactions in bulk anisotropic metamaterials</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>315000.00</AwardTotalIntnAmount>
+<AwardAmount>207953</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Opila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical description: Light interacts with matter in many different ways that can be observed in our everyday life. This includes scattering, reflection, refraction, absorption or excitation of chemical processes in, for example, retinal rods and cones of the human eye. The likelihood and strength of a particular light-matter interaction is governed by so-called selection rules. Many light-matter interaction processes are forbidden, or more precisely, highly-improbable, therefore limiting fundamental studies and applications of optical materials and processes. The ability to manipulate these improbable interactions is likely to enhance fundamental knowledge in many fields, including atomic, molecular and optical physics, photonics, chemistry, and nanotechnology. This research focuses on developing new nanostructured optical materials and structures, termed metamaterials, that help create specially shaped light beams. These custom-made light beams enable accessing those previously forbidden light-matter interactions. Beyond its fundamental science significance, this research could enable applications in spectroscopy and sensing devices, photovoltaic systems and quantum computing devices. This hands-on experience, along with exposure to state-of-the-art scientific problems and their investigations, helps thoroughly prepare participating students for future science and engineering careers. &lt;br/&gt;&lt;br/&gt;Technical description: Spectroscopic transitions in atoms and molecules that are not allowed within the electric-dipole approximation, but occur due to higher-order terms in the interaction between matter and radiation, are called dipole-forbidden. Dipole-forbidden optical transitions in atoms form the basis of next-generation atomic clocks, and of high-fidelity qubits used in quantum information processors and quantum simulators. However, dipole-forbidden transitions are very weak and therefore exhibit narrow natural linewidths.  Recently, it was realized that orbital angular momentum, or vortex beams can make symmetry-forbidden transitions possible in atoms, molecules, and artificial atoms or nanocrystals. However, the transition rate depends on the beam size and increases when the vortex beam size decreases. The goal of the proposed research is to investigate and demonstrate the possibility of probing forbidden transitions in artificial atoms using orbital angular momentum carrying beams that have been demagnified to subwavelength scales using strongly anisotropic metamaterial structures. Interactions of orbital angular momentum beams with atoms enable hollow-beam traps, improve the spatial resolution of stimulated emission depletion microscopy and facilitate quantum information processing. Graduate and undergraduate students involved in this project gain hands-on experience in spectroscopy, nanofabrication and optical characterization of novel nanostructured materials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1809518</AwardID>
+<Investigator>
+<FirstName>Natalia</FirstName>
+<LastName>Litchinitser</LastName>
+<EmailAddress>natalia.litchinitser@duke.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

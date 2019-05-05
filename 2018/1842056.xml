@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Advancing theory of Resonant Inelastic X-ray Scattering for Materials In- and Out-of-Equilibrium</AwardTitle>
+<AwardEffectiveDate>08/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>436898.00</AwardTotalIntnAmount>
+<AwardAmount>177340</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexios Klironomos</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NONTECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Quantum materials are at the forefront of materials research. In many cases, the remarkable properties of these materials derive from a subtle interplay between their electronic, magnetic, and structural properties. Over the last two decades, resonant inelastic x-ray scattering has emerged as a powerful experimental tool in this context, owing to its ability to simultaneously probe all of these properties in a single experiment. But this capability comes at a price, as these experiments are challenging to interpret without sophisticated theoretical models; there is an urgent need for new theoretical tools.&lt;br/&gt;&lt;br/&gt;This CAREER award supports computational and theoretical research and education aimed at obtaining a better understanding of resonant inelastic x-ray scattering techniques and their application to several novel quantum materials. The goal of the project is to develop new theoretical approaches and computer codes for modeling resonant x-ray scattering experiments. The research team will apply these methods to address several open questions in quantum materials, working in collaboration with experimental researchers. This project will provide advanced theoretical tools for modeling resonant x-ray scattering experiments that are broadly applicable to a wide range of quantum materials, thus contributing to our understanding of these systems and accelerating future discovery.&lt;br/&gt;&lt;br/&gt;This project's educational component focuses on increasing the participation of underrepresented minorities in advanced physics research. Approximately 30% of college-aged US citizens are members of racial minority groups, but these groups are drastically underrepresented in Science, Technology, Engineering, and Mathematics, with the largest disparity occurring in physics. The PI will spearhead the establishment of a Bridge Program at the University of Tennessee, Knoxville in partnership with the American Physical Society Bridge Program and the NSF-sponsored Tennessee Louis Stokes Alliance for Minority Participation Program. These activities will help create an alternative pathway into a physics graduate program for students who would not otherwise apply to or enroll in graduate school. This project also supports undergraduate and graduate research opportunities in physics with a focus on advanced computational methods.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;Strongly correlated quantum materials realize a wide range of scientifically and technologically significant phases of matter. In many cases, the functional properties of these systems derive from the interplay of their spin, charge, orbital, and lattice excitations. In this context, resonant inelastic x-ray scattering (RIXS) has become a powerful tool, capable of simultaneously accessing all of these excitations in a single experiment. But RIXS experiments are difficult to interpret without theoretical models. Moreover, the recent development of pump-probe or time-resolved RIXS experiments has created an urgent need for new theoretical tools. &lt;br/&gt;&lt;br/&gt;This CAREER award supports research and education towards the development of new theoretical frameworks for modeling equilibrium and time-resolved RIXS experiments. The primary goals of this project are to extend state-of-the-art numerical methods like the density matrix renormalization group, quantum Monte Carlo, and embedded cluster techniques to model equilibrium RIXS experiments and then integrate these same approaches into new theory for time-resolved RIXS experiments. The research team will apply these methods to address several open problems. Examples include: 1) identifying fractionalized quasiparticle excitations in quantum spin liquids and understanding their dynamics both in and out of equilibrium, 2) determining the specific roles of the collective magnetic and lattice excitations in correlated quantum materials, and 3) establishing how RIXS provides a unique way of answering these questions. Many of these questions will be addressed in the context of ongoing experiments at free electron laser facilities like the Linac Coherent Light Source. This project will provide an advanced framework for understanding RIXS experiments that are broadly applicable to a wide range of quantum materials, thus contributing significantly to the understanding of these systems and accelerating future discovery. &lt;br/&gt;&lt;br/&gt;This project's educational component focuses on increasing the participation of underrepresented minorities in advanced physics research. Approximately 30% of college-aged US citizens are members of racial minority groups, but these groups are drastically underrepresented in Science, Technology, Engineering, and Mathematics, with the largest disparity occurring in physics. The PI will spearhead the establishment of a Bridge Program at the University of Tennessee, Knoxville in partnership with the American Physical Society Bridge Program and the NSF-sponsored Tennessee Louis Stokes Alliance for Minority Participation Program. These activities will help create an alternative pathway into a physics graduate program for students who would not otherwise apply to or enroll in graduate school. This project also supports undergraduate and graduate research opportunities in physics with a focus on advanced computational methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/22/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842056</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Johnston</LastName>
+<EmailAddress>sjohn145@utk.edu</EmailAddress>
+<StartDate>02/22/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1765</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+</Award>
+</rootTag>

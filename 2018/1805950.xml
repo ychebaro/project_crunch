@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>GOALI: Next generation feature-based process monitoring for smart manufacturing</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>320000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Triantafillos Mountziaris</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of process monitoring is to detect the onset and identify the underlying reasons that can cause a manufacturing environment to deviate from its desired operation. If potential faults and failures are detected and corrected while still incipient, reduction in plant downtimes of up to 50% in five years and up to 90% in ten years can be achieved. However, achieving these targets remains very challenging, as the current state-of-the-art process monitoring solutions have limitations in addressing, for example, the process dynamics and nonlinear of advanced manufacturing processes. The big data sets that are generated from smart manufacturing processes pose additional challenges. In this project a research team from Auburn University and Praxair will develop and validate a next-generation feature-based statistical process monitoring (SPM) framework as an effective way to address current challenges in process monitoring.&lt;br/&gt;&lt;br/&gt;The proposed project will systematically examine the underlying connections between various features and process characteristics, which will lay the foundation for the proposed feature-based SPM framework. With the industrial Internet-of-things (IIoT) still in its infancy, the research team aspires to develop lab scale IIoT-enabled manufacturing technology testbeds (MTT), which will allow detailed understanding of the dynamic behavior of IIoT sensors, and simulation models to accurately capture the behavior of IIoT sensors. The team plans to develop a suite of simulated IIoT-enabled MTTs and a comprehensive feature library, the associated decision tree to guide the relevant feature identification, and the automated feature selection algorithm to complement the feature-based SPM framework. The suite of IIoT-enabled MTT simulators and the feature library will be made publicly available in the form of open source codes. The proposed feature-based monitoring methodology can be extended to other areas, such as feature-based control, feature-based optimization and feature-based predictive maintenance. The proposed educational and outreach efforts focus on preparing students for careers in advanced manufacturing and providing research opportunities to minorities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805950</AwardID>
+<Investigator>
+<FirstName>Jin</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>wang@auburn.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>QINGHUA</FirstName>
+<LastName>HE</LastName>
+<EmailAddress>qhe@auburn.edu</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jesus</FirstName>
+<LastName>Flores-Cerrillo</LastName>
+<EmailAddress>Jesus_flores-cerrillo@praxair.com</EmailAddress>
+<StartDate>08/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Auburn University</Name>
+<CityName>Auburn University</CityName>
+<ZipCode>368490001</ZipCode>
+<PhoneNumber>3348444438</PhoneNumber>
+<StreetAddress>310 Samford Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Alabama</StateName>
+<StateCode>AL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1403</Code>
+<Text>Proc Sys, Reac Eng &amp; Mol Therm</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

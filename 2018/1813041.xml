@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Retrospective and Prospective Studies of the Effects of Gender Bias in Software Engineering</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>0</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Gender bias has been researched extensively in the social science community, but relatively little research has been done in software engineering specifically, despite such issues coming to prominence in the technology sphere. In 2017, the investigator published a study on gender differences and bias in open source on a large scale, looking at contribution success rates in open-source software projects. The results showed that the likelihood of a contribution being accepted was higher for women than for men, but the trend is reversed when the gender of the pull requester is visible. By increasing understanding of the biases that decrease exclusivity of women, the largest underrepresented group in software engineering, this project aims to broaden participation and have significant benefits to society.&lt;br/&gt;&lt;br/&gt;The project will conduct four families of foundational studies about gender bias in software engineering, leveraging a unique and extensive dataset. The first family of studies will re-examine existing studies using several new methods. The second family will triangulate prior results using other platforms and other outcome measures. The third family will investigate four aspects of bias uncovered in prior literature. The fourth family of studies will be experiments that isolate the effect of biases.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813041</AwardID>
+<Investigator>
+<FirstName>Emerson</FirstName>
+<LastName>Murphy-Hill</LastName>
+<EmailAddress>emerson@csc.ncsu.edu</EmailAddress>
+<StartDate>07/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

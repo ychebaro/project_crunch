@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Spatially resolve three-dimensional tactile sensing using functionally graded piezoresistive pillar arrays</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>287659</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Usha Varshney</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Despite much advancement in materials, computation power, actuators, sensors, and design, robots drastically lag in their ability to match humans in dexterous manipulation. Studies that show success in robotic manipulation suffer from complex sensing schemes and extensive post processing steps because they utilize tactile sensors that are not capable of human-like high spatial resolution or contact force magnitude and direction detection. Artificial skin-like flexible tactile sensors that can resemble the tactile sensing capabilities of their biological analogue are bound to revolutionize robotics, providing unprecedented control and dexterity, and support the recent advancements in artificial intelligence and humanoid robotics. This work addresses the pressing need for skin-like distributed tactile sensors and proposes a novel tactile sensor of flexible construction, which can resolve dynamic contact forces with fingertip-like high spatial resolution. The proposed work is transformative in its ability to equip robotic manipulators with tactile feedback comparable to that of humans, paving the way to human-like dexterity in robotics. This innovative technology has the potential to be a significant step toward the realization of corobots living and working with humans. This project complements the educational activities in biomimetic engineering and entrepreneurial awareness, giving undergraduate and graduate students the opportunity to be involved in cutting-edge research and gain skills in innovative thinking and entrepreneurship. Educational outreach activities to introduce and promote engineering to K-12 students and underrepresented groups will be an integral part of this project.   &lt;br/&gt;&lt;br/&gt;The goal of this work is to enable spatially resolve three-dimensional contact force imaging and provide skin-like touch sensing capabilities (namely, local three-dimensional dynamic force sensing) to robotic platforms and facilitate human-like dexterous manipulation in robotic manipulators. The PI will achieve this goal by fabricating a novel array-type tactile sensor comprising a fibrillar polymeric contact layer which amplifies contact forces at the integrated piezoresistive base sensing layer and a flexible substrate with integrated electrodes. Preliminary experiments have demonstrated composite piezoresistors with pressure sensitivity close to that of a human fingertip. The objectives of the proposed work are to  (i) design a composite microfibrillar sensor array, based on piezoresistive sensing, which would be flexible, cheap, and durable; (ii) develop repeatable and scalable fabrication techniques; (iii) study the underlying physics for composite fiber sensing using micro-and-mesoscale characterization techniques; and (iv) study and demonstrate friction characterization, slip detection, and slip prevention using custom characterization tools.  The long-term scientific goal is to understand and quantify the relationship between three dimensional spatio-temporal contact force images and manipulation to advance robotics as well as its medical and biological applications. If successful, this project, in addition to providing unprecedented control and dexterity in robots, will support the recent advancements in other important areas of robotics, for example in artificial intelligence and humanoid robotics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810402</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Gale</LastName>
+<EmailAddress>richard.gale@ttu.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Burak</FirstName>
+<LastName>Aksak</LastName>
+<EmailAddress>burak.aksak@ttu.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794091035</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>349 Administration Bldg</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

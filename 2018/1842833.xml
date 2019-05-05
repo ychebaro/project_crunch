@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  READ! Toolkit, A Knowledge-Based Expert System to Develop Beginning Literacy Curricula in Endangered or Underserved Languages</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project will develop and test a computer-based expert system that will guide development of beginning literacy curricula in any phonics-based language. The system will produce beginning literacy curricula mobile apps for phones and tablets and will include beginning reading, writing, vocabulary-building, and assessment activities. The expert system will (a) minimize cost, time and expertise required to develop early literacy curricula, (b) produce curricula that could increase early reading fluency and bilingualism, which is related to children's improved ability to manage their thoughts, behaviors and emotions, (c) provide effective curricula to learn languages other than English at home or school, (d) revitalize endangered or underserved languages while increasing connections to culture and heritage, which will improve long-term academic, health and economic outcomes for indigenous children or children who speak a language other than English at home, and increase their participation in STEM careers, and (e) contribute to research on bilingualism's impacts on academic, social, emotional, and cultural outcomes. The system will be licensed by underserved language communities, tribes, individuals, and organizations interested in improving literacy, with revenue produced by the mobile app products developed using the expert system shared between curriculum developers and the expert system developer.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project will develop and test a knowledge-based expert system that integrates early literacy research; language analysis to provide evidence-based recommendations for developing decodable text for phonics-based early literacy curricula; evidence-based teaching and formative assessment strategies; curriculum development knowledge; user interface/user experience best-practices; natural language processing for pronunciation feedback; and database and technology skills to guide users who may not have the knowledge and skills in developing a beginning literacy curricula in any language. The best practices and methods based on the research will be incorporated by analyzing text to create lists of sounds/letters and words, their frequencies, and sounds and words that come before and after each sound/word. From these lists, the system will generate language-specific recommendations based on the rules for optimal sequencing of sounds and words for learning to decode in another language. While some evidence-based guidelines needed for decoding in English, which is less phonetically regular than many underserved languages, may not apply in a language that is more phonetically regular, most are expected to. These rules will guide recommendations from which users of the knowledge-based expert system can select sequences sounds, words, and phrases to write decodable, connected text, culturally relevant stories for beginning literacy curricula.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842833</AwardID>
+<Investigator>
+<FirstName>Catherine</FirstName>
+<LastName>Callow-Heusser</LastName>
+<EmailAddress>ccallowheusser@bettermentlabs.com</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BETTERMENT LABS, L.L.C.</Name>
+<CityName>PARK CITY</CityName>
+<ZipCode>840986167</ZipCode>
+<PhoneNumber>4357572724</PhoneNumber>
+<StreetAddress>6575 SNOWVIEW DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+</Award>
+</rootTag>

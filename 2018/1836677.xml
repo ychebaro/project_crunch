@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: The Integrated Future of Additive Manufacturing, Design, Production and Qualification; Alexandria, Virginia; July 23-24, 2018</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brigid Mullany</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This workshop brings together leading experts in the field of 3D printing to discuss and identify the current challenges to be addressed and the revolutionary future opportunities enabled by this broad and rapidly expanding field. Interdisciplinary groups formed across material and processing disciplines, and composed of a vibrant mix of academic, government, and industry participants, will provide a creative yet realistic view of the transformative potential of additive manufacturing. The cross-disciplinary discussions will hone a broad range of opinions and visions towards a common agreement on the major issues and avenues towards innovative solutions. Further, if these solutions are successful, what new commercial opportunities, technical areas of study, and other societal benefits will result. The workshop will be held at NSF Headquarters, Alexandria, Virginia, July 23-24, 2018.&lt;br/&gt;&lt;br/&gt;The future of Additive Manufacturing (AM) relies on the seamless integration of design, production, and qualification of functional parts. These three high level topics will be addressed across five working groups: (1) functional materials and structures, (2) 3D printing processes, (3) embedded instrumentation and methods for in-situ monitoring and real-time process control, (4) process informed multi-objective design tools, and (5) logistics and mass customization. The frontiers of each subtopic, their challenges, and potential solutions to them will be discussed across working groups. The results of these discussions will help frame future areas of research and opportunities if these challenges are solved.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836677</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Hansen</LastName>
+<EmailAddress>Christopher_Hansen@uml.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Shepherd</LastName>
+<EmailAddress>rfs247@cornell.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>R250</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>082E</Code>
+<Text>MFG MACHINES &amp; METROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

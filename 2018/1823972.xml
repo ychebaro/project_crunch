@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: The role of listener experience in perception of conditioned dialect variation</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>15403</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William J. Badecker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Although humans often take for granted our ability to understand other people when they talk, anyone who has ever used a voice assistant like Siri or Alexa will be aware that understanding speech is in fact enormously difficult. One reason for this difficulty is that different speakers have different accents, so two speakers might pronounce the same word differently (e.g. 'car' in American versus British English), while pronouncing different words identically (e.g. 'gloss' in American English can sound identical to a Londoner's 'glass'). While humans are typically able to adapt to these accent differences, little is known about how this adaptation works. A further puzzle is how humans adapt to accents socially: listeners can improve not only in how well they understand a new accent, but also in how well they use the subtleties of that accent to pick up on a speaker's social characteristics. For example, many Americans cannot distinguish between accents from the north versus south of England, or between upper-class and working-class British accents, but upon moving to the UK can learn to make such distinctions. Again, little is understood about how this adaptation works. This project investigates how listeners adapt to accents over time--both in terms of how well they can understand an accent and in their social knowledge about that accent--and explores the relationship between these two types of adaptation.&lt;br/&gt;&lt;br/&gt;Long-term adaptation to accents is investigated by comparing how Americans in the US versus Americans living in the UK process southern British English. The project focuses on words like 'bath', 'grass', and 'pass' which are pronounced with "short-a" (the vowel in 'cat') in American English but with "long-ah" (the vowel in 'father') in southern British English. It investigates: (1) how well do Americans know which words have "long-ah" in southern British English? (2) how does this knowledge change as they gain more experience with British English? and (3) what does this tell us about their mental representations of British accents? Americans in the US and UK, along with a control group of British participants, will be recruited for several perception experiments. Crucial items will include words that are similar to long-ah words, but pronounced with "short-a" in British English. For example, 'grass' and 'gas' rhyme in American English, so if 'grass' is pronounced with long-ah in southern British English, one might expect 'gas' to also be pronounced with long-ah--but, in fact, southern British speakers pronounce 'gas' with short-a. Do Americans know that short-a is the correct British pronunciation, or do they incorrectly generalize from 'grass' to 'gas'?  If Americans hear 'gas' with long-ah, do they think it sounds refined and British--or do they know that it sounds like someone faking an accent? Comparing the answers to these questions for listeners with different amounts of exposure to British English will tell us what kinds of linguistic generalizations listeners make as they adapt, which will provide an important step in understanding how humans are so easily able to adapt to new accents, and may inform technological advances in language processing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823972</AwardID>
+<Investigator>
+<FirstName>Martha</FirstName>
+<LastName>Austen</LastName>
+<EmailAddress>supermartha@gmail.com</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kathryn</FirstName>
+<LastName>Campbell-Kibler</LastName>
+<EmailAddress>Campbell-Kibler.1@osu.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8374</Code>
+<Text>DDRI Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

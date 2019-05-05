@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Advanced Technological Education in the Intelligent Infrastructure for the Industrial Internet-of-Things</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>590577</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephanie August</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The speed of technological innovation in the 21st century requires companies to work across levels, functions, and locations, so they can use new technologies and solve problems quickly. Consequently, industries increasingly need teams of workers who can fill multiple roles and communicate clearly with others, while performing a variety of tasks. This collaborative, flexible work environment is supported by an Intelligent Industrial Internet-of-Things (I4T), a sophisticated network of machines, systems, and humans that work together to manufacture goods. This project will develop and deploy an online learning platform and curriculum to prepare skilled technicians to work effectively in I4T settings. Working in cross-functional teams assigned to hands-on projects, students will learn to use a shared vocabulary, and to work effectively and collaboratively in diverse teams. The training aims to establish a pipeline of manufacturing technicians who can use technologies for competitive advantages. &lt;br/&gt;&lt;br/&gt;This project aims to develop, pilot, refine, and deliver interdisciplinary team-based training on I4T systems for manufacturing. To achieve these goals, the project aims to develop learning modules to support training in Rapid Prototyping, Lean Production, Just-In-Time Inventory Management, and Predictive Maintenance/Reduced Downtime; these learning modules will also form an integral part of a Prototype Design degree. The faculty developing the learning modules will collaborate with Instructional Designers on curriculum design. Experts in advanced manufacturing and automated guided vehicles will provide subject matter expertise, to ensure that modules are relevant to industry needs.  The learning modules will feature hands-on, problem-based activity kits designed to train both high school and college students to work with I4T. Industry partners will provide both hardware, such as sensors and web-based dashboards, and the expertise required to develop real life scenarios across the four topic areas. The cost of individual kits will be kept low by using readily available materials. Teams of high school and college teachers will be invited to participate in Train-the-Trainer workshops, to learn how to deploy the learning modules at their schools. The trainers will subsequently offer a series of one-day workshops and three-day summer boot camps to middle school, high school, and college students. Faculty will be trained to incorporate the platform and modules across production-related programs. In addition, they will receive training in problem-based learning techniques and ways to engage women. The low cost and supportive training should facilitate adoption by other institutions. Resources and results will be disseminated broadly through venues such as Hi-Tech annual conferences, the National Convergence Technology Center, the ATE Central website, and professional research journals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801176</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Pensabene</LastName>
+<EmailAddress>tpensabene@mccneb.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Metropolitan Community College</Name>
+<CityName>Omaha</CityName>
+<ZipCode>681110000</ZipCode>
+<PhoneNumber>5316222798</PhoneNumber>
+<StreetAddress>5300 N. 30th St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7412</Code>
+<Text>ADVANCED TECH EDUCATION PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Development of a Miniaturized Multiwell Plate Reader</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>748389.00</AwardTotalIntnAmount>
+<AwardAmount>748389</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project will be an instrument that alleviates several current difficulties in the growth measurement of many microbes, especially anaerobic and other fastidious organisms. A large number of these species are naturally occurring in the human body, and have recently been shown to play critical roles in allergies, autoimmune diseases, dietary health, cancer, infection response, and more. The study of these species is considered by many to be the next frontier of modern medicine, especially as current approaches to managing infectious diseases, such as traditional antibiotics, appear to be losing effectiveness. However, current measurement technology is largely incompatible with the specialized environments and chambers in which anaerobic organisms must be grown. There is a large unmet need for better ways to measure anaerobic bacterial growth; this need is growing quickly as interest in the field increases. The ability to conduct high-throughput experiments in specialized environments will become critical as research into various human microbiomes accelerates, and demand for high-volume data grows. The existing market for high-throughput measurement devices is at least $300 million and growing.  This platform will allow for systematic studies of cell culture growth that can be accomplished easily and economically. &lt;br/&gt;&lt;br/&gt;This SBIR Phase II project proposes to develop and refine a miniaturized multi-well plate reader that measures optical characteristics of up to 96 cell samples for measuring growth of many microbial samples simultaneously. The continuing rise of systems and computational biology demonstrates a growing demand for large amounts of quantitative data, and the variety of microbes relevant to the human body necessitates such an approach. However, these measurement techniques are not universally accessible due to current instruments' complexity, size, and cost. This project will continue development of a miniature, simplified version of a device called a multi-well plate reader, expanding the availability of parallel growth measurement (and other metrics) to a wider array of researchers and environments. The first goal is to simplify the instrument's electronics, add an on-board display for clarity, and allow battery-powered operation. The next goal is to accelerate equilibration to any surrounding environment to allow proper functioning even in extreme conditions, by measuring a wide array of environmental variables at different points in space and time. The third goal is to solidify the device's mechanical aspects for reliability and stability in a shaker. Finally, this project will support the development of a fully-functional wireless interface for control and data management, allowing effective remote use in any environment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831082</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Seitter</LastName>
+<EmailAddress>kevin@cerillo.net</EmailAddress>
+<StartDate>09/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cerillo, LLC</Name>
+<CityName>Charlottesville</CityName>
+<ZipCode>229033726</ZipCode>
+<PhoneNumber>4342183151</PhoneNumber>
+<StreetAddress>224A Shamrock Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

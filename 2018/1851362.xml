@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: I-Corps: Smart Water Systems</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vipin Chaudhary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Flooding is the leading cause of natural disaster fatalities and property damage across the United States. Mitigating water risks poses a serious challenge to water managers, companies, and home owners. This includes risk related to disaster response, stormwater infrastructure construction, and the management of water quality. Successful execution of this I-Corps project will result in new tools to address the challenges faced by the United States in the face of water disasters. This project will result in 'smart' water tools that address the management of water risk by investigating new methods based on data, analytics and sensing. This will reduce the risk associated with making decision in regard to flood forecasting, planning, and infrastructure construction. The project will also result in new jobs and workforce training as part of an emerging 'smart' water sector.&lt;br/&gt;&lt;br/&gt;This I-Corps project will investigate the economic value of water information. The project will engage with decision makers, including water managers, energy producers, and agricultural managers. A series of interviews will be conducted to improve the understanding of water challenges and risks faced by these parties. A focus will be placed on the role of information technologies, such as sensors, autonomous systems, and artificial intelligence tools. By quantifying water risk and improving the understanding of uncertainty, the project will provide new insights into the barriers that stand in the way of technology adoption in the water sector. The outcome of the project will transform the fundamental understanding of the role of 'smart' technologies in managing water resources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>10/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>10/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1851362</AwardID>
+<Investigator>
+<FirstName>Branko</FirstName>
+<LastName>Kerkez</LastName>
+<EmailAddress>bkerkez@umich.edu</EmailAddress>
+<StartDate>10/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

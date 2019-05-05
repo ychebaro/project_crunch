@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: Student Travel Support: Privacy Enhancing Technologies Symposium (PETS) 2018</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>18000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award funds student travel fellowships for U.S. students attending PETS 2018, the Privacy Enhancing Technologies Symposium.  PETS addresses the design and realization of privacy services for the Internet and other data systems and communication networks by bringing together anonymity and privacy experts from around the world to discuss recent advances in, and new perspectives on, online privacy.  PETS topics range from privacy-oriented cryptography and formal definitions of privacy to addressing human behavior and incentives around privacy, and researchers come from a variety of disciplinary backgrounds.  &lt;br/&gt;&lt;br/&gt;Participation in conferences such as PETS is an extremely important part of the student experience for both undergraduate and graduate researchers, providing the opportunity to interact with peers and more senior researchers while hearing about leading edge work in privacy.  The support requested in this proposal will enable the participation of U.S. students who would otherwise be unable to attend PETS 2018, with a focus on supporting students from groups historically underrepresented in computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834882</AwardID>
+<Investigator>
+<FirstName>Nicholas</FirstName>
+<LastName>Hopper</LastName>
+<EmailAddress>hopper@cs.umn.edu</EmailAddress>
+<StartDate>05/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2018 EFRI ACQUIRE Grantees Meeting</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>36000.00</AwardTotalIntnAmount>
+<AwardAmount>36000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EFMA</Abbreviation>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique Dagenais</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal requests funds for the "2018 EFRI ACQUIRE Grantees Meeting", the second annual meeting for the NSF-funded Advancing Communication and Quantum Information Research in Engineering (ACQUIRE) program. It will be held, this year, on September 20, 21 in Washington, DC. The goal of this grantees meeting is to review current grantees research progress, hear about latest international research progress in this area, discuss future research opportunities and challenges and provide feedback to ACQUIRE researchers. The support requested in this grant will be distributed to students to partially defray travel costs, and to help cover a portion of other key logistical and organizational costs. This meeting provides an opportunity for grantees students to make poster presentations to, and get feedback from reviewers, ACQUIRE PI's and keynote invited speakers. The workshop will provide inter-disciplinary interactions between engineering and physics disciplines for enabling student participation and learning opportunities. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The intellectual merit of this grantees meeting is to review current grantees research progress, discuss future research in the ACQUIRE program, and provide feedback. Engineering and physics researchers are confronting major challenges in a four-year quest to engineer micro-scale quantum communication system components for large-scale networks. The challenging goal is to create a compact and practical quantum communication technology operating near room temperature with low energy in a fiber optic network with entangled photons. A diverse range of topics and techniques are being investigated, including sources, detectors, up-converters, quantum memories, synchronizers, error correctors, etc. with various material platforms. This annual grantees meeting offers an opportunity for recommendations for the ACQUIRE program and future growth of the related and broader topics of quantum optical communications research, and secure optical communications with key researchers and decision makers from academia, industry, government laboratories and funding agencies. &lt;br/&gt;In terms of educational aspects, this meeting provides an opportunity for grantees students to make poster presentations to, and get feedback from reviewers, ACQUIRE PI's and invited speakers. Students will benefit and learn from attending discussions involving different perspectives ranging from university experts and industry scientists, and be exposed to diverse aspects of quantum optical communications which bridge traditional physics and engineering disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838911</AwardID>
+<Investigator>
+<FirstName>Dirk</FirstName>
+<LastName>Englund</LastName>
+<EmailAddress>englund@mit.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Duncan</LastName>
+<EmailAddress>mduncan@osa.org</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Optical Society of America</Name>
+<CityName>Washington</CityName>
+<ZipCode>200361012</ZipCode>
+<PhoneNumber>2024166102</PhoneNumber>
+<StreetAddress>2010 Massachusetts Avenue NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Determining the Relative Location of Malicious Nodes within Vehicle-to-Vehicle Wireless Networks for Driver Safety</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will enable global aspects of: 5th Generation cellular, manufacturing's industry 4.0 automation and data exchange, connected and autonomous vehicles, and smart cities 3.0 initiatives, focusing on improving the positioning capability of wireless transceivers. The connected vehicle market alone is expected to be valued over $22 billion by 2022 as the demand for accurate positioning data grows with the deployments of autonomous vehicles. A key economic driver for these initiatives is to generate new use-cases in delivering accurate real-time positioning for end-user applications. In the global market of positioning data, accurate estimation of user equipment location will be crucial for new communication systems. By enabling next generation wireless systems to determine their positions locally with respect to each other, any reliance on Global Positioning System (GPS) accuracy and availability may be decoupled from their operational requirements. This will not only provide real-time safety applications for end-users, but also allow new mobile broadband services in areas where GPS is degraded, such as in dense urban cities. &lt;br/&gt; &lt;br/&gt;This I-Corps project seeks to determine the feasibility of a new smart antenna for next generation wireless systems. The smart antenna leverages low-cost antenna manufacturing and consolidated electrical circuits, to communicate a special protocol to next generation wide-band radios. This protocol, which has already been developed and proof-of-concept-ed, is the key enabler to making this new smart antenna provide direction-of-arrival-estimation per frame of wide-band communication networks. This project's product is comprised of a single smart-antenna accompanied with support software that provides a single-channel radio with localization capabilities. Currently, accurate real-time localization is only capable using multiple-antennas and cumbersome signal processing algorithms which may not be portable into existing hardware. With the new smart antenna, a radio can maintain above 90% packet delivery rates, while performing angular estimation of the received frame. Through a customer discovery process with key stakeholders in the communications field, this new smart antenna may prove to provide true direction-of-arrival-estimation on radio platforms which currently are not able to provide such functionality. A go/no-go market decision is expected at the completion of the I-Corps program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830750</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Durgin</LastName>
+<EmailAddress>durgin@gatech.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

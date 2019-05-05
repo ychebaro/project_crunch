@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Accelerating Women's Success and Mastery in CS (AWSM in CS)</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>1180281</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice E. Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The University of Texas Austin proposes a project -- AWSM in CS (Accelerating Women's Success and Mastery in Computer Science, pronounced "Awesome in CS") -- that develops a Networked Improvement Community (NIC) to improve the recruitment, retention and success of females in high school computer science (CS) courses.  There is a growing consensus on the importance of K-12 CS education as the CSforAll movement gains traction across the country, and this has resulted in increased access for many students. In Texas, overall student enrollment in K-12 CS has increased substantially over the past five years (124% increase), as has the participation for students of color (154% increase) and for low-income students (156% increase). Similar gains, however, have not been seen for female enrollment (104% increase). AWSM in CS aims to change that. &lt;br/&gt; &lt;br/&gt;AWSM in CS researchers and practitioners will engage in a root cause analysis to examine the primary drivers for the underrepresentation of women through the context of recruitment, instruction, and school/community culture/policy. It will then implement and test a holistic, research-based approach to tackling female underrepresentation with three years of PDSA (Plan-Do-Study-Act) cycles to iterate on interventions to build their effectiveness. NIC practitioners will be supported through virtual and in-person professional development and network building experiences. Outcomes including female enrollment and completion of CS courses, Advanced Placement (AP) test taking and performance, and subsequent CS course enrollment will be measured. The role of the NIC in addressing teacher and student needs will be researched qualitatively.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837602</AwardID>
+<Investigator>
+<FirstName>Carol</FirstName>
+<LastName>Fletcher</LastName>
+<EmailAddress>carol.fletcher@austin.utexas.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Childs</LastName>
+<EmailAddress>joshuachilds@austin.utexas.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

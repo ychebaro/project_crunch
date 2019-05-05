@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Rational Framework for Particle-containing Coacervates</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>357694</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Olbricht</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Coacervates are complexes of oppositely charged polymers that have separated into two liquid phases from a salt solution due to electrostatic forces.  They are used in coatings, adhesives, pharmaceuticals, and personal care products.  This research will create novel coacervates in which one of the charged components is a solid nanoparticle.  The work will create new coacervates by building on existing knowledge, explore how particle size and rigidity affect the formation of the two liquid phases, and examine the role that the arrangement of charges on the particle surface plays.  Experiments to map the phase diagrams for these new materials will be complemented by analysis, experiments to identify the adsorption of polymers on the particle surfaces and the polymer configurations, and experiments to measure the bulk mechanical behavior.  Ultimately, the researchers plan to identify design rules for the formulation of coacervates using a broad class of particles.  Research opportunities for women and other students who are under-represented in STEM fields will be provided as part of this work.&lt;br/&gt;&lt;br/&gt;This award is focused on a systematic study of polymer-particle coacervates.  Three specific aims for the work are:  1) create polymer-particle coacervates employing particles with polymers attached (brushy particles) to build upon the current understanding of polymer-polymer coacervate systems, 2) examine how particle rigidity and size impact coacervate formation and properties, and 3) examine the role of charge clustering on coacervate formation by focusing on electrostatically patchy particles.  The three aims decouple the hypothesized mechanisms by which particle properties affect coacervate formation, thus providing design rules for the formulation of coacervates using broad classes of particles. By comparing coacervate formation with brushy particles to the analogous system of linear polycation and polyanion chains, Aim 1 preserves the molecular interactions of a classical coacervate and introduces solid particles as space filling entities whose length scales may be important through their range of interactions. Aims 2 and 3 sequentially probe the impact of molecular scale constraints introduced by particle rigidity, potential mismatch in registration of positive and negative charge, and charge clustering.  The program exploits the synergy between the principle investigators: Perry (coacervate expert) and Santore (expert on polyelectrolyte adsorption and colloidal phase behavior). The experiments at UMass will be supported by computations by collaborator Sing at UIUC whose calculations address both the polymer-solid interactions and the phase behavior.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1804177</AwardID>
+<Investigator>
+<FirstName>Maria</FirstName>
+<LastName>Santore</LastName>
+<EmailAddress>santore@mail.pse.umass.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Perry</LastName>
+<EmailAddress>perrys@engin.umass.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1415</Code>
+<Text>PARTICULATE &amp;MULTIPHASE PROCES</Text>
+</ProgramElement>
+</Award>
+</rootTag>

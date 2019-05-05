@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Gordon Research Conference and Seminar on Conductivity and Magnetism in Molecular Materials: from Emergent Phenomena to Molecule-Based Devices</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>5000.00</AwardTotalIntnAmount>
+<AwardAmount>5000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Germano Iannacchione</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Gordon Research Conference (GRC), preceded by a Gordon Research Seminar (GRS), aims to provide a forum for innovative progress in science and technology of molecular materials by enabling new cutting-edge technologies through fundamental research. Electrons, the main players in functional materials, have two degrees of freedom, spin and charge, which are responsible for magnetism and conductivity, respectively. Making these degrees of freedom integrated, emergent, and synergetic is a key to innovation in molecule-based materials and devices. The following topics will be covered: molecular spintronics and molecule-based devices; strongly correlated systems and emergent phenomena; molecular qubits and quantum technologies; topological states, chiral magnets; superconductivity under extreme conditions; light-induced processes; novel materials, functionalities, and ideas.  The GRC/GRS Co-Chairs are actively involved in the topical areas of research and are well qualified to conduct this project. GRC Co-Chairs, Prof. Kanoda and Prof. Shatruk have experience in organizing other high-impact conferences and participated in both previous GRCs of this series. The GRS Co-Chairs,&lt;br/&gt;Andrej Pustogow and Lakshmi Bhaskaran, participated in the previous GRS and GRC that took place in 2016.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824802</AwardID>
+<Investigator>
+<FirstName>Mykhailo</FirstName>
+<LastName>Shatruk</LastName>
+<EmailAddress>shatruk@chem.fsu.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>West Kingston</CityName>
+<ZipCode>028921502</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>512 Liberty Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

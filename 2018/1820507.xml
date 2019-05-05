@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: High Performance Low Power Dense Server for Cloud</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to accelerate the most common computations in processing Big Data and performing real-time analyses on data streaming-in to enterprise data centers. For the same total cost, the technology advanced by the proposed project is expected to increase performance by a factor of 12. As part of this improvement, it is expected to reduce the energy per instruction by a factor of 25 times or greater. This frees businesses to apply more advanced analytics techniques and react more quickly to changing business conditions.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project addresses the ever-growing need to process more data, but on a fixed budget. The objective is to provide accelerator technology for an increasingly critical set of applications that are currently underserved by generic CPU technology. The project aims eventually to deliver a PCIe accelerator card populated by silicon chips based on a new type of accelerator micro-architecture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820507</AwardID>
+<Investigator>
+<FirstName>Sean</FirstName>
+<LastName>Halle</LastName>
+<EmailAddress>seanhalle@intensivate.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Intensivate Incorporated</Name>
+<CityName>Fremont</CityName>
+<ZipCode>945393680</ZipCode>
+<PhoneNumber>8314408718</PhoneNumber>
+<StreetAddress>40087 Mission Blvd., Suite #274</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

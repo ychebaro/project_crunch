@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Real-Time Pose and Grasping Affordance Estimation for Vine Crops</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>220982</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project affects one of the most critical problems facing the United States agricultural industry, a shortage of available labor.   This shortage has had a particularly pronounced effect on the fruit and vegetable industry, where even a brief loss of labor can result in a total loss of harvestable products.  More recently, U.S. produce suppliers have been forced to rely heavily on imported produce sourced from greater distances and of lower quality.  Advancements in agricultural technology have already dramatically improved the efficiency of produce farms in terms of land utilization and water consumption by enabling produce to be grown indoors using highly sophisticated commercial greenhouses, automated nutrient delivery, and light control.  However, to date, these commercial greenhouses still lack a comprehensive solution for automating routine harvesting, pruning, and crop care labor tasks.  Thus, newly developed agricultural technologies which can automate these tasks have the potential for substantial commercial impact by making domestic farming operations more profitable and efficient.  Commercial adoption of automated harvesting technology will also benefit consumers by enabling higher quality produce grown closer to market and position the U.S. agricultural sector as a new area of growth for highly skilled technical jobs.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will focus on the development of new deep learning techniques used to identify harvestable fruits (initially tomatoes) using computer vision cameras and to accurately estimate their orientation and connectivity (bunches of fruits that are connected by the same stem or vine).  Successful development of a method capable of running in real-time would resolve substantial technical risks which inhibit the ability to commercialize robotic automated harvesting solutions.  Such advancements would also contribute newfound insights to the broader computer vision and robotic manipulation communities into the unique challenges that sparse and deformable ?vine? like structures present to traditional methods of object pose estimation and grasping.  In the later portion of this Phase I project, Root AI will incorporate these new methods of sensing tomato fruit orientation into an improved motion and task planning system which uses the additional information to intelligently plan a complex movement path to harvest individual fruits in congested and heavily occluded natural growing environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843379</AwardID>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Lessing</LastName>
+<EmailAddress>jlessing@root-ai.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ROOT AI, INC.</Name>
+<CityName>SOMERVILLE</CityName>
+<ZipCode>021433260</ZipCode>
+<PhoneNumber>9178553989</PhoneNumber>
+<StreetAddress>444 SOMERVILLE AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6840</Code>
+<Text>ROBOTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Support for 2018 International Union of Crystallography High Pressure Workshop: Honolulu, HI, July 29 - August 2, 2018</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Reichlin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides financial support for participation of 10 early career (graduate student, postdoc or tenure-track faculty) at the 2018 Workshop of the International Union of Crystallography (IUCr) Commission on High Pressure, which will be held in Honolulu Hawaii, from July 29, until August 2, 2018 at the Ala Moana Hotel. 3.5 days of regular conference program will be preceded with a one full-day student/postdoc training event on analysis of single crystal X-ray diffraction data at high pressure.&lt;br/&gt;&lt;br/&gt;Extreme-conditions science is a vibrant, multidisciplinary field that characterizes unique states of matter, simulates processes that take place in inaccessible environments such as planetary interiors, and synthesizes new materials with properties that have compelling technological applications. Understanding of the effect of pressure on minerals and earth forming materials is central to geophysics, mineral physics and planetary science. The interiors of all planetary bodies are built of minerals that exist under high pressure and temperature conditions. Meteorite ejection and impact phenomena involve generation of dynamic shock pressure. Understanding how pressure affects the structure, properties and behavior of minerals enables understanding of global phenomena such as earthquakes, volcanism, plate tectonics, etc. Proper education of the new generation of earth scientists who will study and model properties and processes of planetary interiors is an issue of great importance for the future of geosciences, and represents a significant challenge. The workshop will emphasize training of young scientists in basic principles of single crystal sample preparation, data collecting and analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834441</AwardID>
+<Investigator>
+<FirstName>Dongzhou</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>dzhang@hawaii.edu</EmailAddress>
+<StartDate>05/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Przemyslaw</FirstName>
+<LastName>Dera</LastName>
+<EmailAddress>pdera@hawaii.edu</EmailAddress>
+<StartDate>05/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222234</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1585</Code>
+<Text>STUDIES OF THE EARTHS DEEP INT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1031</Code>
+<Text>STUDIES OF THE EARTH'S DEEP INTERIOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

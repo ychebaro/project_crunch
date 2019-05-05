@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Hardware-Level Security to Side-Channel Analysis Attacks</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computers are inherently vulnerable to so-called side-channel security attacks that correlate their operating characteristics (e.g., power consumption) with secret information stored in them (e.g., cryptographic keys).  Previous approaches aimed at addressing this vulnerability are hampered by prohibitively-high power, area, and performance overheads. This research project explores technologies for designing secure computers, using technologies that have the potential to yield computing devices that are significantly more secure than conventional computing hardware with little-or-no sacrifice in performance, area, and energy efficiency.  This research effort also includes the development of projects for advanced undergraduate-level design courses, and the engagement of high-school students through a variety of outreach programs.&lt;br/&gt;&lt;br/&gt;This project will explore novel hardware design technologies that are inherently resistant to side-channel attacks while achieving performance, area, and power levels that compare favorably with mainstream design technologies.  Specifically, it will explore circuit topologies that recycle the energy used for their operation, yielding superior energy efficiency and a flat power consumption profile that is immune to side-channel attacks.  It will also explore pipeline architectures with area-efficient logic families and a flat power consumption profile that can resist side-channel attacks.  The proposed technologies will be evaluated through the design, fabrication, and experimental evaluation of silicon prototypes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816069</AwardID>
+<Investigator>
+<FirstName>Marios</FirstName>
+<LastName>Papaefthymiou</LastName>
+<EmailAddress>marios@uci.edu</EmailAddress>
+<StartDate>06/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

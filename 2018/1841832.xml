@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Graduate Student Travel Support Request for the IFAC Conference on Cyber-Physical &amp; Human Systems 2018</AwardTitle>
+<AwardEffectiveDate>12/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2019</AwardExpirationDate>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Corman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal is for support of student travel for the 2nd International Federation of Automatic Control (IFAC) Conference on Cyber-Physical and Human Systems being held in Miami, Florida.   The conference is sponsored by the Institute of Electrical and Electronic Engineers.  The focus on integration of Human and Cyber-Physical Systems is an area of great importance and direct applicability to NSF's Cyber-Physical Systems and Smart and Connected Communities Programs.   The award will provide travel support for approximately 10 graduate students to attend, present papers, and participate in conference activities.&lt;br/&gt;  &lt;br/&gt;This conference will provide the students with the opportunity to attend presentations of cutting-edge research results representing the state-of-the-art in cyber physical systems and their integration with humans.   The attendees are offered a diversity of interactive forums, technical sessions, targeted workshops, interesting poster sessions, and exciting demonstrations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841832</AwardID>
+<Investigator>
+<FirstName>Tansel</FirstName>
+<LastName>Yucelen</LastName>
+<EmailAddress>yucelen@usf.edu</EmailAddress>
+<StartDate>11/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Florida</Name>
+<CityName>Tampa</CityName>
+<ZipCode>336172008</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress>4019 E. Fowler Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

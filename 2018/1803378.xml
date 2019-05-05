@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Physics-based Scale Enrichment for Eddy-Resolving Turbulence Simulations</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>336636</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ronald Joslin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computational models are widely used in design and analysis to support new technologies in aerospace, energy and transportation sectors. Many of these applications require accurate prediction of turbulent fluid flows often with complex geometries. For example, improved aerodynamic designs for aerospace vehicles require prediction and management of the drag force of turbulent flow on the vehicle surfaces. Eddy-resolving turbulence simulations, which are an important tool for fundamental scientific research, are only beginning to be used in engineering applications largely due to their very high cost. This project will develop a physics-based modeling approach to significantly improve turbulence simulations in a cost-effective manner. The new method should provide significant potential for cost-effective predictions of unsteady loads, fatigue, surface vibrations, and acoustic radiation.&lt;br/&gt;&lt;br/&gt;The proposed approach is based on combining eddy-resolving turbulence simulation, such as large-eddy simulation, albeit of limited bandwidth, with an efficient, physics-based scale-enrichment scheme applied at each of the computational cells. The enrichment scheme generates a physically consistent realization of the finer-scale eddies locally which dynamically respond to the resolved larger scales and enable statistical predictions of physical quantities with a substantially larger bandwidth, thus enabling predictions of quantities not accessible previously. A novel computational modeling strategy is proposed with potential applications to diverse fields such as wind energy, and aerospace design/optimization involving structural vibration and fatigue. Beyond these, the proposed approach may have applications in broader fields such as dynamic meteorology and ocean and atmospheric sciences. The tools and software being developed will be open source and is expected to initiate collaborations and use across diverse groups from the computational science community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803378</AwardID>
+<Investigator>
+<FirstName>Sanjiva</FirstName>
+<LastName>Lele</LastName>
+<EmailAddress>lele@stanford.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FLUID DYNAMICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

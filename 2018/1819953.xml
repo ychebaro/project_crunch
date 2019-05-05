@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dynamics of the Mokauea Fishpond</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>116381.00</AwardTotalIntnAmount>
+<AwardAmount>116381</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Regina Sievert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Records of abundant fish production indicate Native Hawaiians' wealth of knowledge about sustainable and effective fishpond management practice. The Mokauea fishpond is located on Mokauea island of the Kalihi ahupua'a just off the southern coastline of O'ahu. In the early 1900's, this region was the site of over forty fishponds, producing nearly one ton of fish per year. Currently, the Mokauea fishpond is not functional, even though the basic water quality parameters are within acceptable ranges for fish production. This investigation aims to understand the workings of the Mokauea fishpond and other Hawaiian fishponds. The research will utilize tools from statistics and applied mathematics, and, just as importantly, will integrate the ancient knowledge from Native Hawaiian cultural and fishpond practitioners. The results of the study will provide insights into traditional Native Hawaiian sustainable aquaculture practices, viewed from the lenses of Western scientific and mathematical language. Further, findings will contribute information valuable to addressing the increasingly important issue of sustainable food production. &lt;br/&gt;&lt;br/&gt;To achieve the goals of this investigation, data relating to the physical attributes of the Mokauea pond will be collected over a year-long monitoring study. These data will be analyzed using mathematical modeling software to develop models of the dynamic relationships between water temperature and circulation patterns at play in the fishpond. The model for the temperature profile will be drawn based on the energy balance principle, while the water circulation model will be based on the shallow water circulation model (Saint Venant equations). Data from the sustained observation along with conversations with Native Hawaiian aquaculture practitioners will inform the mathematical modeling process. Finally, the investigation aims to develop, organize, and maintain an online hub for the data collected in the study as well as other available data and studies on the Mokauea fishpond and surrounding areas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819953</AwardID>
+<Investigator>
+<FirstName>Esther</FirstName>
+<LastName>Widiasih</LastName>
+<EmailAddress>widiasih@hawaii.edu</EmailAddress>
+<StartDate>06/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222234</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1744</Code>
+<Text>TRIBAL COLLEGE &amp; UNIVERS PROGR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

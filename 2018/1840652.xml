@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Adaptive and Resilient  Coastal Infrastructure (CARCI)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deborah J. Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.&lt;br/&gt;&lt;br/&gt;The purpose of this project is to plan the Engineering Research Center for Adaptive and Resilient Coastal Infrastructure (CARCI).  Our vision is to create a new research center to enhance the safety, equity and quality of life for people living in coastal regions, to promote economic prosperity and global competitiveness given the importance of industrial activity in coastal locales, and to improve the harmony among the built-natural-social systems in coastal regions. Envisioning the future of our coastal communities is challenging: on the one hand promising new technologies could reshape our societies ? the so-called fourth Industrial Revolution, and on the other hand as our infrastructure becomes more complex and interdependent, we are vulnerable to chronic and acute hazards.  For example, the cumulative cost of weather-related disasters in the U.S. in 2017 was $309.5 billion, impacting many coastal communities in the wake of Hurricanes Harvey, Irma, and Maria. Sea level rise and changing storm patterns will exacerbate these impacts on coastal communities. All the while, coastal cities need smart reinvestment strategies for decades-old civil infrastructure to accommodate growing populations and new technologies.  Balancing the social, economic, and ecological costs and benefits strategies for both adaptation (medium-to-long term) and resilience (short-to-medium term) is crucial for increasing community prosperity and well-being from diverse perspectives. Regardless of alternatives, coastal solutions require a convergence of many disciplines: engineering, economics, urban planning, public policy and health, social science, risk management, decision-making, coastal ecology and marine sciences. &lt;br/&gt;&lt;br/&gt;For this planning grant, we will hold three team building meetings to evolve a team of qualified researchers to create a research center with key ideas such as stakeholder knowledge-to-action-networks to enable the co-production of knowledge; performance-based coastal engineering and a new adaptive coastal engineering design paradigm; envisioning coastal risk, resilience and adaptation; natural, nature-based and bio-inspired infrastructure; and systems-level and data-driven decision-making. We have outlined an iterative and adaptive team formation process for CARCI, and throughout this process we will seek competing research pathways to achieve team-wide adaptive and resilient coastal system visions and retain the most transformative and participatory plan as the basis for CARCI.  In addition to the team meeting, two workshops will be convened to understand stakeholder needs and opportunities, including education and workforce development. Two workshop reports will be generated and will be distributed as described in the Data Management Plan.  The planning process will allow the team to identify innovative strategies to solve some of the most pressing problems facing our coastal communities:  how to balance adaptive strategies in the medium-to-long term with societal needs for resilience in the short-to-medium term. The team will identify new opportunities in the areas of distributed and hierarchical modeling, data-driven technology, optimization and decision-making, and natural and bio-inspired solutions. Through two stakeholder workshops, we will bring together a diverse coastal community stakeholder of researchers, practitioners, decision-makers and others to identify key needs, gaps and opportunities for coastal infrastructure adaptation and resilience, and will be distributed openly to contribute to shaping future research and education.  Our team science and leadership science webinar series will have broader impacts on researchers and administrators in furthering convergent research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840652</AwardID>
+<Investigator>
+<FirstName>Ricardo</FirstName>
+<LastName>Lopez</LastName>
+<EmailAddress>ri.lopez@upr.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Cox</LastName>
+<EmailAddress>dan.cox@oregonstate.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Brody</LastName>
+<EmailAddress>sbrody@tamu.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jamie</FirstName>
+<LastName>Padgett</LastName>
+<EmailAddress>jamie.padgett@rice.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Ruggiero</LastName>
+<EmailAddress>ruggierp@geo.oregonstate.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>128E</Code>
+<Text>CENTERS: ENVIRONMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

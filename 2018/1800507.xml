@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Design rules for synthesis of stable single-site catalysts from experiment and first principles theory</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>473205</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Moloy</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With funding from the Chemical Catalysis Program of the NSF Division of Chemistry, Drs. Rioux and Janik of Penn State University are developing fundamental principles to provide new, more effective catalysts. Most catalysts used today consist of aggregates of metal atoms on a support material. The metals are often rare and expensive, and the metal atoms inside the aggregates are not active in catalysis. Much more efficient use of these expensive metals is possible if they are used as single atoms, and not aggregates, on the support. Thus, there is significant motivation for preparing single atom metal catalysts.  The Penn State team is using a combination of experimental and computational methods to determine and understand the conditions under which single atom catalysts can be successfully prepared. Undergraduates from groups underrepresented in science and engineering are being included in these research efforts. In addition, student researchers are developing teaching modules that demonstrate how energy production impacts our environment for inclusion in outreach activities directed at students and the general public.&lt;br/&gt;&lt;br/&gt;Single-atom catalysts represent an exciting new class of catalysts that have demonstrated high activity for chemical reactions relevant in energy production.  The research groups of Dr. Robert Rioux and Dr. Michael Janik are developing computationally derived and experimentally validated design rules for the stabilization of single-atom motifs on reducible oxides.  The synthesis approach is based on the strong electrostatic adsorption of precious group metal precursors that will define the upper boundary for metal loading on oxide supports.  The combination of computational and experimental techniques is allowing the determination of descriptors that guide the choice of precursors, support, and pH for the synthesis of stable precious metal single atom catalysts.  Isothermal titration calorimetry measurements of adsorption at the solid-liquid interface and density functional theory calculations are being used to evaluate and predict conditions leading to formation of stable single atom catalysts.  The Pd on ceria system is being used as an initial testbed due to its promise as a low-temperature methane oxidation catalyst.  The research project includes undergraduate involvement in research through the Minority Undergraduate Research Experience and Women in Science and Engineering Research programs, and is generating teaching modules that demonstrate the impact of energy production on our environment for use in outreach activities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800507</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Janik</LastName>
+<EmailAddress>mjanik@engr.psu.edu</EmailAddress>
+<StartDate>05/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Rioux</LastName>
+<EmailAddress>rioux@engr.psu.edu</EmailAddress>
+<StartDate>05/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8398</Code>
+<Text>Hydrocarbon Conversion</Text>
+</ProgramReference>
+</Award>
+</rootTag>

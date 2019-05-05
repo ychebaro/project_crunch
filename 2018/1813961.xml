@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Of Mice and Monsters -- Investigating the Growth of Black Holes in Dwarf Galaxies</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>356955.00</AwardTotalIntnAmount>
+<AwardAmount>356955</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Benacquista</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nearly every large galaxy seems to host a supermassive black hole. The mass of the black hole is related to several properties of the host galaxy. However, for lower mass galaxies, these relationships are not as strong as they are for the more massive galaxies. This project will simulate the growth of both low mass galaxies and their black holes simultaneously over the age of the universe to better understand the physical reasons for the relationship between the massive black hole and the properties of the low mass galaxy that hosts it. This project will also involve undergraduate students at a community college.&lt;br/&gt;&lt;br/&gt;The proposed project intends to model the growth of supermassive black holes (SMBH) in dwarf galaxies in a systematic way to identify the physical origins of the SMBH/galaxy correlations. The project will use their code CHANGA that was used in the ROMULUS25 cosmological simulations. The team will extract individual dwarf galaxies of interest from this simulation and do "zoom-in" simulations of the galaxy evolution. They will use a technique call "genetic modification" that will allow for systematic small variations in the initial conditions of the targeted galaxy without dramatically changing the local cosmological environment. When completed the project will identify the key physical processes that lead to the SMBH/galaxy correlations for dwarf galaxies. The project will also support and mentor first-generation undergraduates in research at both institutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813961</AwardID>
+<Investigator>
+<FirstName>Alyson</FirstName>
+<LastName>Brooks</LastName>
+<EmailAddress>abrooks@physics.rutgers.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>Piscataway</CityName>
+<ZipCode>088543925</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>33 Knightsbridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

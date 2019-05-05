@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: WRF: GOALI: Securing the Future of Direct and Indirect Potable Reuse: N-nitrosodimethylamine (NDMA) Formation Pathways and Precursors</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>260020</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The use of disinfectants during water treatment has effectively eradicated waterborne illness, but these disinfectants form low concentrations of carcinogenic chemical by-products. These by-products tend to form at higher levels in disinfected wastewater, a complication that is usually alleviated by time in rivers, lakes, and aquifers that allows for the degradation of these carcinogenic chemicals.  However, this time for degradation is reduced in potable water reuse scenarios, putting the future of potable water reuse technologies at risk. This project will investigate the mechanisms of and potential solutions to the formation of a carcinogenic chemical, N-nitrosodimethylamine (NDMA), during advanced treatment of wastewater targeted for potable reuse. The project will also enhance educational opportunities for students at the college and middle school level, and provide new educational and research infrastructure in a partnership between two industrial partners and a university. If successful, this research can further enable the use of potable water reuse, a valuable technology that could support our nation's water security.&lt;br/&gt; &lt;br/&gt;N-nitrosodimethylamine (NDMA) is a carcinogenic compound that forms during chloramine disinfection. NDMA precursors that enter drinking water treatment plants are thought to originate in wastewater. Based on ongoing NDMA precursor research, some technologies used in potable reuse systems have been identified as technologies that reduce NDMA occurrence and formation: reverse osmosis (RO), which physically removes precursors, and strong ultraviolet (UV) light, which photolyzes NDMA to nitrite and dimethylamine. While these systems effectively reduce NDMA formation by &gt;90%, NDMA formation still occurs at physiologically relevant concentrations (&gt;5 ng/L) in the disinfected water. The sources of these precursors are unknown, but preliminary research indicated that the treatment processes themselves may release a new subset of NDMA precursors into the water. The overarching hypothesis of this research is: Advanced treatment for potable reuse contributes NDMA precursors to the finished water via leaching NDMA precursors from RO and/or transforming unreactive organic matter to NDMA precursors during UV, hydrogen peroxide (UV/peroxide) treatment. The rationale that underlies the research is that NDMA is highly carcinogenic, and while RO and UV/peroxide remove most NDMA precursors, they also change the water chemistry which may cause occurrence of new NDMA precursors. The hypothesis will be tested by pursuing 4 specific aims: 1) Determine the reactivity of known precursors and chemical additions in forming NDMA; 2) Identify UV/peroxide transformation products and kinetics that "up-convert" unreactive organic N to reactive, NDMA precursors; 3) Characterize changes in bulk chemical characteristics of the NDMA precursor pool during advanced water treatment; and 4) Identify operational changes that minimize NDMA formation at pilot-scale. These aims will be investigated using novel mass spectrometric and separations techniques pioneered by members of the research team.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1804255</AwardID>
+<Investigator>
+<FirstName>Ricky</FirstName>
+<LastName>Warner</LastName>
+<EmailAddress>rick.warner@att.net</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Hanigan</LastName>
+<EmailAddress>dhanigan@unr.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Regents, NSHE, obo University of Nevada, Reno</Name>
+<CityName>Reno</CityName>
+<ZipCode>895570001</ZipCode>
+<PhoneNumber>7757844040</PhoneNumber>
+<StreetAddress>1664 North Virginia Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>ENVIRONMENTAL ENGINEERING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

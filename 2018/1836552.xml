@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>QLC: EAGER: Harnessing molecular conformational dynamics for electromechanical qubits</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>156194</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John Papanikolas</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The basic unit of information in a conventional computer is the bit.  It can exist in one of two states, which are often called 'on' and 'off' states, or ones and zeros.  Quantum computers are different. The basic unit of information in a quantum computer is the qubit. However, unlike the bit in conventional computers, qubits can exist in many different states, which gives rise to the possibility of building powerful computers that can revolutionize science and technology.  However, creating qubits is challenging and oftentimes they persist only at very low temperatures.  Thus, realizing the transformative potential of quantum computing requires qubits that are simultaneously stable at room temperature and can be precisely manipulated and measured. With support from the Macromolecular, Supramolecular, and Nanochemistry program in the Division of Chemistry, Professors Daniel Lambrecht and Geoffrey Hutchison at the University of Pittsburgh are studying a new type of molecular qubit that could operate at much warmer temperatures and with much longer lifetimes when compared to current systems. The project's discoveries could facilitate a 'quantum leap' toward room temperature quantum computing that could have broad implications for materials design, drug discovery, machine learning, secure communications, and more. This work creates research and training opportunities for students at multiple levels, including high school, undergraduate, and graduate. Importantly, this work trains students at the interdisciplinary intersection of chemistry and quantum information science, as is crucially needed for a STEM workforce that can fully utilize the power of quantum computing.&lt;br/&gt;&lt;br/&gt;This project employs theory and computation in tandem with experimental validation to study the electric-field gated inversion of bowl-shaped molecules such as "buckybowl" corannulenes and sumanenes as realizations of molecular electromechanical qubits. These "nanobowl qubits" have the potential to overcome limitations of current generation electromechanical qubits, specifically the requirement for ultra-low (mK) cryogenic operation and decoherence due to internal defects or qubit-bath interactions. Specifically, they: (i) offer greater than 100x increased temperatures for the quantum-to-classical transition, as compared e.g. to current generation suspended carbon nanotubes, (ii) reduce qubit-environment dipolar interactions and thereby enhance coherence lifetimes by more than 10x compared to current types of electromechanical qubits, and (iii) can be operated at electric field strengths realistically achievable in nanoelectronics. These characteristics address the main drawbacks of current electromechanical qubits. Research questions include: 1) Does the high zero-point energy of the nanobowl inversion mode facilitate significantly higher temperature operation? 2) How strong is the predicted entanglement between nanobowl qubits and what is their decoherence lifetime? Addressing these questions is giving rise to a proof of principle exploration of nanobowls as electromechanical qubits that are potentially orders of magnitude better than the current generation. A theory/experiment feedback loop is used to validate computational predictions and refine computational approaches, if necessary.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836552</AwardID>
+<Investigator>
+<FirstName>Geoffrey</FirstName>
+<LastName>Hutchison</LastName>
+<EmailAddress>geoffh@pitt.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Lambrecht</LastName>
+<EmailAddress>lambrecht@pitt.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pittsburgh</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152132303</ZipCode>
+<PhoneNumber>4126247400</PhoneNumber>
+<StreetAddress>University Club</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6885</Code>
+<Text>Macromolec/Supramolec/Nano</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

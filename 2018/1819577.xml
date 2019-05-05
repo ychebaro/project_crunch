@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Advanced Manufacturing of Ultra High Molecular Weight Polyethylene and Metal Hybrid Structures for Bicycle Spokes</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project is for the development of an automated manufacturing process for polymeric, ultra-lightweight, bicycle spokes composed of an ultra high molecular weight polyethylene (UHMWPE) and stainless steel hybrid structure. The use of an innovative polymer-to-metal connection allows for the creation of a bicycle spoke that out-performs modern stainless steel spokes. In comparison, steel spokes are heavier, do not effectively damp road vibrations, and are more prone to fatigue related failure. The target market for this innovation is the high-end bicycle spoke market, which is valued at over $100M. The research of new polymeric materials at universities is at an all-time high. Despite this, there exists a gap in the commercialization of new materials because of the difficulty in interfacing these materials to other common construction materials, such as stainless steel. This work will contribute fundamental knowledge to and catalyze the development of processes for new advanced polymer products. It will enable the use of UHMWPE and other materials in new applications. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this project is the development of an advanced manufacturing process capable of the complex manipulation necessary for the production of novel polymer-to-metal connections and integral eye splices. These types of connections are not practiced in high-volume textile manufacturing today due to the novelty of the polymer-to-metal connection and the complexity of the eye splice operation. The research objectives include validating the key steps for process automation and optimization of the UHMWPE-metal connection. The anticipated outcome of this Phase I project is a prototype automated spoke manufacturing process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819577</AwardID>
+<Investigator>
+<FirstName>Brad</FirstName>
+<LastName>Guertin</LastName>
+<EmailAddress>brad.guertin@berdspokes.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BERD LLC</Name>
+<CityName>Roseville</CityName>
+<ZipCode>551135602</ZipCode>
+<PhoneNumber>7636397060</PhoneNumber>
+<StreetAddress>1995 Beacon St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

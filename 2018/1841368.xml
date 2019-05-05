@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Perceptions of Fairness and Justice in AI Software for Talent Acquisition</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardAmount>225054</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tonya Smith-Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Perceived fairness and justice in job recruiting and hiring are influenced by several factors. Some factors are the consistency of the decision-making process across people and time, timely and informative feedback, propriety of the interview questions, and the extent to which pre-employment tests appear to relate to the job requirements. These factors come together to influence decisions about recruiting and hiring and are being made increasingly with the help of artificial intelligence (AI). In this project, a sociotechnical frame is applied to explore perceptions of fairness and justice of AI-supported talent acquisition algorithms. the investigator will elicit and analyze perceptions of human resources personnel, African American job seekers, and AI software designers. The outcomes will be used to inform the design of bias recognition and mitigation procedures and technologies for both humans and the algorithms being used.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this exploratory study is the development of qualitative instruments and metrics that can be used to measure perceptions of algorithmic fairness and justice. The research approach extends a theory of procedural rules for perceived fairness of selection systems by using a three-pronged approach comprising job seekers who are under-represented in the IT industry, human resource professionals who manage the talent acquisition process, and IT professionals who design AI software with fairness as the core value in product design and development. Perceptions using scenarios are examined as well as the actual experiences of jobseekers who are affected by these decisions. This research contributes to an assessment of algorithmic fairness at a time when there is currently little insight into how historically marginalized populations might perceive or be adversely affected by AI systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841368</AwardID>
+<Investigator>
+<FirstName>Lynette</FirstName>
+<LastName>Yarger</LastName>
+<EmailAddress>lyarger@ist.psu.edu</EmailAddress>
+<StartDate>08/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

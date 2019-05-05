@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CHS:Small:Utilizing synergy between human and computer information processing for complex visual information organization and use</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>497424</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tonya Smith-Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>CHS: Small: Utilizing synergy between human and computer information processing for complex visual information organization and use&lt;br/&gt;&lt;br/&gt;Recent years have brought important advances in the use of computational approaches to automatically extract the meaning of an image (aka, image semantics). But, understanding these images when they relate to specialized areas such as medicine is significantly more challenging because it depends on human expertise. This project brings together human and computer capabilities to discover image semantics by (1) encoding human image inspection and analysis behaviors that represent domain expertise, and (2) algorithmically fusing human expertise with image data. The outcomes will help to provide truly meaningful interpretations of complex images in areas such as medicine, science, and security intelligence. This interdisciplinary project will provide extensive research opportunities for undergraduate and graduate students and for broadening participation in computing. The team will leverage the college?s successful program for Women in Computing and PhD Program that has a strong track record in recruiting students from underrepresented and culturally-diverse groups. &lt;br/&gt;The research will contribute novel computational models to capture the complex and unique features of human language and vision related to performing image understanding tasks, and an innovative probabilistic framework to fuse human knowledge data with image features. Interpretable knowledge patterns will be extracted to inform high-level abstractions of human expertise and establish cross-modality relationships. The hierarchical probabilistic framework will promote a systematic fusion of multimodal knowledge data with image content. By fusing data from multiple, complimentary modalities, the framework is robust to sparseness, noise, and ambiguity in human knowledge data while being flexible when one or more data modalities become unavailable. Through nonparametric modeling, the framework can account for the novel semantics resulting from human expertise, hence closely represent the knowledge-based processing in human image understanding.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814450</AwardID>
+<Investigator>
+<FirstName>Qi</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>qi.yu@rit.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rui</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>rxlics@rit.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Haake</LastName>
+<EmailAddress>anne.haake@rit.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pengcheng</FirstName>
+<LastName>Shi</LastName>
+<EmailAddress>pengcheng.shi@rit.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rochester Institute of Tech</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

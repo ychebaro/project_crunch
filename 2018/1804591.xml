@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Computational Study of Cell Locomotion in Complex Environments: Towards a Fluid Mechanical Understanding of Cancer Progression</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>367370</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ronald Joslin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Cancer remains the second highest cause of mortality in the US. More than 90% of cancer-related deaths are due to progression of the disease to secondary location(s) away from the primary tumor, a process known as metastasis. In order to metastasize, cancer cells first detach from the primary tumor and migrate through the surrounding tissue to reach to a nearby blood or lymphatic vessel. Migration of cancer cells through the surrounding tissue is a critical step in cancer progression, and is the focus of this study. One specific mode of migration is termed as amoeboid migration, in which individual cancer cell squeezes through the surrounding tissue by using finger-like protrusions of the cell body known as pseudopods. Amoeboid migration is the most aggressive mechanism of cancer progression with reportedly the highest migration speed. Additionally, metastatic cells can convert to amoeboid motility to avoid certain chemotherapy treatments. The surrounding tissue, resembling a porous medium, creates a complex, three-dimensional and crowded environment through which the cells navigate. It has been known that flexibility of the cells, and the mechanical properties of surrounding tissue determine the migration characteristics. However, because of its complexity, the mechanisms underlying amoeboid migration are poorly understood. The research objective of this proposal is to provide a fluid mechanics-based understanding of amoeboid migration through tissue.   The project will also include outreach program for high-school students and research experience for undergraduate students.&lt;br/&gt;&lt;br/&gt;The primary goal of this project is to conduct a high-fidelity computational modeling study to understand the simultaneous roles of cell rheology and tissue geometry on amoeboid motility. The modeling involves resolving extreme deformability of the cells with dynamically changing cell shapes due to growing and retracting pseudopods, coarse-graining protein reactions using a dynamic pattern formation model, coupling the cell membrane deformation with cytoplasmic and extracellular fluid, and resolving microstructural details of the surrounding tissue. An immersed-boundary method is used coupling cell membrane deformation, tissue microstructures, fluid flow, and protein reaction-diffusion. Simulations will be performed by varying the cell rheology and tissue microstructure (for example, porosity and pore shape) to understand how they affect overall migration dynamics. In parallel, cell motility experiments in artificial scaffolds will be considered to validate the model.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1804591</AwardID>
+<Investigator>
+<FirstName>Prosenjit</FirstName>
+<LastName>Bagchi</LastName>
+<EmailAddress>pbagchi@jove.rutgers.edu</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Biju</FirstName>
+<LastName>Parekkadan</LastName>
+<EmailAddress>biju.parekkadan@rutgers.edu</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Howon</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>howon.lee@rutgers.edu</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University New Brunswick</Name>
+<CityName>Piscataway</CityName>
+<ZipCode>088543925</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>33 Knightsbridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FLUID DYNAMICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

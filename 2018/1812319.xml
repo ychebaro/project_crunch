@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>S&amp;AS: FND: COLLAB: Planning and Control of Heterogeneous Robot Teams for Ocean Monitoring</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>346929.00</AwardTotalIntnAmount>
+<AwardAmount>354929</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jie Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Robots in marine and littoral environments are envisioned for commerce, scientific exploration, search and rescue, and many other tasks. However, robots in such environments face significant challenges. Vehicles must act and effect change in environments with large inertial effects and disturbances, with only near-field perception. Coupled with our limited understanding of ocean dynamics and the lack of accessible and high-quality ocean flow data, these obstacles make the use of robotics technology in these varied applications extremely difficult. This project realizes an integrated, heterogeneous robotic approach towards large-scale ocean monitoring for environmental mitigation and search and rescue operations. It enables data-driven tracking and mapping of various physical, chemical, and/or biological processes of interest in marine environments, such as tracking contaminant dispersion or missing aircraft. This project significantly improves the state of the art in ocean search and monitoring technology, helping us understand and harness ocean currents, and improve the health of the world's oceans. Results from the project are integrated into education, through the PIs' courses, mentoring students on research, and expanding an existing K-12 outreach relationship. &lt;br/&gt; &lt;br/&gt;The project creates fundamental knowledge about new ways that robots can better monitor, sense, and operate in dynamic and uncertain environments. The project develops new methods for heterogeneous teams of monitoring robots to improve their environment model through current interactions with the environment; concurrently collect data, process and assimilate it into the existing model, and plan on that model; accept high-level instruction and translate goal-oriented directives such as environmental monitoring into a suitable plan for sensing, reasoning, communicating, and acting through the underlying system architecture; and monitor their actions, optimize, and reconfigure autonomously. The heterogeneous team of robots proposed includes surface vehicles providing samples at the air-sea interface and aerial robots creating flow models and acting as intermediaries within the team. The hierarchical structure of the approach takes advantage of the natural boundaries defined by Lagrangian coherent structures in the creation of a distributed sensing framework.</AbstractNarration>
+<MinAmdLetterDate>12/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812319</AwardID>
+<Investigator>
+<FirstName>M. Ani</FirstName>
+<LastName>Hsieh</LastName>
+<EmailAddress>m.hsieh@seas.upenn.edu</EmailAddress>
+<StartDate>12/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>039Y</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>046Z</Code>
+<Text>S&amp;AS - Smart &amp; Autonomous Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

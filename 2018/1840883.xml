@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Investigating Super-Heated Urea for NOx Reduction for Low Temperature Combustion Engine Application</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>60000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harsha Chelliah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nitrogen oxide (NOx) is one of the major pollutants from diesel engines and has its own well-documented health and environmental impacts. Serious efforts have been devoted to reducing them through exhaust clean-up and combustion optimization. Interestingly, there are often trade-offs between efficiency and pollution. This project will develop and demonstrate a greatly improved exhaust after-treatment methodology for NOx reduction, particularly for engines operating at low-temperature combustion regimes. The specific focus will be on developing and testing a novel system for low-cost NOx reduction by super-heating the diesel exhaust fluid (DEF) currently used on diesel engines. The project will not only open up new areas of research, but also directly impact engine combustion and energy efficiency.&lt;br/&gt;&lt;br/&gt;NOx has become an important problem because the increased focus on fuel economy has driven engines to burn less fuel and consequently operate at a lower temperature condition. Such low-temperature operations have led to colder exhaust, with hybrid systems that turn the engine on and off only exacerbating this problem. Additionally, the inability to mitigate high levels of NOx has limited the operational window for diesel engines. This project will investigate non-equilibrium NOx reduction through injection of super-heated urea into an engine exhaust stream. Central to this idea is the steep rise of NOx reduction capacities of commercial diesel exhaust fluid (DEF), urea with water, with rising temperature because of higher chemical reaction rates. The new system uses microwave heating of the urea (to 1200 K) prior to injection to make it much more reactive, with experimentally proven NOx reduction of up to 96% for such temperatures in commercial boilers. Experimental testing will be used to measure the exhaust composition for various urea injection cases while computer modeling will be employed to extract the chemical reaction rates that correspond to experimentally observed behaviors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840883</AwardID>
+<Investigator>
+<FirstName>Albert</FirstName>
+<LastName>Ratner</LastName>
+<EmailAddress>aratner@engineering.uiowa.edu</EmailAddress>
+<StartDate>08/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421320</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>2 GILMORE HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1407</Code>
+<Text>Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

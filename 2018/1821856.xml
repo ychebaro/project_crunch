@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Organ-on-a-Chip Technology for Pharmaceutical Testing</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to improve predictivity in preclinical pharmaceutical research and development to lower drug development costs and to improve drug approval rates. Recent cost estimates for developing a prescription drug is $2.6 billion over the 10-year development period, and the annual drug approval rate is as low as 20-30 drugs, while hundreds of drugs candidates fail each year. The failure rates of a large percentage of drug candidates at the clinical trial increase the overall costs of approved drugs. Replacing simplistic 2D cell culture models and animal models with human organ-on-a-chip (OoC) technologies will provide human-specific solutions for drug development. These tests can provide stronger predictions and confidence to advance the right drug candidates to clinical trials and also identify problem candidates early to save time and money associated with progressing the wrong compounds through expensive clinical trials.&lt;br/&gt;&lt;br/&gt;This I-Corps project provides an integrative solution to the pharmaceutical industry for preclinical drug testing using Organ-on-a-Chip (OoC) technologies with companion computational tools. OoC technologies, which are micro-engineered systems combining living 3D human cells, fluidic channels, and biomaterials, emulate biological and physiological processes of the real organ in vitro. The need for more physiologically relevant in vitro systems for preclinical efficacy and toxicity testing has led to a major effort to develop OoC technologies. OoC approaches have been recognized as emerging technologies with potential to revolutionize medical research and drug discovery. However, OoC technologies require specialized operational infrastructure including instrumentation and an experienced tissue engineering team not common in industry. By providing a specialized service model, the benefits of human-relevant OoCs become accessible by bridging the gap between pharmaceutical companies, OoC companies, and academia.</AbstractNarration>
+<MinAmdLetterDate>01/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821856</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Lubynsky</LastName>
+<EmailAddress>rml@mit.edu</EmailAddress>
+<StartDate>01/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

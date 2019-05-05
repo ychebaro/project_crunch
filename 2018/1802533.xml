@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Metabolic Pinching for the Formation of Pyruvate- and Acetyl CoA-Derived Chemicals</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Cells can produce products ranging from fuels to pharmaceuticals. This is usually accomplished by overproducing enzymes involved in the product pathway. This pulls more material onto that path, decreasing the amount leading to cell growth. The cell tries to pull more material towards growth pathways. If it is not successful, the cell can stop growing and possibly die, ending all production. This project proposes to look at more balanced approaches to providing sufficient material for moderate cell growth while funneling a majority of the material and energy towards making products. The old approach can be described as an on/off light switch, while the new approach can be compared to using a dimmer to slightly adjust each pathway up or down. This will involve modifying the enzymes involved at the entrance to the production pathway. The research is complemented by educational and training opportunities for high school students and undergraduates. This will lead to a workforce better prepared to actively participate in the growing biomanufacturing sector.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Bioproduct formation involves redirecting a substrate towards the target product and away from biomass generation. Operational strategies rely on an external sensor of metabolism.  Dynamic, genetic control relies on the external or internal  concentration of some triggering compound.  Dynamic control might ultimately increase the metabolic burden by virtue of additional gene expression. It has also not been demonstrated to increase yield and productivity compared to operational and static approaches.  This project will investigate a strategy to pinch metabolism by altering the intrinsic activities of key enzymes in central metabolism in the absence of trigger compounds. If successful, we think this approach would serve as a useful component in the toolbox of biochemical product formation. Specifically, the objective of this project is to alter kCAT and KM of pyruvate dehydrogenase component E1 and citrate synthase in Escherichia coli. This should increase the intracellular pools of pyruvate and acetyl CoA, increasing the flux through competing pathways. We will then experimentally assess strain variants for growth, metabolic flux distribution and the production of several biochemical compounds derived from pyruvate and/or acetyl CoA.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802533</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Eiteman</LastName>
+<EmailAddress>eiteman@engr.uga.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Georgia Research Foundation Inc</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>306021589</ZipCode>
+<PhoneNumber>7065425939</PhoneNumber>
+<StreetAddress>310 East Campus Rd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+</Award>
+</rootTag>
