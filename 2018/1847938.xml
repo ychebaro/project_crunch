@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: More Accurate Galaxy Merger Rates to Propel Studies of Gravitational Waves and Star Formation in Galaxy Mergers</AwardTitle>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>823230.00</AwardTotalIntnAmount>
+<AwardAmount>823230</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ken Johnston</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mergers are one of the main drivers in the evolution of galaxies over cosmic time as they morph from aggregates of gas into spiral and elliptical structures. Knowledge of their status will provide the best possible empirical merger rate as function of stellar mass, allowing the determination of the mechanisms for the dynamical evolution of SMBH binaries to the gravitational wave regime, and the role of galaxy mergers in driving star formation. These estimates will be used to answer two fundamental research questions: How long does it take for SMBH binaries to merge? What are the roles of galaxy mergers and secular processes in driving star formation? A public education program in astronomy will be given at Rocky Mountain National Park by two CU undergraduates under the supervision of the PI to educate the public on scientific topics related to the research program.  It is estimated that this program will reach 12,000 to 18,000 visitors to the park over the five years of this grant.  During the academic year the students will devote their time to research.  &lt;br/&gt;&lt;br/&gt;The largest integral field spectrographic survey of galaxies, MaNGA, will enable merger classifications for over 10,000 galaxies, which will be combined with merger timescales from the latest GADGET-3 galaxy simulations and IllustrisTNG cosmological simulations to make the best possible empirical estimates of the galaxy merger rate as a function of stellar mass, mass ratio, and redshift.  These estimates will address understanding of the role of galaxy merger rates and the processes giving rise to SMBHs as well as the timescale for their mergers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847938</AwardID>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Comerford</LastName>
+<EmailAddress>julie.comerford@colorado.edu</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1045</Code>
+<Text>CAREER: FACULTY EARLY CAR DEV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  RoboEngineers</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>733132.00</AwardTotalIntnAmount>
+<AwardAmount>733132</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase II project is a game-based learning virtual reality (VR) and desktop experience focused on fostering STEM (science, technology, engineering, and math) and robotics interest in young people. The project's intent is to address the growing skilled labor shortage in STEM fields and prepare learners for the cross-industrial rise of robotics. Through exposure to experiential STEM learning, the project will create a groundswell of student interest and aptitude that will help close STEM workforce gaps in the long term, as well as plant the seeds for a future cohort of robotics professionals. The project's hypothesis is that its game-based VR-enhanced learning platform can reliably instill design/engineering thinking skills into learners while exceeding the capabilities of existing educational tools in terms of scalability and adaptability to student needs. The project is additionally intended to drive K-12 VR hardware adoption by providing a compelling and teacher-customizable solution that will justify institutional hardware investments. When proven scalable, the project will act as a beachhead for other VR and game-based learning entrants to bring their own innovative learning content into the K-12 ecosystem, simultaneously promoting the progress of science in alignment with the NSF's mission, as well as providing a broad economic lift to the American economy by unlocking a new market sector. &lt;br/&gt;&lt;br/&gt;As a VR-first experience, this project will provide students with a first-of-its-kind immersive robotics sandbox that allows for hands-on experimentation. Players will be able to form hypotheses, build robots, test, and iterate, mirroring the processes of project-based robotics and maker programs. Beyond robot construction, the project will offer challenge courses that test players' ability to build to specification. Each course will require a different physics-based solution for which a capable robot must be constructed. For example, a course might challenge players to navigate a set of stationary obstacles and then place a cube on a pressure plate, requiring a robot with maneuverability and the ability to pick up, transport, and place objects. This task serves as a model of the underlying dynamics of engineering design: identifying a problem, thinking critically, and developing a solution engineered specifically to that problem. To establish this project in the larger context of teaching media, it will be developed as a desktop-only intervention, a VR-only intervention, a desktop/VR hybrid intervention, and a paper-based control intervention. These variants will be tested with middle school and high school end users to verify the efficacy of game-based VR as a pedagogy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/08/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/08/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853206</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>White</LastName>
+<EmailAddress>white@filamentgames.com</EmailAddress>
+<StartDate>04/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Filament Games, LLC</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537033432</ZipCode>
+<PhoneNumber>6084167773</PhoneNumber>
+<StreetAddress>316 WEST WASHINGTON AVE, SUITE 1</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>079E</Code>
+<Text>VISUALIZATION &amp; VIRTUAL DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8039</Code>
+<Text>Information, Communication &amp; Computing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

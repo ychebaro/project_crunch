@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-CORPS: A Treadmill with Adjustable Stiffness with integrated measurement systems for rehabilitation applications</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The proposed product spans the following innovation areas. Development of new technology: 1- Novel method is presented to design and fabricate a treadmill solution by which flexibility of the walking surface can be controlled. This treadmill has the ability to bilaterally adjust the surface stiffness in a purely vertical direction, regardless of the relative location of the person with respect to the treadmill. By using strong stiffness adjustment motors and properly selecting a short lever, the stiffness can be changed very quickly. 2- Development of new rehabilitation approach: feasibility of a theory-driven rehabilitation approach will be proven that can lead to successful clinical trials for after-stroke patients. The treadmill is integrated with a motion capture and energy consumption system that can provide real-time data regarding the performance of the patients. This can help a therapist to quickly find the optimal tuning for a patient. &lt;br/&gt;&lt;br/&gt;The proposed research advances the field of mobility rehabilitation through introducing the possibility of adjusting the stiffness of the walking surface. As of 2015, there are more than 18.2 million people with mobility impairment in the US. Among them, the majority are post-stroke patients. In the US, a stroke occurs every 40 seconds and the aggregate lifetime cost of first strokes is about $40 billion per year. In addition, nearly 40% of people age 65 and older have a walking disability. Any rehabilitation method that can enhance independent mobility of these populations would have a huge impact on their quality of life as well as reduce economic burden on the them, their families, insurance companies and the government. This product can be a solution to improve the walking capability of these people for community settings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850898</AwardID>
+<Investigator>
+<FirstName>Amir</FirstName>
+<LastName>Jafari</LastName>
+<EmailAddress>Amir.Jafari@utsa.edu</EmailAddress>
+<StartDate>09/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at San Antonio</Name>
+<CityName>San Antonio</CityName>
+<ZipCode>782491644</ZipCode>
+<PhoneNumber>2104584340</PhoneNumber>
+<StreetAddress>One UTSA Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

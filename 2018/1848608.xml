@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Automatic Identification of Bug Description Elements</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>When an application does not behave the way it is meant to or as expected by the users, they often communicate the problem via a bug-report, which is then used by developers to identify the problem and fix it. To submit a bug-report, users utilize issue-trackers, which allows them to write in natural language a description of the problem they encountered. One problem in bug reporting is the perception gap that exists between bug reporters and developers. Those who report a bug typically only have functional knowledge of an application, even if they have development experience themselves, whereas the software developers have intimate code-level knowledge. Consequently, information in bug-reports are often incomplete, potentially incorrect, or hard to comprehend, which leads to excessive manual effort spent by developers in trying to identify the real source of the problem. This project aims to automatically analyzing bug descriptions in natural language and identifying parts that correspond to the observed behavior of the application, the expected behavior, and the steps that describe what the user did when encountering the problem. The ability to automatically identify these parts of a bug description is important as it allows further analysis which will determine the quality of the reported information and supports developers in solving the problem. In the long run, this award will lead to a new type of bug reporting system that is able to automatically enable users to better describe the problem behaviors that they notice, and in turn, help developers address software problems more productively. The project will also support defining best practices in bug reporting, to be used by software users across the world.&lt;br/&gt;&lt;br/&gt;The project combines well-established and highly innovative research solutions from natural language processing, automated discourse analysis, and machine learning. Specifically, the project addresses discourse semantics at statement level, rather than bug report level, and solves the difficult challenge of bug content disambiguation. In addition, it also addresses the problem of identifying relationships between bug description elements, which is essential in supporting future work on automated bug reproduction. The main solution relies on the use of neural networks, which require a substantial amount of manual coding of bug reports. The resulting set of annotated bug reports could be used to support research beyond this project, such as, the translation of natural language test sequences or scenarios into fully automated test cases.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848608</AwardID>
+<Investigator>
+<FirstName>Vincent</FirstName>
+<LastName>Ng</LastName>
+<EmailAddress>vince@hlt.utdallas.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrian</FirstName>
+<LastName>Marcus</LastName>
+<EmailAddress>amarcus@utdallas.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Dallas</Name>
+<CityName>Richardson</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress>800 W. Campbell Rd., AD15</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+</Award>
+</rootTag>

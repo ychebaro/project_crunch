@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding the Relationship Between Tornadoes and Debris Through Observed and Simulated Radar Data</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>787353.00</AwardTotalIntnAmount>
+<AwardAmount>258305</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Weather radar observations of tornadoes are a critical tool used by forecasters in short term forecasts of severe weather events and thus to mitigate the loss of life and property.  Dual polarization radar signatures of tornado debris, called tornado debris signatures (TDSs), have received substantial attention due to their potential to remotely detect tornadoes and characterize tornado damage severity.  This research has the potential to help forecasters use real-time weather radar observations to detect tornadoes and improve the accuracy of impact-based warnings by providing a better estimate of tornado damage/intensity, adding information beyond that afforded by reflectivity and velocity measurements alone. &lt;br/&gt;&lt;br/&gt;The research seeks to advance scientific knowledge of how debris characteristics relate to dual polarization radar measurements and how debris and kinematic processes influence the three-dimensional distribution of debris and TDS structure. Moreover, the work provides the first attempt to use radar simulations and observations to explore promising polarimetric radar algorithms to estimate and mitigate debris centrifuging errors with the goal of providing more accurate wind measurements in tornadoes.  This research will be carried out using a debris model initially developed with previous NSF support showing great promise in simulating realistic TDSs.  The use of such a model is crucial because TDSs can change not only due to the types of surfaces or density of debris over which the tornadoes pass, but also due to changes internal to the tornado, the tornado-producing supercell and the near-storm environment, making it difficult to assess the exact mechanisms responsible for observed changes in TDS or tornado circulations.  The model eliminates these variabilities, and allows determination of how the TDS changes may be related to the land cover or tornado intensity while controlling other parameters.  The simulations provide a variety of land cover and debris types to be investigated at different stages in the tornado life cycle.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823478</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Palmer</LastName>
+<EmailAddress>rpalmer@ou.edu</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sebastian</FirstName>
+<LastName>Torres</LastName>
+<EmailAddress>sebas@ou.edu</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Boon Leng</FirstName>
+<LastName>Cheong</LastName>
+<EmailAddress>boonleng@ou.edu</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bodine</LastName>
+<EmailAddress>bodine@ou.edu</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Caleb</FirstName>
+<LastName>Fulton</LastName>
+<EmailAddress>fulton@ou.edu</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oklahoma Norman Campus</Name>
+<CityName>NORMAN</CityName>
+<ZipCode>730199705</ZipCode>
+<PhoneNumber>4053254757</PhoneNumber>
+<StreetAddress>201 Stephenson Parkway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

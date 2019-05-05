@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Development of a Catalyst for Simultaneous Wet- and Dry- Reforming of Methane and Water-Gas Shift Activity</AwardTitle>
+<AwardEffectiveDate>11/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2020</AwardExpirationDate>
+<AwardAmount>69609</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Regina Sievert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of the Tribal Colleges and Universities Program (TCUP) is to increase the education and research capacities in the fields of science, technology, engineering and mathematics (STEM) at institutions of higher education that serve the nation's Indigenous students. TCUP's funding of projects that address these goals expands opportunities for Native people to pursue challenging degrees and rewarding careers in STEM, to conduct research studies on culturally significant topics, and fosters generational appreciation for STEM education. In alignment with TCUP's goals, United Tribes Technical College has initiated a research study focusing on renewable energy production. The project will work to develop a more efficient method for reforming biogas into a renewable energy source that can be generated from organic waste materials. The production of renewable hydrogen offers many options for power generation, as well as potential conversion of hydrogen to renewable ammonia for use as fuel or fertilizer. Given the large number of farm and ranch operations in North Dakota and the Northern Plains states in general, the project is highly relevant and holds potential benefits for the region.&lt;br/&gt;&lt;br/&gt;The project will examine reforming of methane to hydrogen and carbon dioxide via a combination of steam-methane reforming (water-based) and dry reforming (carbon dioxide-based). Additionally, water-gas shift activity will be designed into the catalysts. This "mixed" reforming presents several technical challenges which include coking of the catalyst, incomplete conversion of methane to hydrogen and carbon dioxide, and catalyst longevity. The overall goal of the proposed project is to develop catalysts which optimize hydrogen production from a renewable resource (biogas or landfill gas) via development of catalysts which are rugged, robust, reliable, and economically advantageous in long-term operation of a renewable hydrogen production system. Additionally, the project will seek to develop catalysts which display long term activity at moderate operating pressures and temperatures, thereby enabling design of commercial/industrial systems which are affordable to construct and operate.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819960</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Pansegrau</LastName>
+<EmailAddress>ppansegrau@uttc.edu</EmailAddress>
+<StartDate>11/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>United Tribes Technical College</Name>
+<CityName>Bismarck</CityName>
+<ZipCode>585047565</ZipCode>
+<PhoneNumber>7012553285</PhoneNumber>
+<StreetAddress>3315 University Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Dakota</StateName>
+<StateCode>ND</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1744</Code>
+<Text>TRIBAL COLLEGE &amp; UNIVERS PROGR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1744</Code>
+<Text>TRIBAL COLLEGE &amp; UNIVERS PROGR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

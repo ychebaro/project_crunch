@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Real-time Monitoring of Civil Structures Using Video Cameras</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to develop a new tool for weighing trucks as they cross bridges.  Compared with existing truck weighing systems, the technology promises to be inexpensive, easy to deploy, fast and very difficult to evade.  More consistent real-time identification of overweight trucks could significantly decrease the tens of billions of dollars per year of roadway damage caused by these overweight trucks.  An additional benefit of the system is that it promises to provide a new tool to identify changes in the deformation response of bridges.  These changes will help to diagnose structural damage to bridges. &lt;br/&gt;&lt;br/&gt;This I-Corps project employs electro-optical technology to monitor the structural deformations of civil structures in real-time. The intent of this technology is to augment/replace existing systems that rely on load cells at weigh stations.  The technology measures the deformation of structures under dynamic loads with a passive camera system that can monitor the structure from a distance. The system uses off-the-shelf commercially available video cameras to monitor a specific target on a structure, such as a fastener, reflector, or structural feature. The real-time video is then processed using proprietary pixel manipulation algorithms to calculate sub-millimeter displacements and rotations in 3 axes. The information, when observed in real-time, as well as the data products generated from the archived data can be used to determine the performance of structures, the impacts of dynamic loading, and even the prediction of structural failures. The system can also be used to identify overweight trucks in order to enforce weight limits on roads and bridges. This system provides high bandwidth measurements while exposed to typical lighting condition dynamics or other ambient conditions. We have conducted real-world conditions tests on bridges and a building that validate the feasibility of the technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833341</AwardID>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Heaton</LastName>
+<EmailAddress>heaton@caltech.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

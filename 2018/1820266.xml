@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Digital Oil Level Indicator Feasibility Study</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>224779.00</AwardTotalIntnAmount>
+<AwardAmount>224779</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to provide the agriculture market a long-term solution to the problem of premature wear on components from oil leaks  by digitally monitoring oil levels in combines. The proposed product could be adapted to many industries including agriculture, mining, construction, marine water craft, chemical storage, military vehicles, and water storage. The proposed product will preemptively warn equipment operators of low lubrication levels thereby saving customers money from repairs or replacement of new systems.&lt;br/&gt;&lt;br/&gt;The proposed project will address the need of digitally monitoring oil lubrication levels while producing a highly accurate measurement in real-time. The solution will be non-contacting unlike current solutions that provide a single low-level alarm or rely on manual checks. The prototype will be put in a simulated as well as real-time environment to investigate endurance, accuracy, stability, longevity, reliability and ease of installation. Objectives include: (1) Find a solution/configuration to accurately monitor rapid level changes; (2) Verify the hardware can withstand harsh conditions (extreme temperatures, high vibration); (3) Software testing; and (4) Analyze different reservoirs to see how the product can be easily mounted.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820266</AwardID>
+<Investigator>
+<FirstName>Allan</FirstName>
+<LastName>Dikeman</LastName>
+<EmailAddress>learnedengineering@gmail.com</EmailAddress>
+<StartDate>05/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Digital Dipstick Company</Name>
+<CityName>Tremont</CityName>
+<ZipCode>615689252</ZipCode>
+<PhoneNumber>3092214231</PhoneNumber>
+<StreetAddress>600 S Sampson St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SBIR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

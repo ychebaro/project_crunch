@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  MobIQ: A SIM-Based Solution To Software-Defined IoT Network Services</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will result from advancing the application territory of Internet-of-Things (IoT) and 4G/5G/Beyond-5G ecosystems. If successful, the obtained results would directly benefit a large portion of the current 8.4 billion wirelessly "connected things" with an estimated $273 billion market. It will facilitate "always-on, anytime, anywhere" network services and further help enable many emerging IoT applications (e.g., safe driving, remote healthcare, smart city, wearables). The technology is expected to create new business opportunities for IoT vendors, service providers, and mobile virtual network operators. If successful, it will facilitate evolution from an operator-centric network ecosystem to a user/application-centric ecosystem.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project will develop a software-based solution to enabling dependable, software-defined network services for IoT applications. The objective for Phase I is to provide "always-on, anytime, anywhere" network service for billions of IoT devices and applications. Different from the current infrastructure-based solutions (using software-defined networking or network slicing), the proposed technology offers an in-device, SIM-based software solution without infrastructure upgrades or added device hardware. It enables in-SIM visibility to "black-box" mobile network operations, performs in-device optimizations using readily available mechanisms, and offers further value-added cloud services for network-wide optimization and management via crowdsourcing. The technology is readily deployable on today's IoT devices (both low-end and high-end) and provides "must-have" features for two customer segments (validated through NSF I-Corps interviews) - IoT mobile virtual network operators, and IoT application vendors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843994</AwardID>
+<Investigator>
+<FirstName>Yuanjie</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>liyuanjie08@gmail.com</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>MobIQ Technologies</Name>
+<CityName>WOODLAND HLS</CityName>
+<ZipCode>913645408</ZipCode>
+<PhoneNumber>3106148922</PhoneNumber>
+<StreetAddress>4425 ENSENADA DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understand the functional mechanism of the DSP1 complex in the 3' end maturation of plant small nuclear RNAs</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>682608</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will contribute to fundamental knowledge related to splicing and gene expression in plants. Ultimately, this type of information will facilitate the engineering of plants for agricultural production.  The primary goal of this project is to dissect the mechanism governing the biogenesis of small nuclear RNAs, which are core components of the splicing machinery and hence important for gene expression.  This project will train students and provide them with skills needed to productively contribute to STEM industries and occupations.  This project also includes an effort to increase diversity in STEM by recruiting and training members of underrepresented groups and first generation students.  &lt;br/&gt;&lt;br/&gt;Small nuclear RNAs (snRNAs) are the basal components of the spliceosome. They guide the formation of spliceosome and catalyze the splicing of mRNAs, which is a key step in decoding genetic information stored in the genome and thus they play a crucial role in regulating gene expression. Consequently, snRNA biogenesis is fundamental to biology. snRNA 3' end maturation, which requires cleavage at the 3' end of the primary transcript of snRNAs,  is essential for snRNA biogenesis.  snRNA 3' maturation evolved differently among metazoans, fungi and plants. The protein factors involved in snRNA 3' end processing were unknown in plants. Consequently, the mechanism governing plant snRNA 3' maturation is not clear. The goal of this project is to better understand plant snRNA 3' maturation.  The DSP1 complex required for snRNA 3' maturation was recently identified in Arabidopsis. This project will dissect the functional mechanism of the DSP1 complex through testing the following hypotheses: 1) The DSP1 complex functions as complex to process pre-snRNAs; 2) The DSP1 complex requires cis-elements within pre-snRNAs for its recruitment and activity; 3) The DSP1 complex has other targets beyond snRNAs, which are important for development. The completion of this project will provide insight into snRNA 3' maturation mechanism, a long-standing question in plant biology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818082</AwardID>
+<Investigator>
+<FirstName>Bin</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>byu3@unl.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chi</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>czhang5@unl.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9177</Code>
+<Text>ELEMENTARY/SECONDARY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

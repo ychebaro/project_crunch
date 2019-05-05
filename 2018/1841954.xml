@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Redistricting Design via Clustering in Euclidean and Planar-Graph Metrics</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rahul Shah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The award deals with the design and analysis of algorithms for geographical problems, and algorithms for computational problems involving forming clusters of input datapoints. As an example, the project will involve investigation of a particular approach to electoral redistricting by computer, an approach that builds on clustering techniques and concepts.  The goals of the project are to design and assess redistricting methods that will yield compact, contiguous districts that are population-balanced to within a difference of one person, to quantitatively evaluate the compactness of the districts, to seek faster algorithms to compute the districts, and to study the degree to which the method is resistant to gerrymandering. One potential impact of this activity is to help inform the ongoing societal discussion of redistricting by demonstrating the availability of a transparent redistricting methods that achieve high-quality fair districting plans.  Another potential impact is in the training of new computer scientists.  Because research on redistricting addresses a perceived problem in society, it attracts and engages many people, especially those motivated by a desire for positive societal impact.  The project will support training both directly and indirectly.  First, students, particularly women and members of historically underrepresented groups, will be recruited to assist in performing this research and in disseminating the results. Second, the disseminated results will inspire and encourage people to study computer science.  This project will serve as an example of how algorithms can be used for social good. &lt;br/&gt;&lt;br/&gt;The research draws on the study of the following optimization problem: given an integer k and a set of points in a metric space, find a partitioning of the given points into 'k' clusters so as to minimize the sum of squared intra-cluster distances subject to each cluster being assigned a '1/k' fraction of the locations.  Although this problem is computationally intractable, even a locally-optimal solution has desirable characteristics; for example, if the metric space is the Euclidean plane, the clusters can be represented by convex polygons with few sides on average. There are several obstacles to using this approach in practical redistricting, such as: (1) exact locations of people are not available; (2) finding a locally optimal solution can be time-consuming; (3) the Euclidean metric does not take into account geographical  barriers. The project will explore ways of overcoming these obstacles.  In addition, the project will investigate other questions, such as how well does local search approximate the minimum sum of squared distances, and how easy or difficult is it to find local solutions that give one group a significant political advantage.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841954</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Klein</LastName>
+<EmailAddress>klein@brown.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown University</Name>
+<CityName>Providence</CityName>
+<ZipCode>029129002</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress>BOX 1929</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>SPECIAL PROJECTS - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

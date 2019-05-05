@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Investigating quantum critical and topological dynamics in f-electron materials</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>356600</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Abstract: Lanthanide- and actinide-based materials comprise a rich reservoir of new and novel properties of fundamental scientific interest and potential applications in current and future technologies.  These f-electron quantum materials are found in the periodic table of the elements starting with lanthanum and actinium. Here we search for new quantum materials based on lanthanide and actinide elements. This specifically includes materials containing cerium, praseodymium, samarium, europium, ytterbium and uranium. Detailed investigations of the physical properties and underlying physics will be pursued with the primary goal of characterizing the  striking phenomena of fundamental interest and relevance to technology. These studies are expected to yield new materials that will advance technological applications. This includes thermoelectric cooling and electrical power generation, magnetocaloric refrigeration, magnetic sensors, magnetic information storage, quantum computing, and high temperature superconductivity for electronics, magnetic resonance imaging, and the generation, transmission, and storage of electrical energy.  This program contributes to the education and training of postdoctoral scholars and graduate and undergraduate students, some of which are from underrepresented groups.  The PI's and their group members are involved in community outreach activities, including laboratory tours for high school and undergraduate students, science demonstrations at local elementary schools, and popular lectures.&lt;br/&gt;&lt;br/&gt;Technical Abstract: Lanthanide- and actinide-based f-electron quantum materials comprise a rich reservoir of correlated electron phases and phenomena, including valence fluctuations, heavy fermion behavior, Kondo insulator behavior, quantum criticality, non-Fermi liquid behavior, metal-insulator transitions, unconventional superconductivity, magnetic and charge order, and topological phenomena. Competing interactions can be "tuned" by varying non-thermal control parameters such as chemical composition, pressure, and magnetic field, leading to complex phase diagrams containing a multitude of these correlated electron phases and phenomena. Of particular interest are unconventional superconductivity, exotic magnetic phases and non-Fermi liquid behavior in low temperature physical properties that occur in the vicinity of a quantum critical point where a second order phase transition (usually, antiferromagnetic) is suppressed to 0 K. The objectives of the proposed research are to characterize these extraordinary phases and phenomena, determine the conditions under which they are formed, identify underlying microscopic mechanisms, and test appropriate theories. The approach involves materials synthesis (particularly single crystals) and measurement of the transport, thermal, and magnetic properties of these materials as a function of temperature, composition and magnetic field. This is complemented with quasiparticle dynamics measurements using ultrafast optical spectroscopy, providing a powerful means to interrogate and temporally disentangle charge, spin, lattice, and orbital degrees of freedom.  A broad range of correlated f-electron materials such as filled skutterudite compounds and the Kondo insulator samarium boride, a candidate for a correlated electron topological insulator, and its alloys will be investigated.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810310</AwardID>
+<Investigator>
+<FirstName>M. Brian</FirstName>
+<LastName>Maple</LastName>
+<EmailAddress>mbmaple@ucsd.edu</EmailAddress>
+<StartDate>08/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Averitt</LastName>
+<EmailAddress>raveritt@ucsd.edu</EmailAddress>
+<StartDate>08/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1762</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

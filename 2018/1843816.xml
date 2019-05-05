@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Novel Method To Quantitatively Assess Spinal Alignment Intraoperatively With Reduced Reliance On Radiation-Based Imaging</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase 1 project will advance technology to significantly improve the standard of care within corrective surgery for spinal deformity. Approximately 55,000 patients with spinal deformity seek improvement in their reduced quality of life through surgery each year in the US. The goal of these surgeries is to mechanically adjust and fix the spine into a biomechanically balanced position.  It is common for surgeons to plan these intensive surgeries before the operation.  However, the operating room environment introduces many challenges that make it difficult for the surgeon to measure the contour of the patient's spine as it changes during surgery.  Current commercial offerings rely on radiation-based imaging which involves significant operative delays, ionizing radiation exposure, and narrow 2-dimensional fields of view.  These suboptimal solutions contribute to the high rates of continued postoperative deformity along with the need for repeated surgeries. This project focuses on the development of imaging technology that will enable real-time, 3D, whole-spine assessments of a patient's spinal alignment with significant reduction in both time per alignment assessment and radiation exposure compared to current standards. By providing real-time, quantitative feedback to surgeons during these cases, the technology stands to greatly improve surgical outcomes and reduce the need for repeat operations. &lt;br/&gt;&lt;br/&gt;This project repurposes the functionality of an off-the-shelf optical tracking system by coupling it with novel hardware and software registration algorithms.  When coupled with these enhancements, the camera system will enable rapidly-generated, quantitative measurements of a patient's spine while in the operating room.  By leveraging technology that is already present in the majority of surgical centers, the path to commercialization for this innovation is greatly accelerated. This removes the need for most centers to purchase additional capital equipment, while also integrating seamlessly into a system that is familiar to many surgeons. The expansion of this high-precision technology will also enable more data-driven and patient-specific decisions to be made for a variety of surgeries The project is led by a multidisciplinary team of scientists, engineers, and world-class neurosurgeons with experience in translating medical devices into impactful commercial products. The aims within this project include the development of novel tracking-system augmentation hardware, image-analysis algorithms, optimization of accuracy via benchtop testing, and validation via testing with cadaveric specimens.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843816</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Gullotti</LastName>
+<EmailAddress>dmgullotti@gmail.com</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate>03/27/2019</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amir</FirstName>
+<LastName>Soltanianzadeh</LastName>
+<EmailAddress>amir@spinealignsurgical.com</EmailAddress>
+<StartDate>03/27/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Spine Align LLC</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212024113</ZipCode>
+<PhoneNumber>8183009704</PhoneNumber>
+<StreetAddress>8 Market Place</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

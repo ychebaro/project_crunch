@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Prototyping a Multiple-Input Multiple-Output Single-Carrier Modulation Turbo Transceiver for Robust Underwater Wireless Communications.</AwardTitle>
+<AwardEffectiveDate>08/31/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project is enabling reliable wireless communications in several underwater technology markets which include ocean exploration and discovery, underwater recreation, fishery industry, subsea oil and gas industry, underwater environmental and infrastructure monitoring,  and military. The project aims at increasing reliability and information data rates in underwater wireless communication links by an order of magnitude over existing technologies. When applied to Autonomous Underwater Vehicles (AUVs) and wireless sensor networks, the proposed technology leads to great potential in reducing operational costs, improving efficiency, reducing safety risks, and enabling new capabilities such as Internet of Underwater Things (IoUT). The development of multidisciplinary education and student training from both engineering and entrepreneurial perspectives further impacts the next generation workforce by attracting women and underrepresented groups.&lt;br/&gt;&lt;br/&gt;The proposed project bridges the knowledge gap between Matlab post-processing and real-time hardware implementations of Multiple-Input Multiple-Output (MIMO) Turbo transceivers. A MIMO transceiver transmits multiple data streams via multiple transmit elements to increase data rate, and uses multiple receive elements to improve the reliability. The past research of the principle investigator have demonstrates via ocean experiments and post processing that Turbo receiver is effective in combatting hostile underwater acoustic communication channels by utilizing advanced error-correction coding and channel equalization. The main goal of this project is to design and validate a prototype that demonstrates real-time operation of the MIMO Turbo transceiver in underwater acoustic environment, achieving 50 - 100 kilo-bits-per-second (kbps) information data rate over 1 - 10 km distance and at 99.99% reliability. This is at least an order of magnitude improvement over existing underwater acoustic communication systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853258</AwardID>
+<Investigator>
+<FirstName>Yahong</FirstName>
+<LastName>Zheng</LastName>
+<EmailAddress>yrz218@lehigh.edu</EmailAddress>
+<StartDate>11/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lehigh University</Name>
+<CityName>Bethlehem</CityName>
+<ZipCode>180153005</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress>Alumni Building 27</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

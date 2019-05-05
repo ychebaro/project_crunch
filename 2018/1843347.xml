@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  High-Energy X-ray Gratings for Nondestructive Evaluation</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the development of advanced X-ray imaging, high-energy X-ray grating-based interferometry, systems for nondestructive evaluation of additive manufacturing components. The image quality of the high-energy, X-ray grating-based interferometry imaging system will be advantageous for detecting critical size flaws &lt;br/&gt;on flight critical aerospace components, such as turbine components, and medical devices such as customized hip cups. Interferometry radiography is capable of detection of sub-micron to micron voids at a rate faster than conventional industrial X-ray CT scanning. Imaging speed and quality is important; some flight critical components face a reject rate of 10% based on the current X-ray CT scans.  The goal of better image quality is feedback into the additive manufacturing print parameters so as to increase part yield and reliability. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will be the first to commercialize high-energy, X-ray grating interferometry in the US.  The interferometry concepts for this proposal are novel and have been partly derived from the NSF-supported gravity wave detection facility, the Laser Interferometry Gravitational-wave Observatory (LIGO), which led to a hardware/software patent for high-energy X-ray grating optics and software. The microfabricated gold and/or nickel structures on silicon or graphite wafers have exceedingly high aspect ratios, requiring the use of support structures for physical stability of the microfabricated features.  The support structures introduce image noise and diminished interferometry performance.  The LIGO-derived procedure accommodates the support structures, restoring image quality and instrument performance.  The support structures are especially important for optics used with high-energy X-rays, such as systems designed for inspection of additive manufacturing metal components&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/01/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843347</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Vincent</LastName>
+<EmailAddress>mvincent@refinedimagingllc.com</EmailAddress>
+<StartDate>02/01/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>REFINED IMAGING, LLC</Name>
+<CityName>BATON ROUGE</CityName>
+<ZipCode>708105978</ZipCode>
+<PhoneNumber>2252022129</PhoneNumber>
+<StreetAddress>17901 INVERNESS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

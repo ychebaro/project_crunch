@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Effective Boundedness Results in Algebraic Geometry</AwardTitle>
+<AwardEffectiveDate>08/16/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>109998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michelle Manes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The purpose of this project is to study connections between different aspects of geometry: birational geometry and differential geometry. Specifically, it deals with natural questions on how many geometric objects possessing given properties arising both in algebraic geometry and differential geometry do exist. Such questions are known as "boundedness of classes of algebraic varieties." The project is divided in two parts in which the PI will especially aim to understand different geometrical aspects related to the boundedness of certain classes of varieties (geometric objects defined as zero loci of polynomial equations) and applications of such results. The main aim is to develop methods that can be used to extend classical results in low-dimensional geometry to higher dimensions using techniques arising from the developed in the last 20 years theory known as the "minimal model program." Some of these results will have application to string theory in mathematical physics.&lt;br/&gt;&lt;br/&gt;The first part of the project focuses on boundedness of Calabi-Yau varieties. Even though Calabi-Yau manifolds are very simple algebraic varieties from many points of view, their boundedness properties are still poorly understood. The main goal of this part of the project is to study elliptic fibered Calabi-Yau varieties. It is known that in low dimensions they satisfy interesting boundedness properties and the PI intends to extend such results in arbitrary dimension. These results have applications to the minimal model program, the classification of algebraic varieties and F-theory. The last part of this project aims to explore the implications of similar techniques to the theory of Kahler-Einstein metric with cone-edge singularities. The main motivation for this project is the study of the birational geometry of toroidal compactifications of ball quotients and more generally of higher ranks locally symmetric varieties. As part of this project, the PI intends to develop techniques that eventually will work even with compactifications of finite volume Kahler manifolds with pinched negative sectional curvature.</AbstractNarration>
+<MinAmdLetterDate>11/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817309</AwardID>
+<Investigator>
+<FirstName>Gabriele</FirstName>
+<LastName>Di Cerbo</LastName>
+<EmailAddress>gdi@princeton.edu</EmailAddress>
+<StartDate>11/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

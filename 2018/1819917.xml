@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Quasi- Semi-Active Seats (QSAS) for Heavy Machinery</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project focused on a novel seat design that reduces vehicle-based whole-body vibration and shock will 1) better protect human health while 2) addressing major transportation markets including trucking, agriculture, construction, military vehicles, and mass transit, as well as automobiles and water-/land-based recreational vehicles.  The envisioned socio-economic impact is significant:  Continual exposure to whole-body vibration and shocks can cause discomfort, reduction in work performance, and chronic low-back pain for vehicle operators and passengers.  Low-back pain is the largest component of disability among all occupational-related injuries. Though so-called "active" seats can help reduce these vibrations/shocks, their high cost is a major barrier. The low-cost seats being pursued here could benefit millions of vehicle operators. The work will also result in a greater scientific and technological understanding of the sources/effects of and potential remedies for whole-body vibration and shock. The suspension system market is projected to grow at a CAGR of 5.11%, by value, from 2016 to 2021. The market is expected to grow from USD 52.38 Billion in 2015 to USD 67.22 Billion by 2021.  The market for bus seats alone is expected to be at $10.03 Billion by the year 2022.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project is focused on the feasibility of a quasi-semi-active seat (QSAS) technology.  Seating design for heavy equipment and vehicle operators has faced a trade-off between performance and cost. The most-complex 'active seats' reduce vibration but are cost-prohibitive at $3,500. Semi-active seats are simplified active seats and perform better than passive seats, but still magnify input vibration and cost several thousand dollars. Passive seats are the least expensive, but they magnify input vibration at low frequencies.  Recent design/material advances and strong preliminary data set the stage for developing an innovative passive seat at a fraction of the cost of semi-active seats that will reduce input vibration at low frequencies. Phase I feasibility will be shown using sliding friction to mitigate vibration at low frequency.  A QSAS prototype will be built and used to show potential in laboratory and field settings.  Technical challenges will involve material selection that will show maximum vibration mitigation and dissipation, as well as integration of the cushion with a suspension system that can handle the weight of a seated person. The research will determine effective performance parameters under different magnitudes and frequencies of vibration that simulate realistic operational conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819917</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>DeShaw</LastName>
+<EmailAddress>jonathan@actibiomotion.com</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ACTIBIOMOTION, LLC</Name>
+<CityName>Coralville</CityName>
+<ZipCode>522414716</ZipCode>
+<PhoneNumber>5635438505</PhoneNumber>
+<StreetAddress>2261 Crosspark Rd Ste 202</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

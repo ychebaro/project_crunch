@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Bio-Inspired Underwater Vessels for Coastal Monitoring, Inspection and Station-Keeping</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to understand the problems that the industry and federal agencies face during the operation of underwater vehicles for applications such as, ocean monitoring, inspection of coastal structures, rescue missions and/or hydrographic survey. Autonomous underwater vehicles (AUVs) are key for multiple underwater missions including detecting and mapping submerged wrecks, ocean bed-floor, polluted water, as well as surveillance of coastal zones and coastal structures. In many circumstances AUVs are preferred over conventional towed instruments or marine surface vehicles because AUVs can get closer to the area of interest, they can cover large areas without constant monitoring or hover hazardous areas without putting at risk humans life. Although current AUVs have many capabilities, one main limitation is their inability to perform precise station-keeping which allows the vehicle to hold its position and adjust for currents. New technology in underwater propulsion will permit the development and control of a new generation of highly maneuverable vessels that have to operate in more challenging environments. The proposed work is expected to increase the partnership between academia, marine industries and national defense agencies. In addition, it will promote the progress of science and national security using bio-inspired technology.&lt;br/&gt;&lt;br/&gt;This I-Corps project focuses in the propulsion technology and control strategy for AUVs that needs to operate in tight space, low-speed with high mobility and perform station-keeping missions. Bio-inspired undulating fin can provide multiple advantages including: superior maneuverability to control forward motion and directional maneuver with a single undulating fin; precise maneuvers suitable for station-keeping and maneuvers in tight spaces; reduce risk to get tangled in marine plants and ropes with less impact on the marine ecosystem; relative low speed with likely lower acoustic signature.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840022</AwardID>
+<Investigator>
+<FirstName>Oscar</FirstName>
+<LastName>Curet</LastName>
+<EmailAddress>ocuret@fau.edu</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Atlantic University</Name>
+<CityName>BOCA RATON</CityName>
+<ZipCode>334316424</ZipCode>
+<PhoneNumber>5612970777</PhoneNumber>
+<StreetAddress>777 GLADES RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

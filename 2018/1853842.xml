@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DMR2D Workshop</AwardTitle>
+<AwardEffectiveDate>11/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>28455</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eva Campo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is part of a larger initiative in the realm of 2 dimensional materials to envision and implement how data sciences can contribute to the development of this discipline to elucidate structure/processing/property correlations. At present, many materials problems of technological relevance suffer from lack of data frameworks. Indeed, lack of adequate frameworks to process, curate, and share complex raw data hinders progress in this field, ultimately not realizing the promise of 2 dimensional materials commercial technologies. In short, materials scientists are inundated with multi-dimensional data from many sources, both experimental and computational, and vast amounts of data are under-utilized, repeatedly acquired, or thrown out completely. purpose of this workshop is to provide students and postdocs with the adequate training to effectively build and use the needed framework towards sound data schemes and repositories in the realm of 2 dimensional materials. &lt;br/&gt;&lt;br/&gt;This meeting is the first training event for students and postdocs of the recently constituted NSF-2D Data Framework (2DDF), which will be complemented by further training, as well as PI meetings that will result in a data platform, developed by PIs in a bottom up fashion.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853842</AwardID>
+<Investigator>
+<FirstName>Tyrel</FirstName>
+<LastName>McQueen</LastName>
+<EmailAddress>mcqueen@jhu.edu</EmailAddress>
+<StartDate>11/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Phelan</LastName>
+<EmailAddress>wphelan2@jhu.edu</EmailAddress>
+<StartDate>11/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Elbert</LastName>
+<EmailAddress>elbert@jhu.edu</EmailAddress>
+<StartDate>11/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212182686</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>1101 E 33rd St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7222</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

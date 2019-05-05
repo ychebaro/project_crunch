@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: NSF-BSF: CORE: Small: Attacking and Defending the Lifespan of Mobile and Embedded Flash Storage</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Indrajit Ray</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project explores approaches to attack and defend the lifespan of flash storage in small mobile devices. While the project focuses on smartphones, the research is applicable to any small flash-based device that allows users to install applications, including smart watches, Internet-of-Things (IoT) devices, computerized medical equipment, and computer-managed critical infrastructure. It is well understood that, over time, writing to flash storage will physically wear out the device.  This problem is considered a nonissue with respect to enterprise Solid State Drives (SSDs). However, preliminary findings of this research indicate that wear is unresolved in the context of smartphones.  A malicious, unprivileged application can secretly render a phone permanently inoperable in a few short days or weeks, and current mobile systems have no protection against this attack. The risk is exacerbated by the fact that mobile device users typically trust their app store ecosystem and are in the habit of trying out third-party apps with a sense of safety. The goal of this project is to develop ways to alleviate the problem.&lt;br/&gt;&lt;br/&gt;Our society is rapidly moving into the era of ubiquitous computing. Users depend on smartphones for wide-ranging aspects (such as commerce, education, and healthcare), and wearables and internet-connected gadgets likewise proliferate. Moreover, an increasing amount of critical infrastructure is internet-connected via small embedded devices, which may thus control physical systems. This research identifies and addresses a critical vulnerability that seriously undermines the ability of users to trust that downloading a new application will not ruin their mobile devices. If unmitigated, this vulnerability might severely hamper the usability of such devices. To address the problem, this project is studying the input/output behavior of mobile devices and applications. Based on this behavioral analysis, the project explores new attacks on and defenses for flash wear. The end goal is to create defenses that are minimally disruptive to end users, yet provide a lower bound on the lifetime expectancy of the device. This work advances the state of the art of operating systems by creating techniques to manage permanently consumable resources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816263</AwardID>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Porter</LastName>
+<EmailAddress>porter@cs.unc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>022Z</Code>
+<Text>International Partnerships</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

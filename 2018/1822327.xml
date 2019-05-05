@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Computational Operations Research Exchange (CORE)</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>296998.00</AwardTotalIntnAmount>
+<AwardAmount>305018</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This EArly-concept Grant for Exploratory Research (EAGER) award will support the progress of science and advance the national prosperity and welfare by transforming how urban systems researchers use data analytics in their studies. Scientific progress in many operational problems in urban mobility, energy and water usage, public safety, and healthcare is limited by lack of access to real-world data. Currently, new models and algorithms developed by the operations research community are often tested on simulated datasets that may not reflect real operating conditions. Research supported by this project will enable the creation of a novel Computational Operations Research Exchange (CORE) platform that aims to overcome these limitations. CORE platform will allow researchers from different disciplines to leverage actual operational data and compare their methods and results on realistic scenarios. The exchange platform will also provide a mechanism to encourage cross-disciplinary collaborations, which are important to innovative solutions to complex societal problems. &lt;br/&gt;&lt;br/&gt;The project will use a Systems-of-Systems approach to build a re-usable cyber-infrastructure for operations research models.  With today's availability of open access public datasets, the platform will provide a plug-and-play paradigm which can share data, models and algorithms in a seamless manner, allowing researchers to effectively compare algorithms on real datasets.  The project will begin with three use-cases drawn from applications in energy, transportation, and urban analytics.  The PIs will design protocols so that these applications will be instantiated using data available across many different regions in the country, thus allowing models of similar scope to be tested using regional datasets.  The platform will provide generic model interfaces, where alternative model types will be allowed to work on common datasets for comparison purposes.  The PIs are committed to working closely with women and&lt;br/&gt;minorities and will involve two women Ph.D students in this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822327</AwardID>
+<Investigator>
+<FirstName>Suvrajeet</FirstName>
+<LastName>Sen</LastName>
+<EmailAddress>suvrajes@usc.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carl</FirstName>
+<LastName>Kesselman</LastName>
+<EmailAddress>carl@isi.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900890001</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>University Park</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>078E</Code>
+<Text>ENTERPRISE DESIGN &amp; LOGISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5514</Code>
+<Text>OPERATIONS RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

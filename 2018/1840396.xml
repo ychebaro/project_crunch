@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Aging-centric Engineering Technologies (AgETech)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>98385</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eduardo A. Misawa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.&lt;br/&gt;&lt;br/&gt;This planning grant to establish an Engineering Research Center brings together researchers from Iowa State University, Arizona State University, Georgia Tech, and University of California Irvine to study how engineering technologies can be used to improve the everyday functioning of older U.S. adults as they age. Older adults represent the fastest-growing demographic group, which is creating urgent and largely unmet needs for affordable services, technologies, and environmental support infrastructure for these citizens to age optimally. Our engineering approach will have a high societal impact by meeting the needs of older adults and better preparing individuals, families, and communities for optimal and affordable aging. Our proposed approach will integrate concepts and ideas from engineering, life sciences, computational sciences, and social sciences to provide affordable solutions to the scientific and societal challenges associated with aging. The planning grant activities will enable us to expand research capacity in this area by connecting with a broad range of stakeholders and industry. Our educational and outreach activities will produce diverse, creative, responsible, entrepreneurial, and globally engaged leaders. All these activities will lead to an improved fundamental understanding of the most important needs of aging in place and help create a new research paradigm with engaged stakeholders to provide transformative and affordable solutions to optimal aging and reduce growing healthcare costs.&lt;br/&gt;&lt;br/&gt;Our proposed approach will integrate convergent research, education, and technology transfer programs focused on novel sensor and network technology integrated with Internet of Things data fusion, designer materials for delivery, and cognitive competence and enhanced everyday functioning. Together with our industrial and innovation partners, we will transform the design and manufacture of aging-centric technologies and lead to rapid commercialization by a systems-approach encompassing scientific, social, and behavioral considerations from the earliest stages of conceptualization. The planning grant activities will help us to: (i) expand research capacity in this research area; (ii) integrate new education, outreach, and technology transfer activities across the partner institutions; (iii) engage a broad group of stakeholders and industrial partners; (iv) strategize on team formation and effective leadership/management; and (v) design and implement a national survey of older adults to further guide our research vision. All of these planning grant activities will lead to the development of the full complement of skills needed to successfully address this complex societal challenge and build effective relationships with a diverse stakeholder community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840396</AwardID>
+<Investigator>
+<FirstName>Thurmon</FirstName>
+<LastName>Lockhart</LastName>
+<EmailAddress>thurmon.lockhart@asu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ramesh</FirstName>
+<LastName>Jain</LastName>
+<EmailAddress>jain@ics.uci.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Hertzog</LastName>
+<EmailAddress>christopher.hertzog@psych.gatech.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Balaji</FirstName>
+<LastName>Narasimhan</LastName>
+<EmailAddress>nbalaji@iastate.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Margrett</LastName>
+<EmailAddress>margrett@iastate.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

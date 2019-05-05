@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  ActivSignal Protein Profiling from Serum Exosomes for the Early Detection of Pancreatic Cancer</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This STTR Phase I project will develop a transformative platform for inexpensive screening for pancreatic cancer detection, based on profiling of cancer-related proteins from a small blood draw.  Pancreatic cancer is one of the deadliest types of cancer, killing over 50,000 each year in the US, and with a five-year survival rate below 7%.  However, currently there are no reliable diagnostic tests for pancreatic cancer, and the great majority of cases are detected at a late stage, with bleak mortality rates as a result.  As cancer is driven fundamentally by a dysregulation of key protein networks, directly measuring the activity of key proteins provides a robust bio-signature for cancer detection. The project will develop a scientifically novel diagnostic technology based on broad protein profiling for the accurate and low cost detection of pancreatic cancer, and thereby shift the therapeutic field of battle to an earlier stage of the disease, where the current treatments can be more effectively harnessed to improve patient outcomes and save lives, avoid unnecessary and ineffective procedures, and generate health system cost savings across the US and elsewhere. Commercialization of this diagnostic platform is expected to drive creation of a substantial enterprise, and related employment and tax-revenues.&lt;br/&gt;&lt;br/&gt;The major innovation of this project is the breakthrough technology for monitoring the state of dozens of cancer-related proteins in biological samples and its application for diagnosing pancreatic cancer from a minute sample of a patient?s blood. The innovative platform has superior levels of sensitivity and accuracy compared to existing technologies, and also offers substantially lower costs, which are critical advantages for the diagnostic application. A further innovation in this project is the development of the analytic engine and the bio-signature knowledge base, that will be used for analysis of the patient?s protein profile.  In this project, the Company will focus on several key technical challenges to develop and validate a 1.0 version of its diagnostic platform for pancreatic cancer detection:  i. identifying a robust, differentiated multi-target, bio-signature for pancreatic cancer; and ii. doing so with an accuracy and at a sufficiently early stage in the cancer emergence and progression to be medically useful. This project will extensively profile biobank samples from various stages of pancreatic cancer and normal patients to generate the differentiated bio-signatures, develop a diagnosis prediction engine to match the bio-signatures and inform diagnoses, and validate those results using additional samples. This award reflects NSF's statutory mission and has been deemed worth of support through evaluations using the Foundation?s intellectual merit and broader impacts review criteria.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843738</AwardID>
+<Investigator>
+<FirstName>Ilya</FirstName>
+<LastName>Alexandrov</LastName>
+<EmailAddress>ialexandrov@activsignal.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Glazer</LastName>
+<EmailAddress>glazerr@georgetown.edu</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ActivSignal, LLC</Name>
+<CityName>Belmont</CityName>
+<ZipCode>024782133</ZipCode>
+<PhoneNumber>6175926686</PhoneNumber>
+<StreetAddress>142 Marsh St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

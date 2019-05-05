@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Reconstructing the Biology of Ancestral Vertebrate Genomes</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardAmount>226425</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Arcady Mushegian</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will reveal the deep evolutionary history of vertebrate genomes, specifically a phenomenon known as programmed genome rearrangement (PGR) that removes a substantial portion of DNA from most cell types in the animal body during early embryonic development. The animals whose genomes will be analyzed include simple vertebrates such as sea lamprey, elephant shark and little skate. Also important is the impact that this research will have on the two lamprey species that are of critical cultural importance to the indigenous people that inhabit their native ranges (the Pacific lamprey and pouched lamprey), and biocontrol of invasive sea lamprey. Undergraduate, graduate and professional training in bioinformatics will be provided together with outreach to students and underrepresented groups in tribal communities of the Pacific Northwest and New Zealand and in the Commonwealth of Kentucky.&lt;br/&gt;&lt;br/&gt;The proposed studies will leverage several analytical approaches that were recently developed for lamprey, in order to more accurately reconstruct the ancestry and evolution of vertebrate genome biology. First, genome assemblies will be generated for several taxa that strategically fill sampling gaps in the tree of life (sharks, hagfish and lampreys). Chromosome-scale scaffolding of these assemblies will employ a single-sperm sequencing approach to develop dense linkage maps for species that are not amenable to laboratory culture. The physical structure and gene content of the vertebrate ancestor and the ancestors of all major vertebrate lineages will be reconstructed. Second, comparative sequencing of DNA from germline and somatic tissues will shed light on the origin(s) of programmed genome rearrangement and the evolution of sequences that are targeted for elimination. Third, comparative embryological methods and bisulfite sequencing will be used to characterize patterns of DNA methylation and test the hypothesis that programmed genome rearrangement is mechanistically tied to fundamental silencing events that occur during the earliest stages of vertebrate development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818012</AwardID>
+<Investigator>
+<FirstName>Jeramiah</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>jjsmit3@uky.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Kentucky Research Foundation</Name>
+<CityName>Lexington</CityName>
+<ZipCode>405260001</ZipCode>
+<PhoneNumber>8592579420</PhoneNumber>
+<StreetAddress>109 Kinkead Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kentucky</StateName>
+<StateCode>KY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

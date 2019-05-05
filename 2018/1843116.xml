@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Controlling plant pathogens with novel seed treatments based on nematode-produced ascarosides</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>224923</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop a novel seed treatment technology for plants, based on small naturally occurring molecules proven to activate natural defenses against a wide range of agriculturally important pathogens. The proposed innovation as a plant protectant is active at very low concentrations (nM range), can be readily synthesized in large quantities, and is biodegradable and non-toxic. To feed a projected world population of over 9 billion people in 2050, innovation will be required at all stages of crop production and distribution. Annual application of more than 600 different chemical pesticides (500 million Kg) costs $10 billion, and yet 37% of all crops are still destroyed by pests (insects 13%, pathogens 12%, weeds 12%). By providing an alternative, effective method for managing transmissible diseases in major crops, dependence on existing agrochemicals such as copper, synthetic fungicides and antibiotics will be reduced, as will the rate of resistance development. The goal is to improve the economic and environmental sustainability of agriculture by reducing the use of potentially harmful pesticides, and significantly enhance food security worldwide. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this SBIR project is to develop a novel control for plant pathogens by leveraging a class of small, naturally occurring molecules that elicit specific immune responses in plants. These small molecules are recognized by plants at extremely low concentrations, and their perception has been demonstrated to result in defense responses and enhanced resistance to viral, bacterial, oomycete, and fungal pathogens, in Arabidopsis, tomato, potato, barley, and wheat. In order to bring the innovation to market in the form of a commercial seed treatment, the following must be demonstrated: a seed-coating formulation capable of long-term stability and efficacy, without adverse effect on seed germination or natural microbe/insect populations. The focus of the proposed Phase I project will be to optimize synthesis of the compound of interest and develop a stable, commercially viable formulation that is effective across a breadth of crops. Following initial validation, product testing will advance to in vivo efficacy testing in greenhouse and field trials. The seed treatment product developed will establish the technical and economic feasibility of using small-molecule signals to activate plant immune responses, and demonstrate their utility to improve economic and environmental sustainability of agriculture.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843116</AwardID>
+<Investigator>
+<FirstName>Murli</FirstName>
+<LastName>Manohar</LastName>
+<EmailAddress>manohar.iitr@gmail.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ascribe Bioscience Inc.</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148505795</ZipCode>
+<PhoneNumber>6077039083</PhoneNumber>
+<StreetAddress>950 Danby Road, Suite 101</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Algebraic Structures over Fields of Functions</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>285000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janet Striuli</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project concerns the use of geometric ideas to study problems in algebra.  Algebra and geometry are generally regarded as separate areas of mathematics.  Nevertheless, it can be very fruitful to use them in combination, as observed by Descartes through the use of graphs.  In geometry, one can often study global properties of spaces by examining the local behavior of the spaces.  Using the connection between algebra and geometry, it is sometimes possible to study problems in algebra as well, by reducing global questions to ones that are viewed as more local.  The goals of the project involve generalizing this approach to new situations, including higher dimensional spaces, in order to solve open problems that arise in several areas of algebra.&lt;br/&gt;&lt;br/&gt;The first goal is to generalize to higher dimensions the method of field patching that has so far been developed only in the context of varieties of dimension one, over a complete discretely valued field.  The second goal is to use this generalization to obtain local-global principles for algebraic structures over higher dimensional function fields.  Such structures include central simple algebras, torsors under linear algebraic groups, and quadratic forms.  These local-global principles in turn are expected to lead to results on numerical field invariants such as the period-index bound and the u-invariant.  The activities of the proposal will also have broader impacts in terms of mentoring, enhancing the research infrastructure, and communicating mathematics outside of academia.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805439</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Harbater</LastName>
+<EmailAddress>harbater@math.upenn.edu</EmailAddress>
+<StartDate>06/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Hartmann</LastName>
+<EmailAddress>hartmann@math.upenn.edu</EmailAddress>
+<StartDate>06/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

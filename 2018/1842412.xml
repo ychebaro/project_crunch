@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A low-cost float for distributed, Lagrangian observations of the biological carbon pump</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardAmount>450002</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace S. Binkley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will develop ocean observing floats using new technologies for tracking and imaging the transport of individual particles to the deep ocean and contribute to our understanding of the biological carbon pump (BCP). Tracking what happens to carbon in our oceans is critical for understanding the world's climate. If successful, the floats will collect data that could provide new insights with respect to our understanding of the Biological Carbon Pump (BCP) and global carbon cycling. The project will also support graduate student participation.&lt;br/&gt;&lt;br/&gt;The transport of organic carbon from the ocean's surface to its abyssal depths plays a central role in regulating atmospheric carbon, and thus the climate. Understanding the "Biological Carbon Pump", is thus crucial to predicting the evolution of the world's climate. However, due to the complexity of this process and the limitations of available observations (largely from bulk geochemical analyses of the contents of particle-intercepting traps), predictions of oceanic carbon sequestration remain extremely uncertain. What we need now are autonomous tools which are both Lagrangian, essential for accurately quantifying respiration, sinking rates, and fluxes, and widely deployable (low cost), essential for reducing spatial and temporal aliasing, and for ensuring statistical significance. The proposed float technology will merge recent technological developments in environmental tag technology and low-cost imaging into a modular, low-cost platform that will result in the next generation of observing platforms and have a large impact on the state of our understanding of important carbon pathways. The goal is to make possible dense distributions of Lagrangian platforms that can directly observe the transport and transformation of individual particles that drive the BCP.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842412</AwardID>
+<Investigator>
+<FirstName>Ken</FirstName>
+<LastName>Buesseler</LastName>
+<EmailAddress>kbuesseler@whoi.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhaohui 'Aleck'</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>zawang@whoi.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kakani</FirstName>
+<LastName>Young</LastName>
+<EmailAddress>kakani@mbari.org</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Allan</FirstName>
+<LastName>Adams</LastName>
+<EmailAddress>awa@MIT.EDU</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Melissa</FirstName>
+<LastName>Omand</LastName>
+<EmailAddress>momand@uri.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rhode Island</Name>
+<CityName>KINGSTON</CityName>
+<ZipCode>028811967</ZipCode>
+<PhoneNumber>4018742635</PhoneNumber>
+<StreetAddress>RESEARCH OFFICE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1680</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

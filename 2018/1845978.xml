@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  The Small RNA Biology of Lophotrochozoa</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardAmount>243465</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Manju Hingorani</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will develop RNA interference (RNAi) technology in lophotrochozoans (mollusks and segmented worms) with the specific goal of aiding the Gulf of Mexico's imperiled oyster fisheries. RNAi is a popular method for affecting an organism's genes, but is relatively untested in this group of animals. The project will identify the distinct ways RNAi works in lophotrochozoans. The insights gained from this research could guide biotechnological strategies to develop and generate desirable traits, such as disease resistance, in a manner that does not create genetically modified organisms (GMOs). Industry players and communities will be engaged to discuss how an RNAi-based approach can support and benefit oyster aquaculture. The research will involve graduate students, postdoctoral fellows and aquaculture specialists as well as students in undergraduate classes at the University of Southern Mississippi. A course series will be offered that explores the project's questions in a semester-spanning format, providing students with bona fide research experiences in the classroom.&lt;br/&gt;&lt;br/&gt;A multidisciplinary experimental strategy involving biochemistry, genetics, and computational biology approaches will be employed in the project. A cornerstone of the research will be high-throughput sequencing-based characterization of small RNAs - the effectors of RNAi. Analysis of sequencing data will be used to determine mode of production, targets, and the fate of foreign RNAs. Preliminary analysis found that oysters have dramatically divergent small RNA populations compared to well-studied animals, suggesting potential for a wholly new RNAi strategy. Subsequent experiments will characterize small RNA behaviors using fractionation, metabolic labeling, and enzymatic treatments. Together these efforts will elucidate an unexplored biology in a diverse clade of animals, with a broader impact goal of developing genetic technology in oysters - an economically and culturally significant species.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845978</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Flynt</LastName>
+<EmailAddress>alex.flynt@usm.edu</EmailAddress>
+<StartDate>12/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern Mississippi</Name>
+<CityName>Hattiesburg</CityName>
+<ZipCode>394015876</ZipCode>
+<PhoneNumber>6012664119</PhoneNumber>
+<StreetAddress>2609 WEST 4TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

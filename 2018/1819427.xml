@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Tunable Lenses For Smart Eyeglasses with Low-Drift and Light-Weight</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project entails alleviation of a human eye condition that has obscured the scientific community for almost a century. Refractive eye error is the most pervasive condition affecting the ocular health of the U.S. population, across all ethnicities. Presbyopia, a widespread form of such refractive error, affects 125 million Americans, and over 1.8 billion people worldwide today. It is caused by reduction of focusing and re-focusing ability of the human eye lens with natural aging. The symptoms range from blurred vision, haziness, and eye strain to headaches, which are sometimes severe enough to affect the quality of life and work ability of subjects. Since the early 1900s, presbyopia has been traditionally treated with fixed power multi-focal and progressive eyeglasses that do not solve the core problem of age-related loss of accommodative ability. The principal goal of this SBIR work is development of key high performance tunable Smart Eyeglasses with good stability and restoration algorithms that will help restore this lost ability. This 21st century device, the world?s first smart auto-focus eyewear, will offer personalized full field normal vision restoration to presbyopic subjects and generate jobs and revenues worth billions of dollars. &lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to implement the feasibility of commercialization of 21st Century variable power smart eyeglasses that will restore the natural accommodation of human eye that is lost to presbyopia due to aging. These adaptive glasses use a combination of fluidic lenses with variable power, ultra-light actuators, distance sensors, and embedded control electronics to continually produce full-field sharply focused view for objects at variable distances. For this proposal, we focus on the research and development of two important aspects of these devices which are key to a successful commercialization. First, is improving the long-term stability of the viscoelastic membranes of these adaptive glasses by using low drift materials instead of PDMS, and secondly, incorporating a closed-loop feedback mechanism using displacement sensors to account for the correction of drifts resulting from the hysteresis and degradation of lens-driving piezo actuators. In the first task, our goal is to achieve an optical power drift of less than 120 milli-Diopter/year, and in the second task, achieve a drift less than 83 milli-Diopter/year. These milestones will result in a lens with drift that is less than 0.25 Diopter over its expected 3 year lifetime, critical for a commercial grade eyewear lens.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819427</AwardID>
+<Investigator>
+<FirstName>Tridib</FirstName>
+<LastName>Ghosh</LastName>
+<EmailAddress>tridib.ghosh@live.com</EmailAddress>
+<StartDate>07/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SharpEyes, LLC</Name>
+<CityName>Salt Lake City</CityName>
+<ZipCode>841113000</ZipCode>
+<PhoneNumber>8014251565</PhoneNumber>
+<StreetAddress>352 S, Denver St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

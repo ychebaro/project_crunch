@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Redefining Electromechanical Energy Conversion Through the use of Magnetic Gearboxes</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project is related to the development of a highly reliable, low maintenance, low noise magnetic gearbox (MG) for electromechanical energy conversion applications.   A MG can create speed change without any physical contact and therefore no gear lubrication is required.  A MG has inherent overload protection capabilities as well as no backlash. By eliminating most mechanical losses MGs offer the potential for increased efficiency whilst providing a longer service life than its mechanical counterpart.  This PFI will focus on translating the MG technology towards commercial application in the areas of renewable energy generation and robotic actuation.  There is a growing need for a new power conversion approach that are more efficient and more reliable than existing mechanical gearboxes and direct-drive generators. For instance, one barrier to increasing the use of wind power generation is the reliability of the drivetrain.  By developing a new type of MG, the reliability and efficiency of the drivetrain could be greatly improved, whilst still being compact in size.  This would thereby reduce the levelized cost of power generation.  In addition, robotic actuators are increasingly being sort that are more reliable and have compliant capabilities, a MG offers such capabilities.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposed project aims to demonstrate that a multistage MG has the potential to attain a competitive torque-to-mass ratio and torque-to-volume ratio with traditional gearboxes whilst also being more reliable, efficient and quieter than existing mechanical gearboxes.  The proposed project will utilize 3-D printing to increase the rate at which design improvements can be made to a unique Halbach rotor MG typology.  A series of MGs will be tested in order to refine and develop a greater understanding of the MG capabilities relative to their mechanical counterparts.  Using prototype devices, a direct cost-performance analysis of the MG technology relative to equivalent mechanical gearbox counterparts will be completed for the first time. The demonstration that a MG can be performance competitive with a mechanical gearbox, whilst also have a significantly longer design life, could transform the way in which power conversion is accomplished.  A MG could therefore find uses in a myriad of applications throughout society. The graduate and undergraduate student involved with this project will receive technology translation and entrepreneurship experiences through the prototype development and commercialization activities associated with this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827801</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Bird</LastName>
+<EmailAddress>bird@pdx.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Portland State University</Name>
+<CityName>Portland</CityName>
+<ZipCode>972070751</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress>1600 SW 4th Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

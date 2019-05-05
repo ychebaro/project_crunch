@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: GreenDataFlow: Minimizing the Energy Footprint of Global Data Movement</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>293595.00</AwardTotalIntnAmount>
+<AwardAmount>325595</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Walton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project fills an important gap in the understanding of data transfer energy efficiency.  The models, algorithms and tools developed as part of this project will help increase performance and decrease power consumption during end-to-end data transfers, which should save significant quantities of resources (estimated to be gigawatt-hours of energy and millions of dollars in the US economy alone).  The applicability and efficiency of these novel techniques will be evaluated in actual applications, in a collaborative partnership with IBM.&lt;br/&gt;&lt;br/&gt;The project explores options for minimizing the energy-use footprint of global data movement. The effort is focused on saving energy at the end systems (sender and receiver nodes) during data transfer.  It explores a novel approach to achieving low-energy end-to-end data transfers, through application-layer energy-aware throughput optimization. The research team investigates and analyzes the factors that affect performance and energy consumption in end-to-end data transfers, such as CPU frequency scaling, multi-core scheduling, I/O block size, TCP buffer size, and the level of parallelism, concurrency, and pipelining, along with the data transfer rates at the network routers, switches, and hubs.   How these parameters decrease energy consumption in the end systems and networking infrastructure, without sacrificing transfer performance, are assessed.  The project will create novel application-layer models, algorithms, and tools for:&lt;br/&gt; - predicting the best combination of end-system and protocol parameters for optimal data transfer throughput with energy-efficiency constraints; &lt;br/&gt; - accurately predicting the network device power consumption due to increased data transfer rate on the active links, and dynamic readjustment of the transfer rate to balance the energy performance ratio; and &lt;br/&gt; - providing service level agreement (SLA) based energy-efficient transfer algorithms to service providers. &lt;br/&gt;The models, algorithms and tools developed as part of this project will help increase performance and decrease power consumption during end-to-end data transfers, saving significant quantities of resources.  Since the tools focus on the application layer, they will not require changes to the existing infrastructure, nor to the low-level networking stack, and wide deployment of the developed system should be readily attainable.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842054</AwardID>
+<Investigator>
+<FirstName>Tevfik</FirstName>
+<LastName>Kosar</LastName>
+<EmailAddress>tkosar@buffalo.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Buffalo</Name>
+<CityName>Buffalo</CityName>
+<ZipCode>142282567</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress>520 Lee Entrance</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7726</Code>
+<Text>DATANET</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Impedance-Transduced BioResistor (ITBR): A Biosensor Architecture for Rapid, Sensitive, Label-Free Quantitation of Proteins.</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>330000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chenzhong Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to electrically detect the binding of protein molecules to virus particles as a means for detecting these proteins at very low concentrations, down to one picomolar.  This detection process involves a new biosensor architecture called the Impedance-Transduced BioResistor consisting of an electrically conductive and very thin plastic film in which are embedded virus particles.  These virus particles are responsible for recognizing and binding to the proteins the authors are detecting.  The electrical resistance of this virus-plastic film is then monitored using two metal electrodes, and the resistance increases when the protein of interest is detected.  The goals for this project are to improve the performance of the Impedance-Transduced BioResistor, to broaden the range of molecules that can be detected, and to discover the detailed mechanism and principle of sensor operation.  It is also proposed to design a multi-channel sensor that provides the capability to simultaneously and rapidly measure ten different proteins.  In coordination with this research program, the investigators will operate a summer outreach program, called NEXTech 2018: Nano Electrochemistry eXtensions to Technology for high school students focusing on electrochemistry and applications to nanoscience.  Laboratory experiments that demonstrate key principles will also be carried out by these students under the supervision of the graduate students funded by this grant.  &lt;br/&gt;&lt;br/&gt;    How can one design electrical interfaces that enable communication between nanoscopic biological structures and an electrical circuit? In this proposal, the authors seek to electrically detect the binding of protein molecules to virus particles as a means for detecting these proteins at concentrations down to 1 pM.  This is accomplished using an extremely simple sensor architecture called the Impedance-Transduced BioResistor that consists of a conductive PEDOT (or poly(3,4-ethylenedioxythiophene) film that contains a high volume density of M13 virus particles engineered to recognize and bind a particular target protein.  As one example, the Impedance-Transduced BioResistor detect the protein human serum albumin (66 kDa) at a concentration of 10 nM and at higher concentrations up to 800 nM.  The response time of these sensors is in the 5 second range.  A major advantage of this sensor design compared with field-effect transistor-based protein sensors - is that its performance is not degraded by the presence of salt in the solution, even at high concentrations of 1M.  Even in this case, large amplitude, high precision electrical responses to the presence of these protein molecules are measured.  &lt;br/&gt;    The goals for this project are to further improve the performance of the Impedance-Transduced BioResistor, to broaden the range of molecules that can be detected, and to discover the detailed mechanism and principle of sensor operation.  It is also proposed to design multi-channel versions of the sensor that provide the capability of measuring ten different proteins in parallel, at the same time.  A deeper understanding of the mechanism by which the Impedance-Transduced BioResistor operates will be sought.  This component of the research will involve testing a series of hypotheses that isolate several candidate mechanisms.&lt;br/&gt;    In coordination with this research program, the authors will operate a summer outreach program, called NEXTech 2018: Nano Electrochemistry eXtensions to Technology for high school students focusing on electrochemistry and applications to nanoscience.  Laboratory experiments that demonstrate key principles will also be carried out by these students under the supervision of the graduate students funded by this grant.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803314</AwardID>
+<Investigator>
+<FirstName>Reginald</FirstName>
+<LastName>Penner</LastName>
+<EmailAddress>rmpenner@uci.edu</EmailAddress>
+<StartDate>05/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Weiss</LastName>
+<EmailAddress>gweiss@uci.edu</EmailAddress>
+<StartDate>05/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7909</Code>
+<Text>NANO-BIOSENSING</Text>
+</ProgramElement>
+</Award>
+</rootTag>

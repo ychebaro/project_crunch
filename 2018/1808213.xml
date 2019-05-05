@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Probing Contrast Mechanisms of Super-resolution Atomic Force Microscopy for Imaging Multifunctional Self-assembled Monolayers</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>485000.00</AwardTotalIntnAmount>
+<AwardAmount>485000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lin He</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professors Tao Ye and Ashlie Martini at University of California, Merced, are combining experimental and computational approaches to study how molecules interact at the atomic level and how this interaction affects the resolution of an imaging tool -atomic force microscope. They hope their findings could improve the ability to image complex, technologically relevant surfaces such as biosensors and devices under practical operating conditions. Given the importance of biosensors and devices in wearable technologies, personalized medicine and national security, the advances made through this project could potentially offer long-term economic and societal benefits. The research goals of the project are complemented by education/outreach objectives that leverage the diverse student population at UC Merced. Professors Ye and Martini plan to actively recruit and train talented graduate and undergraduate students from underrepresented groups. The research team is also engaging with pre-college audiences through a variety of mechanisms. &lt;br/&gt;&lt;br/&gt;A key goal of the research project is to understand the interaction forces between a small number of atoms at the very end of the atomic force microscope (AFM) tip, i.e., the tip apex, and a small number of atoms on the surface; these interactions ultimately determine the subnanometer scale contrast of in situ atomic force microscopy.  Professors Ye and Martini are elucidating the nature of the chemical forces responsible for subnanometer-scale contrast by combining non-contact imaging of nanoscale chemical patterns with a chemically modified AFM tip apex and state-of-the-art molecular dynamics simulations of AFM imaging. Moreover, the team is applying the knowledge to obtain more reproducible super-resolution mapping of the molecular components of DNA-functionalized self-assembled monolayers that have been widely used in electrochemical DNA sensors. The proposed new experimental and computational approaches are filling a critical knowledge gap in the image contrast mechanisms of subnanometer resolution AFM and allow it to become a more reproducible and broadly applicable surface chemical imaging tool.  The new advances may be applicable to a variety of surfaces, including self-assembled monolayer-based biosensors, microarrays, and supported lipid bilayers, and can impact fields from biotechnology to life sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808213</AwardID>
+<Investigator>
+<FirstName>Ashlie</FirstName>
+<LastName>Martini</LastName>
+<EmailAddress>amartini@ucmerced.edu</EmailAddress>
+<StartDate>08/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tao</FirstName>
+<LastName>Ye</LastName>
+<EmailAddress>tye2@ucmerced.edu</EmailAddress>
+<StartDate>08/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California - Merced</Name>
+<CityName>Merced</CityName>
+<ZipCode>953435001</ZipCode>
+<PhoneNumber>2092598670</PhoneNumber>
+<StreetAddress>5200 North Lake Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+</Award>
+</rootTag>

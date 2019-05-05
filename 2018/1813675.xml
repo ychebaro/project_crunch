@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CHS: Small: Support for Self-Tracking and Patient-Provider Collaboration Using Data for Multiple and Evolving Goals in People with Migraine</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>499795</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Technology-supported self-tracking is increasingly common across a variety of everyday domains, including finances, food, location, physical activity, time use, and weight. In the context of personal health, many patients and providers believe technology-supported self-tracking can offer a more complete, accurate, and long-term understanding. However, current tools for technology-supported self-tracking often fail to effectively support the relationship between self-tracking data and the goals that people have for that data. This project will develop new methods and tools to help people represent, manage, and track goals and their relationships to personal data. Working in the specific context of migraine-related tracking, the team will characterize patient self-tracking goals, patient-provider collaboration goals, and the implications of those goals for needs in data collection and analysis. The team will develop new methods and tools for self-tracking, based on using goal templates, as well as new methods and tools for patient-provider collaboration around these goals. The team will work closely with people with migraine and health providers in both the design and assessment of methods and tools, and will further pursue broader impacts through disseminating the methods, tools, and datasets to support others in doing self-tracking research. The project will also provide research and education opportunities for students from grade school to grad school, with the team specifically targeting students from groups that are underrepresented in computing research.&lt;br/&gt;&lt;br/&gt;The team will characterize patient self-tracking goals, patient-provider collaboration goals, and relationships to underlying data through participatory design processes, deployments with people with migraine, and interviews and observations examining patient-provider collaborations. They will develop goal templates that scaffold the process of deciding what, when, and how to track, and will implement these templates together with appropriate analyses and visualizations in a constellation of mobile, web, and back-end self-tracking tools. They will then leverage this novel self-tracking infrastructure to examine the use of goal templates in addressing challenges of customizing tracking to a person's multiple and evolving goals, challenges of integrating tracking into everyday life, and challenges of using heterogeneous data in modeling across multiple and evolving goals. They will also examine the use of goal templates in patient-provider collaboration, including in the collaborative definition of tracking goals and in interactive curation and transformation of data according to the distinct goals and perspectives that patients and providers can bring to the same underlying data. Assessment will be conducted in field deployments, including deployments examining self-tracking by people with migraine, examining patient-provider collaborations in a specialty headache clinic and primary care contexts, and examining approaches to scaffolding of expertise for patients and providers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813675</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Fogarty</LastName>
+<EmailAddress>jfogarty@cs.washington.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Allison</FirstName>
+<LastName>Cole</LastName>
+<EmailAddress>acole2@uw.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

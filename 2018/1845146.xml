@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  Pushing the Theoretical Limits of Scalable Distributed Algorithms</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardAmount>103499</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rahul Shah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Science and engineering are becoming more reliant on analyzing data sets that have massive size. Processing these data sets typically requires using many machines, such as on the cloud, meaning that algorithms and software for data processing need to be redesigned to efficiently use a large number of machines. This project will give algorithmic techniques for distributed computing models (aka frameworks) such as Spark. Such a framework enables programmers to easily deploy algorithms on tens to thousands of machines as long as the algorithm fits into the computational restrictions of the framework. The algorithmic primitives developed will be tools that algorithm designers and programmers can leverage to analyze large amounts of data on many machines. This will impact industry, science and the economy that is increasingly reliant on large data analysis. Research outcomes will be integrated with education by including the latest research on data analytics in the undergraduate and master of science in business analytics programs. &lt;br/&gt;&lt;br/&gt;Massively distributed frameworks such as Spark and MapReduce are a key technology for processing large data sets. These systems have traditionally been used to solve relatively simple problems. Recent investigation has shown they are potentially useful for a richer class of applications. With this potential as a proof-of-concept, this project will discover algorithmic techniques tailored to these frameworks to unlock their underlying power and broaden their applicability. A recently developed theoretical model of computation will be used to drive the development of algorithmic techniques designed to leverage the unique features of the frameworks. The new algorithms and techniques will be used to offer scalable solutions for key problems arising in graph processing, data mining, and bioinformatics.  Specifically, the project will develop algorithms to compute shortest paths on massive graphs, algorithms for local alignment of biological sequences and some of the first provably scalable algorithms for hierarchical clustering. Achieving these goals can influence practice and theoretical research similarly to successes in other areas such as streaming algorithms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/05/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/05/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845146</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Moseley</LastName>
+<EmailAddress>moseleyb85@gmail.com</EmailAddress>
+<StartDate>02/05/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7934</Code>
+<Text>PARAL/DISTRIBUTED ALGORITHMS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

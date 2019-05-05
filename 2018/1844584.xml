@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Deep Learning for Multi-phase Organic Chemistry Conference; Irvine, California; September 27-28, 2018</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>5000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This workshop is bringing together experts from different disciplines, including computer scientists, computational chemists and atmospheric chemists to discuss protocols that may lead to development of an artificial organic chemist capable of accurately predicting complex environmental chemistry in non-ideal multiphase systems. The goal of the workshop is to identify strategies that capitalize on computational approaches to solve complex chemistry. &lt;br/&gt;&lt;br/&gt;The participants of the workshop include 20-25 researchers, representing a cross-section across multiphase chemistry and computation, to identify critical open questions in computational chemistry for multiphase systems, as well as to formulate protocols for answering those questions. Topics to be included include discussions on the best combination of experiments involving theory, numerical simulations (e.g. modeling of statistical mechanics and density functional theory), and laboratory and field experimentation to test deep learning techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844584</AwardID>
+<Investigator>
+<FirstName>Ann Marie</FirstName>
+<LastName>Carlton</LastName>
+<EmailAddress>agcarlto@uci.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

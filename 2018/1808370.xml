@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Chemical Biology Approaches to Interrogate Interspecies Communication in Streptococci</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>426000.00</AwardTotalIntnAmount>
+<AwardAmount>471329</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Catalina Achim</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With this award, the Chemistry of Life Processes Program in the Chemistry Division is funding Dr. Yftah Tal-Gan from University of Nevada, Reno to investigate how bacteria communicate with each other. It has been well-established that bacteria utilize chemical signals to communicate, assess their population size, and alter their behaviors. Thus far, the focus was on studying the communication of bacteria within each species. However, the role of inter-species communications between different bacterial species in shaping the overall bacterial population was largely unexplored. Through the development of synthetic signal mimics that alter the behavior of one or more bacterial species, the effects of communications on the behavior of complex communities of bacteria (microbiomes) is determined. The discoveries of this project may provide means to manage bacterial communities in diverse ecosystems such as agriculture, biomanufacturing, and environmental management. This study allows high-school, undergraduate and graduate students, along with postdoctoral fellows to acquire specialized training in synthetic chemistry, analytical chemistry, microbiology, and molecular biology techniques. This project also integrates into two outreach programs to introduce high school and undergraduate students to research at the interface of chemistry and biology.  Undergraduate students and faculty from Moravian College, a small liberal arts college in Bethlehem, Pennsylvania, participate hands on research. Many of these students come from socioeconomically disadvantaged and first generation college backgrounds and are trained for excellent jobs in STEM fields.&lt;br/&gt;&lt;br/&gt;This project utilizes chemical tools to study the role of interspecies communication between streptococci. Bacterial species rely on a cell-cell signaling mechanism, termed quorum sensing (QS), and this allows related phenotypes to thrive in their natural habitat. Streptococci species utilize QS, an intra-species communication mechanism, to communicate with other streptococci species (i.e. inter-species communication) and employ different strategies to interfere with the communication of other streptococci as a means to dominate in a mixed bacterial population. This interdisciplinary project integrates chemical biology approaches with molecular biology techniques to delineate the molecular mechanism for QS interference between streptococci and define the role of QS in the interactions between streptococci in mixed bacterial milieu.  Discoveries resulting from this project may improve the understanding of bacterial communication interference and competition beyond streptococci, and fundamentally advance the growing field of QS and sociomicrobiology. Moreover, the chemical probes to be developed in this study have the potential for broad applicability and can be used to study complex bacterial communities in their natural niches (microbiomes).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808370</AwardID>
+<Investigator>
+<FirstName>Yftah</FirstName>
+<LastName>Tal-Gan</LastName>
+<EmailAddress>ytalgan@unr.edu</EmailAddress>
+<StartDate>06/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Regents, NSHE, obo University of Nevada, Reno</Name>
+<CityName>Reno</CityName>
+<ZipCode>895570001</ZipCode>
+<PhoneNumber>7757844040</PhoneNumber>
+<StreetAddress>1664 North Virginia Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6883</Code>
+<Text>Chemistry of Life Processes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1515</Code>
+<Text>MINORITY GRADUATE EDUC ACTIVIT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

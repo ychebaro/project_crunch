@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>An investigation on flame-front instability in laminar and turbulent flames</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>292500.00</AwardTotalIntnAmount>
+<AwardAmount>292500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harsha Chelliah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Combustion in modern high-performance engines, such as automotive and aircraft engines, occurs at high-pressure turbulent conditions. Engine efficiency and reliability strongly depend on flame dynamics, which can be intrinsically unstable in such extreme conditions. The proposed research will characterize the role of flame-front instabilities on flame propagation in engine-relevant conditions. This knowledge is needed for optimizing modern engines, especially at high pressures and high turbulent conditions. Using a unique dual-chamber vessel, which allows high-pressure investigations, the experiments will be targeted to extend our current knowledge on flame-front instabilities in both laminar and turbulent flames. Results from this study can be extended to other problems, such as large-scale fire-whirl dynamics in wildland and urbane fires, which are intrinsically turbulent even the combustion is at atmospheric pressure, in addition to the astrophysical phenomena of the supernova explosion with cosmic intensity. This project will engage graduate and undergraduate students who will be exposed to advanced diagnostics while studying the basic combustion physics and chemistry.&lt;br/&gt;&lt;br/&gt;The proposed program aims to understand and quantify the fundamental dynamics of different modes of intrinsic flame-front instabilities of propagating flames in either quiescent or well-defined turbulent environments. Such an understanding is rather immature at present but is required for the further advance in the design and optimization of modern combustion engines. The investigation includes experimentation on spark-ignited, spherical flames at high- and constant-pressure conditions using high-speed high-resolution optical diagnostics. The uniqueness of this study is the well-controlled, well-characterized, high-pressure environment. In such environments, prominent hydrodynamic cellular/wrinkling flame-front structures are manifested and can be precisely quantified using optical diagnostics in unprecedented details. The understanding is facilitated by acquiring high-fidelity experimental data and by quantitatively defining and assessing various stability parameters. This work will characterize global and local length scales for different modes of flame propagation under conditions of isolated instability, isolated turbulence, and their coupled influences. Since the proposed study includes both experimental and theoretical investigations, it will provide the essential synergistic experience in the design and data interpretation of both components, leading to advances in the knowledge of high-pressure turbulent combustion systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827287</AwardID>
+<Investigator>
+<FirstName>Chung</FirstName>
+<LastName>Law</LastName>
+<EmailAddress>cklaw@princeton.edu</EmailAddress>
+<StartDate>06/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Abhishek</FirstName>
+<LastName>Saha</LastName>
+<EmailAddress>asaha@princeton.edu</EmailAddress>
+<StartDate>06/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1407</Code>
+<Text>Combustion &amp; Fire Systems</Text>
+</ProgramElement>
+</Award>
+</rootTag>

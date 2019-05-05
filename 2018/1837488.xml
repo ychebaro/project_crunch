@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Programming as a Context for Making Problem Solving Visible: An Equity Focused K-5 Research Practice Partnership</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2020</AwardExpirationDate>
+<AwardAmount>299164</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen King</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>STEM domains have long provided productive contexts for problem solving research, a central learning objective in education for the 21st century. Problem solving and related constructs, such as critical thinking and computational thinking, are increasingly holding organizing power in the design and implementation of K-12 curriculum across educational domains. The Computer Science for All: Researcher-Practitioner Partnership (RPP) program is supporting this project, with an RPP team comprised of teachers, principals, researchers, professional development leaders, curriculum developers, and software engineers stretched across several institutions in Los Angeles, including three elementary public and charter schools, the University of California, Los Angeles, and a non-profit community learning center that develops CS curriculum and software. This project focuses on how to effectively teach problem solving practices in 3rd - 4th grade computer science classes, namely on how to build students' capacities to articulate their problem-solving process, understand how different strategies advance problem solving, and develop and enact new strategies for problem solving. The RPP will seed this problem solving process with 3rd and 4th graders traditionally marginalized in urban environments by designing CS lessons that promote sustained, rigorous, and collaborative reflection on problem-solving processes. This work will generate lesson templates and research findings valuable to educators interested in the intersection of problem solving and computer programming, and set the stage for larger scale research-practice partnership initiatives.&lt;br/&gt;&lt;br/&gt;The RPP's approach will address a critical research need to understand how young students think about and pursue problem solving with code in the context of whole- and small-group classroom discourse, focused around facets of problem solving synthesized from the wider research literature: problem exploration, goal setting, implementation, monitoring, and reflection. The project team of curriculum designers, researchers, and practitioners will be informed by multiple data sources: observations of classroom practice, teacher interviews, designer interviews, school leader interviews, and bi-monthly student surveys. They will use a blend of design methodologies, agile development and design-research conjecture mapping, to iteratively and pragmatically aim to foster rich classroom discourse on CS problem solving processes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837488</AwardID>
+<Investigator>
+<FirstName>Josh</FirstName>
+<LastName>Taylor</LastName>
+<EmailAddress>josh.taylor@9dots.org</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kimberley</FirstName>
+<LastName>Gomez</LastName>
+<EmailAddress>kimgomez@ucla.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>9 Dots Community Learning Center</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900382412</ZipCode>
+<PhoneNumber>3235248328</PhoneNumber>
+<StreetAddress>931 N Highland Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

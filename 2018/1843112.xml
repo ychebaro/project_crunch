@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Grid-scale electricity storage from waste heat</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>224901.00</AwardTotalIntnAmount>
+<AwardAmount>224901</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to significantly lower the cost and expand the number of addressable markets for ice thermal energy storage. Cost effectively storing energy is imperative to a sustainable future. Storage can provide reliable access to power from intermittent renewable sources, increase the resiliency of the grid to weather events or terrorist attacks, and increase the utilization efficiency of existing assets, deferring costly upgrades. Today, ice thermal storage systems help building owners shift cooling loads from costly peak hours to when electricity is less expensive. Unfortunately the upfront cost of these systems, driven by the large cost of the cooling coil used to generate ice, prevents adoption from many users and has unduly restricted the number of addressable markets for ice thermal storage. Elimination of ice buildup on the cooling coil would reduce the size of the coil, and more importantly significantly lower the cost of these systems. Low-cost ice thermal energy storage could greatly improve the economics for long-duration energy storage technologies such as pumped thermal energy storage.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to translate the discovery of surfaces with zero ice adhesion into a cooling coil that can be integrated into a functioning ice thermal energy storage system. In order to repel ice, these surfaces require complete submersion in an immiscible oil phase, making coil geometry and overall system development challenging. At the beginning of this project, various plate and tube based cooling coil geometries will be systematically prototyped and refined, measuring the freezing and melting heat transfer efficiencies. Different formulations of the surface coating will be tested as well. The most promising candidate geometries will be charged and discharged over multiple cycles as part of an ice thermal energy storage system. The results from cycling will be compared to conventional ice-on-coil technology using metrics such as energy density and heat transfer efficiency. An ice shedding cooling coil, at less than a third of the size of an ice-on-coil system, is expected to deliver improved cooling performance. Demonstration of an ice shedding cooling coil in a functioning ice thermal energy storage system will prove the technology?s readiness to scale.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843112</AwardID>
+<Investigator>
+<FirstName>Levon</FirstName>
+<LastName>Atoyan</LastName>
+<EmailAddress>levon@activeenergysystems.com</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Active Energy Systems, Inc.</Name>
+<CityName>Knoxville</CityName>
+<ZipCode>379223672</ZipCode>
+<PhoneNumber>8652574742</PhoneNumber>
+<StreetAddress>1011 Hamilton Ridge Ln</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Principled Compiling and Linking for Multi-Language Software</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>449802.00</AwardTotalIntnAmount>
+<AwardAmount>465802</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anindya Banerjee</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>When building large software systems, programmers should be able to use the best language for each part of the system.  But when a component written in one language becomes part of a multi-language system, it may interoperate with components that have features that don't exist in the original language.  This affects programmers when they refactor code (i.e., make changes that should result in equivalent behavior).  Since programs interact after compilation to a common target, programmers have to understand details of linking and target-level interaction when reasoning about correctly refactoring source components.  Unfortunately, there are no software toolchains available today that support single-language reasoning when components are used in a multi-language system.  This project will develop principled software toolchains for building multi-language software.  The project's novelties include (1) designing language extensions that allow programmers to specify how they wish to interoperate (or link) with conceptual features absent from their language through a mechanism called linking types, and (2) developing compilers that formally guarantee that any reasoning the programmer does at source level is justified after compilation to the target.  The project has the potential for tremendous impact on the software development landscape as it will allow programmers to use a language close to their problem domain and provide them with software toolchains that make it easy to compose components written in different languages into a multi-language software system.&lt;br/&gt;&lt;br/&gt;The project will evaluate the idea of linking types by extending ML with linking types for interaction with Rust, a language with first-class control, and a normalizing language, and developing type preserving compilers to a common typed LLVM-like target language.  The project will design a rich dependently typed LLVM-like target language that can encapsulate effects from different source languages to support fully abstract compilation from these languages.  The project will also investigate reporting of cross-language type errors to aid programmers when composing components written in different languages.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/08/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816837</AwardID>
+<Investigator>
+<FirstName>Amal</FirstName>
+<LastName>Ahmed</LastName>
+<EmailAddress>amal@ccs.neu.edu</EmailAddress>
+<StartDate>06/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7943</Code>
+<Text>PROGRAMMING LANGUAGES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Development of Hybrid Solid Materials for Stable Molecular Oxygen Anodes</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>524999</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert McCabe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Electrocatalysts are materials that make electrically-driven chemical reactions proceed faster, more efficiently, and/or with less input of electricity. This project will involve discovery of new catalytic materials for efficient electrochemical oxidation of water to produce hydrogen and oxygen, where the hydrogen can be used directly as a fuel to produce electricity in hydrogen fuel cells, or as a reactant to upgrade low-grade carbon-containing compounds to high-value fuels and chemicals.  The project will address a critical step in a sustainable process for converting solar energy to chemical energy, thus alleviating dependence on fossil resources. This is a collaborative effort that brings together Professors Thomas Gunnoe and Sen Zhang from the University of Virginia with Professor William Goddard from the California Institute of Technology and scientists from the Max Planck Institute for Chemical Energy Conversion, working under the MAXNET Energy consortium. The international collaboration will enhance U.S. research eminence in the science and engineering of sustainable energy.  The project will also involve educational outreach to primarily undergraduate institutions (PUIs) to increase interest among students from diverse backgrounds in careers as scientists and engineers. &lt;br/&gt;&lt;br/&gt;This project represents a cross-disciplinary effort to develop, understand and test new carbon-supported copper and cobalt materials for electrocatalytic water oxidation. It incorporates groups with expertise in molecular catalysis, nanomaterials, computational modeling, and carbon materials and catalyst characterization. The primary foundation is to develop and optimize multi-nuclear molecular catalysts and then integrate these units into carbon-based materials. Participation in the MAXNET Energy consortium will provide assessment of new catalyst materials under a standardized set of protocols to provide rigorous comparison and benchmarking to other heterogeneous catalytic materials. To achieve these goals, three objectives will be pursued: 1) prepare a series of multi-nuclear cobalt and copper complexes with variable molecular and electronic structure - as guided by computational modeling - to provide an understanding of structure-activity relationships; 2) support multi-nuclear molecular complexes on conductive carbonaceous materials; 3) study the OER activity and stability of carbon-supported catalysts.  Educational outreach will involve visits by graduate students to the PUIs to deliver short courses based on their research, combined with participation of undergraduate students in summer research internships in the PIs' laboratories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805022</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Goddard</LastName>
+<EmailAddress>wag@wag.caltech.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sen</FirstName>
+<LastName>Zhang</LastName>
+<EmailAddress>sz3t@virginia.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Gunnoe</LastName>
+<EmailAddress>tbg7h@virginia.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>McKeown</LastName>
+<EmailAddress>bam4t@virginia.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate>08/27/2018</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229044195</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>P.O.  BOX 400195</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1401</Code>
+<Text>Catalysis</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+</Award>
+</rootTag>

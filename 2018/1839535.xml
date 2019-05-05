@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: GOALI: REAL-D Path-Sampling Algorithms to Understand Rare Safety Events and Improve Alarm Systems</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Triantafillos Mountziaris</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Chemical manufacturing processes can pose serious hazards, so safety considerations play an important role in their design. To minimize the risk of catastrophic accidents, which can result in loss of human life or major environmental impacts, extensive instrumentation such as control systems, alarms, and safety interlocks, are routinely employed in chemical processes. While such efforts are successful in mitigating the most likely adverse events, it is challenging to anticipate and mitigate the effects of infrequent adverse events in real-time. Importantly, such rare safety events, which have not been considered in plant design, can lead to the most severe consequences. The proposed exploratory research project is a collaboration between a research team from the University of Pennsylvania and an industrial partner, Air Liquide, and aims to understand the pathways leading to rare safety events in chemical manufacturing processes through a combination of process modeling, chemical plant data, and path-sampling algorithms, and to use this understanding to design novel multi-variable alarm systems for the real-time monitoring and prevention of such incidents.&lt;br/&gt;&lt;br/&gt;To combine process models with path-sampling algorithms, such as Forward Flux Sampling, a simple exothermic continuous stirred-tank reactor (CSTR) model will be employed first. Then, a state-of-the-art model for Air Liquide's realistically complex steam-methane reforming (SMR) process will be studied to obtain an ensemble of rare accident trajectories. By analyzing these trajectories, accident frequencies and durations will be determined, along with secondary process variables, which are likely to play an important role in precipitating accidents. In the vicinity of the most likely rare-event trajectories, actual plant data will be sought with projections obtained using near-miss data in Air Liquide historian databases. The proposed research could lead to the adoption of path-sampling methods to predict rare events in other fields, which are both data-rich and have reliable models available, e.g., in forecasting extreme weather events.  The research will be integrated with educational and outreach efforts.  The Principal Investigator will incorporate the results of the research in subsequent editions of his widely adopted textbook, "Product and Process Design Principles", which has been used by over 40,000 students worldwide. Finally, there is a plan to develop a hands-on outreach program to mentor underrepresented minority students from local colleges to encourage participation in STEM education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839535</AwardID>
+<Investigator>
+<FirstName>Warren</FirstName>
+<LastName>Seider</LastName>
+<EmailAddress>seider@seas.upenn.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Arbogast</LastName>
+<EmailAddress>jeffrey.arbogast@airliquide.com</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amish</FirstName>
+<LastName>Patel</LastName>
+<EmailAddress>amish.patel@seas.upenn.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

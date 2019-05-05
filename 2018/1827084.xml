@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Three Region nLC-MS/MS Analysis: A Novel and Rapid Approach to Evaluate Molecular Penetration</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>210354.00</AwardTotalIntnAmount>
+<AwardAmount>210354</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this CAREER project, Professor Amanda Hummon and her students at the University of Notre Dame will develop a new mass spectrometric methodology for the analysis of chemical compounds in cell cultures. The approach will provide much greater chemical and spatial information in a faster and higher-throughput fashion than is currently available with any other methodology. As part of this CAREER educational program, Professor Hummon and her students will develop a program focused on the recruitment and retention of women in STEM fields by organizing lab tours with three local Girl Scout troops per year and participation in two forums per semester to discuss issues that disproportionally affect women. This program will encourage the participation of younger female students in science careers.&lt;br/&gt;&lt;br/&gt;This research will study the penetration of chemical compounds into three dimensional cell culture models via mass spectrometry. Using a combination of serial trypsinization and nano Liquid Chromatography-Electrospray Tandem Mass Spectrometry (nLC-MS/MS), the distribution of a compound and its metabolites can be mapped with spatial fidelity. While previous studies have utilized computer simulations to predict molecular penetration through cells, measurement of the molecules remains the only reliable way to evaluate the effectiveness of a new species. The approach will be tested with the compounds irinotecan, oxaliplatin, and apoptotic imaging probes. This award from the Chemical Measurements and Imaging program in the Division of Chemistry is made jointly with the Instrument Development for Biological Research program in the Division of Biological Infrastructure.</AbstractNarration>
+<MinAmdLetterDate>02/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827084</AwardID>
+<Investigator>
+<FirstName>Amanda</FirstName>
+<LastName>Hummon</LastName>
+<EmailAddress>hummon.1@osu.edu</EmailAddress>
+<StartDate>02/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1108</Code>
+<Text>INSTRUMENTAT &amp; INSTRUMENT DEVP</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8007</Code>
+<Text>BioMaPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* NPEO: The Research and Science Engagement Center: A Production Platform for Operations, Applied Training, Monitoring, and R&amp;E Support</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>1166667</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin L. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The scientific community has experienced an unprecedented shift in the way&lt;br/&gt;research is performed and how discoveries are made. Highly sophisticated experimental instruments are&lt;br/&gt;creating massive datasets for diverse scientific communities and hold the potential for new insights that&lt;br/&gt;will have long-lasting impacts on society. However, scientists cannot make effective use of this data if&lt;br/&gt;they are unable to move, store, and analyze it. This project establishes the Research and Science&lt;br/&gt;Engagement Center (ReSEC) as a collaborative focal point for operational expertise and analysis.&lt;br/&gt;This project will assist scientists in routinely, reliably, and robustly transferring their data.&lt;br/&gt;ReSEC will deliver end-to-end user support and network engineering solutions,&lt;br/&gt;and become a central community hub ready to provide personalized expertise and assistance on an ongoing basis.&lt;br/&gt;&lt;br/&gt;ReSEC proposes four primary execution thrusts: 1) a Roadside Assistance center to reactively&lt;br/&gt;respond to immediate problems with science data transfers; 2) proactive network observation&lt;br/&gt;using tools such as perfSONAR and NetSage; 3) assistance with design &amp; deployment of campus&lt;br/&gt;networking assets such as Science DMZs; and 4) training for campus network administrators.&lt;br/&gt;ReSEC will scale operations broadly by relying on Regional Network, Infrastructure and Science Community partners.&lt;br/&gt;ReSEC will deliver expertise and assistance on a sustainable, ongoing basis, with a particular emphasis&lt;br/&gt;on serving educational institutions with relatively limited local network administrative resources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826994</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Zurawski</LastName>
+<EmailAddress>zurawski@es.net</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Schopf</LastName>
+<EmailAddress>jmschopf@indiana.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Jent</LastName>
+<EmailAddress>djent@iupui.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

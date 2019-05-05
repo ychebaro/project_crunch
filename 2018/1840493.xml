@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Sharing economy - Humans, Automation, Resilience and Engineering: SHARE</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>99423</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eduardo Misawa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.&lt;br/&gt;&lt;br/&gt;The sharing economy can be characterized as a system of dynamic decentralized networks that enables the increased utilization of assets by directly and nimbly matching supply and demand. It is forecasted to grow from $14 billion in 2014 to $335 billion by 2025. Technology has enabled these new platforms to flourish, disrupting traditional businesses and transforming the future of transportation, lodging, computing, energy, and other services. The estimated impact of sharing economy practices on society is striking, directly affecting the lives of more than a quarter of the adults living in the USA. However, the rapid pace of change of new sharing economy technology and practices has resulted in limited understanding of the dynamic interactions of these platforms with the society. The lag in understanding is dangerous as disruptive changes continue to accelerate.  Further, while new technology alters the dynamic interactions in how services are provided and distributed, fair and appropriate regulations of the multiple emerging new ways of providing services has not kept up and adapted. SHARE's Vision is a world in which sharing economy platforms are intentionally engineered for socially desirable outcomes considering their long-term sustainability, cyber-security, resource usage efficiency, impact on the environment, workforce and community relations, interactions with public services, and value-creation.  &lt;br/&gt;&lt;br/&gt;SHARE multidisciplinary team of researchers will take the first step toward enabling this convergent vision of a future economy; together with stakeholders, they will not only define the research challenges that will eventually underlie a unified framework for the sharing economy, but also develop the educational programming that must accompany the research to ensure the workforce is in place now and going forward in this key area. SHARE?s Mission is to maximize the positive impact of the sharing economy through integrated comprehensive, trans-disciplinary research that will document and explore changing dynamics, develop new technologies and algorithms for optimizing design, operation, incentives, and security, and identify and compare regulatory and data sharing practices that influence the real-world implementation of sharing economy platforms. We will organize a multi-disciplinary workshop to start what we believe is one of the first convergent dialogues on the sharing economy, to ultimately build a trans-disciplinary research team and a diverse stakeholder community that can synthesize the outcomes of the workshop into meaningful applied focus areas with significant societal impact and sound fundamental research thrusts. The proposed workshop will be formally documented via a report, which will serve as a roadmap for future efforts in this area by the investigators and other researchers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840493</AwardID>
+<Investigator>
+<FirstName>Haris</FirstName>
+<LastName>Koutsopoulos</LastName>
+<EmailAddress>h.koutsopoulos@neu.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennie</FirstName>
+<LastName>Stephens</LastName>
+<EmailAddress>j.stephens@northeastern.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Wilson</LastName>
+<EmailAddress>c.wilson@neu.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ozlem</FirstName>
+<LastName>Ergun</LastName>
+<EmailAddress>o.ergun@neu.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rashmi</FirstName>
+<LastName>Dyal-Chand</LastName>
+<EmailAddress>r.dyal-chand@northeastern.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

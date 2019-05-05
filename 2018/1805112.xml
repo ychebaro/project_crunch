@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Atomic layer etching through controlled surface chemistry</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>400000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Triantafillos Mountziaris</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Complex multi-layer structures (heterostructures) of thin metal films are essential for developing advanced nano-electronic and nano-photonic devices that have important applications in sensors, high-density information storage and magneto-optical devices. Since many metals that are suitable for such devices have low reactivity, their controlled etching is a very challenging task. The objective of the proposed research is to understand the underlying surface reaction kinetics that produce directional changes in metal composition and properties, thereby enabling the development of a controlled etching process with the chemical contrast needed to selectively remove the materials with atomic level precision. &lt;br/&gt;&lt;br/&gt;The proposed research project will focus on: a) delineating the reaction mechanisms underlying a viable directional atomic layer etch process to control the etch rate and selectivity in the patterning of complex metal heterostructures, b) characterizing the surface reactions leading to self-limited reaction and tailored composition, c) measuring the type and concentration of the reaction products to confirm the reaction mechanisms, and d) integrating these sequential reaction steps with a complex metal heterostructure to examine the attainable profiles. A successful completion of the project may lead to atomic level control in metal removal, greater selectivity in patterning complex metal heterostructures, better control in achieving high density in device integration, and will lay the foundation to systematically improve the precise patterning of even more complex material systems and architectures. The data generated from the proposed research will be broadly disseminated to the research community. Research outcomes will be integrated into an existing graduate and undergraduate course on Plasma Processing. Two graduate students will be supported to pursue Ph.D. degrees in the multidisciplinary field of Plasma Science and Engineering. Undergraduate and high school students from underrepresented groups will be recruited to pursue senior research projects and summer research internships. Projects will be offered to female high school students participating in a Technology Camp to promote their interests in pursuing careers in Science and Engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805112</AwardID>
+<Investigator>
+<FirstName>Jane</FirstName>
+<LastName>Chang</LastName>
+<EmailAddress>jpchang@g.ucla.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7644</Code>
+<Text>ENERGY FOR SUSTAINABILITY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1062</Code>
+<Text>BASIC PLASMA SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8020</Code>
+<Text>Green Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

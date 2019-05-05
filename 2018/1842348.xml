@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Workshop on Reconfigurable Sensor Systems Integrated with Artificial Intelligence and Data Harnessing to Enable Personalized Medicine</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>59472</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Shubhra Gangopadhyay</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is to convene a 2-day workshop, attended by a forum of experts in engineering, data science, computer science, biological and behavioral sciences, to explore the state-of-the art and the needs for the next-generation of sensors and systems hardware that integrate advanced data science and computing capabilities. The workshop will focus on the gaps and opportunities for new hardware development as it relates to applications in medicine. The products of the workshop will be a report which provides a technological roadmap that defines the critical needs to bridge the gaps at the interface of sensor hardware, data science, and computer science.&lt;br/&gt;  &lt;br/&gt;Intelligent, interactive, and networked sensor systems are a growing part of the biotechnological landscape, especially in the area of wearable, implantable, and point-of-use biosensors. The focus of this multi-phased workshop is to determine future strategies for advancing the fundamental understanding and engineering of reconfigurable sensor systems by integrating hardware with data harnessing, real-time learning, and artificial intelligence capabilities. Specifically, this workshop will define the state-of-the-art, necessary innovations, and future challenges facing the research and development of reconfigurable sensor systems for applications in understanding of human physiology, pathophysiology, metacognition, cognition, and behavioral psychology. To achieve this capability, this workshop aims to bring together the knowledge in hardware, theoretical models, methods and processes, and data from multiple disciplines to develop new platforms for addressing challenges at the human-device-data interface.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842348</AwardID>
+<Investigator>
+<FirstName>Veena</FirstName>
+<LastName>Misra</LastName>
+<EmailAddress>vmisra@ncsu.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edgar</FirstName>
+<LastName>Lobaton</LastName>
+<EmailAddress>edgar.lobaton@ncsu.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Daniele</LastName>
+<EmailAddress>mdaniel6@ncsu.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nirmish</FirstName>
+<LastName>Shah</LastName>
+<EmailAddress>Nirmish.Shah@dm.duke.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7909</Code>
+<Text>NANO-BIOSENSING</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

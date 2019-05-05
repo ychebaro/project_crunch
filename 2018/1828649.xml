@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of iMARC: High Performance Computing for STEM Research and Education in Southeast Wisconsin</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>681425</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rita V. Rodriguez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The regional resource, iMARC (infrastructure for MARquette Computing), in south east Wisconsin, provides faculty and students with appropriate infrastructure to engage efficiently in the challenges that require parallel computing and facilitate hands-on training in HPS techniques for large-scale compute- and data-intensive analyses.&lt;br/&gt;&lt;br/&gt;iMARC is a replacement system that features a modern CPU, large RAM volumes, fast storage, and graphical processing unit (GPU) accelerators, aiming to increase 60+-folding computational power affording a new level of capabilities for research and education for more than 20 major users across Southeastern Wisconsin. It integrates MUGrid (Marquette University Computational Grid) and regional SeWHiP (Se Wisconsin High Performance cyberinfrastructure) for computational sciences, thus enabling the next generation of large-scale compute- and data-intensive research and education at Marquette and neighboring institutions. The high performance data storage of iMARC enables faculty across multiple departments and institutions to tackle new cutting-edge questions. This cluster, coupled with initiatives to support infrastructure renewals, addresses the growing demand for regional scientific computing resources and high-quality training in HPC technologies. iMARC creates a unique resource for parallel computing in data analytics for the challenges in large-scale computing and provides a development environment for large-scale parallel computing tasks that facilitate deployment to XSEDE (the national computing infrastructure). The majority of the users rely on and greatly benefit from the general computational capabilities of the cluster delivered by the CPU-only nodes. The new system will bring the capabilities related to the research in biomolecular modeling and artificial intelligence to a new level. The peak performance of the CPU-only nodes will be at 176 TFLOPS, which is a 30-fold increase over the peak performance of the old machine.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828649</AwardID>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Reid</LastName>
+<EmailAddress>scott.reid@marquette.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Qadir</FirstName>
+<LastName>Timerghazin</LastName>
+<EmailAddress>qadir.timerghazin@marquette.edu</EmailAddress>
+<StartDate>09/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajendra</FirstName>
+<LastName>Rathore</LastName>
+<EmailAddress>rajendra.rathore@marquette.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate>09/18/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Qadir</FirstName>
+<LastName>Timerghazin</LastName>
+<EmailAddress>qadir.timerghazin@marquette.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate>09/18/2018</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Marquette University</Name>
+<CityName>Milwaukee</CityName>
+<ZipCode>532011881</ZipCode>
+<PhoneNumber>4142887200</PhoneNumber>
+<StreetAddress>P.O. Box 1881</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

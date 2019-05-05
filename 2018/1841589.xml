@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER/Collaborative Research: Fundamentals of Acousto-Plasticity and Tribology in Ultrasonically Enhanced Incremental Sheet Forming</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>85214</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven R. Schmid</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Today's fast-moving and competitive markets increase the frequency of product updates and rapidly expand demands for customized parts. Accordingly, high quality, low-cost prototyping and low volume manufacturing processes are desirable. No proven additive manufacturing or rapid prototyping approaches exist for sheet metals or large, thin parts - conventional additive manufacturing has too small of a build space and warps too much to produce parts such as automotive body panels. Incremental sheet forming (ISF), which utilizes a small tool to induce local deformation as it translates over the metal sheet, is a manufacturing approach that has been investigated recently because of its die-less setup, universal tooling and high flexibility. However, achieving dimensional and geometric accuracy as well as surface finish of the current ISF formed parts are a challenge, but the main drawback is the limited formability in the approach, leading to very high scrap rates. Ultrasonic vibration, known for its bulk material softening effects, surface modification and friction behavior improvements, offers promise in alleviating these concerns. This EArly-concept Grant for Exploratory Research (EAGER) award supports fundamental research to advance knowledge of the ultrasonic effects on material behavior in ISF processes. Success in this unique multidisciplinary study will lead to significant improved formability and process capabilities. Leveraging this new knowledge will expand ISF applications in various industries, such as aerospace, automotive, defense and medical, so that it has direct positive impact on the US national security and economic welfare. Students involved in the project will gain multidisciplinary knowledge and research capabilities including material, mechanical and manufacturing science and technologies. Outreach activities will emphasize the mentoring of women and underrepresented minorities. &lt;br/&gt;&lt;br/&gt;The objective of this project is an innovative improvement of the incremental sheet forming (ISF) process by effectively applying ultrasonic vibration to the tool during the forming operation. The potential benefits are to reduce forming force, increase formability, increase dimensional and geometrical tolerance and improve surface quality. This collaborative project includes an integrated experimental and modeling study of material behavior during tensile testing with ultrasonic vibration utilizing high speed digital image correlation analysis.  The results will serve to design an effective approach for incorporating ultrasonic energy into ISF process. Ultrasonically assisted ISF will then be performed under different conditions. The interaction mechanisms between ultrasonic vibration and material deformation during ISF will be studied in terms of in-process variables, post-processing properties and multi-scale microstructure. The effect of ultrasonic vibration on both surface and bulk properties will be studied, including the impact on texture and grain size. The goals of this project are (1) understanding of the fundamental principles that govern the material behavior under ultrasonic vibration and (2) demonstration of the improvements enabled by ultrasonically assisted incremental forming process for complex free form geometries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841589</AwardID>
+<Investigator>
+<FirstName>Xun</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>liu.7054@osu.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio State University</Name>
+<CityName>Columbus</CityName>
+<ZipCode>432101016</ZipCode>
+<PhoneNumber>6146888735</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1468</Code>
+<Text>Manufacturing Machines &amp; Equip</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>082E</Code>
+<Text>MFG MACHINES &amp; METROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

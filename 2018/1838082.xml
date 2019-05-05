@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Cyberinfrastructure for Multi-Messenger Astrophysics</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>40670.00</AwardTotalIntnAmount>
+<AwardAmount>40670</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The first observation of a binary neutron star merger by LIGO/Virgo, Fermi and many ground- based observatories around the world announced the arrival of the long-anticipated field of Multi-Messenger Astrophysics (MMA). Observation and analysis of just this single event took weeks, and consumed a significant fraction of the human and computational resources of the global gravitational and astronomical communities. The IceCube Neutrino Observatory at South Pole has recently identified a very high-energy (&gt;PeV) neutrino and the Fermi and MAGIC observatories have identified high-energy gamma rays coincident in time and location with that neutrino. The Large Synoptic Survey Telescope (LSST) primary survey will start in late 2022, needing extra capacity to ensure the daily massive datasets are processed and coordinated with gravitational, particle, and other astronomical and astrophysical observations, and all in near- real-time and with very low latency. MMA needs now to address the challenges of this increase in the amount and complexity of data that will soon be upon us, as we start around-the-clock monitoring of frequent multi-messenger events. As such, this workshop on Cyberinfrastructure (CI) for Multi-Messenger Astrophysics will provide a forum for experts in Multi-Messenger Astrophysics and Cyberinfrastracture to develop concepts for new community-scale data cyberinfrastructure for timely handling, processing, analysis, and modeling of multi-messenger astrophysical data. The workshop will be held at the Physical Science Complex at the University of Maryland on May 23-24, 2018.&lt;br/&gt;&lt;br/&gt;This project advances the objectives of three of 10 Big Ideas for Future NSF Investments: "Windows on the Universe: The Era of Multi-Messenger Astrophysics", "Harnessing the Data Revolution" and "Growing Convergent Research at NSF". The 10 big ideas will push forward the frontiers of U.S. research, provide innovative approaches to solve some of the most pressing problems the world faces, as well as lead to discoveries not yet known. This project also advances objectives of the National Strategic Computing Initiative (NSCI), an effort aimed at developing new technological capabilities in the post-Moore's Law era.&lt;br/&gt;&lt;br/&gt;This workshop award is supported by the Computational Physics program in the Division of Physics and the Cyberinfrastructure for Emerging Science and Engineering Research  (CESER) program in the  Office of Advanced Cyberinfrastructure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838082</AwardID>
+</Award>
+</rootTag>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Elements: Software: Autonomous, Robust, and Optimal In-Silico Experimental Design Platform for Accelerating Innovations in Materials Discovery</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Accelerating the development of novel materials that have desirable properties is a critical challenge as it can facilitate advances in diverse fields across science, engineering, and medicine with significant contributions to economic growth. For example, the US Materials Genome Initiative calls for cutting the time for bringing new materials from discovery to deployment by half at a fraction of the cost, by integrating experiments, computer simulations, and data analytics. However, the current prevailing practice in materials discovery relies on trial-and-error experimental campaigns and/or high-throughput screening approaches, which cannot efficiently explore the huge design space to develop materials with the targeted properties. Furthermore, measurements of material composition, structure, and properties often contain considerable errors due to technical limitations in materials synthesis and characterization, making this exploration even more challenging. This project aims to develop a software platform for robust autonomous materials discovery that can shift the current trial-and-error practice to an informatics-driven one that can potentially expedite the discovery of novel materials at substantially reduced cost and time. Throughout the project, the PI and Co-PIs will mentor students and equip them with the skills necessary to tackle interdisciplinary problems that involve materials science, computing, optimization, and artificial intelligence. Research findings in the project will be incorporated into the courses taught by the PI and Co-PIs, thereby enriching the learning experience of students.&lt;br/&gt;&lt;br/&gt;The objective of this project is to develop an effective in-silico experimental design platform to accelerate the discovery of novel materials. The platform will be built on optimal Bayesian learning and experimental design methodologies that can translate scientific principles in materials, physics, and chemistry into predictive models, in a way that takes model and data uncertainty into account. The optimal Bayesian experimental design framework will enable the collection of smart data that can help exploring the material design space efficiently, without relying on slow and costly trial-and-error and/or high-throughput screening approaches. The developed methodologies will be integrated into MSGalaxy, a modular scientific workflow management system, resulting in an accessible, reproducible, and transparent computational platform for accelerated materials discovery that allows easy and flexible customization as well as synergistic contributions from researchers across different disciplines.&lt;br/&gt;&lt;br/&gt;This project is supported by the Office of Advanced Cyberinfrastructure in the Directorate for Computer &amp; Information Science &amp; Engineering and the Division of Materials Research in the Directorate of Mathematical and Physical Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835690</AwardID>
+<Investigator>
+<FirstName>Xiaofeng</FirstName>
+<LastName>Qian</LastName>
+<EmailAddress>feng@tamu.edu</EmailAddress>
+<StartDate>09/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaoning</FirstName>
+<LastName>Qian</LastName>
+<EmailAddress>xqian@ece.tamu.edu</EmailAddress>
+<StartDate>09/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Byung-Jun</FirstName>
+<LastName>Yoon</LastName>
+<EmailAddress>bjyoon@ece.tamu.edu</EmailAddress>
+<StartDate>09/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Raymundo</FirstName>
+<LastName>Arroyave</LastName>
+<EmailAddress>rarroyave@tamu.edu</EmailAddress>
+<StartDate>09/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454645</ZipCode>
+<PhoneNumber>9798477635</PhoneNumber>
+<StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>054Z</Code>
+<Text>(MGI) Materials Genome Initiative</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7926</Code>
+<Text>ALGORITHMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: High throughput inhibitor discovery for dissecting serine hydrolase function</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Enzymes are directly involved in every aspect of human health, from digestion and nervous system signaling to bacterial infection. Understanding the role that each enzyme plays requires the ability to specifically alter each enzyme?s activity without affecting enzymes with similar structural features. This project will evaluate a new strategy that, if successful, would enable researchers to quickly identify molecules capable of this extremely selective function. Such a capability could revolutionize our understanding of diseases and our ability to formulate effective treatments. This project will also contribute to the development of a diverse biotechnology workforce through the involvement of female and underrepresented minority graduate and undergraduate students. &lt;br/&gt;&lt;br/&gt;This project will evaluate a potentially robust platform for the design of specific, potent enzyme inhibitors through fusion of small molecules with antibodies through noncanonical amino acid (ncAA) yeast display. Rather than chemical conjugation, which can be tedious and results in bulky moieties, the project will use genetic incorporation of noncanonical amino acids (ncAAs) into a hybrid antibody as a potentially transformative approach to produce these antibody-small molecule hybrids. This project will first develop the platform to efficiently incorporate these ncAAs into the antibodies and then use the resulting system to identify potent inhibitors.</AbstractNarration>
+<MinAmdLetterDate>01/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815022</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Van Deventer</LastName>
+<EmailAddress>James.Van_Deventer@tufts.edu</EmailAddress>
+<StartDate>01/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tufts University</Name>
+<CityName>Boston</CityName>
+<ZipCode>021111817</ZipCode>
+<PhoneNumber>6176273696</PhoneNumber>
+<StreetAddress>136 Harrison Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

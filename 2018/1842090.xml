@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Fostering Student Computational Thinking with Self-Regulated Learning</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardAmount>1447755</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Rivet</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As a result of the powerful innovation and application of computing in STEM disciplines, the STEM+C program addresses an urgent need for real-world, interdisciplinary, and computational preparation of students from the early grades through high school (preK-12). This project will advance research and development of new transdisciplinary approaches to computational STEM teaching and learning that will integrate the fields of Computational Thinking (CT) and Self-Regulated learning (SRL) into science activities in four content areas: Earth Science, Biology, Chemistry, and Physics. The project will provide professional development (PD) for high school teachers that includes instruction on CT, SRL, and on using SPIN (Science Practices Innovation Notebook). Next, teachers will collaboratively develop lessons that infuse CT &amp; SRL, upload the lessons into SPIN, implement those lessons in their classrooms, and then collaboratively analyze student work samples captured by SPIN. &lt;br/&gt;&lt;br/&gt;Throughout this PD process, researchers will collect multiple forms of data by observation, surveys, SPIN documents and artifacts as part an overall research plan. The research team will employ data analytics to uncover patterns and develop a CT learning progression for grades 9-12. The project proposes implementing four phases of iterative Design Research. In the Informed Exploration phase, researchers and practitioners will work together to find opportunities to teach CT through SRL processes during STEM investigations. The Enactment Phase will involve short iterative tests of design conjectures to develop and build the electronic notebook. The Local Impact phase will engage practitioners in testing the electronic notebook in their classes while researchers document teaching implementation and student learning of CT. In the Broader Impact phase, the electronic notebook will be scaled up to local high school teachers who did not participate in the project implementation. The project will develop an empirical learning progression for grades 9-12 that will provide more sophisticated explanations of CT with developmental step across grades.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842090</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Cleary</LastName>
+<EmailAddress>timothy.cleary@gsapp.rutgers.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Rich</LastName>
+<EmailAddress>peter_rich@byu.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anastasia</FirstName>
+<LastName>Kitsantas</LastName>
+<EmailAddress>akitsant@gmu.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Erin</FirstName>
+<LastName>Peters-Burton</LastName>
+<EmailAddress>epeters1@gmu.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for the 2018 IEEE International Conference on Computer Design (ICCD)</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 2018 IEEE International Conference on Computer Design (ICCD) will be held in Orlando, Florida on October 7-10, 2018. The ICCD for the past 35 years has been the premier academic forum where emerging trends and novel concepts in computer systems and design are explored. The conference brings together professionals from academic and industrial background to address the challenges, and discuss practical and theoretical work covering systems and applications, workload characterization, computer architecture, security, verification and test, design tools and automation methodologies, and nanoscale design technologies. Highly original ideas, new approaches, and groundbreaking results are expected.&lt;br/&gt;&lt;br/&gt;Travel support will make possible the participation of students who would otherwise be unable to attend. ICCD conference will expose students to the discipline and encourage them to pursue careers in emerging issues in computer system design. Particular attention is paid to directing support towards under-represented groups, e.g., gender or ethnic minorities and students from smaller or less well-known institutions. A small number of undergraduate applicants will also be considered to better reach out to potential researchers in this field. The support will provide students who attend with the opportunity to interact with a diverse group of mentors and peers, furthering their education and research experiences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838961</AwardID>
+<Investigator>
+<FirstName>Omer</FirstName>
+<LastName>Khan</LastName>
+<EmailAddress>khan@uconn.edu</EmailAddress>
+<StartDate>06/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

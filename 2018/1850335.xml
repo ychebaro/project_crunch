@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CHS: Experimental Studies of Human Trust in Machine Learning</AwardTitle>
+<AwardEffectiveDate>04/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>174992.00</AwardTotalIntnAmount>
+<AwardAmount>174992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Todd Leen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Machine learning (ML) has been applied to various domains including finance, healthcare, urban operations, and targeted news and advertising.  They achieve great success uncovering insights from massive data and advancing decision making.  Despite widespread applications, scientific understanding of peoples' trust or lack of trust in ML approaches is lacking, while the success of human-machine collaborations requires a deeper understanding of trust.  This project advances the understanding of lay people's trust in ML through large-scale randomized human-subject experiments. The project will result in theoretical insights on the formation and maintenance of trust between humans and ML systems, and practical insights for designing systems acceptable to people.&lt;br/&gt;&lt;br/&gt;Leveraging existing theoretical models of trust in automation, this project will answer three fundamental questions related to lay people's trust in machine learning.  How does the performance of an ML system (correctness, reliability, and predictability) affect people's trust in it?  How does its interpretability affect people's trust in it?  How do the performance and interpretability interact with each other to influence trust? The project will:(1) advance theoretical and empirical understanding about the development and maintenance of trust in ML systems (and compare with trust in conventional automated systems), (2) provide design guidelines that help instill trust in ML systems, and (3) develop an experimental framework for evaluating and benchmarking trustworthiness of ML systems in a systematic manner.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/03/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/03/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850335</AwardID>
+<Investigator>
+<FirstName>Ming</FirstName>
+<LastName>Yin</LastName>
+<EmailAddress>mingyin@purdue.edu</EmailAddress>
+<StartDate>04/03/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

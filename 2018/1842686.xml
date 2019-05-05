@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Air Quality Analysis by Unmanned Aerial Vehicles</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>224653.00</AwardTotalIntnAmount>
+<AwardAmount>224653</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project will be to bring to the market a faster and cheaper means of gathering highly accurate local air quality.  This will be done through the use of miniaturization of chemical sensors that are carried by UAVs.  Not only will there be technical hurdles that will be overcome through the implementation of this means of gathering data, the use of UAVs in this manner pushes the boundaries of their use in urban areas in a way that has not been done before.  The societal and commercial impact will be to reduce cost and time in obtaining air quality at a point in time and space, thereby making air quality measurements less of a financial and technical burden to governments, organizations and corporations.  This progress will help ensure that communities can address air quality concerns through the data gathered.&lt;br/&gt;&lt;br/&gt;This STTR Phase I project proposes to implement a novel means to couple a low-cost technology to detect when chemical components reach a given threshold in the air with the use of Unmanned Aerial Vehicles as a means of delivering the sensors to a specified location.  The sensor technology utilizes colorimetric detection of chemicals.  Off-the-shelf colorimetric sensors, combined with a unique algorithm, produce color difference maps for toxic industrial chemicals at their permissible exposure level (PEL) concentrations.  The objective of the research is to determine if the proposed approach will allow for accurate chemical sensing for a precise location.  It is anticipated that the technology to be utilized will allow for an accurate capture of a broad range of pollutants and chemical compounds along with concentration levels.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842686</AwardID>
+<Investigator>
+<FirstName>Usman</FirstName>
+<LastName>Hafeez</LastName>
+<EmailAddress>uhafeez1@gmail.com</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kaizen Technologies, Inc</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606393655</ZipCode>
+<PhoneNumber>7739343010</PhoneNumber>
+<StreetAddress>2339 N. Kildare Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

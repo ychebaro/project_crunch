@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Timely Insights: Interpretable, Multi-scale Summarization of Networks over Time</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>555401.00</AwardTotalIntnAmount>
+<AwardAmount>129640</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Evolving network data occur in almost all disciplines. For example, knowledge or facts are often structured into knowledge graphs, brain activity is represented via functional networks, and neural networks can be seen as evolving graph structures. This project aims to develop computational methods and models to summarize, explain, and provide insights into massive data (and their underlying dynamic processes) at multiple scales in a broad range of domains. Focusing on knowledge graphs makes it possible to achieve on-device and privacy-preserving analytics (e.g., on intelligent assistants). Modeling neural networks is expected to give insights into their interpretability and reduce their massive training computational cost. Through collaborations with experts in neuroscience, this research will contribute to decoding the brain, with a potential impact on mental development and disease detection. A significant part of this project is a plan for integrating research with education. Its overarching theme is to increase diversity in computer and data science, and engage students in graph mining research and its real-life applications via: introducing undergraduate and graduate data mining classes; mentoring students on data science projects for social good; organizing a workshop to attract undergraduates from diverse backgrounds to graduate school; and organizing a high-school data science summer camp centered around social media and networks, a theme that is a successful introduction to network science.&lt;br/&gt;&lt;br/&gt;Network summarization, which identifies structure and meaning in large-scale data, so far has mostly focused on non-complex, static data. This project aims to bridge the gap between network summarization research and real-world problems by introducing novel problem formulations in summarization (including for tasks that have not been previously viewed as graph problems) as well as theoretical analyses, unifying theories, and a suite of new, interpretable methods and scalable algorithms. It pursues three research tasks related to network evolution at different scales. At the network scale, the first task focuses on efficient, supervised or semi-supervised summarization of evolving and semantically-rich graph data (e.g., heterogeneous). At the multi-network scale, the second task introduces interpretable methods for modeling and understanding collections of evolving networks and their joint underlying physical processes, which is an under-studied problem in data mining. Via academic and industrial collaborations, the third task explores new applications in knowledge graphs, neuroscience, deep neural networks, and social sciences. The project is expected to advance the foundations of exploratory analysis of evolving data. Its outcomes will be disseminated through publications, tutorials, workshops, as well as open-source tools, code and datasets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/15/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845491</AwardID>
+<Investigator>
+<FirstName>Danai</FirstName>
+<LastName>Koutra</LastName>
+<EmailAddress>dkoutra@umich.edu</EmailAddress>
+<StartDate>03/15/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

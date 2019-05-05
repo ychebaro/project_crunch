@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF-BSF:RI:Small:Collaborative Research:Next-Generation Multi-Agent Path Finding Algorithms</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>193315</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With the increased use of automated vehicles in manufacturing, warehousing, and other environments, it is important to ensure that the plans taken by the automated agents controlling these vehicles are both efficient and safe. That is, we want to minimize the cost of travel while ensuring that agents will not collide with each other or the environment. This project will focus particularly on approaches for planning in environments where the number of agents is limited, but the cost of failure is high. For instance, in an airport there are relatively few airplanes moving on the tarmac at any one time, but the cost of collisions is large. The project will develop efficient and robust approaches that can be used to control agents in these environments. When these approaches are complete, this will enable new applications for the deployment of automated agents that can reduce the cost and pollution of current systems while increasing their efficiency and safety.&lt;br/&gt;&lt;br/&gt;Existing algorithms for centralized control of agents have three drawbacks. First, they often make restrictive assumptions about the environment, such as axis-aligned movement with unit-cost actions. Second, the optimal approaches do not scale to large numbers of agents and the fastest algorithms have poor solution quality. Third, these algorithms are only well-defined in fixed scenarios where there is a clear distinction between plan formation and execution. This project will address these limitations by developing new algorithms. These approaches will handle more realistic agent models, such as robotic movement on a state lattice, they will compute near-optimal solutions to ensure that they scale to significantly larger scenarios, and they will be adapted to run on online problems where agents can enter or exit the world and where plan execution is imprecise and must be adapted based on real-world restrictions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815660</AwardID>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Sturtevant</LastName>
+<EmailAddress>sturtevant@cs.du.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Denver</Name>
+<CityName>Denver</CityName>
+<ZipCode>802104711</ZipCode>
+<PhoneNumber>3038712000</PhoneNumber>
+<StreetAddress>2199 S. University Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

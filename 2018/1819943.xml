@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Refining a 3-month release buprenorphine, advancing a drug delivery platform</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>224850</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project will develop a very long-acting buprenorphine formulation to increase patient compliance and address the opioid crisis. Poor medication compliance is a significant driver of health care costs. The US would save an estimated 290 billion dollars yearly or 13% of the total health care budget if patients took their medications as directed. Patients with chronic diseases are the least compliant with medication. There is an evolving consensus that Opioid Misuse Disorder (OMD) is also a chronic disease, and its treatment is also plagued by poor compliance. There are an estimated 2.5 million people in the United States with OMD. Complete abstinence therapy fails about 80% of the time. Medication-assisted therapy using methadone, naltrexone or buprenorphine is far more successful. More opioid misuse patients are treated with buprenorphine than methadone, and retention in treatment is up to 78% with additional counseling. Still, 80% of all people who misuse opioids never obtain any therapy for their disorder, risking overdose, other diseases, including HIV and Hepatitis, and amyloidosis. Extended-release medications for opioid maintenance therapy would open up more options to get people into therapy. A 3-month release formulation of buprenorphine would be a part of that strategy.  &lt;br/&gt;&lt;br/&gt;Buprenorphine is a partial agonist opioid drug that is used for treatment of pain in human and animal patients and for opioid addiction maintenance. A platform technology has been developed that can be used to formulate extended-release preparations of drugs that are weak bases and are mildly lipophilic. Preparations of buprenorphine, naltrexone and doxycycline have been developed using this method. The initial proposed product is an injectable formulation of buprenorphine that releases over a period of 3 months. This project will address the occurrence of a brief peak of early drug release in the 3-month duration buprenorphine formulation. The experiments in the current proposal will examine three different methods of decreasing the early peak by manipulating the amount of lipid engulfed by macrophages at a given dose of drug or by preventing macrophage engulfment of the lipid particles entirely by coating the lipid particles with chemicals that make them unlikely to be phagocytized. Preliminary results indicate that changing the drug to lipid ratio as described in the current proposal will reduce the peak of early release. Reducing the early peak will prevent sedative effects, improve the pharmacokinetics of the preparation and make dose escalation studies easier and more straight forward.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819943</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Heath</LastName>
+<EmailAddress>timheathcca@gmail.com</EmailAddress>
+<StartDate>06/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Plumb Pharmaceuticals, LLC</Name>
+<CityName>Madison</CityName>
+<ZipCode>537132410</ZipCode>
+<PhoneNumber>6083337617</PhoneNumber>
+<StreetAddress>Ann St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

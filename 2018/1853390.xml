@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: The Great Plains Irrigation Experiment (GRAINEX) for Understanding the Influence of Irrigation on the Planetary Boundary Layer and Weather Events</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>184601</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas F. Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project seeks to investigate the impacts of irrigation on the evolution of the planetary boundary layer atmosphere in a region of the Northern Great Plains, specifically in southeastern Nebraska.  This study will determine the impacts of the rapid commencement of irrigation in the spring and resultant changes in the land-atmosphere (L-A) coupling at the mesoscale.  Graduate students at Western Kentucky University and the University of Alabama at Huntsville will gain experience in studying/working with weather/climate models and gain field experience. These students will be guided by NCAR and NASA-GSFC experts also.  Meanwhile, this project will also contribute science education to K-12 students in local middle schools.  For land-atmospheric interaction and surface hydrology communities, the proposed work could potentially bring interesting findings to advance our understanding regarding the connection between local irrigation and precipitation.&lt;br/&gt;&lt;br/&gt;The Southern Great Plain (SGP) is a "hot spot" where soil moisture plays an important role affecting the local atmospheric boundary layer processes and local cloud formation as well as precipitation.  Land use change and irrigation due to agricultural activities could be important factors affecting local land-atmospheric interactions.  This research will investigate the intra-seasonal changes in application in irrigation and their impacts on the boundary layer atmosphere and various processes and mechanisms involved in these changes.  This study will collect field data in collaboration with the Lower Atmospheric Observation Facilities (LAOF) of the University Consortium for Atmospheric Research (UCAR) and conduct model simulations to further understand the impacts of irrigation on the atmosphere. To further understand land-atmosphere interactions and coupling, this study will use the Weather Research and Forecasting (WRF) model centered on southeastern Nebraska, a region containing strong soil moisture gradients due to widespread application of irrigation.</AbstractNarration>
+<MinAmdLetterDate>09/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853390</AwardID>
+<Investigator>
+<FirstName>Rezaul</FirstName>
+<LastName>Mahmood</LastName>
+<EmailAddress>rezaul.mahmood@wku.edu</EmailAddress>
+<StartDate>09/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

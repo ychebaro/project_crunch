@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Roll-to-Roll Manufacturing of Highly Crystalline Thin Film Semiconductor Substrates for Flexible Electronics</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>224949.00</AwardTotalIntnAmount>
+<AwardAmount>224949</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to further the development of a patent pending technology aimed at producing flexible, lightweight, and low-cost semiconductor substrates. These flexible semiconductor films represent the next evolution of the silicon wafer, the foundation of over 90% of today's electronic devices, including computer chips, solar panels, microelectronics, and a wide range of sensors and similar 'internet of things' devices. The silicon wafer, in its current form, is essentially unchanged since its inception over 60 years ago. These wafers, although larger today, remain thick, rigid, fragile, and are limited to circular forms no larger than 450 millimeters (18 inches) in diameter. The ability to produce large-area, high-throughput quantities of this material, in a flexible, more durable format would be truly disruptive, and help to usher in the next generation of affordable, flexible, and pervasive electronic devices. Accelerating the commercialization of this 'wafer 2.0' will help to shape America's high-tech semiconductor manufacturing industry for the 21st century.&lt;br/&gt;&lt;br/&gt;The proposed project will focus on the development of this innovative technology at a simulated roll-to-roll prototyping scale, to enhance film crystal quality, repeatability, and electronic properties, while preparing the process for integration into large scale manufacturing. To date, no techniques exist that can produce large-area, highly crystalline silicon or other semiconductor films, that are suitable for high-throughput manufacturing. The technique in this proposed work is a novel, patent pending process, suitable for high-throughput roll-to-roll manufacturing and has several technical advantages that favor high-uniformity crystallization. Low-cost, flexible, wafer-like substrates will open the door for a wide range of electronic devices and fully integrated system-on-chip designs, including sensors, displays, lighting, processors, memory, microelectronics, and photovoltaics. Specific research activities will include optimization of the crystallization process via exploration of operating parameters; improvements and refinements to the prototype chamber equipment; evaluation of intermediate thin-film layers to provide ideal electronic properties and to promote more favorable recrystallization; and, finally, characterization of the resulting semiconductor films using state of the art semiconductor tools at the world's largest nanotechnology focused institute.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819961</AwardID>
+<Investigator>
+<FirstName>Shane</FirstName>
+<LastName>McMahon</LastName>
+<EmailAddress>smcmahon@sunycnse.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate>06/29/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shane</FirstName>
+<LastName>McMahon</LastName>
+<EmailAddress>smcmahon@sunycnse.com</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Graeme</FirstName>
+<LastName>Housser</LastName>
+<EmailAddress>ghousser@outlook.com</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lux Semiconductors</Name>
+<CityName>Albany</CityName>
+<ZipCode>122220000</ZipCode>
+<PhoneNumber>5187887245</PhoneNumber>
+<StreetAddress>1400 Washington Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Research Initiation Award: Remote Sensing for Flood Modeling and Management</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>299802.00</AwardTotalIntnAmount>
+<AwardAmount>299802</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia Rankins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Research Initiation Awards provide support for junior and mid-career faculty at Historically Black Colleges and Universities who are building new research programs or redirecting and rebuilding existing research programs. It is expected that the award helps to further the faculty member's research capability and effectiveness, improves research and teaching at the home institution, and involves undergraduate students in research experiences. The award to North Carolina A&amp;T State University has potential broader impacts in a number of areas. The goal of the project is to gain fundamental understanding of unarmed aerial vehicle (UAV) data processing and to develop a research program on remote sensing data processing for environmental management at the university. Undergraduate students and high school students will gain research experiences and the research will be integrated in a number of undergraduate and graduate courses.&lt;br/&gt;&lt;br/&gt;Remote sensing data have increasingly been used to develop flood modeling; however, traditional satellite-based techniques are challenging due to the presence of cloud cover, satellite revisit time, viewing angle limitations, and the complexity of urban landscapes. The recent development of UAVs has created a new tool for collecting data to use in geospatial research. Applying UAVs to collect data with an appropriate flight mode and optimized sensors offers the possibility of overcoming issues associated with using satellite-based sensor data. This project aims to investigate and evaluate the application of UAV data for flood modeling and management. More generally, this will improve GIS and remote sensing capabilities for UAV-based simulation and modeling of 3D dynamic phenomena such as floods, forest fires, and air pollution. The proposed project will contribute to the scientific literature by developing a novel method for 3D water surface reconstruction and delineation of flood boundary and water level measurements using UAV data. These measurements can be integrated with flood models to identify areas vulnerable to future flooding.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/03/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/03/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800768</AwardID>
+<Investigator>
+<FirstName>Leila</FirstName>
+<LastName>Hashemi Beni</LastName>
+<EmailAddress>lhashemibeni@ncat.edu</EmailAddress>
+<StartDate>04/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina Agricultural &amp; Technical State University</Name>
+<CityName>Greensboro</CityName>
+<ZipCode>274110001</ZipCode>
+<PhoneNumber>3363347995</PhoneNumber>
+<StreetAddress>1601 E. Market Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

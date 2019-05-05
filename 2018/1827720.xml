@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT:Development of an efficient fiber interface for Integrated lithium-niobate Modulators.</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project is to enable better connectivity and big data revolution. High-speed optical fiber links are responsible for transmitting enormous amount of data and are the backbone of internet. However, the existing optical networks, that transmit our multimedia emails, music and video streaming, cannot meet the demands for more bandwidth and reduced energy consumption. One of the limiting factors is a modulator device that converts information from electrical to optical domain. This program will address this, and develop a fully integrated and packaged modulator prototype that will meet the societal needs for better connectivity. The target markets for the technology will be providers of computer and telecommunication network equipment, data- and computing-center owners, and network-service providers. In addition, the research community, specialty measurement equipment manufacturers, and defense contractors, will benefit from the developed technology. The program has a theoretical and experimental component and addresses both fundamental and engineering aspects of photonics, optoelectronics, and communication systems.&lt;br/&gt;&lt;br/&gt;The proposed project will address the efficiency with which light can be brought onto a lithium-niobate modulator chip. As recently demonstrated, thin film lithium-niobate photonic platform allows for realization of high speed modulators (&gt; 100 GHz) that operate at low voltages (~ 1 V) and feature very low loss, and that therefore can meet the demands for better connectivity and higher data rates. However, due to their sub-micron scale, these modulators cannot be efficiently connectorized to optical fibers, which results in large optical losses (&gt; 7 dB/ facet). This significantly affects the usefulness of these devices, and limits them to laboratory demonstrations, only. To address this, the team will develop techniques to reduce coupling efficiency to ~ 1dB/ facet, and use this to develop fully packaged and pig-tailed modulator prototype. These will then be benchmarked against the state of the art technologies, as well as for customer development activities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827720</AwardID>
+<Investigator>
+<FirstName>Marko</FirstName>
+<LastName>Loncar</LastName>
+<EmailAddress>loncar@seas.harvard.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Optimal Power Flow Formulation Based on Equivalent Circuit Methods</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>340000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anthony Kuh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The power grid represents critical infrastructure for our society, and generating electricity cleanly and cost efficiently is a world-wide priority. Tomorrow's smart grid relies on effective algorithms and software tools for optimizing the AC (alternating current) power flow. The Federal Energy Regulatory Commission (FERC) has reported that "approximate-solution techniques may unnecessarily cost tens of billions of dollars per year" and "result in environmental harm from unnecessary emissions and wasted energy." Carnegie Mellon researchers have recently introduced a new formulation approach for modeling and simulating the grid's power flow based on a novel equivalent circuit representation. The new power flow algorithms are shown to benefit from the formalism of circuit methods and the research legacy of circuit simulation techniques that have advanced the electronics industries so effectively. Specifically, this work proposes to formulate the optimal power flow problem using the new equivalent circuit approach, and use the corresponding circuit solution algorithms to efficiently solve it. Preliminary results indicate that this formulation more accurately represents the true physics of the grid, and results in an optimization problem that is significantly easier to solve. This work will develop a prototype implementation that will be used to optimize the eastern interconnection grid that comprises roughly 50% of the power transmission in the U.S. The proposed research is poised to make a dramatic impact on the methods used for operation of electric power grids and the corresponding markets that determine the cost of electrical power generation and distribution. This work will further impact the integration of renewable energies into the future smart grid, and make power systems more compatible with the mainstream circuits curriculum in Electrical and Computer Engineering departments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800812</AwardID>
+<Investigator>
+<FirstName>Lawrence</FirstName>
+<LastName>Pileggi</LastName>
+<EmailAddress>pileggi@ece.cmu.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+</Award>
+</rootTag>

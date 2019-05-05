@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Electrolytic Generation of Low-Cost, High-Density Carbon Nanotubes for High-Performance Lithium-Ion Batteries</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>722669.00</AwardTotalIntnAmount>
+<AwardAmount>722669</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is multilayered. First, there is the potential for creation of a carbon nanotubes manufacturing industry in the United States that will create hundreds of high-paying domestic manufacturing jobs advance U.S. leadership and knowledge in industrial electrochemistry. Secondly, Saratoga Energy's technology has the potential to benefit the United States economy by increasing the cost-competitiveness and performance of lithium-ion batteries, paving the way to the broader adoption of electric vehicles and grid/renewable energy storage. In turn, this will help reduce the strategic importance of oil, the cost of securing global oil supplies, as well as greenhouse gas emission. While lithium-ion batteries are the focus of this body of work, carbon nanotubes (CNTs) are also used in a variety of other applications - advanced composite materials, nanotechnology, catalyst supports, water filtration, and other areas of commercial impact. &lt;br/&gt;&lt;br/&gt;This SBIR Phase II project proposes to 1) electrochemically characterize carbon nanotubes as a cathode conductive additive for high-performance lithium-ion battery applications and 2) construct a small pilot-scale carbon nanotube manufacturing unit capable of producing 1 kg of product per day for retail distribution. Saratoga Energy Research Partners, LLC (Saratoga Energy), has developed a high-selectivity electrochemical process to convert carbon dioxide into carbon nanotubes. In the work conducted thus far, Saratoga Energy has established that its carbon nanotubes can be manufactured at a cost ~50X cheaper than the market price for state-of-the-art battery-grade carbon nanotubes.  Battery manufacturers use carbon nanotubes to enable the reduction of conductive additive content in the cathode, thus improving specific and volumetric energy density. Carbon nanotubes also act as a reinforcing agent in the electrodes improving their mechanical properties. This is important for the battery assembly process but also for battery life performance, as the carbon nanotube network maintains a high level of cohesion of the electrodes upon repeated charge-discharge cycles. However, today, the high price of commercial carbon nanotubes limits their use, which will be addressed by our lower cost CNTs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831078</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Rush</LastName>
+<EmailAddress>ben@saratoga-energy.com</EmailAddress>
+<StartDate>09/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Saratoga Energy Research Partners LLC</Name>
+<CityName>Berkeley</CityName>
+<ZipCode>947102737</ZipCode>
+<PhoneNumber>5104097499</PhoneNumber>
+<StreetAddress>820 Heinz Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

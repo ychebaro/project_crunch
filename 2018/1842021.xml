@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID Proposal:   Constraining kinematics of the Whillans/Mercer Ice Stream Confluence</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>48438</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Cutler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Siple Coast in West Antarctica has undergone significant glacier changes over the last millenium. Several ice streams--rapidly moving streams of ice bordered by slow-moving ice--exist in this region that feeds into the Ross Ice Shelf.  A long-term slowdown of Whillans Ice Stream appears to be occurring, and this is affecting the zone between the Whillans and Mercer Ice Streams. However, the consistency of this slowdown and resulting changes to the shear margin between the two ice streams are unknown. The goal of this project is to quantify the observed changes over the past decade and understand the dynamic processes that cause them. A collateral benefit of and driver for this as a RAPID project is to test a method for assessing where crevassing will develop in this zone of steep velocity gradients.  Such a method may benefit not only near-term field-project planning in the 2018-19 field season, but also planning for future fieldwork and traverses.&lt;br/&gt;&lt;br/&gt;The team will use remote sensing feature-tracking techniques to determine transient velocity patterns and shifts in the shear-zone location over the last 10-plus years. This velocity time series will be incorporated into a large-scale ice-sheet model to estimate ice-sheet susceptibility to changing boundary conditions over the next century based on likely regional ice-flux scenarios. This approach is an extension of recent work conducted by the team that shows promise for predicting areas of changing high strain rates indicative of an active glacier shear margin. The ultimate objectives are to characterize the flow field of merging ice streams over time and investigate lateral boundary migration.  This will provide a better understanding of shear-margin control on ice-shelf and up-glacier stability.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842021</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Koons</LastName>
+<EmailAddress>Peter.Koons@maine.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Seth</FirstName>
+<LastName>Campbell</LastName>
+<EmailAddress>scampb64@maine.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maine</Name>
+<CityName>ORONO</CityName>
+<ZipCode>044695717</ZipCode>
+<PhoneNumber>2075811484</PhoneNumber>
+<StreetAddress>5717 Corbett Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>017Y</Code>
+<Text>Polar Special Initiatives</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5116</Code>
+<Text>ANTARCTIC GLACIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

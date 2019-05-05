@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PACIFIC 2018 Symposium, February 13-18, 2018 in Akaigawa, Hokkaido, Japan.</AwardTitle>
+<AwardEffectiveDate>01/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>7000.00</AwardTotalIntnAmount>
+<AwardAmount>7000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Whitmore</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will provide support for the "Particle Astrophysics and Cosmology Including Fundamental InteraCtions (PACIFIC) Symposium." It will be held February 13-19, 2018 in Akaigawa, Hokkaido, Japan. &lt;br/&gt;&lt;br/&gt;It has a particular focus on early career scientists and graduate students, as it will provide participant travel support for them to be able to participate in the symposium. This interdisciplinary conference will have an impact on the broader field including particle physics, astronomy, and mathematical physics.&lt;br/&gt;&lt;br/&gt;This symposium will focus on the latest developments at the interface of particle physics, astrophysics, and cosmology and on their ramifications for understanding fundamental interactions. There will be sessions devoted to Astroparticle experiment/observations, Particle Theory, High-energy Astrophysics (theory and observations) and Cosmology.</AbstractNarration>
+<MinAmdLetterDate>01/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1804755</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Kusenko</LastName>
+<EmailAddress>kusenko@physics.ucla.edu</EmailAddress>
+<StartDate>01/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1288</Code>
+<Text>Particle Astrophysics &amp; Cosmol</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7235</Code>
+<Text>Particle Astrophysics/Undergro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

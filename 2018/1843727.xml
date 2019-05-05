@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Building a Network of Quantum Diamond Microscope (QDM) Facilities and Researchers</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>265566.00</AwardTotalIntnAmount>
+<AwardAmount>265566</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John D. Gillaspy</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This EAGER Award is to explore the scientific benefits that come from a network of Quantum Diamond Microscope users.   It will lay the foundations of a community of users for a new transformative instrument for understanding of rock magnetism. The quantum diamond microscope (QDM) offers sub-micrometer spatial resolution in the imaging of magnetic fields, enabling the precise identification and analysis of ferromagnetic carriers in natural rock samples. The project will consist of the construction of two QDM setups to be distributed to user facilities, making the QDM available for a wide range of users. This team will also host two training workshops for the QDM recipient laboratories and a 3-day community workshop where researchers with interest in magnetic field imaging and its applications will gather to exchange ideas and define future directions in the study of rock magnetism.&lt;br/&gt;&lt;br/&gt;This project will greatly increase the availability of a transformative instrument that can be applied to understanding of, among many other subjects, the history of the Earth's dynamo, the motion of tectonic plates through time, and the history of precipitation in the Western US since the last glacial maximum. The scientific research enabled by the QDM will improve understanding of paleoclimate and pollution, both of which may be studied using high resolution magnetic field imaging methods. The work will involve the training of a post-doctoral associate as well as students at the graduate and undergraduate level in the use of a new technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843727</AwardID>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Fu</LastName>
+<EmailAddress>rogerfu12@gmail.com</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1241</Code>
+<Text>AMO Experiment/Atomic, Molecul</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1574</Code>
+<Text>Geophysics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7222</Code>
+<Text>XC-Crosscutting Activities Pro</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1031</Code>
+<Text>STUDIES OF THE EARTH'S DEEP INTERIOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8990</Code>
+<Text>Optics and Photonics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

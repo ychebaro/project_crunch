@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Elements: Data:  Integrating Human and Machine for Post-Disaster Visual Data Analytics:  A Modern Media-Oriented Approach</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>597955</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Walton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project creates a science-oriented visual data service that facilitates the query of datasets based on visual content. The approach allows a user to search for data based on visual similarity, even in cases where a term for the failure or observation does not yet have a scientific name.  The visual analysis data and application services will be deployed on a cloud-based platform.  The results will produce a framework enabling access to and analysis of a large amount of imagery from diverse sources.  &lt;br/&gt;&lt;br/&gt;The research team creates VISER (Visual Structural Expertise Replicator), which will serve as a comprehensive cloud-based data analytics service and will facilitate the use of and integrate data and applications most needed by the user.  The framework will implement two novel concepts: data-as-a-service and applications-as-a-service, which will bring data and applications to the user without the need to configure software systems or packages.  The approach also employs artificial intelligence to interpret the contents of the images.  VISER will use convolutional neural networks (CNNs) to train custom classifiers for new categories.  Three applications will be developed and deployed within VISER:  App1 will extract relevant visual context, App2 will facilitate similarity-based visual searching (through the use of a Siamese CNN), and App3 will help perform automatic extraction of pre-event/pre-disaster images based on Google Street View.  The application of these tools would advance both the science of automated pattern recognition and of more effective construction techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835473</AwardID>
+<Investigator>
+<FirstName>Shirley</FirstName>
+<LastName>Dyke</LastName>
+<EmailAddress>sdyke@purdue.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Hacker</LastName>
+<EmailAddress>tjhacker@purdue.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bedrich</FirstName>
+<LastName>Benes</LastName>
+<EmailAddress>bbenes@purdue.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7726</Code>
+<Text>DATANET</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

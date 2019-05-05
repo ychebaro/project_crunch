@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Applications to Cryptography of the Construction of Curves from Modular Invariants</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>194349.00</AwardTotalIntnAmount>
+<AwardAmount>194349</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>There are two main reasons why, despite the fact that we currently have robust ways to secure communications with cryptography, scientists must continue to improve and discover mathematical cryptographic methods. The first is that as technology advances, there is need for ever faster-performing algorithms that can be run on chips with smaller memory and/or computing power, such as smart phones and smart watches. The second is that new technological developments and newly-discovered vulnerabilities and attacks can at any time make certain cryptographic methods less secure, making it necessary to have a wide suite of alternative methods ready to be deployed. This project conducts fundamental research in mathematics that will support the development of new mathematical cryptographic methods.&lt;br/&gt;&lt;br/&gt;More precisely, the main goal of this project is to develop the necessary theoretical framework to, given a sextic complex multiplication field, write an exact equation for every hyperelliptic curve of genus 3 whose Jacobian is simple and has complex multiplication by the ring of integers of that field (if any), adapting techniques used in the case of genus 2. In addition to this work, the project aims to characterize the fields K such that there exists a simple hyperelliptic Jacobian with complex multiplication by the ring of integers of this field K. The project will also investigate whether a complex multiplication field can admit both a hyperelliptic and a plane quartic Jacobian with complex multiplication by the ring of integers of the field. As Jacobians of hyperelliptic curves of genus 3 are considered to be safe -- whereas Jacobians of plane quartic curves are not -- and potentially efficient for cryptography using the discrete log problem, investigating these questions constitutes the very first step that must be taken before hyperelliptic Jacobians of genus 3 can be deployed in cryptographic applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802323</AwardID>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: RoL: FELS Integrating Critical Phenomena and Multi-Scale Selection in Virus Evolution; November, 2018; Santa Fe, New Mexico</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>42268</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George W. Gilchrist</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Viruses infest (or parasitize) every organism on Earth. In most cases, viruses peacefully co-exist with their hosts, but some viruses produce disease. Researchers from different disciplines study viruses at specific levels of biological organization. Initially, a virus expresses its genes and kidnaps the cellular machinery to produce its own proteins. Subsequently, the virus can be transmitted and spread in the host populations and, ultimately, to diverse ecosystems. This conference will bring together virologists, ecologists, epidemiologists and theoreticians working to develop a predictive, multi-level theory of virus evolution. The participants will discuss the latest next-generation sequencing technologies and how they can be used to characterize virus changes across these levels of selection. A better understanding of virus changes will allow predictions of viral population behaviors, including the development of new approaches to manage infectious diseases and thus, advance national health and welfare. The workshop products may be of value for training advanced undergraduates, Masters or PhD students in virology, ecology and evolution of infectious diseases, and epidemiology.&lt;br/&gt;&lt;br/&gt;The recent advent of microfluidic techniques coupled with high-throughput, next-generation sequencing (NGS) allows for the characterization of selection dynamics across all levels of biological organization. Single-cell infection dynamics, both in terms of virus replication and host responses makes it possible to get a precise picture of the evolutionary dynamics of a virus spreading among cells within tissues. NGS allows for characterization dynamics of viral populations and chains of transmission at the entire individual host level (e.g., recent responses to Chikungunya, Ebola and Zika outbreaks). Finally, NGS allows one to explore the virome of entire ecosystems through metaviromics and metatranscriptomics. To make use of these methodological advances, there is a need for a complete theory linking these levels of selection. Understanding basic dynamics across levels of biological hierarchy may further allow prediction of viral population behaviors at higher levels.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830688</AwardID>
+<Investigator>
+<FirstName>Santiago</FirstName>
+<LastName>Elena</LastName>
+<EmailAddress>sfelena@ibmcp.upv.es</EmailAddress>
+<StartDate>08/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Santa Fe Institute</Name>
+<CityName>SANTA FE</CityName>
+<ZipCode>875018943</ZipCode>
+<PhoneNumber>5059462727</PhoneNumber>
+<StreetAddress>1399 HYDE PARK ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>R:SS 2018 Women in Robotics Workshop</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>19876</AwardAmount>
+<AwardInstrument>
+<Value>Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834929</AwardID>
+<Investigator>
+<FirstName>Kerstin</FirstName>
+<LastName>Haring</LastName>
+<EmailAddress>kerstin.haring@usafa.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Chad</FirstName>
+<LastName>Tossell</LastName>
+<EmailAddress>chad.tossell@usafa.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Phillips</LastName>
+<EmailAddress>elizabeth_phillips1@brown.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>United States Air Force Academy</Name>
+<CityName>USAF Academy</CityName>
+<ZipCode>808406208</ZipCode>
+<PhoneNumber>7193334195</PhoneNumber>
+<StreetAddress>2354 Fairchild Dr Ste 2h29</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

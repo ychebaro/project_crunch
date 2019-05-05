@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>High-speed and minimally photo-damaging STED microscopy using nanolaser arrays</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will develop a fast, affordable, and miniaturized microscopy system to image the fine ultrastructure of cells, with minimal photodamage or photobleaching of fluorescent probes.   Success of this proposal will significantly advance the field of microscopy, specifically super-resolution fluorescence imaging. The development of high-performance, fast, compact and affordable microscopes will impact medical diagnostics such as cancer and Alzheimer's disease. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The principal investigator will develop the next generation of stimulated emission depletion (STED) microscopy for high-performance, fast, compact and affordable STED microscopes. The PI will integrate metallic nanolaser arrays into STED systems which will greatly improve imaging speed and reduce the size and cost of the equipment&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805200</AwardID>
+<Investigator>
+<FirstName>Mercedeh</FirstName>
+<LastName>Khajavikhan</LastName>
+<EmailAddress>mercedeh@creol.ucf.edu</EmailAddress>
+<StartDate>07/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kyu Young</FirstName>
+<LastName>Han</LastName>
+<EmailAddress>kyhan@creol.ucf.edu</EmailAddress>
+<StartDate>07/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>76th Device Research Conference (DRC) to be held at the University of California, Santa Barbara, June 24 to 27, 2018</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>10000.00</AwardTotalIntnAmount>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique Dagenais</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The proposed project seeks financial support for increasing the diversity of speakers and enhancing student participation at a Conference to be held from June 24 to 27, 2018 at the University of California, Santa Barbara. The "76th Device Research Conference (DRC)" will focus on a variety of devices ranging from semiconductors to organic, molecular devices, as well as spin and quantum devices. The Conference will host world-renowned researchers in advanced devices as invited speakers, whose expertise range from design, to fabrication characterization and applications. In addition to technical talks, short courses on highly relevant topics presented by renowned world experts will greatly enhance the usefulness of the conference to attendees. This year's course will be on future computing technologies based on architectures beyond traditional von Neumann computing. The technical program will provide student participants with the opportunity to gain exposure to new materials and devices, their basic physics, and their engineering applications. Exposing the next generation of researchers to these important disciplines is critical to maintain the supply of STEM workers with the skillsets necessary to address emerging commercial trends. The information will be disseminated through the conference proceedings which will be available online through the IEEEXplore.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836790</AwardID>
+<Investigator>
+<FirstName>Siddharth</FirstName>
+<LastName>Rajan</LastName>
+<EmailAddress>rajan@ece.osu.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>J. Ardie Butch</FirstName>
+<LastName>Dillen</LastName>
+<EmailAddress>dillen@mrs.org</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Materials Research Society</Name>
+<CityName>Warrendale</CityName>
+<ZipCode>150867573</ZipCode>
+<PhoneNumber>7247792732</PhoneNumber>
+<StreetAddress>506 KEYSTONE DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

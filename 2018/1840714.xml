@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: An Open Mobile App Platform to Support Research on Fraudulent Reviews</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>149999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The pressure to succeed in online, peer-review websites has created a black market for search rank fraud. Fraud workers, who may control hundreds of user accounts, connect with product developers through crowdsourcing sites, then, from the accounts that they control, post fake activities, ratings, and reviews for site-owners' products. Most peer-review systems use fraud detection to filter out fake activities, but fraud nevertheless persists. Academic fraud detection research has been hampered by a scarcity of validated fraud data, the lack of a platform on which to evaluate and compare solutions, and the unwillingness of commercial peer-review sites to share insights, algorithms, and data. This project is developing an open mobile app platform, the first collaborative environment for the research community to ethically commission and share validated fraud data, classify observed fraud posting behaviors, evaluate fraud detection algorithms, and experiment with the inner functionality of an app market. This platform has the potential to significantly advance fraud detection research and make it more relevant to commercial peer-review sites, thus helping reduce the daily exposure to fraud of their millions of users.&lt;br/&gt;&lt;br/&gt;This project will investigate, develop and evaluate an online framework to study search rank fraud in app markets. The team is building an open-source app market to collect ground truth fraud datasets, validate existing and discover new fraud behaviors, and evaluate fraud detection solutions in a live environment. The team will develop protocols of interaction with fraud workers that will evaluate the quality of the data that they post using assurances of its fraudulence, attribution of fraud, and similarity to fraud posted in commercial sites. The team will develop new techniques to validate the output of fraud detection and prevention algorithms that transform participating fraud workers into human oracles. To help bridge the gap between assumptions made by fraud detection solutions and strategies employed by fraud workers, the team will develop semi-structured questionnaires and conduct user studies with fraud workers recruited from crowdsourcing sites, to identify and classify their most popular fraud preferences, constraints, capabilities and evasion strategies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840714</AwardID>
+<Investigator>
+<FirstName>Bogdan</FirstName>
+<LastName>Carbunar</LastName>
+<EmailAddress>carbunar@gmail.com</EmailAddress>
+<StartDate>08/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>Miami</CityName>
+<ZipCode>331990001</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

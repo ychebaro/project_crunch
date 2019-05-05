@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>QLC: EAGER: Engineering Control into the Coherence Lifetimes of Entangled States Using Transition Metal Ions in Molecules with Electron Spins</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this EAGER project, funded by the Chemical Structure, Dynamic &amp; Mechanism B Program of the Chemistry Division, Professor James P. Donahue of the Department of Chemistry at Tulane University, is developing the synthesis of metallodithiolene coordination complexes for their application as molecule-based qubits. These molecules support stable electron spins in the form of ligand-radicals that are weakly coupled through space.  They provide a viable platform for quantum computing, which promises to provide a basis for computing on a scale and speed vastly greater than that offered by conventional digital computing. The project provides great opportunities for training of students in synthetic organic and coordination chemistry and for the teaching of physical methods of characterization.  It also helps to develop a workforce on quantum computing.&lt;br/&gt;&lt;br/&gt;Metallodithiolene coordination complexes support reversible oxidation of the terminal dithiolene ligands from ene-1,2-dithiolates to stable radical monoanions which weakly couple and thus meet the fundamental criterion for a 2-qubit system. This same general behavior is anticipated for their larger analogs but with the key difference that the central metal center is chosen to provide some mechanism for switching reversibly to a spin active state that, in conjunction with unpaired electrons on the dithiolene radicals, can create a new quantum entangled state with coherence lifetimes that can be measured by electron paramagnetic resonance methods.  The switching mechanism for the metal center may be photoexcitation, thermally-induced spin crossover, or redox chemistry.   The key goal of the project is to create coherent and regenerable quantum states in these molecules with long lifetimes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836569</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Donahue</LastName>
+<EmailAddress>donahue@tulane.edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tulane University</Name>
+<CityName>NEW ORLEANS</CityName>
+<ZipCode>701185698</ZipCode>
+<PhoneNumber>5048654000</PhoneNumber>
+<StreetAddress>6823 ST CHARLES AVENUE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9102</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7203</Code>
+<Text>QUANTUM INFORMATION SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

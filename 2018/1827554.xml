@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Development of Prototype Aqueous Energy Storage Device using Nanomaterials</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>191937</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project is to provide an alternative energy storage solution to current lithium-ion battery technology in the marketplace, with a safer, more stable, and less expensive storage system using V2O5 nanomaterials.  Residential solar photovoltaic systems combined with affordable battery storage are becoming increasingly likely to drive an evolution of modern electricity supply systems with a low-emission of greenhouse gases. In the past decade, development of the residential solar photovoltaic across the nation has disrupted the way in which centralized electricity systems operate. As solar panel system prices have fallen dramatically in the past few years, a residential solar battery system that can operate off-grid remains relatively expensive.  The proposed technology, if successful, will provide a cost-effective energy storage solution for residential solar systems by offering a low-cost, environmentally benign aqueous battery system based on V2O5 nanomaterials.  Thus, much less investment will be needed during installation of solar panel system, accelerating the adoption of residential solar energy. &lt;br/&gt;&lt;br/&gt;The proposed project is built on the PI's previous success on the development of disordered V2O5 nanomaterials for aqueous K-ion storage. However, the real-size energy storage devices using such innovative materials under practical operational conditions has not been tested, which requires the development of prototype battery devices.   The proposed project will involve the scale-up production of the proposed materials, including the fabricating and testing of the prototype pouch cells using industrial-level line equipment. This project will provide a critical bridge across the performance gap to move this innovation from the lab to commercial scale. This project will also utilize realistic assessment metrics to support the continued development of the device from research discovery toward commercial reality.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827554</AwardID>
+<Investigator>
+<FirstName>Xiaowei</FirstName>
+<LastName>Teng</LastName>
+<EmailAddress>xw.teng@unh.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Hampshire</Name>
+<CityName>Durham</CityName>
+<ZipCode>038243585</ZipCode>
+<PhoneNumber>6038622172</PhoneNumber>
+<StreetAddress>51 COLLEGE RD SERVICE BLDG 107</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8019</Code>
+<Text>Accelerating Innovation Rsrch</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

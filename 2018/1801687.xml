@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Langlands Conjectures for Connected and Disconnected Groups</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>215000.00</AwardTotalIntnAmount>
+<AwardAmount>215000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project investigates facets of the Langlands program -- an area of Mathematics bridging number theory and geometry that examines in a systematic way the symmetries inherent in solutions of algebraic equations. By relating these symmetries to geometry, the program creates a powerful way of obtaining arithmetic information. The project is particularly concerned with obtaining such information explicitly. Deep and explicit knowledge of the arithmetic of numbers is in turn essential for many technological advances over the last decades that we take for granted today, including encryption and digital security.&lt;br/&gt;&lt;br/&gt;In more detail, the project will establish a uniform and explicit construction of the refined local Langlands correspondence, for general connected reductive p-adic groups splitting over a tame extension and all supercuspidal parameters, in residual characteristic prime to the order of the Weyl group. The project further aims to compare the result of this construction with other more general but less explicit constructions, such as the one of Genestier-Lafforgue for local function fields. The role of disconnected groups will also be considered.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801687</AwardID>
+</Award>
+</rootTag>

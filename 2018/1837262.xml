@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Integrate to Innovate: A Research-Practice Partnership to Integrate Computer Science into Maine Schools</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>299956</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen King</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will co-design a researcher practitioner partnership (RPP) in the state of Maine consisting of academic and non-profit educational researchers, three rural school districts, and business partners. The RPP will focus on developing a vision for the types of professional development that will enable the effective integration of computer science education in rural, K-8 classrooms. By building on the needs and unique characteristics of rural communities, the RPP will form the foundation for a reform initiative that exposes K-8 students to relevant experiential and real-world applications of computer science. The researchers hope to empower students to see how computing is used in their communities and provide opportunities for them to recognize potential career opportunities available to them in rural America.&lt;br/&gt;&lt;br/&gt;The primary research question asks how to support the integration of computer science into rural K-8 math and science instruction. To answer this, the RPP will work to do the following: 1) identify when and where computer science can be integrated with existing math and science standards; 2) identify professional development structures for scalable computer science learning; 3) develop models for rural states to establish RPPs that create professional development for computer science teaching, and; 4) leverage prior work to build a framework that provides equitable learning opportunities in computer science for rural students. An iterative, design-based research methodology will be used to study these questions and the development and growth of the RPP. In particular, interviews and surveys will be used to understand the progression of stakeholder's thinking and actions as the RPP develops.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837262</AwardID>
+<Investigator>
+<FirstName>Pamela</FirstName>
+<LastName>Buffington</LastName>
+<EmailAddress>pbuffington@edc.org</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ruth</FirstName>
+<LastName>Kermish-Allen</LastName>
+<EmailAddress>rkermishallen@mmsa.org</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Szakas</LastName>
+<EmailAddress>szakas@maine.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Maine Mathematics and Science Alliance</Name>
+<CityName>Augusta</CityName>
+<ZipCode>043306237</ZipCode>
+<PhoneNumber>2076263230</PhoneNumber>
+<StreetAddress>219 Capitol Street, Suite 3</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

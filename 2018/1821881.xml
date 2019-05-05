@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Workshop:   Enabling biological discovery through innovations in imaging and computation; MBL; April/May, 2018</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>98008.00</AwardTotalIntnAmount>
+<AwardAmount>98008</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080200</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DBI</Abbreviation>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sridhar Raghavachari</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Our ability to image live cells, organs, and whole organisms has been transformed by recent improvements in light microscopy and computational methods. These important advances have also underscored three critical needs in the neuroscience and broader biological community: 1) interdisciplinary, team-based approaches in developing new imaging technologies; 2) fast, accessible, and responsive deployment of technological innovations; and 3) the need for related training opportunities at the interface of biology, physics, and engineering. This workshop convenes interdisciplinary experts and trainees to brainstorm innovative and integrated approaches that create a positive feedback loop between instrument developers, computational experts, and biologists to transform the way imaging technologies are developed and deployed. The workshop is focused on discussing approaches that 1) increase access and training opportunities in cutting-edge imaging instrumentation as it is being developed; 2) foster interdisciplinary collaboration and training between microscopists, computational imaging specialists, and biologists to advance innovation and discovery; and 3) promote the development of complementary platforms that enable unprecedented imaging across scales. &lt;br/&gt;&lt;br/&gt;The 2-day workshop is held at the Marine Biological Laboratory in Woods Hole, bringing together national and international key players, who work at the interface between biology, engineering, physics, and computation. The workshop includes keynote speakers, special sessions on "Building and disseminating new microscopy methods", "Computation for generating image data and their analysis", "Centers for interdisciplinary collaborations and training," and a podium discussion on the creation of new centers that increase access and training in cutting-edge imaging instrumentation as it is being developed. With the goal of engaging the next generation of scientists and engineers working at the interface between several disciplines, a poster and additional discussion session will provide opportunities for graduate students and postdocs to present their work and give input on components that are currently missing or underrepresented in their training and that can be met by interdisciplinary imaging centers. As diversity is key to the success of the workshop, participants include established as well as early career investigators and trainees from different nations, as well as genders and minorities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821881</AwardID>
+<Investigator>
+<FirstName>Rudolf</FirstName>
+<LastName>Oldenbourg</LastName>
+<EmailAddress>rudolfo@mbl.edu</EmailAddress>
+<StartDate>04/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>La Riviere</LastName>
+<EmailAddress>pjlarivi@midway.uchicago.edu</EmailAddress>
+<StartDate>04/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Colon-Ramos</LastName>
+<EmailAddress>daniel.colon-ramos@yale.edu</EmailAddress>
+<StartDate>04/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hari</FirstName>
+<LastName>Shroff</LastName>
+<EmailAddress>hari.shroff@nih.gov</EmailAddress>
+<StartDate>04/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Marine Biological Laboratory</Name>
+<CityName>WOODS HOLE</CityName>
+<ZipCode>025431015</ZipCode>
+<PhoneNumber>5082897243</PhoneNumber>
+<StreetAddress>7 M B L ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+</Award>
+</rootTag>

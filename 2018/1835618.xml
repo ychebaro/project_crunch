@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Framework: Data: Toward Exascale Community Ocean Circulation Modeling</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2022</AwardExpirationDate>
+<AwardAmount>728217</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Walton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project designs and implements a software framework for handling petabyte-scale datasets; the focus is on global ocean circulation.  A team of three universities (Johns Hopkins University, MIT, and Columbia University) builds a unified data system that is capable of delivering global ocean circulation model output at 1 km horizontal resolution. The product will be hosted in an open portal, providing the community with scalable software tools to enable analysis of the dataset. The team will use this data to answer specific questions about mixing and dissipation processes in the ocean. &lt;br/&gt;&lt;br/&gt;The goal of this effort is the creation and demonstration of a complete and replicable cyberinfrastructure for sharing and analysis of massive simulations.  The focus is on high resolution ocean circulation modeling, with software tools that will enable efficient storage. Two major challenges to the study of ocean and climate dynamics are addressed: handling large datasets from high-resolution simulations, and understanding the role of small-scale ocean processes in large-scale ocean/climate systems.  Resolving the first challenge would significantly facilitate ongoing and future studies of the ocean/atmosphere/climate system; addressing the second challenge would profoundly improve understanding of ocean/climate dynamics. The project builds a unified data system consisting of high-resolution global ocean circulation simulations, a petascale portal for data sharing, and scalable software tools for interactive analysis.   The software framework from this project is expected to handle petascale to exascale datasets for users.  Several pre-existing capabilities are leveraged for this project: the JHU regional numerical model of the Spill Jet on the East Greenland continental slope, software from the Pangeo project, the SciServer data-intensive software infrastructure, and lessons learned from the North East Storage Exchange multi-petabyte regional data store.  The broader target is next generation simulation software in the geosciences and other disciplines.  &lt;br/&gt;&lt;br/&gt;This award by the NSF Office of Advanced Cyberinfrastructure is jointly supported by the Division of Ocean Sciences and the Integrative and Collaborative Education and Research Program within the NSF Directorate for Geosciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835618</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>O'Gorman</LastName>
+<EmailAddress>pog@mit.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Hill</LastName>
+<EmailAddress>cnh@mit.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7726</Code>
+<Text>DATANET</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7925</Code>
+<Text>LARGE PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Magnetic Property Measurement System (MPMS) To Support Research and Education in the State of New Mexico</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>276436</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI), the Chemistry Research Instrumentation (CRIF) Programs as well as the Established Program to Stimulate Competitive Research (EPSCoR).  Professor Martin Kirk from University of New Mexico and colleagues Victor Acosta, Daniel Feezell, Francesca Cavallo and Abdelghani Laraoui have acquired a magnetic property measurement system (MPMS.)  The instrument, also known as a magnetometer, is a very sensitive device to measure magnetic fields.  It is used to measure the magnetic properties of molecules, molecule-based materials, solid state materials and devices. These magnetic properties are important in many applications.  For example, the instrument is ideally suited for characterizing background impurity applications in transistors. This will help improve the performance of higher power and higher frequency transistors.  The instrument serves as a resource for the New Mexico region beyond UNM's campus.  Faculty at four additional Hispanic serving institutions use the instrument (Western New Mexico University, New Mexico Tech, New Mexico Highlands, and New Mexico State University).  Undergraduate and graduate research students receive training on this state-of-the-art instrument.&lt;br/&gt; &lt;br/&gt;The award is aimed at enhancing research and education at all levels.  Research is conducted of cell-bound biomarkers with magnetic nanoparticles to enable their detection non-invasively using ultrasensitive diamond magnetic microscopy.  Studies are underway to quantify impurity concentrations and differential resistance in wide-band-gap vertical power transistors, vertical-cavity surface-emitting lasers, and light-emitting diodes. Investigations are conducted of Groups III-V materials for lasers, detectors, and transistors, and  carrying out magnetic and transport studies for paramagnetic sensors and superconducting electronics. Nanoscale probing of condensed matter physics phenomena with magnetometry based on nitrogen-vacancy centers in diamond is also carried out.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828744</AwardID>
+<Investigator>
+<FirstName>Victor</FirstName>
+<LastName>Acosta</LastName>
+<EmailAddress>vmacosta@unm.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Martin</FirstName>
+<LastName>Kirk</LastName>
+<EmailAddress>mkirk@unm.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Francesca</FirstName>
+<LastName>Cavallo</LastName>
+<EmailAddress>fcavallo@unm.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Feezell</LastName>
+<EmailAddress>dfeezell@unm.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Abdelghani</FirstName>
+<LastName>Laraoui</LastName>
+<EmailAddress>alaraoui@unm.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Mexico</Name>
+<CityName>Albuquerque</CityName>
+<ZipCode>871310001</ZipCode>
+<PhoneNumber>5052774186</PhoneNumber>
+<StreetAddress>1700 Lomas Blvd. NE, Suite 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8609</Code>
+<Text>Other Energy Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

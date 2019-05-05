@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Carbon Fiber Encapsulated Polymer Powder for Additive Manufacturing Advancements</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>224998.00</AwardTotalIntnAmount>
+<AwardAmount>224998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project pertains to the novel production of short-fiber reinforced thermoplastic material applicable to a range of processes, with the added benefit of utilizing  high quality, low cost recycled or recovered fibers. The beachhead application is in a powder-based additive manufacturing system capable of mid-scale manufacturing that can bridge between prototype-stage and capital-intensive injection molded economy-of-scale manufacturing. Such systems can be located in regional production hubs to accelerate new or highly-customizable products to market. The inclusion of the proposed additives in these systems will expand the range of end-product material properties available, and thereby expand the potential client pool for the same platform. Anticipated flow properties of the material will position it as an accessible additive option for other 3D printing technologies as well as the much larger-market of injection molding processing.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project adapts a processing technology that is yet untapped for this application, to produce a composite thermoplastic additive for polymeric powder feedstock 3D printing. This additive is expected to increase stiffness, strength, and thermal stability of the end product, while reducing weight and providing superior handling characteristics during production relative to existing alternatives. The project is focused on identifying process conditions required to produce a nominally conforming product, followed by testing that characterizes the material and handling properties. Results of these tests will be compared against acceptance standards published by the beachhead additive manufacturing system supplier in preparation for inclusion into 3D printed test components.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843430</AwardID>
+<Investigator>
+<FirstName>Alice</FirstName>
+<LastName>Havill</LastName>
+<EmailAddress>alice.havill@vartega.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vartega Inc.</Name>
+<CityName>Golden</CityName>
+<ZipCode>804038052</ZipCode>
+<PhoneNumber>4254082773</PhoneNumber>
+<StreetAddress>751 Pine Ridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

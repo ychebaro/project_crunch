@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The geometry of non-positively curved groups</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>215153.00</AwardTotalIntnAmount>
+<AwardAmount>215153</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanna Kania-Bartoszynsk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The concept of a group arises naturally in mathematics, and has wide applications in physics, chemistry and materials science to name a few. One example is the collection of symmetries of an object.  These symmetries can also be "multiplied", that is performed one after another, to obtain new symmetries. Sometimes different combinations of symmetries might have the same overall effect, leading to "relations".  Abstractly, a group may be specified with a finite list of "generators" and relations among the generators, collectively called a presentation.  An important question in mathematics is whether two presentations define the same or similar groups.  Geometric group theory seeks to use geometric tools to differentiate groups, and to study their large-scale features.  This project will develop new tools to explore such large-scale features and to classify groups according to these features.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The primary focus of this project is to study groups which act properly discontinuously and cocompactly on non-positively or negatively curved spaces, particularly right-angled Coxeter groups (RACGs), geometric amalgams of free groups, and hyperbolic groups.  Newly emerging techniques such as hierarchical hyperbolicity and contracting boundaries will be used to further the program of classifying RACGs up to quasi-isometry and commensurability.  Geometric amalgams of free groups will be studied up to elementary equivalence, a notion of equivalence of groups coming from logic.  This will provide an illuminating class of examples illustrating deep theorems of Sela.  Furthermore, the project will study stable commutator length in RACGs, contributing to a growing program which has connections to the theory of quasimorphisms and bounded cohomology, and has applications in a variety of areas.  The last part of the proposal seeks to understand the set possible distortion functions of subgroups of hyperbolic groups, and conjectures that this set is vast.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812061</AwardID>
+</Award>
+</rootTag>

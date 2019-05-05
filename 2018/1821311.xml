@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Using Precursor Information to Update Probabilistic Hazard Maps</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christopher Stark</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In many natural hazard scenarios, precursory information becomes available before an event. Responding to an impending hazard means that time is limited; analysis and decision-making must proceed on an accelerated timetable. This project develops methodology for responding to signals from a variety of data sources that have been interpreted as suggesting that a volcanic eruption is threatened. Prior research has attempted to elucidate how physical processes predict an eruption. For example, seismic signals, gas emissions, and tilt data have all been implicated as volcanic eruption precursors. But none of these signals have been shown to make robust predictions. This project undertakes a different approach, developing methods to integrate precursor data, decide on the likely evolution of eruption scenarios, and rapidly build simulation studies and statistical emulators, to provide timely and actionable information on which to decide a course of action. The new methodology will provide tools to rapidly construct probability-based hazard forecast maps for cascading geophysical events.&lt;br/&gt;&lt;br/&gt;The prediction and management of extreme events, from volcanic eruptions to floods to stock market crashes, requires a careful analysis of the hazard event, its inputs, and its consequences. Data of different kinds, and of differing fidelity, must be incorporated into a detailed analysis of the impending hazard. The investigators will build upon their past research characterizing volcanic hazards. This work provides long-term hazard analysis and provides a bridge from incoming precursory information, such as seismic signals and gas emission, to eruption impacts, such as likely paths of mass flows. The investigators aim to develop methodology to update input distributions for physical simulations and to integrate outcomes into new adaptive designs for surrogate construction, rapid evaluations of limited simulations, and massive parallel emulation. The project will also investigate a methodology based on observed power-law relationships between precursory information and their growth to estimate the time to eruption and other outcomes under uncertain data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821311</AwardID>
+</Award>
+</rootTag>

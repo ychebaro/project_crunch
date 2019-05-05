@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Descriptive Combinatorics and Ergodic Theory</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>180000.00</AwardTotalIntnAmount>
+<AwardAmount>60361</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project investigates descriptive set-theoretic aspects of graphs. A familiar example of a graph is the internet: a huge network of computers, connected by cables.  Over time, it is easy to imagine this network growing so large that referring to individual computers becomes next to impossible.  Instead, one can probe large collections and ask questions like "how many labels do I need so that no two connected computers receive the same label?"  This parameter, called the chromatic number of the graph, can change depending upon the complexity of the algorithms allowed to produce the labeling.  Such parameters have (often surprising) connections with other areas of mathematics -- including combinatorial and geometric group theory, probability theory, and operator algebras -- and a secondary aim of this project is to strengthen these connections in addition to forging new ones.&lt;br/&gt;&lt;br/&gt;More precise proposed areas of study within this general setting include: (a) existence of measurable vertex colorings, edge colorings, and matchings, and subforests, (b) applications to structurability of measured equivalence relations, in particular those arising as orbit equivalence relations of probability-measure-preserving actions of locally compact Polish groups, (c) applications to finding measurable tilings of group actions, and (d) applications towards characterizing paradoxical decompositions.  Particular attention will be paid to ergodic-theoretic applications of this study, connecting algebraic properties of an acting group with measurable combinatorial properties of its associated graphed equivalence relation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855579</AwardID>
+</Award>
+</rootTag>

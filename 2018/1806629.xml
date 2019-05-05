@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAR-PF: Using noble gas techniques to benchmark feldspar thermoluminescence (TL) thermochronology</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardAmount>87000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Luciana Astiz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Dr. Nathan Brown has been granted a postdoctoral fellowship to carry out research and an education plan with at the Berkeley Geochronology Center. The main goal of this project is to develop feldspar thermoluminescence (TL) for use as an ultra-low-temperature thermochronometer. Once validated, this technique will allow geologists to: infer recent temperature perturbations caused by geomorphic agents acting within the upper kilometer or two of Earth's surface; resolve local Holocene uplift rates and better evaluate seismic risk in tectonically active regions; and survey sites for their potential geothermal energy resources. Dr. Brown will also interact with and train undergraduate and graduate students in the sample preparation and data analysis techniques necessary to implement this novel technique.&lt;br/&gt;&lt;br/&gt;The spatial and temporal scales over which rivers and glaciers erode bedrock are largely inaccessible to thermochronologists. Feldspar TL thermochronology, however, shows sensitivity to near-surface and atmospheric temperatures and can be used to constrain continuous thermal histories at timescales ranging from about 100 to 1,000,000 years. This study will calibrate feldspar TL results against results obtained with the more established techniques of paleothermometry from cosmogenic 3He in quartz and apatite 4He/3He thermochronology. Bedrock samples that will be analyzed come from the Yucaipa Ridge tectonic block, adjacent to the San Andreas fault; the Klinaklini glacial valley in British Columbia; and the Pensacola Mountains of Antarctica.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806629</AwardID>
+<Investigator>
+<FirstName>Nathan</FirstName>
+<LastName>Brown</LastName>
+<EmailAddress/>
+<StartDate>05/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown                   Nathan         D</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900344217</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

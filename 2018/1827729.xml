@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Carbon Nanotube-Based Distributed Sensors for Structural Health Monitoring of Transportation and Oil/Gas Infrastructure</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project is to develop and commercialize a scalable and customizable sensing approach for structural health monitoring (SHM) of critical structures, such as bridges and pipelines, to maintain their safety and reliability. The distributed carbon nanotube-based sensor can be attached to structural members to monitor deformations and cracks. Because the sensor is continuous, the deformations and cracks can be measured on all the surfaces where the sensor is applied and ultimately trigger an alarm if the sensor response exceeds a certain critical level. Knowledge gained in this project will increase the sustainability and robustness of critical infrastructure to benefit society and the environment. Long-term impacts will result in cost-effective monitoring protocols, extended life of structures, and reduced overall lifecycle costs. Ultimately, the economic competitiveness of United States is strengthened based on robust, resilient, and durable civil infrastructure. This project has promising commercial potentials in the approximate $630-million target market of SHM in North America for monitoring civil structures, including bridges and pipelines. The participation of students in research and entrepreneurship/innovation will build the pipeline of students entering the workforce to translate discoveries to new commercial products which will increase US global competitiveness.&lt;br/&gt;&lt;br/&gt;The proposed project will establish the scalability and applicability for the use of distributed carbon nanotube-based composite sensors for in situ and real-time quantitative SHM. The use of SHM to monitor critical infrastructure is increasingly important, and structural failures can cause loss of human life as well as damage to the local economy. Through the use of carbon nanotube-based distributed sensors it will be possible to overcome the limitations of conventional sensors, which are based on a network of point or quasi-point sensors mounted on a structure that may miss the localized formation of damage. The distributed sensor offers tremendous flexibility in different applications by allowing the sensor to conform to a variety of complex surfaces, and new analysis techniques will be developed to rapidly interpret the data from the sensors - especially for structures with complex geometries ? utilizing direct current electrical measurements and impedance tomography. Key research objectives include the development of new data analysis techniques to rapidly localize damage, validation of the sensor for complex geometries and environmental exposure, and development of a prototype for field testing in real-world conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827729</AwardID>
+<Investigator>
+<FirstName>Erik</FirstName>
+<LastName>Thostenson</LastName>
+<EmailAddress>thosten@udel.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>Newark</CityName>
+<ZipCode>197162553</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>210 Hullihen Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

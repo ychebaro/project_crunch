@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CICI: SSC: Securing Science Gateway Cyberinfrastructure with Custos</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>997672</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Micah Beck</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Science gateways are web-based portals for scientists, educators, and students to easily access advanced computing infrastructure, perform reproducible research, and share scientific data. Science gateways are used by tens of thousands of researchers worldwide; thus, gateways are an increasingly attractive target for a wide range of cybersecurity attacks. In cybersecurity terms, science gateways are a collection and integration of a rich set of assets, including user identities, access to a wide range of third party computing and storage resources, sensitive data, licensed or otherwise restricted software, and generated scientific results. The consequences of compromises to science gateways are wide ranging, including unauthorized access to computing resources and data as well as more subtle attacks such as alterations of computed results that may require retraction of publications and otherwise undermine the integrity of the scientific enterprise.  &lt;br/&gt;&lt;br/&gt;Through the integration and extension of best-of-breed software, the Custos project provides a single, open source software solution that improves science gateways' management of users identities, secrets such as security tokens used to access a wide range of resources needed for scientific research, and groups and sharing permissions on digital research objects created by science gateway users. Custos software is used to operate a secure, online service with a language-independent programming interface for the science gateway community, providing both an operational platform and a proving ground for research into multi-tenanted, science-focused cyberinfrastructure. The entire Custos environment, including provisioning and operations tools, is openly governed following the meritocracy and diversity principles of the Apache Software Foundation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840003</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Basney</LastName>
+<EmailAddress>jbasney@illinois.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marlon</FirstName>
+<LastName>Pierce</LastName>
+<EmailAddress>marpierc@indiana.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Suresh</FirstName>
+<LastName>Marru</LastName>
+<EmailAddress>smarru@iu.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Enis</FirstName>
+<LastName>Afgan</LastName>
+<EmailAddress>enis.afgan@jhu.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramElement>
+</Award>
+</rootTag>

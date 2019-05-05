@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Molecular Paleontology to Uncover the Origin and Evolution of the Nuclear Pore Complex</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>1034044.00</AwardTotalIntnAmount>
+<AwardAmount>247163</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles Cunningham</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Unicellular organisms that lack internal structures such as a nucleus and other membrane bound organelles are prokaryotes and include all bacteria. Eukaryotes, on the other hand, have these structures and include plant and animal cells. The origin of eukaryotes (eukaryogenesis) is a major evolutionary transition in the history of life. How can eukaryogenesis and the pathways that lead to and from the prokaryote/eukaryote transition be reconstructed when fossil records are lacking? This project aims to look for the imprints left by this process at the structural and molecular levels across the diversity of modern-day eukaryotes. Such "structural fossils" exist in a protein assembly that defines the prokaryotic cell: the nuclear pore complex (NPC). By dissecting the NPC architecture of a unicellular eukaryote, Trypanosoma brucei, and comparing it to the available structures from other divergent species, the project expects to unravel the molecular processes that governed the evolution of the nucleus. The results should represent a compelling, modern context for teaching and disseminating fundamental concepts in structure and function relationships, molecular evolution and engineering principles of biological systems. Collaboration with the Rockefeller Science Outreach Program will make educational material to discuss evolution available to students and teachers. In addition, this program also engages high school and undergraduate students to work at Rockefeller University. &lt;br/&gt;&lt;br/&gt;The structures of two of the main T. brucei NPC building blocks, the outer ring complex and the mRNA export platform, will be solved by using an integrative approach that involves: (i) gathering a diverse set of experimental data, including electron microscopy, cross-linking and mass spectrometry and quantitative proteomics: (ii) translation of the resulting data into spatial restraints that are used to calculate the structure of the assembly; and finally, (iii) a detailed comparative analysis of the NPC core components and architecture, covering representative organisms across the eukaryotic lineage. Among the expected outcomes are: to expand the repertoire of membrane coating modules that were involved in the origin of the NPC; to identify new types of membrane coating modules combinations and interfaces and to define how a nucleic acid transport/remodeling machine was appended to a membrane coating module.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818129</AwardID>
+<Investigator>
+<FirstName>Samson</FirstName>
+<LastName>Obado</LastName>
+<EmailAddress>sobado@rockefeller.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Javier</FirstName>
+<LastName>Fernandez-Martinez</LastName>
+<EmailAddress>jfernandez@rockefeller.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rockefeller University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100656399</ZipCode>
+<PhoneNumber>2123278309</PhoneNumber>
+<StreetAddress>1230 YORK AVENUE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

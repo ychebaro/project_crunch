@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Raman Imaging - Scanning Electron Microscope / Focused Ion Beam Instrument for Correlative Analysis of Materials Across Multiple Length Scales</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>999700.00</AwardTotalIntnAmount>
+<AwardAmount>999700</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Z.  Ying</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation project supports acquisition of a unique instrument for studying a variety of materials across multiple length scales - from one millimeter down to near the atomic scale. In particular, this instrument probes information about the chemical bonding and mechanical strain in materials while also evaluating the shape and composition of these materials at the same location in three dimensions. The instrument directly supports areas of scientific and national interest such as mineral resource extraction, energy generation and storage, and biomaterial development. Broader benefits of this acquisition include: (1) providing a managed, easily accessible correlative analysis capability to a large number of researchers in diverse scientific disciplines, (2) advancing technical training of and access to a state-of-the-art instrument for undergraduate and graduate students at Colorado School of Mines and other institutions, and (3) attracting K-12 students to science and engineering fields through hands-on activities.&lt;br/&gt;&lt;br/&gt;The acquisition of a Raman imaging - scanning electron microscope / focused ion beam instrument by the Colorado School of Mines provides an open facility for the correlative analysis of advanced functional inorganic, organic, biological, and geological samples across length scales that meets the distinct needs of academic, national laboratory, and industrial research projects. This is the first such instrument in the world openly available to academic researchers. Its usage spans multiple disciplines and many types of materials. Raman spectroscopic imaging enables bonding, phase, and strain identification down to a few hundred nanometers. Scanning electron microscopy enables surface morphology imaging and compositional analysis at the nanometer resolution. The focused ion beam presents the opportunity to access three-dimensional compositional and structural information, as well as preparing samples for further analysis using other techniques such as transmission electron microscopy and atom probe tomography. The whole instrument facilitates unprecedented access to three-dimensional phase, bonding, structure, morphology, and compositional relationship analysis spanning many orders of magnitude in length.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828454</AwardID>
+<Investigator>
+<FirstName>Alexis</FirstName>
+<LastName>Navarre-Sitchler</LastName>
+<EmailAddress>asitchle@mines.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Diercks</LastName>
+<EmailAddress>ddiercks@mines.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Melissa</FirstName>
+<LastName>Krebs</LastName>
+<EmailAddress>mdkrebs@mines.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado School of Mines</Name>
+<CityName>Golden</CityName>
+<ZipCode>804011887</ZipCode>
+<PhoneNumber>3032733000</PhoneNumber>
+<StreetAddress>1500 Illinois</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

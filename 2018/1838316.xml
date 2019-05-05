@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RoL: FELS: EAGER Rules for cellular adaptation to the mechanical properties of their environment</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Cyr</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Animal somatic cells such as fibroblasts and endothelial cells display consistent functional differences when cultured on soft surfaces (substrates) compared to stiff substrates in the degree of proliferation, cell death, differentiation, cell spreading and migration. Mechanical properties of the extracellular environment also affect intracellular features including cytoskeletal organization, chromatin compaction, and gene expression. This project will use experimental techniques to uncover evolutionary rules underlying the adaptation of eukaryotic somatic cells (cells forming the body of the organism) to the mechanical rigidity of their microenvironment, what we call mechano-evolution. If successful, this research will highlight the importance of mechanical cues in cellular evolution, which can give rise to new directions in the fields of cell mechanics and evolutionary cell biology. Also, this project will promote an appreciation for experimental evolution on biomaterials as a tool to engineer somatic cells. The project will provide training opportunities to undergraduates, high school students and a female graduate student in chemical engineering.&lt;br/&gt;&lt;br/&gt;The project hopes to discover two fundamental rules.  Rule 1: Phenotypic plasticity. Replicate populations of mouse fibroblasts previously adapted to a rigid adhesive substrate will be allowed to evolve on substrates of different rigidities. Replicate populations of cells will be cultured and passed continuously on substrates of carefully controlled rigidity for two years (~360-500 generations, N~1000 cells at passage). If and how substrate mechanical properties consistently select for a suite of cellular traits features at different levels of biological organization will be investigated. Rule 2: Mutational input. Replicate populations will be maintained as above, except at very small population size (N~5 cells at passage); these populations are called "mutation accumulation" (MA) lines. By comparing evolution at small and large N, the extent to which adaptation to substrate rigidity, and the evolution of phenotypic plasticity in general, is constrained by mutational input vs. constrained by opposing selection on correlated traits will be inferred.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838316</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Baer</LastName>
+<EmailAddress>cbaer@ufl.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tanmay</FirstName>
+<LastName>Lele</LastName>
+<EmailAddress>tlele@che.ufl.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Srikar</FirstName>
+<LastName>Chamala</LastName>
+<EmailAddress>schamala@ufl.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

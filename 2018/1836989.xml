@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Enabling Quantum Leap: Organic Magnonics for room temperature Quantum Logic</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>299998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Opila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical description: As the limits of electrical circuitry are approached, new paradigms are needed for future generations of faster miniature information processing devices that require less energy. Presently, nearly all existing electronics rely on the movement of electric charges in the form of electrons. Electrons also possess a property known as spin, that gives them their magnetic properties. Periodic undulations of these magnetic properties result in waves known as magnons. Magnonics is a new paradigm which uses magnons for processing and storing information, albeit with reduced energy losses and greater speeds compared to traditional electronics. This project focuses on the study of physical mechanisms that enable magnonics in organic (i.e. carbon-based) magnetic materials. In particular, the control, manipulation, transport and the very sensitive detection of magnons in organic magnetic thin films is investigated. Magnonic devices based on such magnets are engineered, fabricated and tested using electrical, magnetic and optical measurements. In addition, the integration of the large arsenal of experimental efforts serves to efficiently educate graduate and undergraduate students who are involved in this highly interdisciplinary research project at the interface between Physics and Chemistry. Furthermore, through outreach conducted in the course of this project, high school and middle school students learn about the career opportunities and technological potential of Physics, Chemistry and the Natural Sciences in general.&lt;br/&gt;&lt;br/&gt;Technical description: Magnons are S = 1 quasi-particles that obey Bose-Einstein statistics and lack movement of a particle, yet their coupling to electron spins can be utilized for information transport, processing and storage. The technologies resulting from this, namely Magnonics, are anticipated to form a new paradigm for future generations of faster (GHz - THz frequencies) and reduced energy dissipation of miniature information processing devices. The goal of this project is to enhance the understanding of magnons in organic-based molecular materials. The latter are hypothesized to be superior to traditional magnetic materials due to their long magnon mean free paths that enable magnonics to be technologically viable at room temperature and close to the magnetic ordering temperature. The room temperature V(TCNE)x (TCNE = tetracyano-ethylene) magnet serves as a magnonic gain medium for studying whispering gallery magnon modes in micro-resonators, for further implementation as highly coherent quantum systems. The team focuses on film growth and fabrication of microcavities for room-temperature quantum logic, using parity-time symmetry. This project utilizes the University of Utah's large arsenal of experimental capabilities, including chemical synthesis, polymer and small molecule deposition, magneto-transport, electrically-detected ferromagnetic resonance, magnon-related spin-pumping, inverse spin-Hall effect spectroscopy, as well as device fabrication, processing and testing. Furthermore, the broad impact of an entirely new class of electronics enables educating a cohort of graduate and undergraduate students who are involved in the execution of this project, as well as outreach to local high school and middle school communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836989</AwardID>
+<Investigator>
+<FirstName>Christoph</FirstName>
+<LastName>Boehme</LastName>
+<EmailAddress>boehme@physics.utah.edu</EmailAddress>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Miller</LastName>
+<EmailAddress>jsmiller@chem.utah.edu</EmailAddress>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zeev Valy</FirstName>
+<LastName>Vardeny</LastName>
+<EmailAddress>val@mail.phyics.utah.edu</EmailAddress>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

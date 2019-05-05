@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning IUCRC at Columbia University:  Center for Biological Applications of Solid-State Systems (C-BASS)</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Prakash Balan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Moore's Law scaling of semiconductor technology has been the single biggest driver of economic growth worldwide through its revolutionary impact on communications and computation. At the same time, discovery and technological activity in the life sciences has exploded. Life sciences efforts have, however, benefited little from advances in semiconductor technologies beyond the dramatic improvements in computation infrastructure and higher performance cameras for microscopy. The Center on Biological Applications of Solid-State Systems (C-BASS) seeks to transform both the biotechnology and semiconductor sectors by forging new connections between these two largely disjoint ecosystems and by training a generation of scientists and engineers well versed in both fields. The program proposes a comprehensive research program designed to expand and train the workforce required to implement this vision, while creating new technologies. &lt;br/&gt;&lt;br/&gt;At Columbia University, the Center will be supported by the integrated activities of a range of stakeholders including educational institutions, large and small companies, manufacturing partners, and venture capitalists. The results of the C-BASS effort will transform a range of fields including biology, biomedical engineering, semiconductor technology, and medicine by developing a range of new sensing systems that take advantage of the small scale and high performance of nanoelectronics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822143</AwardID>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Shepard</LastName>
+<EmailAddress>shepard@ee.columbia.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

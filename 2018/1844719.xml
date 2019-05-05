@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STEM+C Education Research Summit</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>438647.00</AwardTotalIntnAmount>
+<AwardAmount>438647</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Arlene de Strulle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The STEM+C Program focuses on research and development of interdisciplinary and transdisciplinary approaches to the integration of computing within science, technology, engineering, and mathematics (STEM) teaching and learning for preK-12 students in both formal and informal settings. The Education Development Center (EDC) will develop and facilitate a STEM+C Education Research Summit that will support the STEM+C research community to collect, share, and analyze their research findings; address NSF's Big Ideas in computational STEM fields; and because of the powerful innovation and application of computing in the STEM disciplines, the Summit will continue to catalyze the research field for advancing real-world, interdisciplinary, and computational preparation of students from the early grades through high school.&lt;br/&gt;&lt;br/&gt;The STEM+C Research Summit design will be drawn from literature on best practices of innovation networks and communities of practice (COPs) to foster the development of a STEM+C innovation COP. The COP meeting design and facilitation will give PIs an opportunity to expand on their work and explore the confluence of issues and overlaps within the STEM+C community. To encourage a research culture that is globally engaged, an international panel of STEM+C researchers will be invited to present their research on advances in STEM+C in various countries. The Summit will be a working meeting, during which STEM+C community members will learn about advances made by community members, synthesize findings around emerging research themes, and identify and/or recommend new directions for STEM+C research. Working groups organized around emerging themes will represent a nexus of intellectual work that provides opportunities for PIs to deepen understandings and relationships in those areas. Outcomes of the Summit will include, development of a unique, interdisciplinary community of practice; collectively producing artifacts and products; increased understanding of the findings of STEM+C research projects; advancement of STEM+C evaluation methods to build expertise in designing research that will lead to viable outcomes as the foundation for education innovation; develop professional peer connections leading to future research collaborations; provide opportunities to engage in syntheses research activities and ongoing articulation of program-wide findings and lessons learned; and participation in a working group that will address future strategies for STEM+C education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844719</AwardID>
+<Investigator>
+<FirstName>Joyce</FirstName>
+<LastName>Malyn-Smith</LastName>
+<EmailAddress>Jmalynsmith@edc.org</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarita</FirstName>
+<LastName>Nair-Pillai</LastName>
+<EmailAddress>spillai@edc.org</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Education Development Center</Name>
+<CityName>Waltham</CityName>
+<ZipCode>024538313</ZipCode>
+<PhoneNumber>6176182227</PhoneNumber>
+<StreetAddress>43 Foundry Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

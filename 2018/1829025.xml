@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Unmanned Aerial Vehicles for Emissions and Chemistry of Volatile Organic Compounds over the Amazon Tropical Forest</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>594672</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will improve the understanding of atmospheric chemistry processes over tropical forest ecosystems.  A mobile profiling system will be used to characterize emissions and deposition of volatile organic compounds (VOC) over horizontal and vertical scales across different forest sub-types.  The data will be collected during a series of drone-enabled experiments conducted in both wet and dry seasons in the Adolfo Ducke Forest Reserve, located on the northern outskirts of Manaus Brazil in central Amazonia.  The results will be used to improve atmospheric chemistry modeling and databases that characterize the emissions of biogenic compounds from vegetation.&lt;br/&gt;&lt;br/&gt;The scientific questions that will be addressed during this project include the following: (1) What is the horizontal heterogeneity in the magnitude and types of VOC emission and deposition for forest landscapes that vary on intermediate scales of 100's m?  (2) What is the vertical heterogeneity and diel cycle of reactive VOCs in a turbulent planetary boundary layer? and (3) What is the vertical heterogeneity in the speciation and concentration of semivolatile organic compounds (SVOC) produced as photochemical reaction products of VOC oxidation?&lt;br/&gt;&lt;br/&gt;The horizontal protocol will characterize the spatial variability of the sampled VOCs at intermediate scale and be used to constrain and improve MEGAN (Model of Emissions of Gases and Aerosols from Nature), a framework used for modeling biogenic emissions.  The data obtained by the vertical protocol will be used with the mixed-layer inverse-model technique to estimate VOC fluxes. The data and insights gained from this effort will be used to constrain and improve current chemical transport models of atmospheric oxidation and to provide a better understanding of regional and global chemical transport in Amazonia, especially as related to mechanisms of  SVOCs and particulate matter production and susceptibility to future Earth-system changes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829025</AwardID>
+<Investigator>
+<FirstName>Scot</FirstName>
+<LastName>Martin</LastName>
+<EmailAddress>smartin@seas.harvard.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Advanced Thermophotovoltaic Generators for High-Value Remote Power</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact / commercial potential of this Small Business Technology Transfer (STTR) Phase I project is to enable electrification of remote oil &amp; gas processes to reduce methane emissions, improve on-site safety, and provide leak-detection and monitoring capabilities. This will be achieved by developing a robust, efficient, small-scale power generator capable of converting on-site fuel to electricity. Beyond the entry opportunity in the oil &amp; gas sector, this technology has other applications in large markets such as residential and commercial power generation and heating, transportation, and military. For example, our proposed generators would allow consumers in moderate/cold climates to efficiently match their time-dependent heating and electrical demands using natural gas (accessible to 70 million households). For a typical household in those regions, we estimate a 45% reduction in primary energy use and CO2 emissions by deploying our generators. The energy reduction translates to an annual savings of about $650 per household. Widespread deployment of our technology would grow the domestic natural gas economy, strengthen the US technological lead in semiconductor manufacturing, and facilitate renewables by providing a dispatchable supply.?&lt;br/&gt;&lt;br/&gt;The proposed project will investigate the fundamental heat-to-electric conversion process and address key issues around the stability and robustness of the technology, through a synergistic effort to develop generators capable of high performance and a manufacturing process to reduce cost. The project will focus on device optimization and durability, and process repeatability. This involves the fabrication and integration of multiple frequency-selective components including a thermal emitter, optical filter, photovoltaic cell, and back surface reflector. Each component, as well as the integrated system, will undergo rigorous thermal testing to prove both resistance to elevated temperatures and temperature swings. Additionally, novel manufacturing techniques will be developed to enable cost-competitive devices relative to conventional generators. If the technical objectives are met, this project will demonstrate record-breaking performance for thermophotovoltaics and accelerate the commercialization of thermophotovoltaic devices in many different markets.?&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820395</AwardID>
+<Investigator>
+<FirstName>Andrej</FirstName>
+<LastName>Lenert</LastName>
+<EmailAddress>alenert@umich.edu</EmailAddress>
+<StartDate>05/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bierman</LastName>
+<EmailAddress>david@marigoldpower.com</EmailAddress>
+<StartDate>05/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Antora Energy, Inc.</Name>
+<CityName>Fremont</CityName>
+<ZipCode>945551159</ZipCode>
+<PhoneNumber>8186244127</PhoneNumber>
+<StreetAddress>4385 SEDGE ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

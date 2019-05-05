@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Advanced Direct-To-Patient Data Aggregation Platform For Clinical Trial Recruitment.</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>224981</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enable researchers to recruit participants for clinical trials more quickly and reliably. A major problem in medical research is that a majority of clinical trials are delayed or canceled because of insufficient recruitment of eligible participants. By developing an independent (third-party) data aggregation platform for detailed electronic patient data through this project, researchers will be able to efficiently reach a large pool of potential participants for trials, and increase the likelihood of trial success. The resulting platform will create a much more efficient recruitment system, as the data is shared among the broader research community rather than managed by any individual research organization. With subscriptions and fees per enrolled patient, the platform will be able sustain itself while at the same time lowering recruitment costs for researchers. More broadly, the greater ability to design and execute successful clinical trials will be a huge benefit to the medical community and accelerate the pace of research and new product development. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project seeks to improve the speed, accuracy, and reliability of clinical trial design and recruitment. Research organizations like pharmaceutical companies and hospitals typically maintain isolated databases with limited, static patient data. This project focuses on building a third-party data platform that elegantly stores and organizes electronic patient data. The design of the platform enables ontological queries, allowing researchers to consult data when designing trials and quickly ?testing? specific inclusion/exclusion criteria to determine feasibility. When proceeding to execute the trial, the platform will rank individuals by likelihood to enroll, and facilitate contact with potential patients that have previously provide consent to be contacted. Initial objectives of the project include the development of a methodology to abstract patient data from medical records, and programming of the database structure. Later the work will focus on quality assurance software, and algorithms to translate free-text trial requirements into filters compatible with said database. The expected outcome is a platform storing accurate data of 200 patients, with filtering and ranking algorithms that match patients to trials with nearly the same accuracy of an experienced recruitment team.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843917</AwardID>
+<Investigator>
+<FirstName>Gerald</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>glee@sanguinebio.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SANGUINE BIOSCIENCES, INC.</Name>
+<CityName>SHERMAN OAKS</CityName>
+<ZipCode>914031595</ZipCode>
+<PhoneNumber>3106136306</PhoneNumber>
+<StreetAddress>15335 MORRISON ST STE 202</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

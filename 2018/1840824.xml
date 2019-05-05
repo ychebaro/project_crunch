@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Graduate Student Travel Support for APSIPA ASC 2018. To Be Held in Honolulu,  Hawaii Convention Center, November 12-15, 2018.</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Asia Pacific Signal and Information Processing Association (APSIPA) was founded in 2009 to promote research and education in all aspects of signal processing, information technology, and communications. It is a forum for researchers and practitioners to exchange their ideas and collaborate on technical issues relevant to theoretical foundations and advances, algorithms, implementations, and applications in the general areas of signal and information processing. Over the past ten years, its annual summit and conference (APSIPA-ASC) has been a fertile ground to foster collaborations. The 10th APSIPA-ASC will be held at the Hawaii Convention Center in Honolulu, Hawaii, November 12-15, 2018. About 450 to 500 attendees are expected to attend this conference. To support the training of the next-generation scientists and engineers working on signal and information processing, this NSF grant will provide travel support for 20 graduate students to present their research papers at the conference and learn the cutting-edge research and development in signal and information processing. The travel grants will be awarded competitively to graduate students from US universities who will be presenting their accepted papers at the conference. The awardees will be selected by a committee of the conference and the paper quality will be considered in the selection process. The proposed travel support will have long-term and broad impacts on the participating students' career developments and the advancements in the field of signal and information processing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840824</AwardID>
+<Investigator>
+<FirstName>Yih-Fang</FirstName>
+<LastName>Huang</LastName>
+<EmailAddress>huang@nd.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

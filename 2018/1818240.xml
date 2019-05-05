@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Structure Determination of Membrane Proteins in Aligned Discoidal Lipid Bilayers by Solid-State NMR</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>650000.00</AwardTotalIntnAmount>
+<AwardAmount>717000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaroslaw Majewski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Membrane proteins perform a variety of important biological functions including signal transduction, energy conversion, molecular recognition, and ion transport in the living cells.  Despite the primary importance of membrane proteins in biology, however, the number of their solved structures remains relatively scarce.  It should be also emphasized that many of these structures have been determined under the conditions that were very distinct from those encountered in the living cells (such as cryogenic temperatures, near absent lipid molecules, high protein packing density). By contrast, Nuclear Magnetic Resonance (NMR) is a minimally invasive yet an exceptionally informative technique which makes it possible to study membrane proteins under nearly physiological conditions. The present research will focus on the development of native-like membrane mimetics and new spectroscopic methods, which will allow one to determine structures of membrane proteins under full hydration, high lipid-to-protein ratios, and physiological temperature by solid-state NMR. As broader impact of this project, interdisciplinary research projects will be offered to a diverse group of students and the results of this research will be promoted to graduate curricula and Science, Technology, Engineering and Mathematics (STEM) education via summer mentorship of high school teachers as part of the Kenan Fellows Program at North Carolina State University.&lt;br/&gt;&lt;br/&gt;The project will develop discoidal lipid mimetics based on polymer-stabilized lipid nanodiscs that will radically improve spectral resolution due to their exceptional magnetic alignment and fast rotational diffusion about their axes.  The magnetic alignment of the nanodiscs will be achieved by fine-tuning their diameter and adding lanthanide-chelating species to enhance their magnetic properties. The discoidal membrane mimetics will be applied to structure determination of polytopic membrane proteins including proteorhodopsin and human acetylcholine receptor, which exhibit insufficient resolution in the traditional aligned lipid bilayers such as magnetically aligned bicelles.  New pulse sequences will be developed for selective excitation to decrease peak crowdedness in the NMR correlation spectra. Moreover, computational methods for the analysis of multidimensional spectra will be developed including automated spectroscopic assignment algorithms to streamline the structure determination process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818240</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Nevzorov</LastName>
+<EmailAddress>alex_nevzorov@ncsu.edu</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7218</Code>
+<Text>RET SUPP-Res Exp for Tchr Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7619</Code>
+<Text>EQUIPMENT ACQUISITIONS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

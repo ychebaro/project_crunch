@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Community Facility Support: The Community Surface Dynamics Modeling System (CSDMS)</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>3616768.00</AwardTotalIntnAmount>
+<AwardAmount>2325383</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Yuretich</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Earth's surface is undergoing continual rearrangement of its landscapes, coastlines, and soils by processes such as landslides, floods, and storm waves. The Community Surface Dynamics Modeling System (CSDMS) supports scientific research into these and other Earth-surface processes: soil erosion, glaciation, river sedimentation, coastal change, sea-floor processes, and many natural phenomena that can impact human life and infrastructure. CSDMS focuses on the development and applications of computer models that help researchers and other professionals understand these processes and their potential impacts on human activity. The organization provides support in three main areas: community, computing, and education. Community-oriented activity includes maintaining an interactive online database for sharing of research software and other resources, hosting an annual scientific conference, and providing logistical support for workshops and related events. Computing-related services include developing software technology for running and coupling process models, hosting high-performance computing resources, providing technical computing assistance to scientists, and designing and promoting common standards and best practices for research software. Educational activities include workshops on various technical topics, and a web-based repository of online educational materials, such as animations, lecture slides, and laboratory exercises.&lt;br/&gt;&lt;br/&gt;The CSDMS community addresses a broad range of scientific questions that bear on Earth's surface, its stratigraphy, and their changes over time. A fundamental goal is to develop an ever-improving body of knowledge that predicts the dynamics of Earth's surface: how the physics, biology, and chemistry of formative processes operate, how the movement of sediments and solutes shapes the seascape and landscape, how the system reacts to natural and human forcing, and how the processes give rise to bathymetry, topography, and stratigraphy. CSDMS cyberinfrastructure developments address fundamental challenges in integration and standardization of scientific software by designing interface standards and providing framework services. Building on major CSDMS advances of the past five years, new technology planned for the next phase will allow for easy pathways from model user to model developer, through an expanded CSDMS software stack. Enhancing core functionality to allow for smooth data-model integration will offer a step change in model validation, uncertainty quantification, and model-data synthesis opportunities. New geospatial capabilities in the suite of robust CSDMS cybertools will bring predictive modeling to a new level of sophistication. By easing the process of model-data coupling, CSDMS aids innovation in the science of Earth-surface processes by allowing the community to simulate landscape response to changes in climate or natural hazards, as well as to policy-driven land-use or engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831623</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Tucker</LastName>
+<EmailAddress>gtucker@colorado.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Irina</FirstName>
+<LastName>Overeem</LastName>
+<EmailAddress>irina.overeem@colorado.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Albert</FirstName>
+<LastName>Kettner</LastName>
+<EmailAddress>kettner@colorado.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric W</FirstName>
+<LastName>Hutton</LastName>
+<EmailAddress>eric.hutton@colorado.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>6898</Code>
+<Text>EAR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7255</Code>
+<Text>GEOINFORMATICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7458</Code>
+<Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7693</Code>
+<Text>CZO: CRITICAL ZONE OBSER SOLIC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7255</Code>
+<Text>GEOINFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7570</Code>
+<Text>SURFACE EARTH PROCESS SECTION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

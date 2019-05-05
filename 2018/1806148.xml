@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Effectively transparent contacts for solar applications</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is to increase the efficiency of solar modules by up to 6%, a significant improvement in the photovoltaics (PV) space.   This project replacies standard screen-printed metal contacts with an effectively transparent contacts (ETC) where the shading loss is brought down to 0%.  A significant fraction of the PV ecosystem will benefit from this technology.  ETCs can enable solar module manufacturers to fabricate up to 6% higher relative efficiency solar modules.  This higher efficiency can lead to reduced cost overall for land use, transportation, installation and cleaning. Therefore, the levelized cost of electricity (LCOE) can potentially be reduced and photovoltaic electricity can become more affordable.&lt;br/&gt;&lt;br/&gt;This I-Corps project further develops effectively transparent contacts (ETC) that mitigate shading losses inherent to screen-printed metal contacts over the entire solar spectrum and for all angles of incidence. ETCs are triangular cross-section micro-scale metal contacts that redirect the incoming light efficiently to the active area of the solar cell. Overcoming front contact shading loss without reducing the grid conductivity increases the silicon solar cell power output by up to 6%. When replacing standard screen-printed metal contacts with ETCs the amount of used silver can also be reduced.   The ETC's are made via a residue-free three-dimensional micro-imprint process that enables large scale printing of ETCs by solar module manufactures. To date, the integration of ETCs with state-of-the-art silicon heterojunction solar cells has been successfully demonstrated on a laboratory scale.</AbstractNarration>
+<MinAmdLetterDate>12/27/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/27/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806148</AwardID>
+<Investigator>
+<FirstName>Harry</FirstName>
+<LastName>Atwater</LastName>
+<EmailAddress>haa@caltech.edu</EmailAddress>
+<StartDate>12/27/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

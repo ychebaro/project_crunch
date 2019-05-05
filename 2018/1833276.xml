@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Workshop on Internet-of-Things (IoT) Hardware Systems</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>30000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project supports a workshop to identify research directions and build a research community for Internet-of-Things (IoT) hardware systems. IoT hardware systems combine wireless, low-power sensor and actuator nodes in networks along with fog and cloud computing.  They provide rich data sets that can be used for real-time monitoring, control, and decision-making. IoT systems are widely used for industrial, transportation, health care, and other applications. As IoT systems increase in scope and complexity, new research challenges arise that require new results and novel interdisciplinary collaborations. The workshop will involve researchers with expertise in a wide range of topics relevant to IoT. The attendees will collaborate to develop a report identifying key challenges and opportunities in IoT hardware systems as well as important resources needed to carry out this research.  &lt;br/&gt;&lt;br/&gt;The workshop convens researchers from related disciplines: sensor networks, VLSI, communication, signal processing, etc. The workshop will help to build a community of IoT researchers. The workshop will include graduate student attendees to broaden educational impact. The workshop organizers will strive to build an inclusive set of workshop attendees. The workshop will include a session on diversity issues in IoT research. Talks from the workshop will be broadcast for wider dissemination. The workshop report will be broadly distributed. Workshop attendees will be selected on the basis of white papers submitted to an open call. Workshop presentations will be broadcast on the Internet using video-conferencing tools. Topics of potential interest to the workshop include: VLSI IoT device architectures; ultra-low power design for IoT devices; IoT communication and networking; emerging technologies for IoT devices and systems; distributed algorithms under power and bandwidth constraints; IoT applications in manufacturing, transportation, health care, smart communities, etc.; safe and secure IoT systems; data science challenges in IoT systems; machine learning and AI using IoT.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833276</AwardID>
+<Investigator>
+<FirstName>Marilyn</FirstName>
+<LastName>Wolf</LastName>
+<EmailAddress>wolf@ece.gatech.edu</EmailAddress>
+<StartDate>05/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>2878</Code>
+<Text>SPECIAL PROJECTS - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073Z</Code>
+<Text>Visioning Workshops</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

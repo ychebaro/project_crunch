@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Direct-write Printed Electronics on Textiles</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research (SBIR) Phase I project will demonstrate the commercial feasibility of a manufacturing platform for functionalizing textile materials with smart functionality such as for wearable smart garments developed out of the NSF funded ASSIST Engineering Research Center for Self-powered Wearable Nanosystems. Smart garments have been touted as the next sensing platform for acquiring biometrics such as electrocardiogram, heart rate, or heart rate variability. However, mass adoption has been difficult due to the high production cost, leading to a small market segment within the greater wearable technology market. As demonstrated by our customer discovery through the NSF I-Corps program in Fall 2016, the biggest barrier to adoption is the production cost. This project seeks to decrease the cost by 5x and decrease production time by 36x, enabling this market segment to grow for applications in health &amp; wellness, healthcare, and beyond. By employing high-throughput direct-write printing and deposition of functional dielectric and conductive materials from the printed electronics space, high-value data generating devices such as smart garments can be manufactured in a single step bridging established practices within the textile and electronics industry resulting in automated textile electronics. Novel materials will be explored to impart functionalities on existing textiles with our manufacturing platform. &lt;br/&gt;&lt;br/&gt;The broader impact of this project is to create a single manufacturing platform that marginalizes the cost of production for textile electronics such as smart garments and demonstrate minimum viable product (MVP) solutions for stakeholders within the value chain of smart textiles. The proposed innovation combines developments from 3D printing, printed electronics, and textile science to create disruptive advancements in the emerging field of smart textiles and textile electronics, creating new knowledge and commercial innovations. Lastly, manufacturing within the USA has seen a resurgence due to value-added technical textiles manufacturing being brought back. An ancillary broader impact of this project is to serve as a driver for value-added smart garment manufacturing technologies to be employed for USA manufacturing. Success of this project's vision will allow for low-cost smart textiles to usher in a paradigm shift for the textiles industry, allowing for a multitude of use-cases and innovative business models to proliferate, ultimately increasing the well-being of billions of people around the world.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821134</AwardID>
+<Investigator>
+<FirstName>Hasan</FirstName>
+<LastName>Shahariar</LastName>
+<EmailAddress>hshahar@ncsu.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Funxion Wear</Name>
+<CityName>Raleigh</CityName>
+<ZipCode>276033397</ZipCode>
+<PhoneNumber>7139925558</PhoneNumber>
+<StreetAddress>3200 Compatible Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

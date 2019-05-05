@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FORCE 11 Travel</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>30646</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia J. Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The objective of this proposal is to assist students, early-career researchers and instructors with travel fellowships to attend the FORCE11's Scholarly Communications Institute (FSCI) 2018 meeting being  held July 30 - August 3, 2018 at the University of California, San Diego. The intent of FSCI 2018 is to expose all participants to exceptional training opportunities and the latest research and trends in the ongoing transformation of scholarly communications and research practice and dissemination. In addition to special training sessions, participants will particularly benefit from increased access to principal role models within the field from prominent national and international research laboratories and centers.&lt;br/&gt;&lt;br/&gt;The host organization, FORCE11, the Future of Research Communication and eScholarship, is a community of 2500+ scholars, librarians, archivists, publishers and research funders that help facilitate the change toward improved knowledge creation and sharing. Individually and collectively, the members bring about a change in modern scholarly communications through the effective use of information technology.  The FSCI 2018 meeting is designed as a week-long summer training meeting, incorporating intensive courses, seminars, workshops, group activities, lectures and hands-on training. Participants will attend courses taught by world-wide leading experts in scholarly communications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833492</AwardID>
+<Investigator>
+<FirstName>Maryann</FirstName>
+<LastName>Martone</LastName>
+<EmailAddress>maryann@ncmir.ucsd.edu</EmailAddress>
+<StartDate>06/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

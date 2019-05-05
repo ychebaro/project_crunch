@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Innovative software and database tools for targeted genomics</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the development of a unique cloud computing platform with a novel database and bioinformatic software package to address the strong demand for transformative foundational resources crucial to interpret the biological function of DNA variation sequestered within and between genomes. The goal is to target a broad scope of laboratories investigating human genomics and disease, comparative and evolutionary genomics, systems biology, animal health and veterinary sciences, and wildlife biodiversity and conservation. The product will offer opportunities to advance cross-disciplinary research to keep pace with the accelerating rate of DNA sequence variant discoveries driving the extraordinary growth of the genomics industry.  This vision is founded on the continued rapid growth projections (in billions of dollars) for the genomics market and the concomitant increase in the need for integrative tools and services.  The technology will allow customers to save time and research costs, experience substantial increases in efficiency and accuracy, and explore, in precise detail, complex gene networks and pathways.  &lt;br/&gt;&lt;br/&gt;The intellectual merit of this SBIR Phase I project is to resolve a critical impasse in genomic workflow where inconsistent or unreliable identification of DNA variant function prevents actionable discoveries. Using the customized suite of bioinformatic tools provided by this technology development, the customer will be able to interrogate the database for any gene or gene system of interest, determine the normal range of DNA changes tolerated by the gene within functional space, and screen their own data against this baseline to identify variants causative in altered biological function and phenotypic traits. The research objectives include: Compiling proprietary and novel DNA sequences from thousands of genes, establishing and confirming the precise arrangement of these gene sequences guided by shared common ancestry to create the database framework, establishing a plan for product software and content to guide the user through proper use of the database and interpret variant function, and developing strategies to ensure product security and cloud-computing service data visualization and display to protect the processing of user data when passed within the software.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843341</AwardID>
+<Investigator>
+<FirstName>Jill</FirstName>
+<LastName>Pecon-Slattery</LastName>
+<EmailAddress>jill@cornerstonegenomics.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CORNERSTONE GENOMICS LLC</Name>
+<CityName>SHARPSBURG</CityName>
+<ZipCode>217821611</ZipCode>
+<PhoneNumber>2405665160</PhoneNumber>
+<StreetAddress>17590 MILLERS SAWMILL RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

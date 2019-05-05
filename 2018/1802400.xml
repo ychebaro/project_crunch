@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SG: Collaborative Research: A genomic analysis of the impact of genetic divergence, and chromosomal rearrangement in introgression in replicate Fundulus hybrid zones</AwardTitle>
+<AwardEffectiveDate>09/13/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>104014.00</AwardTotalIntnAmount>
+<AwardAmount>118181</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Gilchrist</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hybridization occurs when members of different species attempt to reproduce. While hybridization has traditionally been viewed as normally inconsequential to species integrity and the speciation process (hybrids were assumed to be inviable for some reason), there is growing evidence it may actually be beneficial and accelerate speciation under some circumstances. Understanding the origins of biodiversity requires more thorough knowledge of mechanisms that may alter the outcome of hybridization. One such mechanism is the rearrangement of chromosomes that may change the genomic structure of species in a way that limits the potential for hybridization. This project will study a model fish species, topminnows, in order to understand how divergence and chromosomal rearrangements may interact to determine the dynamics of naturally occurring hybrid zones. The research will also be used in development of high school curricula to teach evolutionary concepts and to provide research experiences for undergraduates.  &lt;br/&gt;&lt;br/&gt;Topminnows in the Fundulus notatus species complex have broadly overlapping ranges throughout much of the Mississippi River basin and northern Gulf of Mexico drainages. Earlier work with these species identified a number of replicate hybrid zones where the hybridizing species and populations differ in levels of divergence and, in some cases, chromosome number.  The researchers will use modern genomic tools to quantify the amount of hybridization and patterns of introgression in eight replicate hybrid zones. Artificial breeding experiments in the laboratory will produce progeny that will facilitate the production of genetic maps of hybridizing populations. Genetic maps will elucidate spatial patterns of gene flow in replicate hybrid zones. Experimental hybrid zone trials will also examine mate choice dynamics and the viability of hybrid offspring.</AbstractNarration>
+<MinAmdLetterDate>10/31/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>02/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802400</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Duvernell</LastName>
+<EmailAddress>duvernelld@mst.edu</EmailAddress>
+<StartDate>10/31/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Missouri University of Science and Technology</Name>
+<CityName>Rolla</CityName>
+<ZipCode>654096506</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress>300 W 12th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7377</Code>
+<Text>EVOLUTIONARY ECOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9169</Code>
+<Text>BIODIVERSITY AND ECOSYSTEM DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

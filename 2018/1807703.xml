@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Linking Thermodynamics to Pollutant Reduction Rates by Fe(II) Bound to Iron Oxides</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>112800</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award from the Environmental Chemical Sciences Program in the Division of Chemistry supports research by Prof. Christopher Gorski at Pennsylvania State University. The goal of this project is to improve public access to clean water. The majority of drinking water in the U.S. comes from groundwater aquifers. In the U.S., over 126,000 groundwater aquifers contain toxic chemicals. This research aims to understand how toxic chemicals transform in groundwater systems over time. The work looks at how the composition of water affects the transformations. The work also develops a new teaching program for grade 6-12 young women. The teaching program aims to teach young women about groundwater and chemistry.  &lt;br/&gt;&lt;br/&gt;This work aims to mechanistically elucidate why pollutant reduction rates by Fe(II) bound to iron oxide minerals are highly sensitive to changes in solution chemistry and the presence of iron oxide nanoparticles. Many classes of environmental pollutants undergo reductive transformations in groundwater coupled to the oxidation of oxide-bound Fe(II). These transformations significantly alter a pollutant's toxicity, solubility, and/or bioavailability, and therefore they must be taken into account in risk assessments and remediation efforts. The rates of these reactions are highly variable among studies. Reported reaction rate constants varying by over six orders of magnitude for commonly studied pollutants. Models based on thermodynamic parameters can often explain trends among measured pollutant reduction rates in simple water chemistries. However, they fail to describe datasets collected with more complex water chemistries relevant to real groundwater systems, limiting their practical use. To address this issue, this project tests several working hypotheses previously proposed in the literature to elucidate the mechanisms responsible for changes in pollutant reduction rates when iron oxide nanoparticles, carbonate, and/or natural organic matter are present.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807703</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Gorski</LastName>
+<EmailAddress>cag981@psu.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6882</Code>
+<Text>Environmental Chemical Science</Text>
+</ProgramElement>
+</Award>
+</rootTag>

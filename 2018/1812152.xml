@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Postdoctoral Fellowship in Biology FY 2018</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>138000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Marenda</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports an NSF Postdoctoral Research Fellowship in Biology Research Using Biological Collections. The fellowship supports research and training of the fellow that will utilize biological collections in innovative ways. The research takes a data-driven and collections-focused approach to understand factors promoting the speciation process (i.e., formation of new species) and, therefore, the generation of biodiversity. The effort will illuminate the extent to which a reproductive bone structures may be involved in speciation in an ecologically important group of rodents, the squirrels. Such bone structures occur in some of the most diverse groups of mammals and may contribute to speciation via selection processes. Despite decades of scientific curiosity, however, the precise function of these bone structures is unknown in most groups. The fellow will leverage methods to quantify patterns of bone evolution including high-resolution imaging of museum specimens. This work will also provide authentic research experiences for undergraduate students and will broaden STEM participation at this level. Finally, this work will include science communication events that will bring evolutionary biology learning activities to the general public.&lt;br/&gt;&lt;br/&gt;The research will leverage three ecologically distinct squirrel radiations (the genera Sciurus, Tamias, Urocitellus) as model systems. Key insights into mammalian evolutionary biology and selection process are expected via integration of novel genetic, morphometric, and biodiversity informatics datasets to test hypotheses on the role of reproductive structure specialization in mammals. A comparative framework will be established using phylogenomic methods to resolve phylogenies and past hybridization events. Evolutionary shape variation in bacula from focal species will be documented using CT scanning of specimens. Datasets describing bacular morphology will be captured and contrasted with those describing external organismal phenotypes gleaned from thousands of digitized museum records. Each will be analyzed in the context of geographic and niche overlap of constituent species to reveal whether patterns of bacular variation are consistent with a role in reproductive isolation of closely related lineages. All datasets will be accessible online and linked to original museum specimens, facilitating open access to the wealth of data contained in biological collections. Training outcomes include research opportunities focused on STEM-underrepresented undergraduates and dissemination of research concepts and empirical results in popular science fora. Outreach activities will increase public literacy on mammalian biodiversity and evolution, the speciation process, and the importance of biocollections for pressing scientific and societal issues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812152</AwardID>
+<Investigator>
+<FirstName>Bryan</FirstName>
+<LastName>McLean</LastName>
+<EmailAddress/>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>McLean                  Bryan</Name>
+<CityName>Tampa</CityName>
+<ZipCode>336472668</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>001Y</Code>
+<Text>Collections Postdocs</Text>
+</ProgramElement>
+</Award>
+</rootTag>

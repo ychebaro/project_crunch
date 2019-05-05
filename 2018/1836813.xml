@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FMitF: Formal Verification of Accessibility</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2022</AwardExpirationDate>
+<AwardAmount>738125</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Most of the web is not designed for accessibility for the nearly one billion people that have a disability such as blindness, low vision, motorphysical impairments, or dyslexia, and no comprehensive, precise verification tools currently exist for checking accessibility. Existing testing tools are limited, imprecise, and incomplete, and even when they are used, they give guarantees only about one particular web browser configuration such as window size, default fonts and colors. This project aims to enable the formal verification of web accessibility. The research to be pursued involves the automatic identification of a broader class of accessibility problems that is currently possible and is intended to give guarantees of absence of such problems for all possible web browser configurations. The software tools developed in this project are intended to give web developers and content producers targeted, concrete feedback on who is affected by an accessibility issue, and why, and how to fix any problems.  &lt;br/&gt;&lt;br/&gt;The project develops a user interface logic for specifying accessibility properties, and formalizes a large fragment of browser rendering algorithms using novel finitization reductions. The project builds software tools that translates web pages, accessibility rules, and the browser algorithm to quantifier-free linear real arithmetic, using an SMT solver to verify it or produce a concrete, inaccessible rendering of the webpage. To make the results of these verifications useful and usable to developers, content producers, and web users, the investigators develop new classes of concrete, comprehensible, and  actionable warning explanations and new techniques for patching accessibility at run time. To evaluate all of this work, the project is partnering with Adobe, Instructure, and Wikimedia.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836813</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Ko</LastName>
+<EmailAddress>ajko@uw.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Mankoff</LastName>
+<EmailAddress>jmanoff@uw.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Ernst</LastName>
+<EmailAddress>mernst@cs.washington.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zachary</FirstName>
+<LastName>Tatlock</LastName>
+<EmailAddress>ztatlock@cs.washington.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>094Y</Code>
+<Text>FMitF: Formal Methods in the F</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+</Award>
+</rootTag>

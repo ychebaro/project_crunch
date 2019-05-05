@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: The Lamat Summer Research Program on High Performance Computing in Astrophysics</AwardTitle>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>388081.00</AwardTotalIntnAmount>
+<AwardAmount>388081</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthew Benacquista</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the renewal of an REU Site in computational astrophysics at the University of California-Santa Cruz (UCSC). Students will principally be recruited from regional community colleges, where the main selection criteria will be outstanding academic accomplishments and promise of future achievement. Each year, ten selected interns will work closely with mentors at UCSC and will take part in an intensive eight-week introduction to astrophysical research methods and tools with an emphasis on cosmological simulations. The overall goal of the program is not to solely train astrophysicists but to use astrophysical simulations as an exciting medium for imparting a broad array of scientific skills to the participants. &lt;br/&gt;&lt;br/&gt;The REU Site will increase the retention and graduation rates for students enrolled in two-year colleges through inquiry-based learning of concepts related to astronomy and planetary sciences, using state-of-art astrophysical simulations as a common pillar. Through a comprehensive program of research instruction, mentoring, workshops, and support programs at UCSC, students will develop additional skills to advance their educations and careers. The REU Site has developed a Family Astronomy Night lecture series at the partnering diversity-serving institutions, with the dual aims of communicating astronomy to a wide audience, and ensuring that parents of REU students can support their child's academic success.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/08/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852393</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Prochaska</LastName>
+<EmailAddress>xavier@ucolick.org</EmailAddress>
+<StartDate>02/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ruth</FirstName>
+<LastName>Murray-Clay</LastName>
+<EmailAddress>rmc@ucsc.edu</EmailAddress>
+<StartDate>02/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Enrico</FirstName>
+<LastName>Ramirez-Ruiz</LastName>
+<EmailAddress>enrico@ucolick.org</EmailAddress>
+<StartDate>02/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Brant</FirstName>
+<LastName>Robertson</LastName>
+<EmailAddress>brant@ucsc.edu</EmailAddress>
+<StartDate>02/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nicole</FirstName>
+<LastName>Feldl</LastName>
+<EmailAddress>nfeldl@ucsc.edu</EmailAddress>
+<StartDate>02/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 High Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1219</Code>
+<Text>SPECIAL PROGRAMS IN ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

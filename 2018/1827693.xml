@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Bioresorbable multi-functional optical sensor for brain implant</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>199999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project: During clinical, surgical and rehabilitation steps, various sensor/monitor techniques are used to monitor brain function and other physiological parameters. However, current sensors are hard, rigid, bulky and dependent on fragile cables that can act as a nidus for infection in contaminated traumatic wounds. The associated surgical retrieval procedures, meanwhile, are costly and they subject patients to distress associated with re-operation and expose them to additional complications. On the other hand, bioresorbable electronics can be used for post-surgical monitoring of organ, tissue, implant, and wound health without the need for surgical extraction, thus reducing the risk of infection and complications during and after the surgical processes. The proposed innovation will open up numerous and diverse applications in medical, security, and consumer markets. Bioresorbable electronics can potentially move much closer to commercial reality in the next few years, with the promise of revolutionary advances in health care and environmental protection, resulting in broad social and economic impacts. Technology leadership in these areas will increase the economic competitiveness of the United States, advancing the health and welfare of the American public, enhancing partnerships between academia and industry, and developing an American STEM workforce that is globally competitive.&lt;br/&gt;&lt;br/&gt;The proposed project is to develop a bioresorbable bio-implantable multi-functional optical probe for simultaneous monitoring of brain intracranial pressure (ICP), temperature, and oxygenation. The initial target market of the technology is brain monitors for the efficient treatment of patients during recovery following a severe Traumatic brain injury (TBI). With this NSF PFI-PR project, various technical challenges at the interface between optics, electronic/optical materials, processes of bio-resorption, brain interfaces, advanced manufacturing, and commercial scaling will be addressed. The modular design approach proposed here involves an implantable bioresorbable probe head coupled to a pluggable/flexible external optical head, to shorten the product design cycle and reduce the cost. The self-compensating design for the fully bioresorbable optical/temperature sensor system will ensure accurate readings of physiological parameters, which are typically sensitive to environmental variations. A built-in self-calibration evanescent waveguide sensor pair enables autonomous long-term sensor accuracy. This bioresorbable systems can be designed to have the specific functional lifetimes, after which all of the constituent materials under complete bio-absorption, thereby eliminating the need for surgery, and associated risks to the patient, to remove the devices. Additionally, electrically passive operation and complete immunity to electromagnetic interference represent two important advantages of the proposed optical pressure sensors.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827693</AwardID>
+<Investigator>
+<FirstName>Roozbeh</FirstName>
+<LastName>Ghaffari</LastName>
+<EmailAddress>rghaffari@neurolux.org</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Rogers</LastName>
+<EmailAddress>jrogers@northwestern.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Weidong</FirstName>
+<LastName>Zhou</LastName>
+<EmailAddress>wzhou@uta.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>Arlington</CityName>
+<ZipCode>760190145</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S Nedderman Dr, Box 19145</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

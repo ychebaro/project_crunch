@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Natural Language Voice Controlled Science Equipment</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project will develop Natural Language Voice-Controlled Lab Assistant technology that enables students to control and interact with hands-on science lab equipment using natural language dialog. The lab assistant technology will connect with science equipment hardware, a mobile or computer app, and cloud-based software for speech recognition and data analysis. A student can perform hands-on experiments, ask questions like "How high did my rocket go?" or "What was the force of the cart collision?", and receive audible responses based on their own experimental measurements. The lab assistant is designed for students that encompass (1) students who are blind or low vision, (2) students with disabilities affecting physical skills, (3) students that would benefit from multi-sensory learning methods as required in Individualized Education Plans (IEPs), and (4) generally students that would benefit from increased engagement in Science, Technology, Engineering, and Mathematics (STEM). The broader impacts of the lab assistant technology will be to promote teaching and learning through professional development of K-12 educators in STEM, and enable broad participation of under-represented groups of people in authentic science inquiry.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposed Lab Assistant will be the first application of state-of-the-art voice recognition technology for educational science experiments. The Lab Assistant will integrate with sensor hardware and mobile apps to enable hands-on experiments in physics, earth science, chemistry, and engineering. The intellectual merits of the Lab Assistant are (1) the development of software that can respond to a wide spectrum of natural language questions and (2) the systems integration of many cutting-edge technologies (wireless sensors, mobile apps, voice recognition software, cloud-based data analysis algorithms) into a simple user interface for science education. The voice interactions will help students overcome disabilities with traditional touch and visual technology, work more independently due to the presence of auditory help, work more effectively in groups, and gain confidence in their STEM abilities. For teachers, the Lab Assistant will provide an "expert in the room" to help guide the hands-on activities that they already do, and provide technical support. The Lab Assistant will be especially useful to teachers without formal science training, that nevertheless need to lead hands-on STEM activities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819287</AwardID>
+<Investigator>
+<FirstName>Clifton</FirstName>
+<LastName>Roozeboom</LastName>
+<EmailAddress>clifton.roozeboom@gmail.com</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Myriad Sensors</Name>
+<CityName>Mountain View</CityName>
+<ZipCode>940434849</ZipCode>
+<PhoneNumber>7196513764</PhoneNumber>
+<StreetAddress>505 Cypress Point Dr.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

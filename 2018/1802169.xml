@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>P-adic Methods in the Arithmetic and Geometry of Shimura Varieties</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>141724.00</AwardTotalIntnAmount>
+<AwardAmount>141724</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Pollington</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The main purpose of this project is to bring to bear new methods for the PI's ongoing study of certain spaces defined by polynomial equations, which have proven to be fruitful ground for exploiting relationships between two disparate kinds of objects, one from the world of analysis, involving infinite sums, and the other from the world of geometry, involving the knowledge of how certain subspaces meet each other. The path to such relationships, starting from the classical work of Gross-Zagier, has greatly enhanced our understanding of elliptic curve cryptography.&lt;br/&gt;&lt;br/&gt;The goal of this project is to study the intersection theory of higher codimension cycles on orthogonal Shimura varieties with an eye towards Kudla's conjectures relating intersection numbers with central derivatives of certain Eisenstein series. This will involve a two-pronged approach: First, to define suitable generating series of such cycles on integral models, and to show their modularity. Second, to develop a p-adic analytic theory of Ekedahl-Oort strata, which can be combined with recent advances in a rigid analytic intersection theory to compute the relevant local intersections.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802169</AwardID>
+</Award>
+</rootTag>

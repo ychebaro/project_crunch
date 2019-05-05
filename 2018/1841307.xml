@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Annual Data Institute Conference</AwardTitle>
+<AwardEffectiveDate>03/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Huixia Wang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>From March 10th - 12th, 2019, the Data Institute at the University of San Francisco (USF) will host the Data Institute Conference at the downtown campus of USF in San Francisco.  In the past decade the explosion of available data has fundamentally changed the way researchers across disciplines approach problems. Industry is experiencing a similar disruption as data driven decision-making is driving innovation toward new skills and roles that are often coined "data science." While academic researchers have traditionally been the center of innovation and research, industry is pouring significant resources into developing solutions to many of these same problems. This isolated and paralleled approach to finding solutions is ripe for a conference dedicated to exchanging ideas across this traditional divide. This conference aims to draw leaders of data science in industry and academia to explore the latest theoretical advances and technological applications in data science to promote the next generation of cross-disciplinary research. This conference will make an equally important impact to the greater scientific community with a focus on recruiting and increasing diversity in data science with attendees that are not traditionally represented in STEM fields. This proposal is devoted to the support of students, post-doctoral scholars, and early-career researchers, especially those from underrepresented groups. &lt;br/&gt;&lt;br/&gt;Data Science is a rapidly developing field with fluid boundaries but largely contains research areas in the statistical, mathematical and computational sciences. This conference will bring together both junior and senior researchers from industry and academia to exchange ideas on the recent advances of data science in these areas. Tracks include network analysis, experimental design, high dimensional signal processing and machine learning, as well as tracks dedicated to recent applications of these statistical topics to deep learning, social good, and marketing. There is a clear need for this novel approach to a conference in data science. Most conferences in this space have attendees numbering in the thousands and are either very broad with dozens of parallel sessions or focused on a single topic in data science. This will be of moderate size (~350) with three or fewer parallel sessions at any given time with many overlapping research threads so as to maximize the opportunity to collaborate and establish new research between academics and industry practitioners. To learn more about the Data Institute Conference, please visit the website: https://www.sfdatainstitute.org/.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/14/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841307</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Uminsky</LastName>
+<EmailAddress>duminsky@usfca.edu</EmailAddress>
+<StartDate>03/14/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Wilson</LastName>
+<EmailAddress>jdwilson4@usfca.edu</EmailAddress>
+<StartDate>03/14/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of San Francisco</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941171080</ZipCode>
+<PhoneNumber>4154225203</PhoneNumber>
+<StreetAddress>Contracts and Grants</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1269</Code>
+<Text>STATISTICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

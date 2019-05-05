@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Using genomics to link traits to ecosystem function in the eelgrass Zostera marina</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>816486</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David L. Garrison</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Seagrass ecosystems provide important services to coastal regions, including primary production, carbon storage, nutrient cycling, habitat for fisheries species, and erosion control. At the same time, eelgrass is threatened by direct destruction, pollution, and other human impacts on the environment. We know that genetic diversity in eelgrass enhances seagrass bed growth and persistence, but application of this knowledge to restoration and conservation is limited. This work will guide restoration programs by considering what specific aspects of diversity are important to conservation and restoration of seagrass ecosystems, helping to guide the selection of source material to improve restoration success (which is often low). The project integrates the effects of multiple components of diversity and clarifies the extent to which genetic and ecological uniqueness can predict ecosystem functions.&lt;br/&gt;&lt;br/&gt;Intellectual Merit: Genetic diversity as measured by the number of genetically distinct individuals (genets) in an assemblage influences critical ecosystem functions in a wide range of ecosystems. Functional diversity, the presence of key traits, or population flexibility to respond to environmental change are all potential mechanisms underlying these patterns, but distinguishing among them requires a clear link between genetic diversity and the phenotypes present in an assemblage. The investigators, and others, have previously demonstrated that genet diversity in eelgrass (Zostera marina) increases stand productivity, animal community diversity, and resilience to environmental change. These genet diversity effects are associated with increases in genetically determined trait diversity.  Predicting trait diversity without having to measure traits of every genet remains a major barrier to wider application of functional diversity approaches in restoration and management.  In this project, the investigators assess the association between Single Nucleotide Polymorphisms (SNPs) across the genome and performance-related traits that we will measure at the individual, population, and seascape-scale. They also assess environmental correlates of trait differentiation from field sampling. Finally, the research team will compare the predictive power of genomic SNP diversity versus other metrics of intraspecific diversity for the functioning (productivity, invertebrate abundance) of field planted eelgrass assemblages.  If genomic variation can reliably be used to predict functional traits, then the value of genomic sequencing efforts for informing management will be greatly enhanced.  Broader Impacts: Seagrass restoration and mitigation is currently of major interest in California and elsewhere and the project results will inform current initiatives regarding eelgrass management in California through the state's Ocean Protection Council.  In addition to recruiting individual students from diverse backgrounds to work on the project, the project broadens participation of students in STEM fields through its partnership with three existing outreach/training programs at UC Davis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829976</AwardID>
+<Investigator>
+<FirstName>Rachael</FirstName>
+<LastName>Bay</LastName>
+<EmailAddress>rachaelbay@gmail.com</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Grosberg</LastName>
+<EmailAddress>rkgrosberg@ucdavis.edu</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Stachowicz</LastName>
+<EmailAddress>jjstachowicz@ucdavis.edu</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1097</Code>
+<Text>DIVERSITY: ROLE IN ECOSYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8214</Code>
+<Text>ECCO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9117</Code>
+<Text>MARINE BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

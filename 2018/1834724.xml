@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative research: Self-sustaining microbial photoelectrosynthesis for energy and fuel production</AwardTitle>
+<AwardEffectiveDate>06/30/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>209369</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carole Read</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Harnessing energy directly from sunlight and water presents a tremendous opportunity for a sustainable future. Artificial photosynthesis simulates plant processes to convert sunlight, water, and carbon dioxide into renewable fuels and chemicals. Current artificial photosynthesis technologies have low efficiency and stability and require an external electrical voltage to sustain the conversion, which is energy intensive. Also, frequently, these systems require clean water for fuel production. This project will investigate the feasibility of a self-sustaining microbial photoelectrosynthesis process to solve both energy and water problems in solar to fuel conversions. Such modular systems can potentially transform expensive centralized energy and water infrastructure to more sustainable, flexible, and modular solutions. The investigators will train graduate and undergraduate students and actively involve underrepresented minorities and women. New course materials will be developed to promote interdisciplinary learning, and practicum based learning programs will be developed in conjunction with field service for communities. &lt;br/&gt;&lt;br/&gt;This project will investigate the integration of microbial electrochemical oxidation on the anode and photoelectrochemical reduction on the cathode in a combined system to produce fuels and electricity. By utilizing the potential generated from the anode, microbial photoelectrochemical systems can become self-sustaining without any external voltage application. The system does not require clean water to operate, rather it potentially cleans up wastewater via microbial organic oxidation. The project will study the underlying mechanisms of the interactions at both electrodes to achieve high current density and fuels production including hydrogen, syngas and methane. Fuel generation will be controlled by new individual catalyst systems designed for increased selectivity towards targeted products. Moreover, new anode catalysts will be applied to facilitate anode electron transfer and organic oxidation, and scalable reactor systems will be designed.</AbstractNarration>
+<MinAmdLetterDate>04/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834724</AwardID>
+<Investigator>
+<FirstName>Zhiyong</FirstName>
+<LastName>Ren</LastName>
+<EmailAddress>zjren@princeton.edu</EmailAddress>
+<StartDate>04/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7644</Code>
+<Text>ENERGY FOR SUSTAINABILITY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

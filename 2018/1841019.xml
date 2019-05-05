@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI:  Assessing Mechanisms for Organosulfate Formation in Secondary Organic Aerosol</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardAmount>394671</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia A. Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A major goal of this project is to contribute to improving atmospheric chemical models that are critical to the mechanistic understanding of the processes that are relevant to air pollution and climate change.  This effort focuses on studying the production of secondary organic aerosol (SOA) related to the presence of organosulfates in the atmosphere. This Research in Undergraduate Institutions (RUI) project will support the education and training of undergraduate students and help prepare them for future careers in science.&lt;br/&gt;&lt;br/&gt;The specific objectives of this research are to: (1) measure acid-catalyzed sulfate esterification rate constants for alcohol derivatives of targeted volatile organic compounds (VOCs); (2) investigate mechanistic details of the nucleophilic substitution of nitrate by sulfate reaction for nitrate derivatives of targeted VOCs; (3) investigate mechanistic details of sulfate radical addition to targeted olefinic VOCs reactions and identify sulfate radical formation mechanisms for aerosol proxy solutions irradiated by simulated solar irradiation; and (4) synthesize and characterize with Nuclear Magnetic Resonance (NMR) spectroscopy, organonitrate reactants and potential organosulfate products relevant to the reactions studied.&lt;br/&gt;&lt;br/&gt;This research will enable parameterization of the important mechanistic aspects of the various processes studied and allow for the determination of their potential importance under ambient atmosphere conditions.  The results will lead to more accurate modeling of organosulfate formation in SOA.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841019</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Elrod</LastName>
+<EmailAddress>matthew.elrod@oberlin.edu</EmailAddress>
+<StartDate>11/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oberlin College</Name>
+<CityName>Oberlin</CityName>
+<ZipCode>440741090</ZipCode>
+<PhoneNumber>4407758461</PhoneNumber>
+<StreetAddress>70 N. Professor Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Applied Space Environments Conference (ASEC) 2019; Los Angeles, California; May 13-17, 2019</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>16499</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Irfan S. Azeem</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides support for organizing a meeting of space environment engineers and applied space scientists to discuss recent advances in space environment hazard research and identify gaps in knowledge and technology needs to fulfill future space exploration goals. Space environment hazards are an important consideration for all phases of human and robotic space exploration. By bringing together scientists and engineers, the conference will enable fruitful interactions between scientists and engineer on topics related to space environment observations, modeling, and impacts on spacecrafts. The conference will also provide professional development and networking opportunities for students and early career scientists and engineers. &lt;br/&gt;&lt;br/&gt;This award will support the Applied Space Environments Conference (ASEC) 2019 to be held May 13-17, 2019 in Los Angeles, CA. This is the second conference of the series and it will facilitate presentations and discussions on research advances in topics related to the satellite environment and its impact on lunar, planetary, and heliospheric missions. The conference is currently planned for five (5) days with two (2) evening poster sessions. By bringing together scientists and engineers working on space environment hazards on human and robotic space exploration, the conference will facilitate innovative insights into both fields, provide new opportunities of interaction between scientists and engineer, and develop recommendations to mitigate space environment hazard on spacecrafts. The conference will include a dedicated student poster session highlighting research and scientific interests of current and possibly early career professionals. The ASEC conference will also provide professional development and networking opportunities for students and early career scientists and engineers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853339</AwardID>
+<Investigator>
+<FirstName>Linda Neergaard</FirstName>
+<LastName>Parker</LastName>
+<EmailAddress>lparker@usra.edu</EmailAddress>
+<StartDate>12/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Universities Space Research Association</Name>
+<CityName>Columbia</CityName>
+<ZipCode>210462581</ZipCode>
+<PhoneNumber>4107302656</PhoneNumber>
+<StreetAddress>7178 Columbia Gateway Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8089</Code>
+<Text>Space Weather Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

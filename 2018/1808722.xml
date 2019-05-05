@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Third Workshop on New Opportunities in the AMS Era: Solar Energetic Particles, Solar Modulation, and Space Radiation; Washington, District of Columbia; June 25-28, 2018</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>13416.00</AwardTotalIntnAmount>
+<AwardAmount>13416</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ilia Roussev</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This 1-year project is to enable the participation of young U.S. scientists at the 3rd Workshop on New Opportunities in the AMS Era: Solar Energetic Particles, Solar Modulation, and Space Radiation, which will be held in Washington D.C. in June of 2018.  This third workshop in the series will bring together experts from around the world in the field of cosmic rays, solar energetic particles, and space radiation with an additional focus on their propagation inside the heliosphere and their interaction with the Earth's magnetosphere.  The workshop aims to advance present understanding of the radiation environment in the near-Earth space by combining various observations of energetic particles with theory and numerical modeling.  Therefore, the project supports the goals of the National Space Weather Action Plan.</AbstractNarration>
+<MinAmdLetterDate>12/05/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/05/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808722</AwardID>
+<Investigator>
+<FirstName>Veronica</FirstName>
+<LastName>Bindi</LastName>
+<EmailAddress>bindi@hawaii.edu</EmailAddress>
+<StartDate>12/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexis</FirstName>
+<LastName>Popkow</LastName>
+<EmailAddress>apopkow@hawaii.edu</EmailAddress>
+<StartDate>12/05/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222234</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1523</Code>
+<Text>SOLAR-TERRESTRIAL</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

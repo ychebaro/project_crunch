@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: A novel diagnostic method of detecting eye diseases using a smartphone</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is in the development of smartphone-based eye disease detection technology for potential clients and partners. Potential commercial clients for the technology include 1) ophthalmologists and eye clinics, 2) medical centers, 3) customers living in rural or suburban areas with limited medical services, 4) senior living and retirement communities, 5) health insurance companies, and 6) ophthalmic instrument manufacturers. Eye diseases are usually detected in clinics with ophthalmic devices, e.g. optical coherence tomography, corneal topography and slit lamp, which are large, expensive and not portable, and need to be operated by trained technicians. However, our proposed smartphone-based eye disease detection method is small, affordable, portable, and it can be operated by patients in a convenient way, which will overcome the limitations mentioned above. The proposed algorithm can detect eye diseases or monitor eye healthiness in a proper and timely manner, and it can share the monitoring information with ophthalmologists. Hence, eye diseases can be detected in the earlier stage with our technology.  Moreover, ophthalmologist can focus more on severe treatments or surgeries. A 5- to 10-fold lower cost is an added potential benefit. &lt;br/&gt;&lt;br/&gt;This I-Corps project will explore the commercial potential of a new eye disease detection technology using a smartphone and make it broadly available for scientific discovery and medical applications. The project further develops a smartphone-based eye disease detection technology that is more accurate and convenient using image processing and machine learning techniques. The proposed smartphone-based eye disease detection technology makes use of panoramic images or short video recordings of the eye at different angles. The recorded eye images are divided into iris, lens, sclera, and cornea components using automatic image cropping techniques. Each divided component is then analyzed using shape detection and color matching techniques to recognize the shape and to detect the abnormality of each component, respectively. Preliminary finding shows that the proposed technology detects keratoconus with more than 90% accuracy from 30 subjects. To detect diverse types of eye diseases and to increase the accuracy of eye disease detection, we will collect additional eye data from patients and normal subjects to form a larger database, and apply machine learning techniques to the accumulated database. Bringing these innovative capabilities to the commercial market will significantly improve discovery output in academia and industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821942</AwardID>
+<Investigator>
+<FirstName>Jo Woon</FirstName>
+<LastName>Chong</LastName>
+<EmailAddress>j.chong@ttu.edu</EmailAddress>
+<StartDate>01/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794091035</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>349 Administration Bldg</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

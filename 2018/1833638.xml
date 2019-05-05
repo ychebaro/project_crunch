@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Student Travel to the 2018 Abusive Language Online Conference</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tonya Smith-Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support student travel to attend the second edition of a workshop focused on abusive language in online environments. The workshop, the 2018 Abusive Language Online Conference, is co-located with the 2018 Conference on Empirical Methods in Natural Language Processing, October 31 - November 4, 2018, in Brussels, Belgium. The Workshop will develop students' skills and knowledge to use multidisciplinary approaches and computational methods for research on abusive language in contexts such as social media platforms. Students will learn about policies related to these behaviors and ways to develop tools and processes to allow relevant parties to respond quickly to abusive language online. Students will engage with researchers to develop ways to categorize and classify content and ways to evaluate guidelines and standards. Activities will include panel discussions and plenary talks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833638</AwardID>
+<Investigator>
+<FirstName>Ruihong</FirstName>
+<LastName>Huang</LastName>
+<EmailAddress>huangrh@cse.tamu.edu</EmailAddress>
+<StartDate>07/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454645</ZipCode>
+<PhoneNumber>9798477635</PhoneNumber>
+<StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

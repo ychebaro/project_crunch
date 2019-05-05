@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CMOS THz Molecular Clock With Enhanced Stability And Energy Efficiency</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>330000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jenshan Lin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>High performance clock, which provides a stable output reference frequency, is critical in electronic systems for navigation, security, wireless broadcasting, telecommunication network synchronization, and various sensing applications (e.g. magnetometer). Although a high-precision timing signal can be obtained from Global Positioning System (GPS) satellites, it is unavailable in many scenarios (e.g., underwater, underground, and certain indoor conditions). GPS timing is also susceptible to electromagnetic interference, especially at wartime. It is therefore of great importance to have innovative high-stability time-keeping devices local to the electronic systems. Since many of the electronic systems are mobile, their internal clocks should also be small and energy efficient. At present, the widely used clock devices, such as the crystal oscillators and the microelectromechanical system (MEMS) oscillators, can only achieve stability in the range of 0.01 ppm to 100 ppm, which is inadequate for many of the above applications. Achieving much better stability, the high-end oscillators used for precision timing would also consume much higher power of several watts. On the other hand, the atomic clocks, with their outputs locked to certain physical constants, offer excellent stability. This, however, comes at the expense of exceedingly large form factor and cost. This project proposed a novel terahertz (THz) molecular clock to address the above challenges. The proposed new solution will achieve stability in the range of parts per trillion, which will be several orders better than the current state-of-the-arts. The results will advance the THz science and engineering, and have significant potential impacts on billions of electronic systems. The research will be tightly integrated with the undergraduate and graduate education at MIT to cultivate the future engineering leaders with interdisciplinary training and vision.  &lt;br/&gt;    &lt;br/&gt;In this project, new approaches, which link an electronic output frequency with invariant physical constant but use a physical mechanism alternative to conventional atomic physics, will be investigated. The rotational-mode transitions of polar molecules under the probing of THz waves will be utilized as time bases. The generation, detection, and control of the THz waves will be implemented using standard complementary metal-oxide-semiconductor (CMOS) integrated circuit technology. The research, therefore, is expected to lead to high-stability clocks with very small size, very little power, and very low cost. Specifically, multi-resonance of molecules will be utilized to enhance the long-term stability of the molecular clock. New packaging technology will also be applied in order to miniaturize the clock size. At the system level, the clock will also operate in a low duty-cycled manner to obtain milliwatt-level power consumption.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1809917</AwardID>
+<Investigator>
+<FirstName>Ruonan</FirstName>
+<LastName>Han</LastName>
+<EmailAddress>ruonan@MIT.EDU</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>105E</Code>
+<Text>RF/Microwave &amp; mm-wave tech</Text>
+</ProgramReference>
+</Award>
+</rootTag>

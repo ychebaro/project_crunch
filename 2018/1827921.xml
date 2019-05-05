@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Acquisition of a Zeta Potential and Particle Size Analyzer for Interdisciplinary Undergraduate Research and Education at the Inter American University of Puerto Rico, Ponce Campus</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>90502</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation (MRI) and the Chemistry Research Instrumentation (CRIF) Programs. Professor Merlis Alvarez-Berrios from the Inter American University Puerto Rico, Ponce Campus and colleague Edmy Ferrer-Torres have acquired a zeta potential and particle size analyzer. The zeta potential is a term used in the electrokinetic studies of colloidal dispersions. This instrument is also used in the investigation of very small aggregates called nanoparticles. It is used to determine particle size and zeta potential critical for understanding of various materials. The size of nanoparticles plays a key role in their unique properties. The zeta potential value is related to the stability of nanoparticles and hence their product performance. Moreover, the analyzer provides multiple accessories and therefore is suitable for a wide spectrum of user applications. These characterization studies are crucial for evaluating the potential application of novel materials in areas such as medicine, technology and the petroleum field. One application is the study of microparticle-protein interactions which may be of potential interest in medicine. The instrument also contributes to training students in modern instrumentation. It is supporting interdisciplinary undergraduate research and education at the Inter American University of Puerto Rico, at both the Ponce Campus and San German campuses, as well as high schools and colleges from the south region of Puerto Rico.&lt;br/&gt;&lt;br/&gt;The instrument is employed in supporting research in a number of projects to accurately predict and quantify the stability of nanoparticles. Metallic nanoparticles are of special interest in these studies. The instrument is being used to elucidate protein-protein and microparticle-protein interactions governing the inhibition of fibrillation processes. Modification of solid surfaces is being studied. Confirmation of the functional groups present on the surface of the nanomaterials suspended in liquids after chemical modification is under investigation. The instrument is also being used to determine the electrostatic interactions between particles and flat surfaces.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827921</AwardID>
+<Investigator>
+<FirstName>Edmy</FirstName>
+<LastName>Ferrer-Torres</LastName>
+<EmailAddress>ejferrer@ponce.inter.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Merlis</FirstName>
+<LastName>Alvarez-Berrios</LastName>
+<EmailAddress>mpalvare@ponce.inter.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Inter American University of Puerto Rico San Juan</Name>
+<CityName>San Juan</CityName>
+<ZipCode>009363255</ZipCode>
+<PhoneNumber>7877580899</PhoneNumber>
+<StreetAddress>Central Office of the System</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

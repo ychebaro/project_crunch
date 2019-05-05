@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Flexible Krylov Subspace Projection Methods for Inverse Problems</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>306589</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miao-Jung Ou</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In many scientific and engineering applications, it is necessary to&lt;br/&gt;solve an inverse problem; that is, to determine quantities defining an&lt;br/&gt;object or a system through indirect measurements.  The mathematics&lt;br/&gt;used to produce images in devices such as X-Ray Computed Tomography&lt;br/&gt;(CT) and Magnetic Resonance Imaging (MRI) are excellent examples.  The&lt;br/&gt;mathematical models describing an inverse problem are often so&lt;br/&gt;complicated that it is not possible to find an exact analytical&lt;br/&gt;solution, and it is necessary to use an approximation based on a set&lt;br/&gt;of simpler equations.  However, many equations may be needed; in&lt;br/&gt;medical imaging, for example, it is not unusual to compute&lt;br/&gt;approximations by solving millions of equations.  Additional&lt;br/&gt;complications arise because an inverse problem may have infinitely&lt;br/&gt;many solutions, or the solutions may change dramatically if there are&lt;br/&gt;small errors in the indirect measurements.  Thus, additional&lt;br/&gt;constraints and mathematical tools (often referred to as&lt;br/&gt;regularization) are needed to narrow the search to a set of&lt;br/&gt;appropriate feasible solutions, and to stabilize the computations.&lt;br/&gt;The type and amount of regularization is problem dependent, requiring&lt;br/&gt;the algorithms to be able to easily adapt to user and/or problem&lt;br/&gt;specifications.  The aim of this project is develop a flexible and&lt;br/&gt;adaptable computational platform that can be used for this important&lt;br/&gt;class of problems, which arise in many application areas, including&lt;br/&gt;space object identification, geophysics, microscopy and medical&lt;br/&gt;imaging. Thus advancements made from this project have the potential to&lt;br/&gt;benefit national defense, energy exploration, and human health.&lt;br/&gt; &lt;br/&gt;Efficient iterative methods to compute regularized solutions of&lt;br/&gt;large-scale discrete ill-posed inverse problems will be developed.&lt;br/&gt;The approach will use flexible Krylov subspace iterative methods, and&lt;br/&gt;will exploit low-rank structure of data, solutions and operators. The&lt;br/&gt;approach will allow to incorporate a variety of regularization&lt;br/&gt;techniques, including sparse and low-rank constraints on the solution.&lt;br/&gt;The methods developed in this project can be used as tools to obtain&lt;br/&gt;approximate solutions of ill-posed inverse problems, and optimized&lt;br/&gt;implementations will be included in a new MATLAB package called IR&lt;br/&gt;Tools (Iterative Regularization Tools).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819042</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Nagy</LastName>
+<EmailAddress>jnagy@emory.edu</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Emory University</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303224250</ZipCode>
+<PhoneNumber>4047272503</PhoneNumber>
+<StreetAddress>1599 Clifton Rd NE, 4th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

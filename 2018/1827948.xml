@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A power law model of dynamic marine phytoplankton stoichiometry</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>348041</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henrietta N. Edmonds</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Almost a century ago, Alfred Redfield observed that the ratios of the elements carbon, nitrogen, and phosphorus in ocean phytoplankton were nearly the same throughout the oceans. This observation came to be called the "Redfield ratio" and is a central idea in biological and chemical oceanography. The Redfield ratio provides a convenient and useful way of relating the uptake of nutrients (nitrogen and phosphorus) and carbon, and of exploring aspects of ocean carbon cycling. Recent work, however, has highlighted the many ways in which the carbon to nitrogen to phosphorus (C:N:P) ratios can vary, suggesting that the simple assumption that they are unchanging should be revisited. The overall goal of this project is to develop a way of incorporating varying C:N:P ratios into ocean models that will allow researchers to explore the impacts of these variations on carbon cycling. The proposed work will directly support graduate student researchers and include STEM outreach to local schools. &lt;br/&gt;&lt;br/&gt;This project will develop a power law model of flexible phytoplankton stoichiometry, an approach that is able to capture the nonlinear behavior of the elemental ratios as a function of multiple environmental drivers. The central feature of the power law model is a coefficient that yields useful insights about phytoplankton biochemistry (i.e., phytoplankton homeostasis) and ocean biogeochemistry (i.e., the buffer capacity of the global carbon export production to environmental changes). Furthermore, the power law model is mathematically robust and thus easily ported to global ocean models. These attributes of the power law model are expected to facilitate widespread studies of dynamic stoichiometry with global ocean models. The investigators will also enable two global ocean models with their new stoichiometry model and quantify the stoichiometry-biogeochemical cycles-climate feedbacks under ongoing global warming and late Pleistocene ice age conditions. This study will thus make a significant contribution to chemical oceanography by developing a new approach to representing stoichiometric diversity in ocean models and by quantifying the global impacts of that diversity under different climate conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827948</AwardID>
+<Investigator>
+<FirstName>Katsumi</FirstName>
+<LastName>Matsumoto</LastName>
+<EmailAddress>katsumi@umn.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1670</Code>
+<Text>CHEMICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

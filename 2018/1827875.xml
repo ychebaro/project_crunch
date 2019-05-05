@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of an X-ray Diffractometer for Research, Education, and Regional Use</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>399000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is funded by the Major Research Instrumentation (MRI) and Chemical Instrumentation (CRIF) programs.  Professor Skye Fortier from University of Texas El Paso (UTEP) and colleagues Tatiana Timofeeva (New Mexico Highlands University), Luis Echegoyen (UTEP), Dino Villagran (UTEP), and Erik Yukl (New Mexico State University) have acquired a single crystal X-ray diffractometer.  An X-ray diffractometer allows accurate and precise measurements of the full three-dimensional structure of a molecule.  This structure includes bond distances and angles.  This instrument provides accurate information about the spatial arrangement of a molecule relative to neighboring molecules.  The research may impact many areas, including organic and inorganic chemistry and biochemistry.  In one project, a soil bacterium which is a DNA protein repair species is under investigation.  The structure of marine viruses which contribute to the marine ecosystem are determined. The diffractometer is a multi-user, multi-institutional instrument that serves the needs of research institutions and undergraduate programs throughout the region. Besides UTEP, the diffractometer is used by New Mexico State University (NMSU), New Mexico Highlands University (NMHU), Angelo State University, and Ft. Lewis College. The instrument provides training opportunities to students at both the graduate and undergraduate levels.&lt;br/&gt;&lt;br/&gt;The acquisition of this diffractometer enhances the research and education of graduate and undergraduate students at UTEP and surrounding institutions.  Investigations to identify the locus of redox charges in highly-reduced metal complexes are conducted. Uranium endohedral fullerenes with extraordinary bonding motifs are characterized. Another area under investigation is the viral assembly of an important giant marine virus.  New single crystal multiferroics and chalcogenide two-dimensional (2D) materials are characterized using the diffractometer. The structure of bacterial proteins involved in environmental redox sensing is being determined. Synthesis and catalysis studies of molybdenum complexes that model molybdoenzyme active sites are also supported.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827875</AwardID>
+<Investigator>
+<FirstName>Tatiana</FirstName>
+<LastName>Timofeeva</LastName>
+<EmailAddress>tvtimofeeva@nmhu.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Echegoyen</LastName>
+<EmailAddress>echegoyen@utep.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Skye</FirstName>
+<LastName>Fortier</LastName>
+<EmailAddress>asfortier@utep.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dino</FirstName>
+<LastName>Villagran</LastName>
+<EmailAddress>dino@utep.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Erik</FirstName>
+<LastName>Yukl</LastName>
+<EmailAddress>etyukl@nmsu.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at El Paso</Name>
+<CityName>El Paso</CityName>
+<ZipCode>799680001</ZipCode>
+<PhoneNumber>9157475680</PhoneNumber>
+<StreetAddress>ADMIN BLDG RM 209</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8397</Code>
+<Text>Hydrogen Storage or Generation</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

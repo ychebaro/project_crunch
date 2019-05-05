@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Surface Skin Temperature Mapping by Ultralight Aircraft and Undergraduate Participation for Stable Atmospheric Variability ANd Transport (SAVANT)</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>47293</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas F. Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Stable Atmospheric Variability and Transport field experiment will be conducted in the Fall of 2018 in central Illinois.  The goal of the campaign is to measure very low-level air flow in gentle terrain.  This kind of study requires high-density temperature measurements of the field site.  This award will provide airborne measurements of surface temperature from an infrared camera that will help to fill in the gaps between the ground-based measurements.  The camera will be mounted on an ultralight aircraft, which is able to fly very low and very slow, while not running into the same restrictions as many unmanned aircraft.  The additional instruments will enhance the ability of the project to answer questions about micro-meteorological conditions that are relevant to agriculture and hazardous materials release.  The project will also serve as an initial demonstration for a new observing platform and provide valuable field research opportunities for students.&lt;br/&gt;&lt;br/&gt;This award is for the collection of airborne radiometric observations of surface skin temperatures during the Stable Atmospheric Variability and Transport (known as SAVANT) field campaign.  SAVANT is an NSF-funded field study investigating the dynamics of radiatively-driven cold air drainage flows in shallow gullies.  The campaign has a variety of ground based sensors for temperature and this award will enhance those measurements by providing 2D maps of surface skin temperature using a FLIR Duo Pro R thermal camera.  The novel aspect of the campaign is that the camera would be flown on a manned ultralight aircraft, which is a platform that does not have significant usage in the atmospheric science community.  The researchers will also deploy a UAS that is capable of carrying the camera as a risk mitigation strategy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844426</AwardID>
+<Investigator>
+<FirstName>Grant</FirstName>
+<LastName>Petty</LastName>
+<EmailAddress>gwpetty@wisc.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ankur</FirstName>
+<LastName>Desai</LastName>
+<EmailAddress>desai@aos.wisc.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

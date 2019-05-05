@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: Extending and testing theories of language production by investigating speaker choice in a classifier language</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardAmount>18414</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joan Maling</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Natural language often gives speakers multiple ways to convey the same meaning. Meanwhile, linguistic communication takes place in the face of environmental and cognitive constraints. When multiple options are available to express more or less the same meaning, what general principles govern speaker choice? Advancing our understanding of this question can potentially enhance a broad array of human language technologies, such as providing more human-like language generation with better understanding of speaker choice, more accurate machine translation, better resources for language learning and teaching, as well as insights to improve treatment for language disorders. &lt;br/&gt;&lt;br/&gt;Within this broader research program, this project focuses on the influence of contextual predictability on the encoding of linguistic content manifested by speaker choice in a classifier language. In English, a numeral modifies a noun directly (e.g., three tables). In classifier languages such as Mandarin Chinese, it is obligatory to use a classifier (CL) with the numeral and the noun (e.g., three CL.flat table, three CL.general table). While different nouns are compatible with different specific classifiers, there is a general classifier 'ge' (CL.general) that can be used with most nouns. This study focuses on the alternating options between using the general classifier versus a specific classifier with the same noun where the options are nearly semantically invariant. The use of a more specific classifier would reduce surprisal at the noun, but the use of that more specific classifier may be dispreferred from a production standpoint if accessing the general classifier requires less effort. This project combines corpus analyses, psycholinguistic behavioral experiments and computational modeling using techniques from statistics, natural language processing, and experimental psychology, examining how language users allocate resources to prepare them to produce and comprehend language, shedding lights on why language is structured in the way it is.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/08/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844723</AwardID>
+<Investigator>
+<FirstName>Roger</FirstName>
+<LastName>Levy</LastName>
+<EmailAddress>rplevy@mit.edu</EmailAddress>
+<StartDate>02/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Meilin</FirstName>
+<LastName>Zhan</LastName>
+<EmailAddress>meilinz@mit.edu</EmailAddress>
+<StartDate>02/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8374</Code>
+<Text>DDRI Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Arumugam   A global synthesis of land-surface fluxes under natural and human-altered  watersheds using the Budyko framework</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>131546</AwardAmount>
+<AwardInstrument>
+<Value>Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Holly Barnard</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>03/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823111</AwardID>
+<Investigator>
+<FirstName>Jill</FirstName>
+<LastName>Baron</LastName>
+<EmailAddress>jill_baron@usgs.gov</EmailAddress>
+<StartDate>03/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>John Wesley Powell Center</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805268118</ZipCode>
+<PhoneNumber>3032024159</PhoneNumber>
+<StreetAddress>2150 Center Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramElement>
+</Award>
+</rootTag>

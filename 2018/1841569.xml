@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: An Integrated Inferential Framework for Big Data Research and Education</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>347702.00</AwardTotalIntnAmount>
+<AwardAmount>245268</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nandini Kannan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project addresses several fundamental challenges in modern data analysis and aims to create a new research area named Big Data Inference. Currently available literature regarding Big Data research mainly focuses on developing new estimators for complex data. However, most of these estimators are still in lack of systematic inferential methods for uncertainty assessment. This project hopes to bridge this gap by developing new inferential theory for modern estimators unique to Big Data analysis.  The deliverables of this project include easy-to-use software packages, which directly help scientists to explore and analyze complex datasets. The principal investigator is also actively collaborating with many scientists to ensure the more direct impact of this project to the targeted scientific communities.&lt;br/&gt;&lt;br/&gt;This project aims to develop novel inferential methods for assessing uncertainty (e.g., constructing confidence intervals or testing hypotheses) of modern statistical procedures unique to Big Data analysis. In particular, it develops innovative statistical inferential tools for a variety of machine learning methods which have not yet been equipped with inferential power. It also provides necessary inferential tools for the next generation of scientists to be competitive in modern data analysis.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841569</AwardID>
+</Award>
+</rootTag>

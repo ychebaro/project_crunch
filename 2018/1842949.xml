@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Social Platform with Machine Learning Moderation</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>224821</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to create an abuse-free and ad-free social network based on principles of affirmative consent using a novel hybrid human-machine moderation technology. Harassment and abuse plague current social platforms. This abuse is particularly directed towards women, people of color, and the LGBTQ community, who are most vulnerable to these types of attacks. These demographics around the world need a harassment-free social network platform to communicate and share content and would be willing to pay a subscription fee. In addition, independent "new media" content creators also need an advertising-free and harassment-free platform to build an audience, interact with followers or fans, control access to paid content, and receive payment for their work. Users who have fled other platforms due to harassment, data mining, or personal privacy concerns may also want friendly and safe spaces to interact and share content. In addition to subscription fees, this novel moderation technology has the potential to be offered as a service to other social network businesses.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research SBIR Phase I project takes a novel consent-based approach to social network moderation. The project combines data from multiple sources, including machine learning models, in order to give users more control over the content they wish to see and prevent harassment and abuse. By supplementing automated approaches with human ones, and putting users in control of which sources of moderation content and metadata to trust, this innovation will reduce the labor required for human moderation and the accuracy of machine approaches, all while making relatively strong guarantees that the most vulnerable users will not be exposed to abuse or harassment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842949</AwardID>
+<Investigator>
+<FirstName>Jill</FirstName>
+<LastName>Dimond</LastName>
+<EmailAddress>jill@sassafras.coop</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Sassafras Tech Collective</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481036226</ZipCode>
+<PhoneNumber>2067991190</PhoneNumber>
+<StreetAddress>220 Collingwood St Ste 140</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Workshop on the Economics of Cloud Computing</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>90593</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>M. Mimi McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Public cloud computing is rapidly becoming the foundation of our information-based economy. Users are&lt;br/&gt;adopting cloud platforms in lieu of maintaining dedicated computing infrastructure primarily due to the&lt;br/&gt;resulting savings in costs. Since cloud platforms earn revenue from utilizing their infrastructure by&lt;br/&gt;renting it out to customers, and earn no revenue if their infrastructure is idle, their goal is to maximize&lt;br/&gt;utilization. The increasing complexity of cloud markets raises new research&lt;br/&gt;challenges for both users and providers that are inherently economic. This award will support the&lt;br/&gt;organization of a workshop to bring together researchers from computer systems and networks and from&lt;br/&gt;the fields of economics, finance, and operations research to define important research challenges at the&lt;br/&gt;intersection of economics and cloud computing over the next 5-10 years.&lt;br/&gt;&lt;br/&gt;The research agenda of the workshop has the potential for broad and transformative impact on the US and&lt;br/&gt;beyond by fostering a new interdisciplinary community in this nascent area, identifying its key research&lt;br/&gt;challenges, and laying the foundation for future innovations that increase the efficiency of using cloud&lt;br/&gt;computing resources. Furthermore, the workshop will engage early career scholars and those from&lt;br/&gt;diverse backgrounds and underrepresented groups to connect them with a broad community of academic&lt;br/&gt;and industrial researchers interested in the intersection of economics and computer systems and&lt;br/&gt;networking.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821682</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Irwin</LastName>
+<EmailAddress>irwin@ecs.umass.edu</EmailAddress>
+<StartDate>04/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

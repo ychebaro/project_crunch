@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Innovative Platform for Low Volume Blood Coagulation Analysis</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project addresses the problem of assessing blood clotting and associated bleeding and thrombosis risks in neonatal and pediatric patients. Existing coagulation analyzers put these patients at further risk because they cannot operate with low volumes of blood, and because they are less reliable owing to the requirement for test sample contact. This project will develop Acoustic Tweezing Thomboelastometry (ATT) for these patients.  Using only a single acoustically-levitated drop of blood, this non-contact technology platform enables safe and reliable assessment of blood clotting in small children and provides an opportunity for development of newborn screening tests for coagulation abnormalities. This technology is the outcome of NSF funding which has supported the training of several PhD students in biomedical and mechanical engineering.  ATT can reduce side effects for neonatal and pediatric patients by using 1/100th the sample volume required by technologies developed for adult healthcare and improve diagnostic response time for critical care providers by up to 350%. This technology could decrease the cost of blood coagulation analysis by over 30%, thus allowing for patients in the United States to save $2.0 billion annually.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project develops an innovative technology for non-contact blood coagulation analysis that integrates photo-optical and viscoelastic measurements in a single drop of blood (&lt;6uL in volume).  The essence of the ATT technology is to levitate a small sample in a host fluid (e.g., air) by the acoustic radiation force and measure its physical properties under deformation during levitation.  ATT addresses the issue of high variability and poor standardization of existing coagulation analyzers caused by blood sample contact with artificial surfaces. Due to its noncontact feature and low sample volume requirement, ATT can rapidly (&lt;10 minutes) and reliably assess bleeding/thrombotic risks and is sensitive to temporal changes in shear viscosity and elasticity during blood clotting and fibrinolysis.  In addition, ATT can measure platelet function and assess the functional levels of fibrinogen and other coagulation factors. The goal of this project is to develop a user-friendly minimal marketable product for the market of pediatric coagulation analyzers. This goal will be achieved by meeting the following three objectives: 1) build the user-friendly prototype; 2) develop integrated software for device control, data acquisition, and data analysis; and 3) calibrate the prototype and standardize it for coagulation measurements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/12/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843479</AwardID>
+<Investigator>
+<FirstName>Damir</FirstName>
+<LastName>Khismatullin</LastName>
+<EmailAddress>damir@tulane.edu</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daishen</FirstName>
+<LastName>Luo</LastName>
+<EmailAddress>kevinluo006@gmail.com</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Levisonics Inc.</Name>
+<CityName>New Orleans</CityName>
+<ZipCode>701180000</ZipCode>
+<PhoneNumber>5042471587</PhoneNumber>
+<StreetAddress>1126 Webster St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:   Structural aspects of glutamine-rich domain liquid-liquid phase separation in transcription and RNA processing</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardAmount>99775</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jaroslaw Majewski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Living objects carry out instructions stored in chromosomal DNA by creating thousands of distinct RNA molecules. These RNA molecules, code for, and regulate other biological molecules that perform cellular functions. Synthesis, processing, and destruction of these RNAs is frequently spatially organized into compartments found in all domains of eukaryotic life, from single-celled fungi to the specialized cells of multicellular organisms. These micron-sized structures have long been observed by microscopy in different cell types and locations but only recently have they been identified as membraneless organelles. This project will visualize the molecular contacts that hold together membraneless organelles associated with RNA transcription and processing. These data will be essential to understand how these organelles assemble, how they function, and how the formation and dissolution of these assemblies is regulated. The plan for outreach provides an opportunity for local K-12 public school students to contribute to this detailed view of phase separating protein biophysics. The PI will 1) develop a module highlighting the biological importance of protein structure and disorder for a Rhode Island high school science outreach program, including training and competition using Foldit, the protein folding/interaction video game, 2) pair two high school students per year from this program with an undergraduate student mentor for a one month project characterizing protein structure and phase separation, 3) archive the lesson and hands-on training materials in a public database. &lt;br/&gt;&lt;br/&gt;Proteins with unstructured/disordered regions containing a large amount of the amino acid glutamine are necessary for assembly of many of the membraneless organelles in vivo and are sufficient for liquid-liquid phase separation into protein droplets in vitro. Yet, the contacts formed within membraneless organelles are invisible to traditional techniques in structural biology. Therefore, membraneless organelle molecular architecture and mechanistic function remain poorly understood. The planned research will answer the general question: How do the glutamine-rich sequences in intrinsically disordered protein domains encode the structure and interactions associated with self- and co-assembly into membraneless organelles? The question will be answered by characterizing the atomic structure and interactions of glutamine-rich domains and their assemblies using NMR spectroscopy, microscopy, and molecular simulation. Three different glutamine-rich proteins found in yeast and invertebrate animals all known to be essential for physiological membraneless organelle formation will be used as models. As representative members of a diverse family of proteins, the results of the project will serve as the foundation for understanding the structure, interactions, regulation, and function of an entire class of RNA processing assemblies. Structural models and in vitro findings will be tested in established in cell phase separation and in organism phenotypic assays. This work serves as the first step in the long-term objective to map the mechanistic link between the sequence, structure and complexes of low complexity interaction domains and their assembly into membraneless organelles. This project will provide atomically detailed information on this important but mysterious phenomenon in eukaryotic cell biology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>11/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845734</AwardID>
+<Investigator>
+<FirstName>Nicolas</FirstName>
+<LastName>Fawzi</LastName>
+<EmailAddress>Nicolas_Fawzi@brown.edu</EmailAddress>
+<StartDate>11/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown University</Name>
+<CityName>Providence</CityName>
+<ZipCode>029129002</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress>BOX 1929</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7744</Code>
+<Text>RAHSS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

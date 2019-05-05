@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SPX: A Geometry and Architecture Agnostic Scalable Framework for N-body Problems with Oscillatory Potentials</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>674492</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vipin Chaudhary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Solutions to equations governing electromagnetics and acoustics have enabled crucial technologies such as wireless communication devices, passive and active RF-IDs, optical and high-speed devices, sonar and radar emitters in automobiles, microwaves, medical diagnostic, and imaging tools, among several others. Advances in these technologies rely on understanding the underlying wave physics in sufficient detail. This task is increasingly challenging given the increase in geometric complexity (smaller and more complex features) and wider range of operating wave frequencies thereby requiring more precision and detail to achieve optimal performance. The primary goal of this project is to develop a geometry and architecture agnostic scalable framework for N-body problems with oscillatory (wave) potentials through synergistic research in both numerical methods and parallel algorithms. In collaboration with domain scientists, the resulting framework's utility will be demonstrated via applications in  electromagnetic radiation, acoustic imaging, and nano-photonics. In order to ensure the widest possible dissemination, outcomes of the proposed research including technical reports, codes, user manuals and test cases will be made available through a dedicated website. The interdisciplinary nature of this project will provide ample opportunities to train undergraduate and graduate students in leading edge research that cuts across applied mathematics, high performance computing, and electrical engineering.&lt;br/&gt;&lt;br/&gt;The key enabler of the framework to be developed in this project is the Helmholtz (oscillatory potential) variant of the Fast Multipole Method (FMM). While rapid solution to Laplace equations using FMM has had a profound impact on several disciplines, from gravitational physics to molecular dynamics to geophysics to electrical engineering, the algorithms and software for the Helmholtz variant is lagging far behind. Leveraging massive parallelism to enable the evaluation of oscillatory potentials at unprecedented speed and scales forms the main intellectual contributions of this project. The project approach is comprised of the following objectives: (i) Development of an innovative adaptive numerical scheme to overcome the computational and memory bottlenecks of FMM for oscillatory potentials, (ii) Novel load balancing and auto-tuning algorithms optimized to achieve high performance for a given problem instance and hardware architecture, (iii) A hybrid parallel implementation that will leverage task parallelism to reduce communication overheads and achieve portability on emerging distributed memory architectures, and (iv) Evaluation of the capabilities and performance of the resulting software through multi-scale modeling of a diverse set of Helmholtz systems. The numerical methods and parallel algorithms developed in this project will be implemented in an open-source software called HFMM-XScale, which will be designed as a modular software for easy integration into existing domain specific solvers. As such, HFMM-XScale is anticipated to have a broad impact on the research community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822932</AwardID>
+<Investigator>
+<FirstName>Hasan Metin</FirstName>
+<LastName>Aktulga</LastName>
+<EmailAddress>hma@msu.edu</EmailAddress>
+<StartDate>08/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shanker</FirstName>
+<LastName>Balasubramaniam</LastName>
+<EmailAddress>bshanker@egr.msu.edu</EmailAddress>
+<StartDate>08/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>SPX: Scalable Parallelism in t</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+</Award>
+</rootTag>

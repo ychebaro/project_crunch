@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Synthesis and design workshop: Designing Scalable Advanced Learning Ecosystems</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>93953</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana Korelsky</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The U.S. is currently at a crossroads in higher education where access to quality post-secondary education is a prerequisite for entry into the middle class but the ability to afford such an education is becoming increasingly limited. Georgia Tech proposes the Scalable Advanced Learning Ecosystem to address this mismatch. Building on successful online education programs that have offered Master?s degrees in computer science and analytics, Georgia Tech hosts a workshop for higher education administrators and researchers to establish components of Scalable Advanced Learning Ecosystems that can be applied across colleges and universities. The goal of Scalable Advanced Learning Ecosystems is to create educational experiences that can be scaled to growing populations of students while providing the personalized attention that has typically been the domain of unscalable individual, face-to-face teaching and advising.&lt;br/&gt;&lt;br/&gt;Technical description&lt;br/&gt;&lt;br/&gt;Georgia Tech hypothesizes that with growing demand for higher education, but with a limited supply of professors, advisors, and budgets to meet such demand, Scalable Advanced Learning Ecosystems can be used to provide personalization and customization for large populations of students. Human activity and expertise are used to guide the creation of this ecosystem's innovations, but day-to-day operations are machine-driven. The innovations include: Personalized Learning Systems that use artificial intelligence and machine learning to establish customized educational plans for each student; Intelligent Tutoring Systems that modify the presentation and sequence of materials in response to student performance; Data Mining and Learning Analytics that extract useful and actionable information to understand student uses of learning resources and outcomes; Scalable Online Environments that deliver high-quality, high-engagement learning experiences; and Immersive Learning Environments that simulate a physical presence in real or imagined worlds, overlay content on those worlds, and merge real and virtual worlds to produce new learning opportunities. The workshop is  held on November 29 and 30, 2018 at the Global Learning Center on the Georgia Tech campus in Midtown Atlanta, and participating institutions are selected by proposals submitted that describe each institution?s interest in Scalable Advanced Learning Ecosystems and the institution?s commitment to action to improve educational access.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824854</AwardID>
+<Investigator>
+<FirstName>Ashok</FirstName>
+<LastName>Goel</LastName>
+<EmailAddress>ashok.goel@cc.gatech.edu</EmailAddress>
+<StartDate>07/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Harmon</LastName>
+<EmailAddress>swharmon@gatech.edu</EmailAddress>
+<StartDate>07/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Kadel</LastName>
+<EmailAddress>rob.kadel@gatech.edu</EmailAddress>
+<StartDate>07/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yakut</FirstName>
+<LastName>Gazi</LastName>
+<EmailAddress>yakut@gatech.edu</EmailAddress>
+<StartDate>07/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: Inductive Construction of Multi-Dimensional Environmental Processes from Point Soil Data</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>12965</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>jacqueline vadjunec</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This doctoral dissertation research project will analyze the spatial and temporal distribution patterns of radioactive elements (radionuclides) released by a nuclear accident and will test new methods for assessing radioactive contamination levels in soils.  This project will address the technical challenges that researchers and decision makers face when designing and conducting field measurement to determine soil contamination levels, and it will improve existing analytical methods currently used for environmental contamination incidents.  Project findings will enhance mitigation strategies to reduce the impact of contaminants on human and environmental health. Monitoring radioactivity levels in soils is particularly important because elevated radioactivity can affect human health through external exposure and through ingestion of agricultural products or livestock products.  By assessing the radioactivity levels in soils in the context of background topography and physical processes, this project will enhance the understanding of radionuclide behavior in landscapes.  Such enhanced understanding will help policy makers make informed decisions about remediation and safety measures in the event of a contamination incident.  As a Doctoral Dissertation Research Improvement award, this award also will provide support to enable a promising student to establish a strong independent research career.&lt;br/&gt;&lt;br/&gt;Delineating distribution patterns of contaminants from a limited number of soil samples poses challenges, especially in mountainous terrain with mixed land-use types such as is the case in Fukushima Prefecture in Japan, where forests, farm fields, and residential areas were contaminated by the radioactive fallout following the Fukushima Daiichi Nuclear Power Plant accident precipitated by the Tohoku earthquake and tsunami in March 2011.  The doctoral student will focus her attention on radiocesium, which becomes attached to clay soil particles (colloids) and becomes immobile.  These colloids can gradually move downward in soils or are redistributed through surface runoff, erosion, and deposition.  These characteristics raise two principal questions:  (1) Do the soil samples collected at certain points reflect the influence of topography and physical processes?  (2) Does the collected data represent an accurate picture of the contaminant distribution patterns and their changes?  In the past, analysis of the spatial distribution of contaminants used correlation and clustering techniques or other analytic methods like semivariograms and kriging.  Because the use those types of approaches were not satisfactory for sites like those in Fukushima, the doctoral student will use stepwise multi-spatial scale analysis that considers horizontal, diagonal, vertical, and temporal soil distributions.  The multi-spatial scale analysis then will be combined with terrain structure analysis.  The structure of terrain includessoil collection points, hillslopes, flow paths, and watershed patterns.  By combining this terrain analysis with numerical or distance-based analysis at different scales, this project will employ a more sophisticated spatial analysis approach for mountainous landscapes.  Although this project will focus on methods developed for the Fukushima area, this approach will have utility at other sites, including locales in the U.S., where background factors might affect radioactivity levels resulting from accidental dispersing of radioactive materials at various spatial scales.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819727</AwardID>
+<Investigator>
+<FirstName>Christian</FirstName>
+<LastName>Renschler</LastName>
+<EmailAddress>rensch@buffalo.edu</EmailAddress>
+<StartDate>07/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Misa</FirstName>
+<LastName>Yasumiishi</LastName>
+<EmailAddress>misayasu@buffalo.edu</EmailAddress>
+<StartDate>07/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Buffalo</Name>
+<CityName>Buffalo</CityName>
+<ZipCode>142282567</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress>520 Lee Entrance</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1352</Code>
+<Text>GEOGRAPHY AND SPATIAL SCIENCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9196</Code>
+<Text>NATURAL DISASTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9278</Code>
+<Text>HUMAN DIMENSIONS OF GLOBAL CHANGE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

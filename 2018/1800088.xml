@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: SaTC: Automated Proof Construction and Verification for Attribute-based Cryptography</AwardTitle>
+<AwardEffectiveDate>08/14/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>174232.00</AwardTotalIntnAmount>
+<AwardAmount>174232</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project develops a comprehensive proof construction and verification framework for a well-defined class of cryptographic protocols: attribute-based cryptosystems. In particular, existing automated proof construction and verification frameworks, such as EasyCrypt and CryptoVerif, are extended to provide support for attribute-based cryptography. The extensions consist of libraries of simple transformations, algebraic manipulations, commonly used abstractions and constructs, and proof strategies, which will help in generation and verification of proofs in attribute-based cryptography. Additionally, the investigator seeks to understand the limitations, if any, on the development of verification tools for attribute-based cryptosystems.&lt;br/&gt;&lt;br/&gt;The project builds upon and expands the scope of the toolset to include other classes of cryptographic protocols, such as identity-based cryptosystems, and non-interactive zero-knowledge proofs, which share the same underlying mathematical assumptions and constructs. All code and modules produced from this peoject will be compatible with existing proof verification tools. Educational activities are an integral part of this project. This project provides undergraduate and master's-level students an introduction to, and an opportunity to work on an advanced area in cryptography, and provide an opportunity to work with state-of-the-art model-checkers, and proof assistants.</AbstractNarration>
+<MinAmdLetterDate>10/20/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>10/20/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800088</AwardID>
+<Investigator>
+<FirstName>Roopa</FirstName>
+<LastName>Vishwanathan</LastName>
+<EmailAddress>roopav@nmsu.edu</EmailAddress>
+<StartDate>10/20/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico State University</Name>
+<CityName>Las Cruces</CityName>
+<ZipCode>880038002</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress>Corner of Espina St. &amp; Stewart</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>026Y</Code>
+<Text>CRII CISE Research Initiation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

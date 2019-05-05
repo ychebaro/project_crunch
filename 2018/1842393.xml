@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Feasibility of a Wearable Blindness Prevention System</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>224206</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project comprises the development of a wearable system capable of accurately tracking glaucoma progression via continuous monitoring of intraocular pressure (IOP). Glaucoma is the leading cause of irreversible blindness in the world and affects nearly 80 million people worldwide. Using a novel wearable system, optometrists, ophthalmologists, and medical professionals across multiple disciplines can review the IOP trends at visits, monitor high-risk patients in real-time, and program patient-specific threshold alarms that will prevent irreversible blindness caused by glaucoma and related conditions. Through successful product commercialization, the novel wearable blindness prevention system (BPS) is expected to be adopted by approximately 2 million glaucoma patients annually. Users of the device will have continuous access to IOP data trends. Clinicians will be alerted when at-risk patients fail to comply with prescribed daily medicinal treatment (due to excessive IOP levels) and can continuously track the efficacy of prescribed IOP-lowering treatments. Finally, the IOP tracking capability of the system will allow improvements in the quality of care for general clinicians, medical specialists, and clinical researchers and will be a major player in the current move toward data-driven, value care.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this project centers on laboratory feasibility testing of the fundamental concept behind the novel blindness prevention system technology - image-based pressure sensing - on a benchtop 3D-printed glaucoma simulator that is monitored using an alpha prototype of the system.  The research plan includes testing of the feasibility of a complementary metal oxide semiconductor (CMOS) camera which fits inside a pair of eyeglass frames, plus processor, optics, and software, as a way to record pressure changes in eye tissue in a benchtop environment. The key objective is to accurately - and with high repeatability - detect unhealthy eye pressure levels in the simulator using an alpha prototype, a-BPS, that communicates with a standard mobile device.  The target research outcome for the a-BPS is to successfully trigger a high-pressure alarm in a repeatable manner whenever eye pressure in the simulator exceeds a clinically-relevant threshold. It is anticipated that the Phase I research results will show successfully operation in 90% or more of the test samples. The output from the Phase I effort will be used as design inputs for a Phase II prototype, which will be wearable and will allow testing on humans.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/01/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/19/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842393</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Cox</LastName>
+<EmailAddress>jrcox@scu.edu</EmailAddress>
+<StartDate>02/01/2019</StartDate>
+<EndDate>02/19/2019</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joshua</FirstName>
+<LastName>Park</LastName>
+<EmailAddress>jpark@globebiomedical.com</EmailAddress>
+<StartDate>02/19/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>GLOBE BIOMEDICAL LLC</Name>
+<CityName>MURRIETA</CityName>
+<ZipCode>925624029</ZipCode>
+<PhoneNumber>9512279848</PhoneNumber>
+<StreetAddress>25014 LAS BRISAS S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

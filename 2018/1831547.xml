@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SCC: Integrating Heterogeneous Wide-Area Networks and Advanced Data Science to Bridge the Digital Divide in Rural Emergency Preparedness and Response</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>1494805</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robin Dillon-Merrill</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Smart and Connected Communities (SCC) project will conduct innovative research in network architectures and protocols to allow emergency responders in rural areas to use TV white space, WiFi and pocket-switching for communications in areas where mobile broadband are scarce to non-existent. With this new knowledge, this project can develop and implement a framework for information exchange for emergency responders in rural communities. This scientific research contribution thus supports NSF's mission to promote the progress of science and to advance our national welfare with benefits that contribute to the safety and social and economic revitalization of rural communities. Generalizability of results is expected in relation to other rural contexts and policy domains (e.g., law enforcement and health). Research components and key results will be incorporated in existing and new undergraduate and graduate courses, demonstrating the positive impact of interdisciplinary research and promoting the core disciplines to diverse groups of students.&lt;br/&gt;&lt;br/&gt;The goal of this project is to develop, implement, and systematically analyze a comprehensive framework and a multi-layer platform for timely information collection, integration, exchange and dissemination to support EPR in rural communities. This goal will be met through three primary activities. First, the project will develop a heterogeneous network architecture and corresponding protocols that leverage wide-area wireless backhaul over TV white spaces, WiFi and pocket-switching to provide (i) continuous communication to first responders and (ii) delay-tolerant information access to residents. In addition, the project will design a smartphone app which will support the collection of information from different sources and its exchange among first responders, government agencies and residents. Second, the mobility patterns and network availability collected will enable the development of a dynamic probabilistic community network model. Novel graph-theoretic algorithms will identify information-depleted sub-communities and inform optimal information dissemination strategies. Finally, the project will assess adoption and use of the technologies by various community members to maximize the benefits associated with timely, rich and high-quality information, disseminated through technological devices. Continuous community engagement activities for data provisioning, app design, impact co-evaluation and path to sustainability of the project are key factors for success. The framework will be co-designed and piloted in collaboration with the Town of Thurman, NY. Transferability to the broader rural context will be assessed by engaging two additional rural communities in coordination with Microsoft's Airband initiative.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831547</AwardID>
+<Investigator>
+<FirstName>Jose Ramon</FirstName>
+<LastName>Gil-Garcia</LastName>
+<EmailAddress>jgil-garcia@ctg.albany.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Petko</FirstName>
+<LastName>Bogdanov</LastName>
+<EmailAddress>pbogdanov@albany.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mariya</FirstName>
+<LastName>Zheleva</LastName>
+<EmailAddress>mzheleva@albany.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mila</FirstName>
+<LastName>Gasco</LastName>
+<EmailAddress>mgasco@ctg.albany.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Albany</Name>
+<CityName>Albany</CityName>
+<ZipCode>122220100</ZipCode>
+<PhoneNumber>5184374974</PhoneNumber>
+<StreetAddress>1400 WASHINGTON AVE MSC 100A</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>041E</Code>
+<Text>HAZARD AND DISASTER REDUCTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042E</Code>
+<Text>HAZARD AND DISASTER RESPONSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

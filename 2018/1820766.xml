@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Data-Driven, Multidisciplinary Curriculum Providing Access to the Data Analytics Economy through Project-based Learning</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardAmount>1128096</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrea Nixon</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Most of the highest paying, in-demand jobs now require skills in data analysis, making data analysis and interpretation skills arguably as important as reading or writing.  This project aims to equip the future STEM workforce with the data analysis skills needed to advance innovation across industries. To this end, this project will disseminate a project-based data analysis curriculum that enables students to use leading analytic platforms (e.g., SAS; R; Python; Stata) to explore and interpret big data, in the context of students' own research projects.  This curriculum is designed to help students experience the power and excitement of data-driven inquiry, regardless of their preparation or initial interest. The project aims to implement this curriculum in varied educational settings and to train educators so that the curriculum can reach large numbers of learners. By project estimates, this implementation will directly involve more than 70 educational settings across the country, hundreds of instructors, and thousands of students.  By making data science education more accessible, the project aims to increase the recruitment and retention of women and other underrepresented students, into careers requiring data analysis skills.  In this way, it can help to create a larger, more diverse population with the data analysis skills needed across industry sectors, disciplines, and audiences, thus contributing to the nation's competitiveness in the global economy.   &lt;br/&gt;&lt;br/&gt;The program is designed to leverage existing infrastructure at new implementation sites and integrate a coordinated set of evidence-based practices to support students' and instructors' learning and engagement in research projects with large data sets. Key characteristics of the project include: 1) project-based learning tied to learner interest and intrinsic motivation; 2) opportunities for multidisciplinary inquiry; 3) analysis of large data sets in real world contexts; 4) programming as a window into data-driven reasoning and communication; and 5) intensive, student-centered one-on-one support that capitalizes on evidence-based strategies to promote success for underrepresented youth.  The project will use a pre/post survey, quasi-experimental design, employing state-of-the-art causal inference techniques, together with institutional data, to answer five research questions: Does the curriculum result in positive student outcomes?  Does the curriculum increase exposure to data analysis skills for women, under-represented students, and students with learning disabilities?  Is the model of educator training and professional development effective in fostering knowledge and confidence in its delivery? To what extent do participating educators apply and sustain the project-based model within their programs and classrooms? At the institutional level, what format and fiscal model of support provides greatest sustainability for the data-driven curriculum?  By conducting evaluative research that includes the areas of educator training, program sustainability, and student outcomes, the project will contribute new knowledge about teaching and learning data analytics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820766</AwardID>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Dierker</LastName>
+<EmailAddress>ldierker@wesleyan.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Rose</LastName>
+<EmailAddress>jrose01@wesleyan.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wesleyan University</Name>
+<CityName>Middletown</CityName>
+<ZipCode>064593208</ZipCode>
+<PhoneNumber>8606853683</PhoneNumber>
+<StreetAddress>237 HIGH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8244</Code>
+<Text>EHR CL Opportunities (NSF 14-302)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

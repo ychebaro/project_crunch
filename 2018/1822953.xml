@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Operations and Maintenance of the National Science Foundation Ice Core Facility</AwardTitle>
+<AwardEffectiveDate>02/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>1168735.00</AwardTotalIntnAmount>
+<AwardAmount>1168735</AwardAmount>
+<AwardInstrument>
+<Value>Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OPP</Abbreviation>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael E. Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>02/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822953</AwardID>
+<Investigator>
+<FirstName>Lindsay</FirstName>
+<LastName>Powers</LastName>
+<EmailAddress>lpowers@usgs.gov</EmailAddress>
+<StartDate>02/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Geological Survey-Denver</Name>
+<CityName>Denver</CityName>
+<ZipCode>802255046</ZipCode>
+<PhoneNumber>3032361819</PhoneNumber>
+<StreetAddress>DENVER FEDERAL CENTER BLDG 20</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1647</Code>
+<Text>ANTARCTIC INSTRUM &amp; SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5116</Code>
+<Text>ANTARCTIC GLACIOLOGY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5205</Code>
+<Text>ARCTIC RESRCH SUPPRT &amp; LOGISTI</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5292</Code>
+<Text>ANTARCTIC INTEGRATED SYS SCI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

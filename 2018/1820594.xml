@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSBR: Living Stocks: San Diego Drosophila Species Stock Center</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2018</AwardExpirationDate>
+<AwardAmount>45910</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reed Beaman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An award is made to the Drosophila Species Stock Center (DSSC) at the University of California-San Diego (UCSD) to provide the research and education communities with 1) a repository to maintain and secure standardized genetic resources for current and future generations of investigators and educators, 2) tools to perform manipulative empirical studies, not possible with preserved material, to inform practical applications, and 3) access to relatively inexpensive materials for engaging students in the Nation's classrooms. The DSSC currently maintains a diverse collection of over 1600 living specimens from 225 Drosophila species.&lt;br/&gt;&lt;br/&gt;Community interest in the collection is broad and includes both an education and research component. Virtually all fields of biological inquiry, such as genetics, genomics, cellular and developmental biology, physiology, neurobiology and behavior, ecology, systematics, and evolution, benefit from the resources offered by the DSSC. The research products generated using DSSC stocks can be classified as essential science, an important focus of the NSF Directorate for Biological Sciences, as well as translational science that has a direct and positive impact on the well-being of all people. Furthermore, stock center personnel work with existing infrastructure at UCSD to facilitate the teaching of concepts related to invasive species, biodiversity, evolution, and ecology in K-12 classrooms. More information can be obtained on the DSSC website (https://stockcenter.ucsd.edu/info/welcome.php).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820594</AwardID>
+<Investigator>
+<FirstName>Therese</FirstName>
+<LastName>Markow</LastName>
+<EmailAddress>tmarkow@ucsd.edu</EmailAddress>
+<StartDate>03/27/2018</StartDate>
+<EndDate>04/30/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>O'Grady</LastName>
+<EmailAddress>ogrady@cornell.edu</EmailAddress>
+<StartDate>04/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1197</Code>
+<Text>BIOLOGICAL RESEARCH COLLECTION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1106</Code>
+<Text>LIVING STOCK COLLECTIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1197</Code>
+<Text>BIOLOGICAL RESEARCH COLLECTION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

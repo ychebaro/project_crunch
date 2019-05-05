@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Global Transport Markets: Impact on World Trade and Efficiency</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>473000.00</AwardTotalIntnAmount>
+<AwardAmount>122043</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Senay Agca</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This CAREER agenda looks at the role of the transportation sector in world trade. Using novel data sources, the research addresses questions on the role of geography, tariffs and trade barriers, improvements in ship fuel efficiency and new infrastructure developments on transportation prices and trade flows. The research looks at the efficiency of transportation sector and how social welfare can be improved through appropriate policies. The research also considers the impact of a centralizing platform, like Uber.&lt;br/&gt; &lt;br/&gt;The project develops a spatial model that centers on the interaction of the market for (oceanic) transportation services and the market for world trade in goods. The model delivers equilibrium trade flows, as well as equilibrium trade costs. This setup is then used to demonstrate that the transportation sector (i) implies that net exporters (importers) face higher (lower) trade costs leading to misallocation of productive activities across countries; (ii) creates network effects in trade costs; and (iii) dampens the impact of shocks on trade flows. These three mechanisms reveal a new role for geography in international trade. Next, the research explores both theoretically and empirically the efficiency properties of equilibria in decentralized transportation markets and suggest appropriate policies for the improvement of world welfare. The research also introduces a micro-founded trade cost in the canonical trade model in order to examine its welfare properties. The project then will investigate the role of (maritime) infrastructure on growth and world trade.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/14/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847555</AwardID>
+<Investigator>
+<FirstName>Myrto</FirstName>
+<LastName>Kalouptsidi</LastName>
+<EmailAddress>myrto@fas.harvard.edu</EmailAddress>
+<StartDate>03/14/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

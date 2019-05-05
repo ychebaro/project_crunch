@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAISE-TAQS: Entanglement and information in complex networks of qubits</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>985926</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Maslov</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Quantum computers are now approaching a size that will soon perform tasks surpassing the power of today's fastest classical computers. To attain the full power of a quantum computer, qubits inside the quantum computer should be well connected with each other, so that information can be transferred, and entanglement can be generated between any two qubits as fast as possible. The qubit interactions will form a complex and time-varying network and their dynamics will be too complicated for classical computers to predict. This project will provide a key step in understanding quantum systems of a rapidly increasing level of complexity and find out how such complexity can be employed to massively speed up quantum computing over systems with sparse and simple qubit connections. The project will expand the fields of quantum information science and condensed matter physics into the territory of complexity science, via concrete ways to quantify complexity of quantum states. As the quantum information frontier is fostering a new technological revolution around the world, the project will train a new generation of undergraduate and graduate students with expertise in quantum technologies and develop a new 12-credit graduate certificate program in quantum engineering to accommodate the pressing need from industry professionals in obtaining quantum expertise.&lt;br/&gt;&lt;br/&gt;The first half of this project aims to find out how high qubit connectivity can be used to speed up quantum information processing, focusing on mathematical quantum speed limits akin to Lieb-Robinson bounds, optimal entangling protocols for very small or very large number of qubits, and experimental demonstrations of entangling speed limit using solid-state qubits. The second half of this project will focus on states created by Hamiltonians with dense and complex interactions, quantifying their complexity and understanding their entanglement structure. Various network measures borrowed from complexity science will be employed to study the experimentally measurable quantum mutual information network and the recently developed quantum neural network, in order to bring new insight to quantum critical phenomena, entanglement area laws, and nonequilibrium many-body dynamics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839232</AwardID>
+<Investigator>
+<FirstName>Zhexuan</FirstName>
+<LastName>Gong</LastName>
+<EmailAddress>gong@mines.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lincoln</FirstName>
+<LastName>Carr</LastName>
+<EmailAddress>lcarr@mines.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Meenakshi</FirstName>
+<LastName>Singh</LastName>
+<EmailAddress>msingh@mines.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Cecilia</FirstName>
+<LastName>Diniz Behn</LastName>
+<EmailAddress>cdinizbe@mines.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado School of Mines</Name>
+<CityName>Golden</CityName>
+<ZipCode>804011887</ZipCode>
+<PhoneNumber>3032733000</PhoneNumber>
+<StreetAddress>1500 Illinois</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

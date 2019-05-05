@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Networking Infrastructure: Building a Friction-free High-speed Science Network and DMZ to Support Data-intensive Research and Education at The College of New Jersey</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>499987</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin L. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project proposes a program of high-speed network upgrades at The College of New Jersey (TCNJ) to support cutting-edge computational research and education. Insufficient access to TCNJ's High Performance Computing cluster previously created a bottleneck that limited scientific research and training. These enhancements to TCNJ's science network will expand research capacity and efficiency, particularly in computationally intensive fields, including biochemistry, astrophysics, phylogenomics, high-resolution microscopy, and undergraduate science education, and will provide students with greater access to research opportunities in laboratories and classrooms while contributing to the preparation of a computationally literate workforce. The upgrades enable faster data acquisition and propagation and enhancing the research and external collaborations of the College's many computationally intensive researchers, including both faculty members and undergraduate students. Finally, as part of this project, a new data visualization short course is exposing a greater number of undergraduate students to TCNJ's computing resources.&lt;br/&gt; &lt;br/&gt;This project implements a new high-speed science network and DMZ at The College of New Jersey (TCNJ) to support cutting-edge computational research and education where insufficient access to TCN's High Performance Computing cluster previously created a bottleneck that limited scientific research and training. This project directly connects TCNJ's science buildings to its High Performance Computing cluster via a new 80 Gigabit per second (Gbps) backbone and 10 Gbps connections to targeted labs, classrooms, and offices. A new Science DMZ that uses the SciPass OpenFlow application is also being implemented. SciPass supports friction-free interconnectivity by automatically allowing "good" data flows to bypass the Science Network firewall in real-time. Network performance is being assessed and nationally benchmarked using perfSONAR, and a new collaboration with Open Science Grid is allowing TCNJ to connect directly to this distributed computing federation's national infrastructure.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826915</AwardID>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Osborn</LastName>
+<EmailAddress>josborn@tcnj.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sharon</FirstName>
+<LastName>Blanton</LastName>
+<EmailAddress>blantons@tcnj.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>The College of New Jersey</Name>
+<CityName>Ewing</CityName>
+<ZipCode>086280718</ZipCode>
+<PhoneNumber>6097713255</PhoneNumber>
+<StreetAddress>P.O. Box 7718</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+</Award>
+</rootTag>

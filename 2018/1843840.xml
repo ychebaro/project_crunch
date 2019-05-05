@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Utilization of a Combustion Process to Rapidly Solidify a Photocuring Composite Structure</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>224973.00</AwardTotalIntnAmount>
+<AwardAmount>224973</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact and commercial potential of this Small Business Innovation Research (SBIR) Phase 1 project will be the research and development of a new class of extremely portable deployable structures that allows easier transportation and simplifies the deployment of bulky structure. This fundamental technology covers a wide variety of potential commercial products including large easily transported rescue equipment and large tents for earthquake and other widespread humanitarian disaster scenarios; large space satellite structures such as antennas and optical arrays; large deployable UAV wings; large volumes for habitation or material storage; piping for water, sewage, oil or gas. This technology can help save lives during disasters, ease the transportation of potable water, sewer and energy with lower construction and deployment costs.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) phase I project will entail the systematic analysis and development of a novel highly compact, rapidly deployable composite tube technology. The challenge is to harness and combine the extremely energy dense properties of chemical combustion with a photocuring high-performance structural composite material to create an easily transported structure that can be rapidly deployed.  The project will entail experiments to better understand the polymer material properties and tailor them to the electromagnetic spectrum emitted by the combustion. Customization of an adhesive that will combine the necessary viscosity, structural and curing properties. A multiphysics simulation, validated with laboratory experiments, will be used to predict the technology's limitations.  The qualifying components will be utilized in a refined design and evaluated by manufacturers for large scale production. These efforts will culminate in scale prototype construction and testing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843840</AwardID>
+<Investigator>
+<FirstName>Alfram</FirstName>
+<LastName>Bright</LastName>
+<EmailAddress>avbright@gmail.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Helios Applied Science Inc</Name>
+<CityName>Hyde Park</CityName>
+<ZipCode>021362196</ZipCode>
+<PhoneNumber>7819748841</PhoneNumber>
+<StreetAddress>1 Westinghouse plz, Ste D157</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+</Award>
+</rootTag>

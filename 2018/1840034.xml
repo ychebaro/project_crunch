@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CICI: CSRC: Research Security Operations Center (ResearchSOC)</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>4933641</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Research Security Operations Center (ResearchSOC) provides the research and education (R&amp;E) community with cybersecurity services, training, and information sharing needed to make scientific computing resilient to cyberattacks and capable of supporting trustworthy, productive research. The R&amp;E community has particular challenges regarding cybersecurity: a large span of size and autonomy, the use of diverse infrastructure (scientific instruments, sensor networks, sequencers, etc.), the highly collaborative and dynamic nature of scientific work, and acquiring the scarce domain expertise expertise needed to support cybersecurity in the research context.&lt;br/&gt;&lt;br/&gt;To address these challenges, the ResearchSOC leverages existing cybersecurity services from Indiana University, Duke University, the Pittsburgh Supercomputing Center, and the University of California San Diego. It tailors these service to the needs of the R&amp;E community and combines these operational services with the establishment of a community of practice for sharing knowledge and expertise, and operational intelligence. The ResearchSOC also offers outreach and training targeted at  educating research project teams and the higher education information security community regarding information security for research. The ResearchSOC is engaging with the cybersecurity research community to discern how it can advance research activities and make data available for research purposes in order to improve the overall state of the art in information security.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840034</AwardID>
+<Investigator>
+<FirstName>Von</FirstName>
+<LastName>Welch</LastName>
+<EmailAddress>vwelch@iu.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Marsteller</LastName>
+<EmailAddress>jam@psc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Inna</FirstName>
+<LastName>Kouper</LastName>
+<EmailAddress>inkouper@indiana.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Biever</LastName>
+<EmailAddress>richard.biever@duke.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Sons</LastName>
+<EmailAddress>sesons@iu.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramElement>
+</Award>
+</rootTag>

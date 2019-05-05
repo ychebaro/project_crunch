@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps Teams: Mobile Platform for Collecting, Analyzing, and Managing In-Field Data</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is a significantly improved in-field data collection and data analysis workflow.  This technology leverages the widespread use of smartphones around the world by providing a robust digital platform with low hardware requirements for collecting and understanding data.  By digitizing inputs from the beginning of the data collection process and providing live analysis, the platform reduces the cost, time, and expertise required to collect and understand the information contained within datasets.  The technology can benefit diverse industries, but has particular application to municipal governments and NGOs, where project managers need to regularly monitor the effect of their program.  Their ability to do so and make the necessary adjustments directly impact the effectiveness and efficiency of the projects.  The technology has significant commercial potential beyond governments and NGOs, and impacts any industry that requires rapid and reliable data insights for decision making.  Over time, the technology will make data collection and usage more accessible to empower average people to better advocate for their community.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to explore the commercial potential of a fully digital in-field data platform. The technology allows any team to quickly collect and analyze in-field data.  A robust software platform forms the core of the technology. The platform automatically tags data with GPS and time information and provides live visualization of data and team activity with minimal hardware requirements. Advanced mobile algorithms manage data caching and cloud uploading. These algorithms enable the platform to operate reliably in areas with intermittent internet connection and protect data during hardware crashes. This fully digital process reduces the cost and time required to compile and interpret in-field datasets so valuable insights can be gained quickly and cheaply to facilitate data-driven decision making. Over time, this work may also increase the accessibility of data to the public and empower citizens to better advocate for their communities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849518</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>Lubynsky</LastName>
+<EmailAddress>rml@mit.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

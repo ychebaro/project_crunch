@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Documenting the development of a lava delta at the 2018 Lower East Rift Zone eruption of Kilauea Volcano</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>26343</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deborah Smith</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In April 2018, a dramatic shift took place in the ongoing eruption of Kilauea volcano. Both the summit lava lake and the vent at Puu Oo, active for 35 years, catastrophically drained, sending magma to the Lower East Rift Zone where it began to erupt.  During much of the time since then, lava erupting from rift zone fissures has traversed the coastal plains and reached the ocean, where it breaks apart and is deposited in coastal waters. The objective of this study is to conduct a multibeam bathymetric survey at the sites of the ongoing ocean entry to map the extent and volume of lava deposition and characterize the mechanisms of deposition and collapse that shape the submarine lava delta and influence the stability of the newly formed coastline. Ocean entry sites on Kilauea Volcano are among the most volcanically hazardous areas in Hawaii, as recurring collapses of lava deltas can cause significant explosions and local tsunamis. These collapses occur largely without warning. This project will collect the data necessary to evaluate the mechanisms of lava delta collapse that are required to mitigate this hazard. The United States Geological Survey's Hawaii Volcanoes Observatory is a partner on this project.&lt;br/&gt;&lt;br/&gt;Although lava can cross the land-ocean interface intact and build shallow submarine lava flows, more commonly lava is fragmented due to lava-seawater interaction as it enters the ocean. As a result, lava deltas are largely constructed with volcaniclastic material along with lava blocks generated during the collapse of the landward portion of the deltas. Several studies have examined the formation of lava deltas from subaerial observations, but few studies have been able to directly observe the submarine portions of deltas during formation. As such, the ongoing eruption of Kilauea offers an excellent opportunity to characterize how lava deltas are formed, the magnitude and mechanisms of collapse, and the relationship of these processes to lava flux (e.g., across the land-ocean interface) and other environmental parameters (e.g., seismicity, wave climate). Mapping the early stages of lava deposition in the submarine environment will serve as a baseline for repeat bathymetric surveys that could close the loop on the relationship between geophysical and geochemical monitoring of the magmatic system (e.g., seismicity, deformation, gas geochemistry) and the volumes and rates of lava erupted.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846068</AwardID>
+<Investigator>
+<FirstName>Samuel</FirstName>
+<LastName>Soule</LastName>
+<EmailAddress>ssoule@whoi.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Woods Hole Oceanographic Institution</Name>
+<CityName>WOODS HOLE</CityName>
+<ZipCode>025431041</ZipCode>
+<PhoneNumber>5082893542</PhoneNumber>
+<StreetAddress>183 OYSTER POND ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

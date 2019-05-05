@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Astrophysics enabled by Keck All Sky Precision Adaptive Optics</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>7048178.00</AwardTotalIntnAmount>
+<AwardAmount>4000000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Richard Barvainis</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Four high impact science projects will be carried out to advance key science areas identified in the U.S. Astro2010 Decadal Review, namely characterizing and understanding: dark matter and dark energy, the environments of supermassive black holes, the formation and evolution of early galaxies and gas-giant protoplanets, and General Relativity in a strong gravity regime. All data will be publicly released to ensure the U.S. community is provided with a valuable scientific legacy. The associated education program supports twin goals of training and mentoring students in the technology and science of adaptive optics, and broadening the participation of women and underrepresented groups in instrumentation.&lt;br/&gt;&lt;br/&gt;The required science performance will be achieved via the addition of new capabilities on one of the world?s largest telescope, the 10-m diameter Keck I telescope. In theory the larger the telescope the more detail can be seen. In practice these details are lost by the blurring effect of turbulence in the Earth's atmosphere. Adaptive optics systems are designed to measure and correct for this blurring. The measurements are made using a source above the turbulence; a star or, to allow more objects to be observed, an artificial star created with a laser. The new capabilities that will be added to the existing Keck I adaptive optics facility include multiple laser guide stars to better measure the atmospheric turbulence, the use of new techniques to measure the turbulence components not measured by the laser guide stars, and new image processing methods for the adaptive optics corrected images.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836016</AwardID>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Ghez</LastName>
+<EmailAddress>ghez@astro.ucla.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Wizinowich</LastName>
+<EmailAddress>peterw@keck.hawaii.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tommaso</FirstName>
+<LastName>Treu</LastName>
+<EmailAddress>tt@astro.ucla.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>mliu@ifa.hawaii.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jessica</FirstName>
+<LastName>Lu</LastName>
+<EmailAddress>jlu.astro@berkeley.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Association for Research in Astronomy</Name>
+<CityName>Kamuela</CityName>
+<ZipCode>967438431</ZipCode>
+<PhoneNumber>8088857887</PhoneNumber>
+<StreetAddress>65-1120 Mamalahoa Hwy</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1257</Code>
+<Text>MID-SCALE INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

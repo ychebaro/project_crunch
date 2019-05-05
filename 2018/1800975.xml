@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>An Experimental Investigation of the Synthesis of Complex Organic Molecules in Interstellar Analog Ices</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>401068.00</AwardTotalIntnAmount>
+<AwardAmount>134680</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research project will investigate the formation of complex organic molecules (COMs) containing carbon, hydrogen, oxygen, and nitrogen atoms on interstellar ice analog samples that are held at ultra-high vacuum, low temperatures, and exposure to ionizing radiation --- laboratory conditions that simulate the environment of interstellar space.  Results from the study will allow astronomers to understand how COMs are formed in interstellar clouds and the level of chemical complexity that can be built under the extreme conditions of interstellar space.  This project will train graduate and undergraduate students, including ones from groups that are underrepresented in science, in advanced techniques of laboratory astrophysics research.  The research team will also participate in training workshops for local high school teachers to help incorporate research activities into high school teaching.&lt;br/&gt;&lt;br/&gt;The research team will explore the synthesis of six key classes of COMs --- aldehydes, ketones, carboxylic acids, esters, amides, and isocyanates --- on interstellar ice analogs.  They will do so by exposing interstellar ice analog samples to Lyman alpha radiation in an ultra-high vacuum space simulation chamber.   The radiation energies and low temperatures in the chamber will approach those found in interstellar clouds, and the molecules produced in the experiment will be characterized in a highly complementary manner using mass spectrometry as well as infrared, Raman, and ultraviolet-visible spectroscopy.  The project will support graduate and undergraduate students, and it will help expose high school classrooms to advanced research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800975</AwardID>
+<Investigator>
+<FirstName>Ralf</FirstName>
+<LastName>Kaiser</LastName>
+<EmailAddress>ralfk@hawaii.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222234</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1216</Code>
+<Text>GALACTIC ASTRONOMY PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1205</Code>
+<Text>LABORATORY ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

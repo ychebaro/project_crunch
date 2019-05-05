@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Trace Formulas and Relative Functoriality</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>210000.00</AwardTotalIntnAmount>
+<AwardAmount>138263</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In the 1960s mathematician Robert Langlands developed a vision connecting two apparently disparate fields of mathematics, number theory and representation theory. This work led to what is now known as the Langlands program, which reveals a web of deep and as yet only partially understood connections between number theory, representation theory, geometry, and mathematical physics. This project aims to answer core questions of the Langlands program revolving around the so-called functoriality conjecture, in a generalized setting known as the relative Langlands program. &lt;br/&gt; &lt;br/&gt;The relative Langlands program replaces reductive groups by more general homogeneous spaces, aiming to understand their local and automorphic spectra. A basic tool is the relative trace formula, a generalization of the Arthur-Selberg trace formula, which has still not been fully developed. The project aims to establish new types of comparisons between relative trace formulas that would simultaneously address the questions of relative functoriality, and of conjectural relations between periods of automorphic forms and L-functions. The two main goals of the project are: (1) the development of the technical basis for such comparisons, including a general relative trace formula, and (2) the development of a local-to-global strategy for the comparison of trace formulas, as in endoscopy, but with scalar transfer factors replaced by more general transfer operators.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801429</AwardID>
+<Investigator>
+<FirstName>Ioannis</FirstName>
+<LastName>Sakellaridis</LastName>
+<EmailAddress>sakellar@rutgers.edu</EmailAddress>
+<StartDate>04/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers University Newark</Name>
+<CityName>Newark</CityName>
+<ZipCode>071021896</ZipCode>
+<PhoneNumber>9739720283</PhoneNumber>
+<StreetAddress>Blumenthal Hall, Suite 206</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Practice-Based Online Learning Environment for Scientific Inquiry with Digitized Museum Collections in Middle School Classrooms</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>904008</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monya Ruffin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Discovery Research K-12 program (DRK-12) seeks to significantly enhance the learning and teaching of science, technology, engineering and mathematics (STEM) by preK-12 students and teachers, through research and development of innovative resources, models and tools (RMTs). Projects in the DRK-12 program build on fundamental research in STEM education and prior research and development efforts that provide theoretical and empirical justification for proposed projects.&lt;br/&gt;&lt;br/&gt;There are an estimated 2-4 billion specimens in the world's natural history collections that contain the data necessary to address complex global issues, including biodiversity and climate. Digitized natural history collections present an untapped opportunity to engage learners in crucial questions of science with far-reaching potential consequences via object-based research investigations.  This project will develop and study a prototype online learning environment that supports student learning via Engaging Practices for Inquiry with Collections in Bioscience (EPIC Bioscience). EPIC Bioscience uses authentic research investigations with digitized collections from natural history museums.  The project team will create a curriculum aligned with the Next Generation of Science Standards (NGSS) for middle school students, emphasizing a major disciplinary core idea in grades 6-8 life science, Ecosystems: Interactions, Energy, and Dynamics. The project has three major goals: 1) Develop an online learning environment that guides students through research investigations using digitized natural history collections to teach NGSS life science standards. 2) Investigate how interactive features and conversational scaffolds in the EPIC Bioscience learning environment can promote deeper processing of science content and effective knowledge building. 3) Demonstrate effective approaches to using digitized collections objects for contextualized, research-based science learning that aligns to NGSS standards for middle school classrooms.&lt;br/&gt;&lt;br/&gt;The project will examine how and when interactive features of a digital learning environment can be combined with deep questions and effective online scaffolds to promote student engagement, meaningful collaborative discourse, and robust learning outcomes during research with digitized museum collections. Research activities will address: How can interactive features of EPIC Bioscience help students learn disciplinary core ideas and cross cutting concepts via science practices through collections-based research? How can effective patterns of collaborative scientific discourse be supported and enhanced during online, collections-based research? How does the use of digitized scientific collections influence students' levels of engagement and depth of processing during classroom investigations? A significant impact of the proposed work is expanded opportunities for research with authentic museum objects for populations who are traditionally underserved in STEM and are underrepresented in museum visitor demographics (Title I schools, racial/ethnic minorities, and rural school populations). Research activities will engage over 1,500 Title I and rural students (50 classes across three years) in meaningful research investigations with collections objects that address pressing global issues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812844</AwardID>
+<Investigator>
+<FirstName>Madlyn</FirstName>
+<LastName>Runburg</LastName>
+<EmailAddress>mrunburg@umnh.utah.edu</EmailAddress>
+<StartDate>05/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mitchell</FirstName>
+<LastName>Power</LastName>
+<EmailAddress>mpower@umnh.utah.edu</EmailAddress>
+<StartDate>05/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kirsten</FirstName>
+<LastName>Butcher</LastName>
+<EmailAddress>kirsten.butcher@utah.edu</EmailAddress>
+<StartDate>05/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7645</Code>
+<Text>DISCOVERY RESEARCH K-12</Text>
+</ProgramElement>
+</Award>
+</rootTag>

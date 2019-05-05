@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Transgenerational Mobility</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>264400</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Toby Parcel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project investigates the effects of grandparents on the outcomes of their adult grandchildren, independent of parental influences.  Correlations due to genetics and family culture that may confound these effects also are taken into account.  This will give a more thorough analysis of social mobility than that obtained solely on the basis of parent-child relations.  This project will enhance the well-being of society by increasing understanding of the degree and pattern of intergenerational transmission of disadvantages and advantages in key sociodemographic outcomes, which affect the well-being of individuals, families, and society as a whole.&lt;br/&gt;&lt;br/&gt;This project eliminates bias due to unobserved multigenerationally-correlated endowments through use of data on five generations available in the Utah Population Database and an innovative modeling strategy. Causal effects of parents and grandparents on children are assessed across six major sociodemographic outcomes: schooling attainment, occupation, age at marriage, age at first birth, number of children, and age at death. The project makes four contributions.  First, models of multigenerational relations that incorporate controls for unobserved multigenerationally-correlated endowments will be developed and estimated. Second, measurement error biases will be reduced by including more complete sets of members of each previous generation, up to great-great grandparents, than in prior studies. Third, the effects of sex of children and of maternal versus paternal lineage on multigenerational effects will be analyzed. Finally, the importance of cross effects, that is, effects of including many parental and grandparental sociodemographic variables, and the extent to which they reduce analytical bias will be investigated.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823521</AwardID>
+<Investigator>
+<FirstName>Jere</FirstName>
+<LastName>Behrman</LastName>
+<EmailAddress>jbehrman@econ.upenn.edu</EmailAddress>
+<StartDate>07/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Irma</FirstName>
+<LastName>Elo</LastName>
+<EmailAddress>popelo@pop.upenn.edu</EmailAddress>
+<StartDate>07/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hyunjoon</FirstName>
+<LastName>Park</LastName>
+<EmailAddress>hypark@sas.upenn.edu</EmailAddress>
+<StartDate>07/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1331</Code>
+<Text>SOCIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

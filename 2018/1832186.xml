@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  A Transformative Technology for Producing Transgenic Maize: Pollen Magnetofection</AwardTitle>
+<AwardEffectiveDate>05/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Cone</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Transformation, the generation of stable, transgenic lines, is a fundamental tool in both basic and applied plant biology used for everything from testing gene function to increasing crop yields and resilience to stress.  In some plant species, transformation is a routine procedure; however, several key crop plants, including corn (maize), are very difficult to transform, and success is limited to only a few varieties, severely limiting the study of gene function and use of the most cutting-edge, genome editing technologies. New, accessible, inexpensive methods to transform plants are needed to advance research and accelerate crop improvement. This project utilizes simple magnets and DNA-carrying particles to introduce engineered DNA into maize pollen, which is easily collected, and then uses the transformed pollen to transmit introduced DNA to the next generation progeny, the seed. Success of this method would revolutionize maize research, allowing rapid and inexpensive modification of any genetic stock by most labs, opening the door to one-step, precise genome editing. Expanding this method to other species would speed up progress in understanding plant genome functions in general and translation of that understanding into improved commercial breeding lines. The project will also help train graduate and undergraduate students in maize genetics, genomics and cell biology.&lt;br/&gt; &lt;br/&gt;The goal of this EAGER project is to develop magnetofection of maize pollen as a simple and rapid method for transformation.  Magnetofection, which uses magnetic force to propel DNA-carrying nanoparticles into a cell, is a relatively new (and inexpensive) technology that has recently been proved effective in the pollen of several plant species, most notably cotton.  However, the structure, development and physiology of maize pollen appears likely to introduce significant hurdles for implementing magnetofection. The project will utilize the relevant expertise of two maize research groups to overcome these hurdles, and to characterize the outcome of transformation via pollen magnetofection on a genome-wide scale.  The experimental plan incorporates three objectives that are calibrated to address the specific barriers to success identified in maize pollen.  Aim 1 will, in parallel, optimize transient magnetofection of maize pollen in vitro, and determine the effects of such treatments on pollen fecundity (i.e., ability to produce seeds).  Aim 2 will use the results from Aim 1 to guide implementation of a stable transformation protocol.  Aim 3 will use standard genetic methods alongside next-gen sequencing to characterize transgene heritability and genome-wide structure in stable transformants.  Any successful transformation protocol would be validated in both labs, and thereafter rapidly released to the maize community via preprint server.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832186</AwardID>
+<Investigator>
+<FirstName>R. Kelly</FirstName>
+<LastName>Dawe</LastName>
+<EmailAddress>kelly@plantbio.uga.edu</EmailAddress>
+<StartDate>05/06/2018</StartDate>
+<EndDate>02/20/2019</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Fowler</LastName>
+<EmailAddress>fowlerj@science.oregonstate.edu</EmailAddress>
+<StartDate>05/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Gent</LastName>
+<EmailAddress>gent@uga.edu</EmailAddress>
+<StartDate>02/20/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>Plant Genome Research Project</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

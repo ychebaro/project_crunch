@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Support for the 50th North American Power Symposium (NAPS),To Be Held in Fargo, ND, September 9-11, 2018.</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>17500</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anil Pahwa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal requests funds from the National Science Foundation (NSF) to help subsidize student-related expenses towards travel, registration, and accommodation for the 50th North American Power Symposium (NAPS) hosted by North Dakota State University, in Fargo, North Dakota, from September 9-11, 2018. NAPS, as a non-profit, and student-centric conference, will bring together students, faculty, and researchers in the power and energy systems area. The symposium is technically co-sponsored by the IEEE Power and Energy Society and anticipates around 150 student-led paper presentations - which will be disseminated through IEEE's digital library.&lt;br/&gt;&lt;br/&gt;The intellectual merits primarily lie in the symposium's efforts in recognizing students as the workforce of the research enterprise, and thereby, uniting the nation's faculty, industry members, and the student body engaged in the field of power systems to present and discuss research in established and emerging topics of concurrent importance to the nation and the National Science Foundation. An important element of the conference is the feedback available to every student-presented paper from peers and experts in the field, which will help shape early career-research in the right directions. The broader impacts lie in the conference's inclusive and student-centric stance which will strongly encourage student attendance, promote interactions, and provide numerous opportunities for professional development. Support to undergraduates and minorities will help provide the right mix of inspiration, encouragement, and mentorship at the right time in their careers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834754</AwardID>
+<Investigator>
+<FirstName>Rajesh</FirstName>
+<LastName>Kavasseri</LastName>
+<EmailAddress>rajesh.kavasseri@ndsu.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Dakota State University Fargo</Name>
+<CityName>FARGO</CityName>
+<ZipCode>581086050</ZipCode>
+<PhoneNumber>7012318045</PhoneNumber>
+<StreetAddress>Dept 4000 - PO Box 6050</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Dakota</StateName>
+<StateCode>ND</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

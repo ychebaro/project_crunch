@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Natural sources and microbial transformation of marine halogenated pollutants</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>767250.00</AwardTotalIntnAmount>
+<AwardAmount>153450</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henrietta Edmonds</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Natural polybrominated organic compounds such as hydroxylated polybrominated diphenyl ethers (OH-BDEs) and polybrominated pyrroles (PBPs) have recently emerged as chemicals of human health concern. These natural product relatives of man-made halogenated persistent organic pollutants (POPs) are widely distributed throughout the marine food web and accumulate in seafood sources consumed by humans. Researchers have demonstrated that OH-BDEs such as 6-OH-BDE-47 (thyroid hormone receptor) and PBPs such as tetrabromopyrrole (ryanodine receptor) are potent toxins and thus pose a potential risk to humans. Many fundamental questions however remain about the extent of sources for these natural organobromine molecules, how these chemicals enter and move through the marine food web, whether changes in the climate will impact their production and accumulation, and whether humans are more or less impacted by natural halogenated POPs versus their man-made counterparts. This project seeks to advance the biology and chemistry of marine contaminants of emerging concern. A better understanding of the sources and sinks of these compounds will improve public understanding about links between oceans and human health and help improve guidelines and evidence-based policies regarding fish consumption and health. The project will support a graduate student and a postdoctoral researcher. The project is jointly supported by NSF and by the National Institute for Environmental Health Sciences (NIEHS).&lt;br/&gt;&lt;br/&gt;Recent discoveries by these investigators have rigorously established the genetic and biochemical basis for the microbial synthesis of natural OH-BDE molecules in diverse lineages of marine bacteria. However, the global distribution and ubiquity of these polybrominated POPs in marine biota cannot be fully explained by the sources discovered thus far, suggesting additional biogenic sources exist and are actively contributing to OH-BDE and MeO-BDE accumulation in the marine food web. This information is critical to more accurately identify trophic connections and interconversions that lead to natural PBDE accumulation in marine fish and ultimately, human dietary exposure risks. In this project, new genetic and biochemical evidence for the biosynthesis and biotransformation of PBDE molecules will be established for marine macroalgae, a conspicuous but uncharacterized source of PBDE molecules in marine habitats, using transcriptome analysis coupled with biochemical enzyme characterization. Additional microbial sources for PBDE synthesis/transformation will be characterized by the comprehensive analysis of fish and marine-mammal associated microbiomes using integrated genomic and metabolomic approaches combined with experimental microbiome enrichment reactors amended with PBDE molecules or biosynthetic substrates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837116</AwardID>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Allen</LastName>
+<EmailAddress>eallen@ucsd.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bradley</FirstName>
+<LastName>Moore</LastName>
+<EmailAddress>bsmoore@ucsd.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego Scripps Inst of Oceanography</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930210</ZipCode>
+<PhoneNumber>8585341293</PhoneNumber>
+<StreetAddress>8602 La Jolla Shores Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8028</Code>
+<Text>Oceans and Human Health</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7696</Code>
+<Text>ENVIRONMENT, HEALTH &amp; SAFETY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Adsorptive separation of rare-earth elements in DNA grafted mesoporous carbons</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christina Payne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The specialty metals used in electronics, cathode ray tubes, optical devices, permanent magnets, power sources and various military applications are from a group of metals known as 'rare earth elements'.  Rare earth elements are not mined, processed or traded in large quantities. Over 90% of the world's supply of these metals is controlled by foreign countries. Recent export restrictions have interrupted the supply of these metals to the United States, and raised concerns about their continued use in military and energy sectors. Recovery, separation, recycle, and reuse of these rare earth elements is thus critical. However, these metals are often found closely intermingled - and thus difficult to separate from - other 'like' metals. Two rare earth elements, neodymium and dysprosium, can be recovered from discarded iron magnets using solvents. Solvent extraction can be hazardous, expensive, time and labor intensive, and ineffective when the metals are found in low concentration. This project will develop a novel material that will selectively recover low concentrations of neodymium and dysprosium from iron without the use of solvents. &lt;br/&gt;&lt;br/&gt;This project will develop DNA-grafted mesoporous carbon to selectively recover neodymium and dysprosium from iron. The high concentration of oxygen and phosphorous on the DNA molecules will increase the selective affinity for these metals, concentrating them on the solid substrate. The mesoporous carbon will provide a high number of surface sites per gram of material to facilitate the recovery. The exploratory project will covalently graft specific nucleotide units on the mesopore carbon surface, explore the penetration of the nucleotides into the pores, determine material stability, and test the materials for both non-competitive and competitive adsorption of neodymium, dysprosium, and iron. The anticipated outcome is a series of highly tunable and stable DNA grafted carbons that can substantially enhance the uptake and recovery of neodymium and dysprosium compared to currently available materials. It is anticipated that the tunable phosphorous and oxygen content of DNA grafted carbon will have additional applications in chemical separations, sensing, fluoresce, or molecular electronics. The project will support both undergraduate and masters-level research students, incorporate the research into the undergraduate engineering curriculum, and presented the concepts to high school students at an engineering summer camp.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837202</AwardID>
+<Investigator>
+<FirstName>Dipendu</FirstName>
+<LastName>Saha</LastName>
+<EmailAddress>dsaha@widener.edu</EmailAddress>
+<StartDate>05/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Widener University</Name>
+<CityName>Chester</CityName>
+<ZipCode>190135700</ZipCode>
+<PhoneNumber>6104994396</PhoneNumber>
+<StreetAddress>One University Place</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1417</Code>
+<Text>Process Separations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

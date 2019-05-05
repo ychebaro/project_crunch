@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Closed-loop Silicon-biomolecular Systems with Integrated Synthesis-fluidics-nanopore Interfaces</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>199906</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Given the slowing down of cost-performance gains from Moore's law and the scalability limits of digital storage technology, biomolecules are attractive alternatives for information storage and processing -- DNA data storage in particular is especially interesting due to its density, durability, and path to feasibility. At the same time, electronics will likely continue to be an integral part of computing systems, due to its high performance and the ability to be engineered. Hence, it is natural to consider hybrid biomolecular-electronic systems. Towards this end, this project is focused on building a fully integrated, closed-loop system that includes DNA synthesis, molecular sensors (nanopore), and fluidics for novel applications in biomolecular information processing. If successful, the scientific community will be provided with new and easy-to-use methods to accelerate molecular data storage-processing-computing and synthetic biology experimentation. This will make molecular computing and synthetic biology applications more accessible to the broader community. Integrating in-vivo and in-vitro biomolecular components with silicon systems can lead to innovations in a range of areas from health diagnostics and therapies, new materials, food, to information technology.&lt;br/&gt;&lt;br/&gt;The investigators will engineer a toolbox of new molecular parts that can be used to store and transmit information in the form of nanopore-addressable molecular barcoding of synthetic DNA and proteins. A digital fluidics system will employ computer vision techniques for reliable control of droplet movements. The investigators will develop machine learning techniques to analyze raw nanopore sensor data for low-cost and high-throughput identification of molecular outputs. Demonstration of these components within the integrated system to be developed as part of this project will show proof-of-principle applications that advance molecular information processing capabilities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841188</AwardID>
+<Investigator>
+<FirstName>Luis</FirstName>
+<LastName>Ceze</LastName>
+<EmailAddress>luisceze@cs.washington.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Nivala</LastName>
+<EmailAddress>jmdn@uw.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7946</Code>
+<Text>BIO COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

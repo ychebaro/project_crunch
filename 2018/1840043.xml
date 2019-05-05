@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CICI: RDP: Supporting Controlled Unclassified Information with a Campus Awareness and Risk Management Framework</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>598373</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Micah Beck</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Protecting Controlled Unclassified Information (CUI) is mandated by the executive order 13356, and today is required for research in sectors such as defense and aerospace. Regulatory requirements for research will increase, with CUI regulations covering categories including Agriculture, Financial, Legal Records, and Business information. When combined with existing regulations already seen by universities, such as HIPAA, and the European Union's GDPR, a well-defined and consistent framework for working with regulated data is critical for institutions of higher education. This project describes a cost-effective ecosystem (REED+) to manage regulated data that meets the compliance requirements found in a campus environment.  &lt;br/&gt;&lt;br/&gt;The REED+ framework integrates NIST SP 800-171 and other related NIST publications as the foundation of the framework. This framework serves as a standard for campus IT to align with security regulations and best practices, and create a single process for intake, contracting, and facilitate easy mapping of controlled research to CI resources for the sponsored programs office, human subjects office, and export control office. The framework allows researchers to experience faster intake of new funded projects and be more competitive for research dollars. Using student-developed training materials and instruction, researchers, administrators, and campus IT are now able to more clearly understand previously complicated data security regulations affecting research projects. The ecosystem developed from this project enables new partnerships with government agencies, and industry partners from the defense, aerospace, and life science sectors. Experiences and best practices in providing cyberinfrastructure and security awareness developed from this collaboration are documented and shared with the broader CI and campus community through conferences, journals and workshop.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840043</AwardID>
+<Investigator>
+<FirstName>Baijian</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>byang@purdue.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Preston</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>psmith@purdue.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramElement>
+</Award>
+</rootTag>

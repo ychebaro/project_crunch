@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NNA: Bridging the Atomistic Deformation Mechanisms to the Microscopic Adhesive-to-Cohesive Fracture at Ice-Metal Interfaces</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>465000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Siddiq Qidwai</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Ice accretion over cold surfaces is a topic of great concern for numerous engineering applications, including airplanes, wind turbines, and marine vessels sailing near polar seas. However, a strategy of de-icing (detaching ice from cold surfaces) with minimal power input is not well-established yet due to the lack of answers to many fundamental questions, such as how does the ice shed from a metallic surface and what controls the conversion of fracture type from adhesive (fracture at an ice-metal interface) to cohesive (fracture within ice itself) cracking? This research project will advance the science of interfacial mechanics by identifying the fundamental mechanisms for the adhesive-to-cohesive fracture in an ice-metal material system; correlate an ice-metal interface structure with its ice adhesion strength; and support the search of de-icing strategies that consume far less power than existing approaches. The project would also advance the national health, prosperity, and welfare by enabling a rational design of materials that either inhibit or enhance ice adhesion, with implications for a wide range of safety-critical infrastructures operating in arctic and cold weathers, including telecommunication equipment, power lines, automotive vehicles, marine vessels, and offshore oil platforms, along with the food and transport sectors in everyday environment. With these advancements, this project will support the NSF Big Idea on Navigating the New Arctic (NNA) through impact on the design and engineering of civil infrastructure for an increasing marine commerce in the Arctic. As part of project, education and outreach activities will focus on hiring undergraduate students for the summer, performing outreach to women and minority students through university-based programs, and dissemination of software from a web-portal.&lt;br/&gt;&lt;br/&gt;This project will combine multi-physics, multi-scale simulation and experimentation, i.e., coarse-grained modeling of water, novel concurrent atomistic-continuum modeling of metallic materials, and experiments in a unique Icing Research Tunnel facility, to elucidate the underlying physics pertinent to adhesive-to-cohesive interface fracture in ice-metal material systems. The computer models will be integrated to enable multiscale simulation of solid-liquid interaction from the atomistic to the microscale, while accounting for the realistic microstructure of ice-metal material specimens fabricated in the experimental facility. The research will determine the role of dislocation-mediated plasticity in an adhesive-to-cohesive interface fracture, and quantify the ice-metal adhesion strength and its sensitivity to metal surface topology, chemistry, and ice microstructure. The models will be calibrated and validated with experimental measurements at relevant scales. This project will also provide participating students a broad range of knowledge and skills in icing physics, anti-/de-icing technology, mechanics, supercomputing, material processing and characterization, and icing tunnel testing. Several kits of ice-metal material systems will be designed, fabricated and distributed in local middle and high schools for illustrating how slight changes of a metal surface can significantly change its ice adhesion strength.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824840</AwardID>
+<Investigator>
+<FirstName>Hui</FirstName>
+<LastName>Hu</LastName>
+<EmailAddress>huhui@iastate.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Liming</FirstName>
+<LastName>Xiong</LastName>
+<EmailAddress>lmxiong@iastate.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1630</Code>
+<Text>Mechanics of Materials and Str</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>013E</Code>
+<Text>MULTI-SCALE MODELING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026E</Code>
+<Text>STRUCTURAL MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>027E</Code>
+<Text>NANOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>072Z</Code>
+<Text>NNA-Navigating the New Arctic</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9161</Code>
+<Text>SINGLE DIVISION/UNIVERSITY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>AMPP</Code>
+<Text>ADVANCED MATERIALS &amp; PROCESSING PROGRAM</Text>
+</ProgramReference>
+</Award>
+</rootTag>

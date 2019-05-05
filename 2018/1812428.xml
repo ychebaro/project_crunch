@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>DCL: INCLUDES: Early Stage Empirical Research (EAGER): Data and the Future of an Empirically Grounded Research Community for Broadening Participation in STEM</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>299707</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kurt Thoroughman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Science and engineering in the United States have yet to achieve full participation across race, gender, ethnicity, geography, and/or social class.  Many research projects aim to investigate barriers to participation and solutions to overcome those barriers.  These research projects, however, can take place in isolation, without useful discussion or collaboration across projects.  This project aims to identify connections across researchers in broadening participation.  Computational analysis of research papers, and their citations, will map and illuminate the structure of this network.  Guided by this map, the project team will interview and study a range of researchers, with focus on how these researchers generate and store data.  Through this project, the researchers will learn how to better share data; compare and strengthen research findings; and build community toward more effective national-scale research on broadening participation.  This in turn will aid larger scale interventions, making more meaningful strides toward diversity and inclusion across science and engineering.&lt;br/&gt; &lt;br/&gt;This research will begin with computerized analysis of federal grant awards and publications arising from those awards.  The project team has expertise managing and analyzing large complex data sets, synthesizing patterns, identifying gaps in knowledge, quantifying trends, and creating visualization tools.  This analysis will reveal the structure of diversity and inclusion research communities.  From these communities, key scientists will be recruited for further study.  This will include in-depth interviews and a focus group gathering.  This study will reveal problems and solutions to build data collaborations; ways researchers execute their data management plans; how they utilize datasets as scarce resources, beyond the contexts of hypothesis generating and testing; and how shared data and data-management practices can foster a stronger, empirically grounded research community in broadening participation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812428</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Wentz</LastName>
+<EmailAddress>wentz@asu.edu</EmailAddress>
+<StartDate>03/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kimberly</FirstName>
+<LastName>Scott</LastName>
+<EmailAddress>kimberly.a.scott@asu.edu</EmailAddress>
+<StartDate>03/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>032Y</Code>
+<Text>NSF INCLUDES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

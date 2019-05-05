@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Breaking the Cycle through Computational Physics: Preparing West Virginia's Rural, First Generation College Students for the Careers of the Future</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Turley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With funding from the NSF Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM) program, this project will support high-achieving, low-income students with demonstrated financial need this project at West Virginia University.  Specifically, this project will provide 20 scholarships to support rural Appalachian students majoring in Computational Physics. Scholars will take a sequence of small physics-majors-only courses designed to form a cohort of Scholars, who build personal connections that will support them through their university career. The courses will also provide career development and instruction in Self-Regulated Learning. Rural students often come to college without the study skills required to be successful. These skills will be developed through course policy and specific exercises built into the introductory physics sequence. The project will also allow Calculus 1 to become a corequisite, rather than prerequisite, for Physics 1. This modification will support student success in both physics and calculus. Scholars will also be supported by frequent, intrusive advising, and study skill and career planning assistance, practices have been shown to improve retention. The career guidance will be provided throughout the Scholar's coursework in targeted classes, through individual advising, and through a sequence of professional development activities. This project is expected to help solve a critical national problem: rural students are less likely than others to major in STEM disciplines. The targeted Appalachian students in this project can become examples of how higher education can be the path to economic transformation and the future. Because computational careers offer opportunities to work remotely, some students will return to their communities, demonstrating that higher education is compatible with a sustained connection to the community.&lt;br/&gt;&lt;br/&gt;Many students do not enter the university with the self-regulation skills required for success. However, students can develop these skills after they arrive. Using an extensive institutional dataset, this project will measure the effects of carefully designed and communicated course policy and assignments, reinforced by explicit instruction. In addition, it will use additional data on students' beliefs and behavior collected in the calculus and physics classes. The project will determine if these interventions improve retention and lead to improved self-regulation. Scholars will receive quantitative feedback on the effect of their behavior on their course grade. The project will determine if this feedback is effective in producing positive changes in behavior and how the feedback should be delivered for maximum effect. The modified co-requisite requirements and the integration of policies that encourage the development of self-regulated learning could produce a generalizable model for improving retention of rural STEM students in other areas of the country. Thus, the research from this project could have benefits that extend beyond the cohorts of students supported in this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833694</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Miller</LastName>
+<EmailAddress>paul.miller@mail.wvu.edu</EmailAddress>
+<StartDate>08/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Pisano</LastName>
+<EmailAddress>djpisano@mail.wvu.edu</EmailAddress>
+<StartDate>08/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Stewart</LastName>
+<EmailAddress>jcstewart1@mail.wvu.edu</EmailAddress>
+<StartDate>08/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Seth</FirstName>
+<LastName>DeVore</LastName>
+<EmailAddress>stdevore@mail.wvu.edu</EmailAddress>
+<StartDate>08/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gay</FirstName>
+<LastName>Stewart</LastName>
+<EmailAddress>gbstewart@mail.wvu.edu</EmailAddress>
+<StartDate>08/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>West Virginia University Research Corporation</Name>
+<CityName>Morgantown</CityName>
+<ZipCode>265066845</ZipCode>
+<PhoneNumber>3042933998</PhoneNumber>
+<StreetAddress>P.O. Box 6845</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>West Virginia</StateName>
+<StateCode>WV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

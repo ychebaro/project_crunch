@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Circuits and Systems with Charge Recovery</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>390363.00</AwardTotalIntnAmount>
+<AwardAmount>390363</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Hybrid cars enable energy-efficient transportation solutions by simply recycling kinetic energy to potential energy stored in a battery.  The concept of hybridization in vehicles is analogous to proposed research activities on this project for computation with charge recycling. Charge-recycling circuits allow for the recycling of the energy from the electrical charge used in computation into electromagnetic energy; consequently, reducing waste of energy in computation.  This project will provide the blueprint for the implementation of charge recycling principles to commercial and consumer electronics.  Green computing with charge recycling, particularly as it impacts smart cities with internet-of-things solutions as targeted in this work, is a contemporary area that is a major recruiting tool, including from students from underrepresented populations in STEM.  Educational materials will be disseminated for the training of a truly diverse, multi-disciplinary workforce in electronics at the undergraduate and graduate levels with the new charge recycling computing principles.  A multitude of research and project-type experience opportunities will be made available, in the form of NSF Research Experience for Undergraduates and the Vertically Integrated Projects programs.  &lt;br/&gt;&lt;br/&gt;A primary goal of this project is to explore the peculiarities of implementing charge-recycling solutions at the scale of an industrial processor core down to a small application-specific integrated circuit node and ultimately deliver greener computing devices.  Innovative solutions are offered at the transistor-level, gate-level and computer architecture level.  Performance metrics that are industry-standard are adopted at each of these levels and will be used in the process of technology transfer of the developed novelties to industry.  The project entails transformative goals in disrupting the conventional CMOS-based digital logic design process in industry and enable more portable and increasingly faster computing solutions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816857</AwardID>
+<Investigator>
+<FirstName>Baris</FirstName>
+<LastName>Taskin</LastName>
+<EmailAddress>taskin@coe.drexel.edu</EmailAddress>
+<StartDate>05/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Drexel University</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191021119</ZipCode>
+<PhoneNumber>2158955849</PhoneNumber>
+<StreetAddress>1505 Race St, 10th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

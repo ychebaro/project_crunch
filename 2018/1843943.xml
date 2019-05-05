@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Modified Finned Tube Heat Exchangers for Economically Purifying Produced Water</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>224994.00</AwardTotalIntnAmount>
+<AwardAmount>224994</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project involves improving oil and gas sustainability.  To achieve that goal, we are proposing purifying produced water at the wellsite using waste natural gas to reduce disposal costs, carbon footprint and human induced seismicity from disposal wells. This process is enabled by patented equipment that fundamentally changes thermal distillation by performing the entire process inside a heat exchanger to reduce equipment and energy costs.   In Texas, using the amount of gas that is flared annually, the proposed X-VAPTM system can theoretically purify a significant percentage of U.S. produced water problem of 33 billion barrels in 2020.  The brine discharge from the purification process will be concentrated into specific densities to be recycled as a drilling fluid.  This new circular economy will provide environmental benefits by reducing the need for large diesel water trucks to move the source water, dispose the produced water and deliver heavy brine for drilling.  Society will benefit with a new renewable source of fresh water and reduce the need for oil and gas producers to compete with farmers and ranchers for increasingly scarce fresh water resources.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to prove the X-VAPTM thermal distillation system can fundamentally improve thermal distillation by reducing equipment costs and energy requirements.  Before this patented invention, the entire thermal distillation including the distillation and separation from contaminates has never been performed inside a heat exchanger. The unique design provides a removable spring water tray and distillation column to address maintenance issues including scaling in the field.  Our team of industry-experienced engineers will further test, improve and validate the existing thermal distillation prototype by performing prototype lab experiments and coordinated simulations to calibrate and improve equipment designs (Phase I).  These novel simulations will need to be calibrated against coordinated prototype laboratory tests to achieve a 90% agreement between simulations and laboratory tests.  This testing data and correlated simulations will be utilized to scale the prototype design to efficiently handle large volumes of produced water typically encountered at oil and gas well sites.  The proposed research and simulation testing will validate the patented system and create a proposed program for customer field testing prior to commercialization (Phase II).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/01/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/08/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843943</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Katz</LastName>
+<EmailAddress>gary@katzwater.com</EmailAddress>
+<StartDate>04/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Howard</FirstName>
+<LastName>Feintuch</LastName>
+<EmailAddress>garpk@yahoo.com</EmailAddress>
+<StartDate>02/01/2019</StartDate>
+<EndDate>04/08/2019</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Katz Water Technologies</Name>
+<CityName>Houston</CityName>
+<ZipCode>770561884</ZipCode>
+<PhoneNumber>8327239528</PhoneNumber>
+<StreetAddress>4801 Woodway Drive, Suite 300</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

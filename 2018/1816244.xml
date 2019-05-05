@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop Proposal: Advancing Frontiers in Seafloor Science and Engineering Research</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>49513</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace S. Binkley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The PIs request funding to support a workshop that will bring together two diverse communities: marine science and engineering and academic engineering. They propose a two-day workshop at Northeastern University in Boston (date to be determined), will bring together researcher/engineers who work on problems on the seafloor and in sensing with those who work on land developing sensor networks and networking.  The goal of the workshop is to identify gaps and future technology needs for advancing the state of the art for the next generation of seafloor science. The final deliverable will be a report that addresses these topics and a technology roadmap that addresses the technology needs and gaps for seafloor science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816244</AwardID>
+<Investigator>
+<FirstName>Hanumant</FirstName>
+<LastName>Singh</LastName>
+<EmailAddress>ha.singh@neu.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tommaso</FirstName>
+<LastName>Melodia</LastName>
+<EmailAddress>melodia@ece.neu.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1680</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A SWING-ASSIST KNEE PROSTHESIS FOR INCREASING MOBILITY IN TRANSFEMORAL AMPUTEES</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>223589.00</AwardTotalIntnAmount>
+<AwardAmount>223589</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to make walking both safer and easier for transfemoral amputees. Falling and fear of falling are pervasive in this population. Transfemoral amputees fall at a rate approximately 200 times that of healthy age-matched individuals, and they seek medical attention from falls at the same rate as the institution-living elderly. Such falls result most commonly from a lack of full knee extension in late swing, combined with a lack of knee proprioception, in which case the user enters a non-recoverable knee buckling state shortly after loading. This project proposes a knee prosthesis that provides a powered, motion-controlled knee swing which guarantees full knee extension prior to heel strike, and it therefore substantially reduces the likelihood of a fall. Further, powered knee movement lessens the need for compensatory movements, and therefore the effort required for walking is lessened. As a result, the proposed knee will provide safer and easier walking, enabling users to walk with greater confidence. The prosthesis will be reimbursable under current reimbursement codes and will result in improved mobility, health, and quality of life for end users.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) project proposes a novel knee prosthesis that incorporates a hybrid approach to providing the two major functions of a knee prosthesis: stance and swing control. In this device, stance control is provided by a polycentric joint, while swing control utilizes a small motor for assistance. Consequently, the proposed device is called a polycentric swing-assist (PSA) knee. Unlike a passive extension aid employed in a typical polycentric knee, the swing-assist motor is able to aid both flexion in mid swing and extension in late swing. The PSA prosthesis is intended to inject small amounts of power during the swing phase of gait in order to guide the knee through the swing trajectory. Since the assistance is associated with low-torque and low-power movements, the motor, transmission, and battery can be small, lightweight, and quiet relative to a fully-powered knee prosthesis. The goal of this work is to design, construct, and test a PSA knee prototype. The efficacy of the prosthesis prototype will be compared to a commercial knee. The investigators will test whether or not the prosthesis better emulates healthy kinematics through outcome measures such as toe clearance and peak knee flexion across walking speeds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/04/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843764</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Lawson</LastName>
+<EmailAddress>brianedwardlawson@gmail.com</EmailAddress>
+<StartDate>02/04/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SYNCHRO MOTION LLC</Name>
+<CityName>FRANKLIN</CityName>
+<ZipCode>370649543</ZipCode>
+<PhoneNumber>3176911604</PhoneNumber>
+<StreetAddress>3030 OLD HILLSBORO RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

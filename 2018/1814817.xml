@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: Toward Fully Automated Data-Driven Analysis of Web Censorship</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>499995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Different countries have very different positions concerning freedom of expression, and may be increasingly using online filtering tools for web censorship. While the research community has devoted significant attention to the problem of anonymous communication, many other aspects of censorship and anonymization have not yet been studied in detail. We do not know, for instance, whether it is possible to automatically infer which techniques censors use and which topics censors are after. Grounded in empirical measurements, this project first aims to produce quantitative models of the techniques used in practice for actual web censorship on a global scale, and of the suspected targets of censorship. Informed by these measurements, a secondary goal is to devise novel techniques to perform automated censorship data collection with minimal human involvement.  The team will integrate project findings and techniques into coursework, and, by making measurement data publicly available, will provide a useful resource to researchers in fields beyond the realm of computer security (for example, sociology or political science), as well as non-governmental organizations and policy-makers interested in freedom of speech issues. &lt;br/&gt;&lt;br/&gt;At a technical level, the project will identify and construct reliable and representative corpora of web pages to test for censorship, and gather measurements of censorship occurrences on a global scale and over long intervals of time. A key objective will be to minimize human involvement during data collection to reduce risk to the individuals, while still seeking to collect data from a wide mix of vantage points representing a variety countries and organizations.  This will involve developing techniques for improving geolocation of requests, combining domain name service-based measurement techniques with the use of virtual private networks and servers to increase coverage, avoiding detection by censors while taking these measurements, developing techniques to distinguish network or server errors from acts of censorship, addressing issues of cross-language access and censorship, and accounting for changes in censors' behavior over time.  The team will analyze this data to determine whether one can automatically detect the occurrence of censorship with minimal assumptions about the form censorship may take, and whether one can automatically extract the probable topic of the censored material.  Informed by these inferences around censored topics, the team will investigate the extent of keyword-based censorship in the wild, and how actual censoring practice aligns with published accounts of censor behavior from both censors themselves and from other organizations that monitor censorship.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814817</AwardID>
+<Investigator>
+<FirstName>Nicolas</FirstName>
+<LastName>Christin</LastName>
+<EmailAddress>nicolasc@andrew.cmu.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

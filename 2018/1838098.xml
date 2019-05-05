@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RoL:  FELS:  EAGER:  A Predictive framework of metabolism as an engine of functional environmental responses across levels of biological organization</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>299999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Theodore Morgan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Life inhabits nearly every corner of the planet, with organisms using diverse strategies to survive. Despite this, tremendous diversity in ecology, physiology, and behavior, biological processes are fueled by a set of highly similar reactions that govern metabolism. The general rules of how biological processes operating at higher levels of biological organization emerge from the reactions of metabolism and how this determines organism responses to environmental conditions are unknown. The research aims to explain a fundamental rule of life that holds across single- and multi-celled organisms: the observation that an organism's performance increases as a function of temperature to an optimal level, after which it declines as temperatures increase (i.e., the thermal performance curve). The research will test the hypothesis that the response of metabolism to temperature determines thermal performance curves through levels of biological organization, culminating in the survival and reproduction of organisms and the subsequent growth of populations. The research may have broader impact for science and society, as it will provide an experimental and mathematical research framework that can be applied to diverse systems, including socio-economically important systems, such as agricultural, pest, and disease species. Because the components of metabolism are shared between humans and the organisms studied, fundamental links between metabolism and an organism's performance will provide critical information on health issues related to metabolic disorders.&lt;br/&gt;&lt;br/&gt;The research integrates molecular, physiological, ecological, and mathematical approaches to measure how organisms respond to change in environmental temperature. The experiments will measure change in thermal performance curves in response to shifts in temperature at multiple levels of biological organization, from mitochondrial function to population growth. This measurement will be done in two well-studied systems - the fruit fly Drosophila and the ciliate Paramecium - to test the general hypothesis that plastic and adaptive metabolic responses to temperature will scale up through levels of organization to affect population-level properties such as growth rate. The research will develop a general mathematical framework using a nested set of functions to describe causal and predictive relationships that link metabolic responses up through population- and ecosystem-level responses to the environment. The framework aims to identify where rules exist, but also to discover where emergent properties arise in the biological hierarchy. This framework can be adopted by researchers working in diverse systems to link functional trait responses across levels of biological organization, and to predict how the organisms and communities that they study may be impacted by changes in the environment. The experimental design explicitly sets the stage for future work that will link (epi)genome- to-phenome responses and incorporate systems genomics approaches within this framework. The research may enhance research infrastructure for a broad community of scientists working at very different scales of biology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838098</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>DeLong</LastName>
+<EmailAddress>jpdelong@unl.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kristi</FirstName>
+<LastName>Montooth</LastName>
+<EmailAddress>kmontooth2@unl.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Kuiper Belt Dynamics with a Distant Unseen Planet</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>339578.00</AwardTotalIntnAmount>
+<AwardAmount>339578</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda French</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In our solar system, Kuiper Belt Objects (KBOs) are among the most distant objects from the sun.  Recently, astronomers have proposed the existence of a distant, unseen planet, popularly known as Planet 9.  Two pieces of evidence support this proposal.  First, the orbital characteristics of about a half-dozen of the most distant KBOs are very similar.  Second, the orbits of these KBOs are spaced in location so that they appear to be influenced by the presence of a much larger body.  This research will combine both theoretical, orbital dynamics studies of these highly-irregular orbital characteristics with orbit fitting and uncertainty estimation of the telescopic data on these KBOs.  The results will lead to a much better assessment of the evidence for Planet 9, and narrow the present location of Planet 9 in the sky.  This support the mission of the NSF by promoting our understanding of the solar system structure.  The investigators will add the results of their research to university courses and public lectures.&lt;br/&gt;&lt;br/&gt;This research will elucidate the dynamics of orbital resonances over the full range of orbital eccentricities with the anticipation of discovery and understanding of novel phase-space structures and dynamical mechanisms, including the resonant coupling between eccentricity and inclination in the high-eccentricity regime. The orbit-fitting will improve knowledge of the orbital parameters of the most distant known KBOs, and will also allow for higher fidelity estimates of proximity (or lack thereof) to orbital resonances with Neptune and/or Planet 9. The observational bias analysis is important to assess the statistical significance of the apparent orbital clustering of the distant KBOs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824869</AwardID>
+<Investigator>
+<FirstName>Renu</FirstName>
+<LastName>Malhotra</LastName>
+<EmailAddress>renu@lpl.arizona.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kathryn</FirstName>
+<LastName>Volk</LastName>
+<EmailAddress>kvolk@lpl.arizona.edu</EmailAddress>
+<StartDate>08/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1214</Code>
+<Text>PLANETARY ASTRONOMY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>III: Small: Deep Learning for Gene Expression Pattern Image Analysis</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>499957</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aidong Zhang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Biological image informatics is an emerging frontier in computational biology, as there is an urgent need to move beyond the manual inspection of images to computational analysis for accelerating scientific discoveries. Conventional methods commonly employ shallow machine learning models in which handcrafted image representations are computed and used in model construction. These approaches heavily rely on prior knowledge on the data and problems to compute appropriate image representations. Motivated by the recent success of deep learning methods in image-related domains, the objective of this project is to develop advanced deep learning models for automated representation learning from biological images. This project also facilitates the development of new courses and laboratory infrastructure for attracting graduate, undergraduate, and high school students, with an emphasis on those from underrepresented groups.&lt;br/&gt;&lt;br/&gt;Specifically, this project focuses on the analysis of spatiotemporal gene expression pattern images in fruit fly and mouse. The key challenges lie in how to capture the intrinsic structures of biological problems and how to enable effective model training on small, manually labeled biological data sets. This project develops multi-instance, multi-task, hierarchical, and regularized deep learning models for incorporating the structures of biological problems. The multi-instance and multi-task models capture the complex relationships among inputs and outputs, respectively. The hierarchical and regularized models explicitly encode problem structures and make the results interpretable. In addition, transfer and unsupervised learning methods are developed to enable effective model training on small labeled data sets. These are achieved by integrating both labeled and unlabeled data sets across multiple domains. Altogether, this project is expected to result in a set of advanced deep learning methods for the efficient and effective analysis of biological images.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811675</AwardID>
+<Investigator>
+<FirstName>Shuiwang</FirstName>
+<LastName>Ji</LastName>
+<EmailAddress>sji@tamu.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Washington State University</Name>
+<CityName>PULLMAN</CityName>
+<ZipCode>991641060</ZipCode>
+<PhoneNumber>5093359661</PhoneNumber>
+<StreetAddress>280 Lighty</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

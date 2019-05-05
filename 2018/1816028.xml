@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: New Approaches to Decentralized Differential Privacy</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Recently, Google and Apple have deployed large systems for differentially private collection and analysis of decentralized user data.  These systems use a local model of privacy in which no sensitive user data is collected. This local model enjoys many implementation advantages, but does not capture the most expressive private algorithms.  These more expressive private algorithms inherently require a central model of privacy, in which a trusted party agrees to collect the sensitive data and reveal only the outcome of some private algorithm. Finding a trusted aggregator can be problematic in many applications. This project specifically addresses this tension by using cryptography to design and implement scalable secure protocols for the statistical analysis of decentralized user data that combine the best features of the central and local models of privacy.&lt;br/&gt;&lt;br/&gt;This project introduces and studies a novel intermediate model for decentralized privacy based on anonymous computation.  Protocols in this model enjoy the same simplicity as protocols in the local model of privacy, but bypass some of the limitations of protocols in the local model.  For functionalities that cannot be achieved in this intermediate model, this project designs tailored secure cryptographic to implement these functionalities without a trusted data collector, while overcoming the high communication, computation, and round complexity overheads of generic protocols. The investigators will involve  graduate and undergraduate students in this research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816028</AwardID>
+<Investigator>
+<FirstName>Abhi</FirstName>
+<LastName>Shelat</LastName>
+<EmailAddress>a.shelat@northeastern.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Ullman</LastName>
+<EmailAddress>jullman@ccs.neu.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

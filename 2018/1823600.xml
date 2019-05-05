@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Oceanographic Technical Services, Scripps Institution of Oceanography, 2018-2022</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>13304432.00</AwardTotalIntnAmount>
+<AwardAmount>6680998</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Holik</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Scripps Institution of Oceanography (SIO) proposes to support technical services on three research vessels, all operated as part of the U.S. Academic Fleet which is scheduled by the University-National Oceanographic Laboratory System (UNOLS).  Ships to be supported include R/V Revelle, R/V Sproul and R/V Sally Ride, a new Navy-owned vessel which came into service in 2016.  As part of their basic operations they will provide one (Sproul) or two (Revelle and Sally Ride) technicians on each seagoing research project to support basic services and they will maintain, calibrate and provide for qualified users items from their pool of shared-use research instrumentation.  They also propose to provide several elements of specialized support for investigators, with separate charges. Specialized support proposed for 2018 includes:&lt;br/&gt;&lt;br/&gt;? Reference Quality CTD (ODF)&lt;br/&gt;? Additional Technical Support&lt;br/&gt;? HiSeasNet Management&lt;br/&gt;? HiSeasNet Expansion&lt;br/&gt;? HiSeasNet Hardware&lt;br/&gt;? Hydrographic Doppler Sonar (HDSS)&lt;br/&gt;? MOCNESS Interface&lt;br/&gt;? Multichannel Seismic&lt;br/&gt;? Marine Mammal Mitigation&lt;br/&gt;? Cyberinfrastructure for Vessel Operations&lt;br/&gt;? SatNAG &lt;br/&gt;&lt;br/&gt;Broader Impacts       &lt;br/&gt;The principal impact of the present proposal is under Merit Review Criterion 2 of the Proposal Guidelines (NSF 13-589). It provides infrastructure support for scientists to use the vessel and its shared-use instrumentation in support of their NSF-funded oceanographic research projects (which individually undergo separate review by the relevant research program of NSF).  The acquisition, maintenance and operation of shared-use instrumentation allows NSF-funded researchers from any US university or lab access to working, calibrated instruments for their research, reducing the cost of that research, and expanding the base of potential researchers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/15/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823600</AwardID>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Appelgate</LastName>
+<EmailAddress>bappelgate@ucsd.edu</EmailAddress>
+<StartDate>03/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lee</FirstName>
+<LastName>Ellett</LastName>
+<EmailAddress>lellett@ucsd.edu</EmailAddress>
+<StartDate>03/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego Scripps Inst of Oceanography</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930210</ZipCode>
+<PhoneNumber>8585341293</PhoneNumber>
+<StreetAddress>8602 La Jolla Shores Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1670</Code>
+<Text>CHEMICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5205</Code>
+<Text>ARCTIC RESRCH SUPPRT &amp; LOGISTI</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5411</Code>
+<Text>SHIP OPERATIONS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5415</Code>
+<Text>OCEANOGRAPHIC TECHNICAL SERVCE</Text>
+</ProgramElement>
+</Award>
+</rootTag>

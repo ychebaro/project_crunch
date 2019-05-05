@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Flame Luminosity Analyzer for Measuring Sooting Tendency of Fuels</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to create a product that will facilitate assessment of transportation fuels to ensure they will pass fuel specification tests. In particular, the project will provide a device that producers can use to more accurately determine whether their fuels will meet the specifications for soot/smoke emissions and should create a framework that allows fuel specifications for particulate matter (PM) emissions to be defined more precisely. This will benefit the fuels industry by reducing costs and increasing certainty. It will also enable them to confidently introduce alternative fuels that have lower PM emissions.&lt;br/&gt;&lt;br/&gt;This I-Corps project further develops an instrument that characterizes the sooting propensity of a fuel by its soot luminosity. Unlike the methods currently in use, this technology allows a quantitative measurement to be fully automated and performed online. It will deliver more accurate results faster than existing qualitative methods while requiring less sample. Extensive academic research has verified that this approach correctly detects the effect of fuel composition on PM emissions.  This I-Corps project will explore the commercial potential of this instrument across a variety of potential customer segments.</AbstractNarration>
+<MinAmdLetterDate>11/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806146</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>McEnally</LastName>
+<EmailAddress>charles.mcenally@yale.edu</EmailAddress>
+<StartDate>11/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Yale University</Name>
+<CityName>New Haven</CityName>
+<ZipCode>065208327</ZipCode>
+<PhoneNumber>2037854689</PhoneNumber>
+<StreetAddress>Office of Sponsored Projects</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

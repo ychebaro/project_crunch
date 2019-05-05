@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Operators on Banach Spaces</AwardTitle>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>103096.00</AwardTotalIntnAmount>
+<AwardAmount>103096</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela Gorkin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The mathematician Stefan Banach defined a mathematical object that we now call a Banach space. The theory of Banach spaces extended certain work of Volterra and Hilbert, among others. Operators on Banach spaces form the mathematical models for many objects in physics and engineering. Banach space operator theory has a long history within mathematics itself and is connected to other areas of mathematics, including partial differential equations and algebraic topology. The focus of this project is on certain aspects of the theory of operators on Banach spaces that have relevance for physics, engineering, and various areas of mathematics. &lt;br/&gt;&lt;br/&gt;The main goal of this project is to extend useful results concerning operators on Hilbert spaces to the setting of Banach spaces. For instance, the extent to which results about extensions of C*-algebras hold for algebras of operators on Banach spaces is considered. Since many proofs about operators on Hilbert spaces do not directly generalize to operators on Banach spaces, it is expected that extending these results requires different approaches. Results from Banach space theory, especially the use of probabilistic techniques, are expected to be useful.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/10/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/10/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1856221</AwardID>
+<Investigator>
+<FirstName>March</FirstName>
+<LastName>Boedihardjo</LastName>
+<EmailAddress>march@math.ucla.edu</EmailAddress>
+<StartDate>04/10/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Human Resource Optimization Software</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project involves the optimization of human resource deployment via technology. More specifically, this endeavor leverages systems research to inform software with machine learning to inform how to organize work across industries and align that work with available human resources in a manner that optimizes outcomes. This technology can serve to benefit diverse industries; however, it offers unique value for healthcare settings which often have scare human resources deployed in rapidly changing environments. In clinical environments, how care is organized can have significant implications for cost, quality, and outcomes. This software will collect and analyze large volumes of data related to individuals and the environment to organize and assign work optimally (i.e. to improve clinical outcomes, decrease costs and increase efficiency). This technology has significant commercial potential beyond healthcare environments to any industry that routinely organizes and assigns work to a workforce where considerations of individual characteristics and environmental characteristics have significance.&lt;br/&gt;&lt;br/&gt;This I-Corps project involves pursuits focused on better understanding the application potential of research-driven technology in various industries with a specific focus on inpatient clinical environments (i.e. hospitals). The technology automates and optimizes nurse staffing in hospital settings. It uses a data-driven algorithm informed by qualitative and quantitative research to make nurse-patient assignments that improve outcomes, save time, and reduce stress. The research driving this technology is inclusive of a review and synthesis of relevant nursing, health systems, and work science literature as well as qualitative research involving interviews of nurses and quantitative research assessing relationships between inpatient clinical work environments and patient outcomes. The technology integrates research data from nurses, patients, and hospital structural factors to inform algorithms driving nurse-patient matches. Machine learning elements of the software facilitate this optimization process. The software also serves as a mechanism for collecting a unique data set that records patient-nurse ?exposures? on the individual level and on an unprecedented scale. Such a data set is of great value to health services researchers, hospital quality improvement teams, and to our team as it seeks to improve and customize the algorithm with potential to decrease costs of care and improve patient and nurse outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840740</AwardID>
+<Investigator>
+<FirstName>Bart</FirstName>
+<LastName>De Jonghe</LastName>
+<EmailAddress>bartd@nursing.upenn.edu</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

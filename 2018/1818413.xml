@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Maurice Auslander Distinguished Lectures and International Conference</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>49000.00</AwardTotalIntnAmount>
+<AwardAmount>32600</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 2018 Maurice Auslander International Conference will be held at the Woods Hole Oceanographic Institute, Quissett Campus in Woods Hole, Massachusetts, USA on April 25-31, 2018. Conferences are also planned for the last week of April in 2019 and 2020. These meetings will be a center of activity for the representation theory of finite dimensional algebras. Each conference will be a combination workshop/conference/student presentation event and will serve three principal objectives: (a) to improve understanding of basic background knowledge in the field of representations of finite dimensional algebras and related topics, (b) to keep participants up to date on the newest developments in the field and (c) to give early-career, US-based researchers an opportunity to showcase their results to an international audience.&lt;br/&gt; &lt;br/&gt;The conferences will bring together researchers working in representation theory and related areas of combinatorics, invariant theory, commutative algebra, homological algebra, and mathematical physics. Each day of the conference will start with an expository lecture by a prominent international expert. This will be followed by one or two presentations by students. The rest of the lectures will be traditional conference talks. The last day of the conference will be devoted to mathematical physics and its relation to representation theory. The conference website is http://www.northeastern.edu/martsinkovsky/p/MADL/MADL.html.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818413</AwardID>
+<Investigator>
+<FirstName>Gordana</FirstName>
+<LastName>Todorov</LastName>
+<EmailAddress>g.todorov@neu.edu</EmailAddress>
+<StartDate>03/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Martsinkovsky</LastName>
+<EmailAddress>alexmart@neu.edu</EmailAddress>
+<StartDate>03/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

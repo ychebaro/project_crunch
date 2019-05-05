@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Mobile, Smart Gait Assessment System</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is the product of a mobile, smart gait assessment system allowing for continuous gait monitoring outside the clinical settings, which can be used for online, remote clinical management for patients with gait disorders including patients with Parkinson Disease (PD). PD alone affects over one million people in the United States, a number that increases by 60,000 each year. This technology will support the prevention of re-admission by fall tracking and prevention, lower hospital visits and length of stay by allowing at-home monitoring of disease progression, implement monitored wellness programs, differentiate disease types by pattern recognition, and provide timely and efficient clinical management by tracking interventional outcomes. The patient customers will benefit by receiving recommendations on gait and posture habits, leading to a decrease in fall occurrences. Moreover, they will benefit from activity monitoring by receiving suggestions on exercise routines, which have been shown to increase health and fitness. On the other hand, clinics and hospitals will benefit from reducing the volume of patients at their facilities, and insurance agencies will benefit by decreasing patients' length of stay.  &lt;br/&gt;&lt;br/&gt;This I-Corps project proposes a system capable of detecting asymmetry between kinetic and kinematic gait parameters, which consists of embedded inertial measurement units and insoles with piezoresistive pressure sensor arrays. With machine learning algorithms, the system can detect and classify the disease progression, which will support treatment modification along with normal disease course and symptomatic changes. This smart, non-invasive, non-pharmaceutical approach for disease prognosis could also lead to an increase in participation in clinical trials, as the low-risk involvement required could encourage persons with and without PD to participate. The developed technology allows for continuous gait recordings outside the clinical setting. This smart, wireless gait monitoring system has the potential of decreasing the burden associated with the numerous clinic visits. The intellectual merits lie in the use of emerging technologies, including cloud computing and artificial intelligence for feature extraction, classification, and rare-event detection. These features will support medical professionals' decision-making regarding the course of treatments from its early stages without having to add more effort to their already busy schedules. In addition, the designed Internet-of-Things (IoT) architecture will allow mobile health monitoring, including treatment compliance and categorization for treatment improvement.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849087</AwardID>
+<Investigator>
+<FirstName>Ou</FirstName>
+<LastName>Bai</LastName>
+<EmailAddress>obai@fiu.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>Miami</CityName>
+<ZipCode>331990001</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

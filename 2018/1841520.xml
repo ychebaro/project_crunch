@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase II I/UCRC [George Mason University]: Center for Spatiotemporal Thinking, Computing and Applications.</AwardTitle>
+<AwardEffectiveDate>03/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Perkins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>We live in a four dimensional world with three spatial dimensions and one temporal dimension. Understanding the nature of the spatiotemporal dimensions integratively will help us better prepare for challenges facing us in the 21st century and beyond: a) responding to climate change with better climate simulations, b) mitigating asteroids' impact to our home planet like the dinosaur-killer, c) resolving political disputations with spatiotemporal understanding of the culture, boundaries, history, and future of relevant nations, and d) equipping our future leaders with spatiotemporal thinking capability and decision support tools.  &lt;br/&gt; &lt;br/&gt;Following the success of Phase I spatiotemporal Industry-University Cooperative Research Center (IUCRC) investigation as a collaboration among George Mason, Harvard, and the University of California-Santa Barbara, the second phase of the center will move forward with the mission to 1) build a national and international spatiotemporal infrastructure; 2) develop, with industry and agency members, new spatiotemporal technologies, solutions, tools, and software that will be easily integrated with existing and future industry products and services; 3) improve human intelligence by developing a set of spatiotemporal thinking methodologies built into K-16 curriculum; and 4) improving human capabilities in responding to grand scientific and engineering challenges. &lt;br/&gt; &lt;br/&gt;Outreach will be conducted to maximize the broader impacts: 1) collaborating closely with more than four active members each year to develop relevant methodologies and technologies; 2) disseminating research results to industry and government agency members and through publications for adoption and broader impacts. 3) working with leading associations to broadcast the research results and recruit new members; 4) developing new course material and curriculum within existing degree programs and broadcast for wider adoption; 5) continuing our diverse traditions to include minorities and other underrepresented groups in this STEM field; 6) making all results open source to benefit relevant domains nationally and internationally.&lt;br/&gt; &lt;br/&gt;The center will post all information on an official website (https://www.stcenter.net/) and two content management portals accessible through the official website. A project management website will be utilized to share all project reports, working papers, presentations, posters, and publications. The data and research results produced will be integrated into the center's operational community cloud (http://sites.cloud.gmu.edu/sthcp/index.php) to be maintained as a sustainable resource for the center for long term sustainability. Source code developed in the center will be open to the public using github.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/13/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/13/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841520</AwardID>
+<Investigator>
+<FirstName>Chaowei</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>cyang3@gmu.edu</EmailAddress>
+<StartDate>03/13/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Donglian</FirstName>
+<LastName>Sun</LastName>
+<EmailAddress>dsun@gmu.edu</EmailAddress>
+<StartDate>03/13/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Manzhu</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>yumanzhu2012@gmail.com</EmailAddress>
+<StartDate>03/13/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Zhao</LastName>
+<EmailAddress>lzhao9@gmu.edu</EmailAddress>
+<StartDate>03/13/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Rice</LastName>
+<EmailAddress>rice@gmu.edu</EmailAddress>
+<StartDate>03/13/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

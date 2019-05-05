@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 AGT Mentoring Workshop Co-Located with Economics and Computation (EC)</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy J. Kimbrel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support students to attend the Algorithmic Game Theory (AGT) Mentoring Workshop and the 19th Association for Computing Machinery (ACM) Conference on Economics and Computation (EC), June 18 - 21, 2018, in Ithaca, NY. The field of Algorithmic Game Theory is at the intersection of theoretical computer science and economics. This makes it most suitable to handle foundational issues posed by tremendous growth in economic and social systems on the Internet, and therefore the field has been thriving in the past few decades. Economics and Computation is the leading conference in this area, with the main aim of strengthening the field by bringing together both computer scientists and economists. The investigators are organizing a one-day AGT mentoring workshop to be co-located with EC.&lt;br/&gt;&lt;br/&gt;The workshop will help to mentor and train students pursuing research careers in the field of AGT. Travel funds from NSF will facilitate participants' attendance at the mentoring workshop and EC, where they will learn about current research and interact with leaders in the field. The award will cover travel, lodging and registration fees for approximately 8 to 10 carefully selected students who otherwise would find it difficult to attend. The selection criteria for the travel award and the workshop program will aim to encourage participation by underrepresented minorities and women.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833617</AwardID>
+<Investigator>
+<FirstName>Nicole</FirstName>
+<LastName>Immorlica</LastName>
+<EmailAddress>nimmorlica@seas.harvard.edu</EmailAddress>
+<StartDate>05/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Seth</FirstName>
+<LastName>Weinberg</LastName>
+<EmailAddress>smweinberg@princeton.edu</EmailAddress>
+<StartDate>05/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ruta</FirstName>
+<LastName>Mehta</LastName>
+<EmailAddress>rutameht@illinois.edu</EmailAddress>
+<StartDate>05/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>Champaign</CityName>
+<ZipCode>618207406</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>1901 South First Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>SPECIAL PROJECTS - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7932</Code>
+<Text>COMPUT GAME THEORY &amp; ECON</Text>
+</ProgramReference>
+</Award>
+</rootTag>

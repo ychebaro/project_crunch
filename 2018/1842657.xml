@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Interactive and Automated Debugging for Big Data Analytics</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact of this I-Corps project is to investigate the challenges that data scientists face in debugging big data analytics today and to investigate the commercial potential of research work on interactive and automated debugging of big data analytics. Big data analytics is increasingly important in the 21st century, where our daily lives leave behind a detailed digital record. Decision-makers of all kinds, from companies to government agencies, would like to base their actions on data. If successful, this project will offer a unique opportunity to discover software development tooling needs for big data systems and to identify innovative software tooling products that sit across the software stack from the user-facing API all the way down to the systems infrastructure.&lt;br/&gt;&lt;br/&gt;This I-Corps project builds on early research work on real-time debugging primitives and tool-assisted fault-localization services for big data processing applications written in modern data intensive scalable computing (DISC) systems like Apache Spark. Designing debugging primitives for DISC requires re-thinking the traditional step-through debugging primitives as provided by tools such as gdb. For example, a breakpoint feature that simply pauses the entire computation would waste large amounts of computational resources and prevent correct tasks from completing, reducing overall throughput. Further, requiring the user to inspect the millions of intermediate records produced during execution is clearly infeasible. When a failure or incorrect result is generated (e.g., outlier), pinpointing the root cause is extremely time-consuming and expensive due to massive scale of data. In short, the intellectual merit of this I-Corps project is to investigate how users can benefit from expressive debugging primitives and automated fault localization services when they must leverage for data science and big data analytics capabilities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842657</AwardID>
+<Investigator>
+<FirstName>Miryung</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>miryung@cs.ucla.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

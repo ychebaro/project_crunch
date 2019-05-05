@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Real-Time Power: A Thermoelectric System for Powering Seafloor Instrumentation</AwardTitle>
+<AwardEffectiveDate>02/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>149611.00</AwardTotalIntnAmount>
+<AwardAmount>149611</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace Binkley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The development of new oceanographic sensor platforms such as seafloor cabled observatories and autonomous vehicle networks, and with the miniaturization of oceanographic sensors ranging from mass spectrometers to 4K video systems, the prospects for doing science in the deep ocean have never been brighter. The difficulty of powering systems in the ocean for long time periods or with high power requirements has limited the ability of deep-ocean scientists to capitalize on recent sensor and sensor system advances. To resolve this problem the PI proses to design, build, and test a small thermoelectric power device that will use geothermal heat from hydrothermal vents to generate electricity, charge batteries, and power small seafloor instruments indefinitely. The availability of such a system could enable the development of seafloor ?power stations? where autonomous vehicles charge their batteries.&lt;br/&gt;&lt;br/&gt;The development of a hydrothermal thermoelectric power module could enable the development of an entirely new kind of seafloor observing network that could revolutionize the ocean sciences by providing a "platform of presence" anywhere in the deep ocean where strong thermal gradients can be found or created.</AbstractNarration>
+<MinAmdLetterDate>01/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820547</AwardID>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Crone</LastName>
+<EmailAddress>tjc@ldeo.columbia.edu</EmailAddress>
+<StartDate>01/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1680</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

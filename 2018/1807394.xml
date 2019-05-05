@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Synthesis and Spectroscopy of Complex Halide and Chalcogenide Nanocrystals</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>161116</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Birgit Schwenzer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Abstract:&lt;br/&gt;Semiconductor nanostructures are critical components of many energy and information technologies, and they will be central to numerous future technologies including advanced forms of communications and data processing. This research is generating new forms of matter on nanometer length scales made from semiconductors with complex and unexplored compositions. This project is enabling capabilities that will allow researchers to synthesize these new classes of semiconductors, and it is advancing the fundamental understanding of such materials through combined materials development and physical characterization studies, thereby expanding the frontiers of nanoscience. In addition to yielding new scientific knowledge and new forms of matter, this project is also providing technical training for participating undergraduate and graduate students to prepare them for future careers in science, engineering, education, and related fields. The impact of this project is broadened by integrating research and education at early-career levels through engagement of undergraduates, incorporation of research concepts into undergraduate curricula, collaboration with faculty from undergraduate institutions (and hosting such faculty and their undergraduate students), and mature community outreach activities.&lt;br/&gt;&lt;br/&gt;Technical Abstract: &lt;br/&gt;This project is targeting discovery and development of new complex semiconductor nanostructures, development of new synthetic methodologies, and use of spectroscopic, analytical, and computational tools to elucidate key structure/function relationships in these complex materials, with the overarching goal of accelerating technological innovations involving these materials. The project focuses specifically on colloidal ternary, quaternary, and doped haloperovskite-type semiconductor nanocrystals, including mixed-metal elpasolites, and colloidal ternary, alloyed, and doped chalcopyrite-type nanocrystals, including CuInS2. These materials offer timely new opportunities to access unprecedented physical properties with technological value. This project is also advancing the chemistries and physical understanding of lead- and cadmium-free semiconductor nanocrystals that may ultimately replace well-known systems based on these ions as workhorses in future technologies. Overall, this project is yielding new materials, new fundamental knowledge, advanced training for participants, and ultimately new materials platforms for future energy conversion, information processing, sensing, and other optoelectronic technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807394</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Gamelin</LastName>
+<EmailAddress>gamelin@chem.washington.edu</EmailAddress>
+<StartDate>03/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1762</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

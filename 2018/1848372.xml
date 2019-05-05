@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Chemistry-Climate Interactions and Feedbacks through Coupled Atmosphere-Biosphere Processes</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>524615.00</AwardTotalIntnAmount>
+<AwardAmount>109758</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sherri W. Hunt</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will develop a large dataset to improve understanding and model representation of interactions between the Earth's atmosphere and its ecosystems. The work focuses on how ozone in the atmosphere impacts the exchange of carbon, water, and heat by combining a series of measurements from multiple locations. The resulting model and dataset will be used to predict how future climate conditions may affect ozone concentrations and the atmosphere-ecosystem interactions. This work will strengthen understanding of the connections between gas concentrations in the atmosphere and within the plants and solid materials on the surface.&lt;br/&gt;&lt;br/&gt;Specifically, the following science questions will be addressed: 1) Does the observed relationship between O3 flux and fluxes of carbon and water at eddy-covariance flux towers agree with results from single-species studies? 2) How well do current climate and air quality models predict O3 deposition, deposition velocity, and stomatal uptake? 3) What effect does O3-biosphere coupling through water-use efficiency (WUE) have on biosphere resiliency and atmospheric chemistry in the face of global change? 4) Do other phytotoxic air pollutants, such as sulfur dioxide and nitrogen oxides affect carbon and water fluxes and present-day levels, either individually or through synergistic multi-pollutant effects?&lt;br/&gt;&lt;br/&gt;The project also includes a range of educational and outreach activities to strengthen and diversify the scientific workforce including collaborating with a nearby historically black university (Florida Agricultural and Mechanical University), training undergraduates to participate in the research effort, and, expanding model applications in graduate level courses.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/07/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848372</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Holmes</LastName>
+<EmailAddress>cdholmes@fsu.edu</EmailAddress>
+<StartDate>03/07/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida State University</Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323064166</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress>874 Traditions Way, 3rd Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>Atmospheric Chemistry</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

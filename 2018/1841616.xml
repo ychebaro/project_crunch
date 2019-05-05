@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Showcase for DUE Projects at the ACM SIGCSE Symposium</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardAmount>68322</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Stephanie August</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Association for Computing Machinery's Special Interest Group on Computer Science Education (ACM SIGCSE) Symposium is the largest annual gathering of computer science educators, with over 1500 attendees in recent years.  Although the SIGCSE Symposium is an excellent venue for educators to disseminate their findings after a project has been completed, faculty who are currently working on projects often need to find collaborators to further their research.  Still other faculty have a research idea but are unsure where to start or how to best apply for funding from the National Science Foundation.  The NSF Showcase at the SIGCSE Symposium will provide a venue for current NSF grant recipients to present their work in progress, receive feedback, and recruit collaborators. The NSF Showcase will help NSF program officers provide information and guidance to help new researchers identify appropriate funding opportunities.  Over the past decade, hundreds of faculty members have presented at NSF Showcases, reaching thousands of computer science educators.  It is expected that this experience has helped them move their projects forward and disseminate their results.&lt;br/&gt;&lt;br/&gt;The core purpose of the NSF Showcase is to provide an opportunity for grant recipients from the National Science Foundation's Division of Undergraduate Education to present their projects at other times and in different ways than when final results are ready. The NSF Showcase is a cooperative effort between NSF and SIGCSE. NSF drives the project by providing a list of potential presenters, while SIGCSE ensures that the NSF Showcase has a prominent position at the SIGCSE Symposium. The NSF Showcase is designed to allow grant recipients to circulate their ideas as interactive presentations and demonstrations. Each project included in the showcase will be offered a presentation-ready mini-booth to use for a 90-minute session. Through informal interactions, principal investigators will be able to solicit feedback from peers and program officers as well as recruit collaborators and adopters. The NSF Showcase will also set space aside for program officer "office hours" throughout the symposium. The office hours are intended to provide occasions for potential grant writers and current PIs to consult with program officers early in the project cycle, and gain crucial insights that can improve the likelihood of the projects succeeding and findings being disseminated. The NSF Showcase has become a staple in the computer science education community over the years that it has been running at the SIGCSE Symposium.  Participants in the NSF Showcase routinely report that the Showcase had a significant impact on their work and helped them move their research forward.  Attendees of the Showcase see firsthand the work currently supported by NSF DUE. The Showcase strives to continue to provide a valuable service to the computer science education community and the SIGCSE Symposium through these opportunities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841616</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Sherriff</LastName>
+<EmailAddress>mss2x@virginia.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Bloomfield</LastName>
+<EmailAddress>asb2t@virginia.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229044195</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>P.O.  BOX 400195</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

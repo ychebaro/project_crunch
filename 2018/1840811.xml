@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Developing a National Market Platform for Trading Renewable Energy Certificates</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to eliminate the barriers to the trading of Renewable Energy Certificates (RECs) and to further accentuate the environmental and sustainability value of green energy production. A broad societal benefit of a national market for RECS (NaMaREC) is the increased adoption of renewable energy technology through projects such as community solar and wind farms leading to reduction in carbon footprints. This benefit is higher when the increasing need for energy due to growing populations is satisfied with more renewable energy. Renewable utilities will benefit from NaMaREC since it will allow them to expand their consumer base and reach consumers that may be willing to pay more for the certificate. Nonrenewable utilities can use NaMaREC to source RECs from cheaper regions, thus reducing their cost of compliance. Ultimately, NaMaREC will provide an avenue to communicate the economics of renewable energy adoption to the public through extensive interviews of potential customers. This project will form partnerships that includes the academia, industry, and start-up ventures to launch NaMaREC. &lt;br/&gt;&lt;br/&gt;This I-Corps project seeks to develop an online marketplace named NaMaREC (National Market for Renewable Energy Certificates) for the selling and buying of RECs. A REC is a non-tangible, tradable energy commodity in the U.S. that represents proof that 1 megawatt-hour (MWh) of electricity was generated from a renewable energy resource. Currently, there are isolated sellers or aggregators of RECs across the U.S. with trades that are neither harmonized nor integrated. The business thesis of NaMaREC is to harness the economics of scale in the aggregation of RECs in a national market. The underlying motivating value for RECs is that 29 states and three territories of the U.S. have a policy mandate that requires utilities to generate a certain percentage of their outputs from a renewable resource such as solar photovoltaic or wind technology by a target date. This mandate, Renewable Portfolio Standards (RPS), may be satisfied by these companies either by building the requisite renewable energy capacity or buying RECs to satisfy the RPS requirements. Isolated transactions of RECs have limited their market viability and accessibility by firms to meet their state-level RPS. NaMaREC will transform the trading of RECs in an integrated service that does not currently exist.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840811</AwardID>
+<Investigator>
+<FirstName>Ekundayo</FirstName>
+<LastName>Shittu</LastName>
+<EmailAddress>eshittu@gwu.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200520086</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress>1922 F Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

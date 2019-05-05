@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SPX: Collaborative Research: Moving Towards Secure and Massive Parallel Computing</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>0</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tracy Kimbrel</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Modern computing systems have moved beyond single-core, single-processor devices to more modern multi-core parallel processors operating in networked systems and available in warehouse-scale clouds popularized by industries and the government. This new parallel, interconnected, big-data world requires fundamental research on multiple levels from algorithms to systems and computer architecture. This project seeks to take initial steps in the study of the expansive set of algorithms and systems issues in this important research challenge by building and developing new general frameworks for massive parallel computation, often involving privacy and security, in real-life scenarios. &lt;br/&gt;&lt;br/&gt;The investigators' long-term goals include two directions.  As the first thrust of this effort, the investigators aim to design fundamental and efficient algorithms for massive parallel computations in the practical MapReduce framework, in particular by reducing the number of rounds in this framework. As the second thrust of this effort, the investigators aim to augment current parallel environments and architectures with better data structures and abstractions to develop simplified and fast implementations of fundamental algorithms such that everyone can use them in practice.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822805</AwardID>
+<Investigator>
+<FirstName>Elaine</FirstName>
+<LastName>Shi</LastName>
+<EmailAddress>elaine@cs.cornell.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>042Y</Code>
+<Text>SPX: Scalable Parallelism in t</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+</Award>
+</rootTag>

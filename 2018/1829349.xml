@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: Small: Collaborative Research: Distributed Approximate Packet Classification</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>149455</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Darleen L. Fisher</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Network traffic classification - assigning incoming packets to classes for processing based on pattern-matching rules - is critical for many network management tasks, including performance monitoring and fault diagnosis.  However, as the number of classification tasks grows, the resources required to store and apply the rules (switch memory in particular) can become scarce.  This project takes an end-to-end view of traffic classification, observing that in addition to the memory usage at switches, other, cheaper resources are involved in packet processing, specifically bandwidth to transfer selected packets to the receivers, and the receiver systems themselves. The proposed approach trades off memory for bandwidth by introducing overselection, in which approximate classification made in reduced memory introduces additional unwanted traffic. The idea is that in many applications, the side-effects of overselection are quite manageable; the project will investigate multiple types of applications such as middleboxes and packet scrubbers that can tolerate overselection. &lt;br/&gt;&lt;br/&gt;The approach involves a Cuckoo-filter-based approximate prefix matcher at switches, which stores classification rules with different prefix lengths. The key challenges in supporting distributed approximate packet classification include: (1) new data structures that best support the tradeoffs between memory and overselection; (2) new algorithms and systems that handle traffic dynamics and network dynamics with overselection; (3) systematic analysis of the impact of overselection on different network functions; and (4) spatial and temporal coordination of switches and receivers.  This project will enable innovations and redesign of these management applications relying on traffic classification in software defined networks (SDN), and thus lead to more efficiently managed enterprise and datacenter networks. Moreover, the work will facilitate interactions among theoretical and systems research. Finally, the principal investigators have a record of engaging underrepresented groups and undergraduates in research and plan to continue these engagements as part of this project.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829349</AwardID>
+<Investigator>
+<FirstName>Minlan</FirstName>
+<LastName>Yu</LastName>
+<EmailAddress>minlanyu@seas.harvard.edu</EmailAddress>
+<StartDate>04/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

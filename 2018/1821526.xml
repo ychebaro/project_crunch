@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I/UCRC Phase II at Colorado State University:  Center for Next Generation Photovoltaics</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>200000.00</AwardTotalIntnAmount>
+<AwardAmount>195998</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Prakash Balan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Energy sustainability represents one of the grand challenges facing modern society, and solar power provides an important source of renewable energy. Photovoltaics (PV), or solar cells, are solid-state semiconductor-based devices that converts sunlight directly to electricity and do not generate pollution, emissions, or greenhouse gases during operation.  The IUCRC for Next Generation Photovoltaics (NGPV or the Center) is one of the world's leading PV research consortia.  The NGPV promotes science and advances prosperity and welfare through the Center's successful, ongoing research and education programs. These programs are focused on bringing down PV system cost, increasing PV system efficiency, and enabling widespread the use of PV electricity. The Center's research vision is to make PV electricity a major source of energy. There are currently three research sites in the Center: Colorado State University (CSU), The University of Texas at Austin (UT Austin), and Texas A&amp;M University (TAMU).The CSU site of NGPV is focused on reducing the cost of solar energy through advancing thin film PV device performance, performing state-of-the-art materials characterization, streamlining manufacturing and improving module reliability.  The PV-training approach at CSU is strongly team based: students from different disciplines including a significant number of women and veterans work closely with each other, with engineers from industry, and in many cases with students at other universities. Three key PV technologies, developed at CSU, have been translated to industry.  &lt;br/&gt;&lt;br/&gt;A key goal of the CSU site is to continue to advance the state of the art by developing more sophisticated CdTe based device structures with higher efficiencies and improved understanding through advanced materials and electronic characterization.  Recently, the CSU site demonstrated device efficiency of 19.2%, the highest efficiency demonstrated for polycrystalline CdTe materials by any academic or national laboratory worldwide. These advances have been demonstrated on pilot scale systems with a direct line of sight to industrial manufacturing. A key research thrust is to demonstrate still higher cell efficiencies, with 25% being a realistic near-term (3 year) goal and 30% the longer term goal. The unique co-sublimation technology developed at CSU will be utilized for the fabrication of the advanced device structures. In addition to improving device efficiencies, research focus at CSU has progressed to improve module efficiency, improve reliability and facilitate deployment. The efforts will lead to lower LCOE (levelized cost of electricity) and help facilitate the goal of 2-3 cents/kWhr. Overall, center has the potential to further increase the impact of the multi-billion-dollar U.S. PV industry that is growing rapidly and greatly expand the application of solar electricity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/22/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821526</AwardID>
+<Investigator>
+<FirstName>W.S.</FirstName>
+<LastName>Sampath</LastName>
+<EmailAddress>walajabad.sampath@colostate.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kurt</FirstName>
+<LastName>Barth</LastName>
+<EmailAddress>barth@engr.colostate.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1504</Code>
+<Text>GRANT OPP FOR ACAD LIA W/INDUS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>019Z</Code>
+<Text>Grad Prep APG:Enhan. Experience</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

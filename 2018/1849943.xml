@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: A microfluidic technology for drug testing on small nematodes</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broad impact/commercial potential of this I-Corps project is an innovative high throughput technology for screening drugs in small animals including the popular model organism C. elegans, a millimeter-sized nematode. Age is a significant risk factor for a variety of diseases including cancer, cardiovascular ailments and neurodegenerative disorders. It is projected that by 2030, 20% of the US population will be 65 years or older indicating that with the growing aging population the incidence of these diseases is expected to rise. Likewise, soil-transmitted helminthic infections are prevalent worldwide and there is increasing evidence that parasitic nematodes are becoming resistant to available drugs. C. elegans is a low-cost and high throughput animal model for identifying drug candidates for age-related diseases and parasitic infections. The I-Corps project has the potential to address current bottlenecks in conducting high throughput drug assays in the C. elegans model, thereby paving the path for a drug discovery pipeline. The impact of this project is on alleviating the socio-economic burden associated with age-associated diseases and parasitic infections.&lt;br/&gt;&lt;br/&gt;This I-Corps project seeks to develop a microfluidics-based technology for automated drug testing on small nematodes. Current approaches to drug testing on C. elegans involve tedious steps of manual picking and transferring animals cultured on agar plates and moreover do not allow flexible control of culture environment. The proposed technology builds on basic principles of microscale flows, locomotion of active swimmers and crawlers, and low-cost wide-field imaging. Novel features of the technology for drug testing include an optimized microfluidic pillar arena that forms a habitat for growing animals, with unprecedented control over reagent delivery and culture environment. The low-cost wide-field imaging allows facile video recording of animal response to different drugs. The proposed innovation will markedly advance the throughput of in vivo drug and toxicity assays in an established, high throughput and low-cost animal model.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849943</AwardID>
+<Investigator>
+<FirstName>Siva</FirstName>
+<LastName>Vanapalli</LastName>
+<EmailAddress>siva.vanapalli@ttu.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794091035</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>349 Administration Bldg</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

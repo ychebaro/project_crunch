@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF:SMALL:Collaborative Research: Exploring Nonvolatility of Emerging Memory Technologies for Architecture Design</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>249000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuanyuan Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In modern computers, by combining the speed of traditional cache technology, the density of traditional main memory technology, and the non-volatility of flash memory, a new class of emerging byte-addressable nonvolatile memories (NVMs) have great potential to be used as the universal memories of the future. Such memory types include technologies such as phase-change memory, spin-transfer-torque magnetoresistive memory, and resistive memory. As these emerging memory technologies mature, it is important for computer architects to understand their pros and cons in a comprehensive manner in order to improve the performance, power, and reliability of future computer systems incorporating these systems which will be used in various application domains. Yet, most of previous research on NVM architecture is focused only on the performance, power, and density benefits and how to overcome challenges, such as write overhead and wearout issues. The non-volatility characteristic of NVM technologies is not fully explored. Therefore, this project examines how to exploit the non-volatility characteristic that distinguishes the emerging NVM technologies from traditional memory technologies, and investigate new memory architecture design with novel applications.&lt;br/&gt;&lt;br/&gt;The goal of this project is to advance the memory architecture design of various types of computer systems with a full exploration of the non-volatility characteristic of NVM technologies across architecture, system, and application levels. To this end, the project explores the design space of various types of computer systems, ranging from severs to embedded systems.  In particular, the project identifies and addresses design issues in nonvolatile cache architecture, re-architects main memory structure to leverage the non-volatility characteristic to improve system performance and energy consumption, supports persistent memory systems in various use cases with emerging NVM technologies, and studies near-data-computing techniques applied for these NVM technologies. The successful outcome of this research is expected to provide the design guidelines for enabling both large capacity and fast-bandwidth nonvolatile memory/storage, which are beyond the present state-of-the-art. Consequently, the research will spawn new applications involving the computation on the exascale of data, e.g., data mining, machine learning, visual or auditory sensory data recognition, bio-informatics, etc.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816833</AwardID>
+<Investigator>
+<FirstName>Yuan</FirstName>
+<LastName>Xie</LastName>
+<EmailAddress>yuanxie@ece.ucsb.edu</EmailAddress>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

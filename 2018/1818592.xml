@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Parallel Semiclassical Methods for Seismic Wave Propagation, Inversion, and Data Analysis</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>199928</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miao-Jung Ou</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Predicting seismic events, locating hidden resources and deepening our understanding of our planet's internal complexity require overcoming challenges from multi-interdisciplinary sciences including mathematics and geophysics. The proposed research will initiate projects to develop parallel semiclassical methods for seismic wave propagation, inversion and data analysis, with results computed, visualized and explored to create three-dimensional imaging of inner Earth structure. Specifically, the projects include development of the frozen Gaussian approximation (FGA) to handle elastic wave propagation in high-contrast, heterogeneous media, inversion of background velocity using full waveform inversion by constructing a surrogate model based on FGA to enlarge the search-function spaces used in the particle swarm method, and application of developed mathematical theory and associated computer programs to collected seismic data.&lt;br/&gt; &lt;br/&gt;The projects will develop semiclassical approaches for seismic wave propagation, inversion and data analysis, leading to quantitative imaging of our Earth's whole inner structure, and provide deep understanding of seismic activities. The research introduces a mathematically systematic way of attacking requests on reducing time of simulation in seismic tomography and inversion processes. More broadly, these new methods and models will provide fundamental advances in computational mathematics, leading to practical benefit in the field of geophysics, which plays such significant roles in responsible use of resources. The expected results will find applications in other emerging science and engineering fields such as spin-transfer torque in materials science and E. coli chemotaxis in biology, some of the problems the PI has also been working on.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818592</AwardID>
+<Investigator>
+<FirstName>Xu</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>xuyang@math.ucsb.edu</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

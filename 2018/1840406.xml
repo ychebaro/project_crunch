@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF-NextFlex Workshop on Accelerating Innovative Manufacturing Technology for Flexible Hybrid Electronics; San Jose, California; August 6-7, 2018</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>30480</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides support for planning, organization and execution of the joint NSF-NextFlex Workshop on Accelerating Innovative Manufacturing Technology for Flexible Hybrid Electronics being held in San Jose, California on August 6-7, 2018. The workshop is designed to engage the NSF academic research community and the NextFlex industry community in discussions on emerging topics in nanomanufacturing, and flexible hybrid electronics, all of which are integral to sustainability of advanced manufacturing in America, an enduringly important sector in the nation's economy. An outcome of the workshop is to identify the needs for research and education in support of addressing technological and scientific challenges facing the flexible hybrid electronics industry spearheaded by the NextFlex Manufacturing USA Institute. The workshop encourages participation of graduate students, postdoctoral fellows, early career faculty, and women and under-represented minorities in discussions on advanced manufacturing, nanomanufacturing and flexible hybrid electronics research and education, which is also important for the nation's prosperity. It stimulates ideas for future directions in research and career paths. Workshop outcomes are documented and disseminated as a workshop report and peer-reviewed publications. The workshop symbolizes the needed collaboration and cooperation between NSF and the Manufacturing USA institutes.&lt;br/&gt;&lt;br/&gt;The workshop's overarching objective is to foster partnerships and stimulate meaningful research collaborations between the NSF research community, especially, that formed by researchers in nanomanufacturing, flexible hybrid electronics (FHE) and related fields, and the NextFlex institute members, comprising of academia, government laboratories and industry. The workshop informs NextFlex partners of important advancements generating from NSF-funded research in flexible electronics and nanomanufacturing, giving them an opportunity to adopt novel technologies into their industrial-scale FHE systems. At the same time, the workshop informs NSF investigators of technological gaps in the FHE road-map and challenges and opportunities ensuing form NextFlex TRL 4-7 research efforts, both of which could be addressed through fundamental TRL 1-3 research, a task that NSF can fulfill. Additionally, the NSF researchers are made aware of NextFlex's capabilities, which may lead to opportunities for future research and student internships. Flexible hybrid electronics is a critical technology for the nation with applications in electronics, healthcare, communication, internet of things, military and security. To meet these demands, NextFlex has identified the need for new nanomaterials, device designs, integrated systems, process models and metrology as areas requiring fundamental understanding. Engaging industrial and academic researchers in discussing their work, sharing best practices, revealing gaps in research and practice is important in developing new research directions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840406</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Poliks</LastName>
+<EmailAddress>mpoliks@binghamton.edu</EmailAddress>
+<StartDate>06/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>S.</FirstName>
+<LastName>Sreenivasan</LastName>
+<EmailAddress>sv.sreeni@mail.utexas.edu</EmailAddress>
+<StartDate>06/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>018Y</Code>
+<Text>CM - Cybermanufacturing System</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1788</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>081E</Code>
+<Text>NANO SCALE ASSEMBLY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>082E</Code>
+<Text>MFG MACHINES &amp; METROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID:  Impacts of Hurricane Maria on tropical forest biogeochemistry: short-term response and long-term trajectory</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010209</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elizabeth Blood</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research will study the immediate effects of Hurricane Maria on the dynamics of organic carbon and nutrients in a tropical forest and the streams draining that forest to better determine how short-term impacts affect the long-term trajectory of forest and water resources following single and repeated disturbances. Hurricane Maria led to widespread canopy damage and litter deposition on the soil surface and in stream channels within the Luquillo Experimental Forest (LEF) in Puerto Rico. Understanding how organic carbon, phosphorus, and nitrogen within plant detritus are modified during their movement through soils and into streams, including any exchanges with the atmosphere, is critical to determining long-term ecosystem response to disturbance. The research conducted as part of this project will provide insights into the resilience and resistance of the LEF ecosystem, part of the El Yunque National Forest in the US National Forest System.  The PI team will work closely with scientists and students in Puerto Rico and facilitate local student and faculty research needs. The investigators will build the project results into a portfolio of presentations and outreach activities centered on the impacts of climate variability on terrestrial ecosystems. The project will promote diversity in science by supporting Puerto Rican students as laboratory personnel, providing training to other Hispanic students and post-doctoral scientists, and promoting gender equity in science through outreach and mentoring activities.&lt;br/&gt;&lt;br/&gt;This research makes use of a pre-existing hurricane simulation experiment allowing the researchers to test hypotheses about the effects of single and repeated hurricane disturbance on ecosystem processes, including biogeochemical translocations of carbon and nutrients through soil profiles and microbial activities in response to substrate availability and moisture conditions.  The research team will quantify the amount of litter deposited on the soil, measure soil carbon and phosphorus fractions, nitrogen mineralization, iron species, aluminum, and pH in soil profiles, soil lysimeters, and stream water. Microbial activity will be assessed while also targeting gene expression related to macromolecular carbohydrate degradation and nitrogen and phosphorus cycling. Transcript data sequenced via Illumina HiSeq will be mapped to assembled scaffolds from pre-existing metagenomes and provide a means of assessing changes in gene expression.  The research will provide the first comprehensive experiment of hurricane effects that characterizes the pre- and post-environmental conditions and biogeochemical cycling with soil depth, and across single and repeated disturbances. This group will also be the first to employ novel analyses of microbial activity, transcriptomics, and link this directly with biogeochemical indices in the context of disturbance and recovery.</AbstractNarration>
+<MinAmdLetterDate>12/01/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/01/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803044</AwardID>
+<Investigator>
+<FirstName>Whendee</FirstName>
+<LastName>Silver</LastName>
+<EmailAddress>wsilver@berkeley.edu</EmailAddress>
+<StartDate>12/01/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Berkeley</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947101749</ZipCode>
+<PhoneNumber>5106433891</PhoneNumber>
+<StreetAddress>Sponsored Projects Office</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>075Y</Code>
+<Text>Hurricane Maria 2017</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1181</Code>
+<Text>ECOSYSTEM STUDIES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+</Award>
+</rootTag>

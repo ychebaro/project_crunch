@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Support for the 2018 Power and Energy Conference, to be Held at the Univ. of Illinois at Urbana-Champaign, February 22-23, 2018.</AwardTitle>
+<AwardEffectiveDate>02/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan Baheti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 9th Annual Power and Energy Conference at Illinois (PECI) will take place on the campus of the University of Illinois at Urbana-Champaign in February 2018. The objective of this proposal is to request partial support for the registration and accommodation expenses of US-based undergraduate and graduate students traveling to the conference. Beginning in 2010, PECI is the oldest annual, student-run IEEE international conference about power and energy technology. PECI is an Institute of Electrical and Electronics Engineers (IEEE) approved conference and technically co-sponsored by PES, PELS, and IAS professional societies of IEEE. The conference is organized by the IEEE PES/PELS/IAS Joint Graduate Student Chapter at the University of Illinois at Urbana-Champaign and is advised by faculty in the Power and Energy area of the Electrical and Computer Engineering Department at the University of Illinois at Urbana-Champaign. PECI has become a perfect place in the Midwest for industry and academic researchers to discuss future power and energy topics such as renewable energy, machines for electric transportation, smart grid reliability, security of cyber-physical systems, and power electronics for emerging technologies. Thus, the intellectual merit of PECI are the student focused nature of the conference, from the student led steering committee to all technical and presentations, and the high quality publications and posters from student attendees.&lt;br/&gt;&lt;br/&gt;PECI was founded for three key reasons: 1) to provide students in the Midwest an opportunity to participate in a research conference, 2) to provide a forum for students in the Midwest to present their research progress and outcomes for feedback to a technical audience of peers, industry professional, and 3) to inspire both undergraduate and graduate students to pursue careers in power and energy STEM fields. While PECI impact has expanded over the last eight years to include participants from around the world, we have retained our Midwest roots and mission statement by encouraging participation from Midwest universities, especially undergraduate students for the poster session. By attending PECI students benefit from closer interactions with experts, professors, and industry professionals and&lt;br/&gt;potentially receive advice or mentorship for their future career. In addition to student technical presentations and posters, students also learn about the mega-trends in power and energy and cutting edge research from three industry leaders and experts, who deliver keynote presentations and tours of a local microgrid research facility and new ECE building. Moreover, the importance of pursuing a career in power and energy is highlighted by a special careers session involving industry presentations about research demands for power and energy companies and a panel discussion regarding what a career in industry, a national laboratory, academia, or government would entail. With support from NSF, PECI seeks to reach a wider audience with this impact by encouraging participation from a larger number of&lt;br/&gt;Midwest and US schools, especially schools that do not offer a Ph.D. degree.</AbstractNarration>
+<MinAmdLetterDate>02/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801146</AwardID>
+<Investigator>
+<FirstName>Peter</FirstName>
+<LastName>Sauer</LastName>
+<EmailAddress>psauer@illinois.edu</EmailAddress>
+<StartDate>02/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>Champaign</CityName>
+<ZipCode>618207406</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>1901 South First Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

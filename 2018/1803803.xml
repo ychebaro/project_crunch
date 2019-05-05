@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Linking Atmospheric CO2 to Millennial Changes in Atmospheric and Oceanic Circulation in the Eastern Equatorial Pacific Ocean over the Past 100 kyr</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>365851</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040200</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Larry Peterson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>To understand future climate change, we must know how climate varied in the past.  One of the biggest unknowns about past climate is the origin of atmospheric carbon dioxide (CO2) variability over global warm-cold cycles. This project will address potential causes of the varying atmospheric carbon dioxide by focusing on changes in the efficiency of fertilization of the surface ocean, and how, and if, that is related to changes in the deep-ocean. Furthermore, the research will investigate both the "how" of varying carbon dioxide with the "where", namely the Eastern Equatorial Pacific (EEP), an important region of the world ocean where, today, significant CO2 is exhaled to the atmosphere and the greatest rates of phytoplankton growth are found. The project will contribute to an improved understanding of global climate change and important Earth systems connected to the tropical Pacific Ocean. On the broadest of levels, understanding the past dynamics of Earth's carbon cycle is of fundamental importance to inform and guide societal policy-making in an increasing CO2 world. The project will support the educational and professional development of graduate and undergraduate students and results will be incorporated into the curriculum of undergraduate and graduate classes. In addition, a series of YouTube videos will be developed that are aimed at communicating the importance of how past climate variability informs us about climate's future variability and its potential impact on our lives.&lt;br/&gt;&lt;br/&gt;The project seeks to answer questions related to: 1) where and how atmospheric carbon dioxide was sequestered from the atmosphere, or ventilated from the ocean, on millennial timescales, and 2) how these carbon dynamics are related to both changes in atmospheric and oceanic circulation over the last glacial period and into the deglacial and Holocene. To address these objectives, an integrated suite of multiple proxies will be measured in two high accumulation rate sediment cores previously collected from the EEP. These proxies include: authigenic uranium as a proxy for bottom water oxygenation and radiocarbon ages of benthic foraminifera as a proxy for changes in the age of deep water in the EEP, 231Pa/230Th ratios and excess Ba fluxes as proxies for productivity, excess 230Th-derived 232Th flux as a proxy for dust flux, B/Ca ratios in planktonic foraminifera as a proxy for carbonate ion concentration of surface water, and Nd and Pb isotope ratios as a proxy for the provenance of the dust source of the detrital component of the sediment and, therefore, an index of Intertropical Convergence Zone migration. By investigating the storage of a respired carbon pool in the deep ocean during cold periods of the last glacial period (i.e., from ~71,000 to 14,000 years ago), in conjunction with probing how this storage relates to changes in export production and potential iron fertilization, the research will shed light on the mechanistic links between ocean (stratification/ventilation) and atmospheric (wind belt shifts) circulation and the modification of atmospheric CO2 levels.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803803</AwardID>
+<Investigator>
+<FirstName>Franco</FirstName>
+<LastName>Marcantonio</LastName>
+<EmailAddress>marcantonio@geo.tamu.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University Main Campus</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1620</Code>
+<Text>MARINE GEOLOGY AND GEOPHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1304</Code>
+<Text>EARTH SYSTEM HISTORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1312</Code>
+<Text>GREENHOUSE GAS DYNAMICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1389</Code>
+<Text>CARBON CYCLE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8070</Code>
+<Text>P2C2 Proposals</Text>
+</ProgramReference>
+</Award>
+</rootTag>

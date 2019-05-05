@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF-PREM: Center for Interfacial Electrochemistry of Energy Materials (CiE2M)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>3900000.00</AwardTotalIntnAmount>
+<AwardAmount>1288750</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Debasis Majumdar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Summary:&lt;br/&gt;The University of Puerto Rico, Rio Piedras Campus (UPRRP), Universidad Metropolitana (UMET) and Universidad del Turabo (UT), all located in Puerto Rico and Hispanic Serving Institutions (HSI), and the Cornell High Energy Synchrotron Source (CHESS) have teamed up in this educational and innovative collaborative materials research effort to bring together and develop a diverse and talented scientific interdisciplinary community with expertise in operando  synchrotron X-ray techniques to enhance energy storage and conversion devices. In this collaborative effort, graduate and undergraduate students will perform research at their home institutions and at CHESS, to study the electrochemical processes associated with energy conversion and storage technologies.  This Partnership in Research and Education for Materials (PREM) project will impact participating students' education by offering new tailored courses in their curriculum, and by developing workshops and making training opportunities available to them in strong collaboration with CHESS.  The results of this research and educational partnership among UPR-UMET-UT-CHESS will be disseminated in publications in peer-reviewed journals and conference presentations.  Workshops and synchrotron hands-on activities will also be developed for K-12 students to motivate their interest in energy-based technologies and as well as the use of high-energy X-ray synchrotron techniques through close interactions and collaborations with CHESS.&lt;br/&gt;&lt;br/&gt;Technical Summary:&lt;br/&gt;This collaborative effort brings the synergistic expertise of a diverse group of scientists to address fundamental issues related to electrochemical energy storage and conversion devices.  The project is led by Dr. Carlos R. Cabrera, from the Department of Chemistry at UPRRP, and Dr. Joel D. Brock, Director of CHESS at Cornell University.  The collaborative efforts among UPRRP, UMET, UT and CHESS are spread over three interdisciplinary research groups (IRGs).  Each IRG will embrace the use of unique, yet complementary, strategies related to energy conversion and storage and synchrotron based techniques:&lt;br/&gt;&lt;br/&gt;IRG 1. Nanostructured electrocatalytic materials: To develop a fundamental understanding of the processes that govern reactivity at the interface of alkaline fuel cells by combining efforts in materials chemistry and fundamental electrochemistry along with operando X-ray techniques;&lt;br/&gt;IRG 2. Nanostructured materials for dye-sensitized solar cells (DSSCs): Establish a fundamental understanding of structural changes of DSSCs under operando conditions, by X-ray absorption studies; and&lt;br/&gt;IRG 3. Porous nanostructured materials for energy storage: Develop a state-of-the-art protocol for electrolyte nano-confinement effects, electrode structural changes upon intercalation, and for the interfacial electrochemical energy transfer mechanism in composite electrode materials.&lt;br/&gt;&lt;br/&gt;This collaborative team will organize conference meetings at UPR and at CHESS to enable participants to present their research findings and to establish new innovative ideas to increase our understanding of interfacial electrochemical processes associated with energy conversion and storage technologies.  Regular meetings will enable participating students to develop as a workforce on energy materials using synchrotron-based techniques.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827622</AwardID>
+<Investigator>
+<FirstName>Joel</FirstName>
+<LastName>Brock</LastName>
+<EmailAddress>jdb20@cornell.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Cabrera</LastName>
+<EmailAddress>carlos.cabrera2@upr.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mitk'El</FirstName>
+<LastName>Santiago</LastName>
+<EmailAddress>msantiago326@suagm.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lisandro</FirstName>
+<LastName>Cunci</LastName>
+<EmailAddress>cuncil1@suagm.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Vilmali</FirstName>
+<LastName>Lopez-Mejias</LastName>
+<EmailAddress>vilmali.lopez@upr.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Puerto Rico-Rio Piedras</Name>
+<CityName>San Juan</CityName>
+<ZipCode>009252512</ZipCode>
+<PhoneNumber>7877634949</PhoneNumber>
+<StreetAddress>18 Ave. Universidad, Ste.1801</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Puerto Rico</StateName>
+<StateCode>PR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7913</Code>
+<Text>PREM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

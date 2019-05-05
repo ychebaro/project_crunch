@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Human-Computer Cooperation for Word-by-Word Question Answering</AwardTitle>
+<AwardEffectiveDate>12/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardAmount>287072</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>D.  Langendoen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This CAREER project investigates how humans and computers can work together to answer questions.  Humans and computers possess complementary skills: humans have extensive commonsense understanding of the world and greater facility with unconventional language, while computers can effortlessly memorize countless facts and retrieve them in an instant. This proposal helps machines understand who people, places, and characters are; how to communicate this information to humans; and how to allow humans and computers to collaborate in question answering using limited information.  A key component of this proposal is answering questions word-by-word: this forces both humans and computers to answer questions using information as efficiently as possible.  In addition to embedding these skills in question answering tasks, this proposal has an extensive outreach program to exhibit this technology in interactive question answering competitions for high school and college students.&lt;br/&gt;&lt;br/&gt;This research is possible by a new representations of entities in a medium-dimensional embedding that encodes relationships between entities (e.g., the representation of "Goodluck Jonathan" and "Nigeria" encodes that the former is the leader of the latter) to enable the system to answer questions about Nigeria.  We validate the effectiveness of these representations both through traditional question answering evaluations and through interactive experiments with human collaboration to ensure that we can visualize these representations effectively.  In addition to helping train computers to answer questions, we use opponent modeling and reinforcement learning to help train humans to better answer questions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822494</AwardID>
+<Investigator>
+<FirstName>Jordan</FirstName>
+<LastName>Boyd-Graber</LastName>
+<EmailAddress>jbg@umiacs.umd.edu</EmailAddress>
+<StartDate>03/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

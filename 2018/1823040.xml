@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Subsurface Processes In the Critical Zone: Observation, Experimentation and Modeling (SPIC training school): Cargese Training Workshop</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>56712</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Holly Barnard</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project supports the participation of 16 US graduate students and post-doctoral researchers in a training workshop on observation, experimentation and modeling subsurface processes in the Critical Zone. The workshop will take place at Institute of Scientific Studies of Cargese (IESC) Corsica, France. The Cargese workshop will provide a high-level interdisciplinary overview and training on flow, transport and biogeochemical processes, experimental methods and numerical and statistical modelling in critical zone environments. Multiple sessions led by invited scientists from around the world will discuss emergent scientific questions and approaches in critical zone science. The event will address the interfaces of hydrology, hydrogeology, biogeochemistry, geomorphology, microbiology and ecology.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This project supports the participation of 16 US graduate students and post-doctoral researchers in a training workshop on observation, experimentation and modeling subsurface processes in the Critical Zone. The workshop will take place at Institute of Scientific Studies of Cargese (IESC) Corsica, France from 25 June to 7 July, 2018. The Cargese workshop will provide a high-level interdisciplinary overview and training on flow, transport and biogeochemical processes, experimental methods and numerical and statistical modelling in critical zone environments. In particular, sessions lead by leading scientists from around the world will discuss emergent scientific questions and approaches in critical zone science. The event will address the interfaces of hydrology, hydrogeology, biogeochemistry, geomorphology, microbiology and ecology.  The main topics to be addressed are (1) the water cycle: interaction between groundwater and surface water, eco-hydrology; (2) fluid flow and transport: multiphase flow, mixing and reactive transport, coupling flow/transport with biological activity, thermo-hydromechanics, complex fluids and biofilms; (3) experimental methods: hydrogeological and hydrogeophysical characterization, seismic noise tomography, bio-geophysics, micro-scale and microfluidic imaging; and (4) numerical and stochastic modelling methods, data analysis, inverse problem, upscaling, uncertainty analysis and geostatistics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823040</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Selker</LastName>
+<EmailAddress>selkerj@engr.orst.edu</EmailAddress>
+<StartDate>03/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1579</Code>
+<Text>HYDROLOGIC SCIENCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7295</Code>
+<Text>GEOBIOLOGY &amp; LOW TEMP GEOCHEM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Exploring the Higgs Portal with Exotic Decays and New Strategies for Muon Triggering and Readout in ATLAS</AwardTitle>
+<AwardEffectiveDate>10/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>800000.00</AwardTotalIntnAmount>
+<AwardAmount>320000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Randy Ruchti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Following the discovery of the Higgs boson at the Large Hadron Collider (LHC) at CERN, Geneva, Switzerland, a primary scientific goal of high energy physicists has been to characterize the properties of this new particle. The Higgs itself is a potential portal to new physics, providing connections between the Standard Model of particle physics and new phenomena, such as signatures of possible new forces of nature or evidence of dark matter. Through this CAREER Award, Martinez Outschoorn and her UIUC research team will address such issues both analytically and technically in the ATLAS Experiment.   &lt;br/&gt;&lt;br/&gt;The UIUC group is developing and implementing new analytical tools to search for Higgs bosons decaying into pairs of hypothetical new spin-zero particles, which subsequently decay into known particles such as b-quarks, electrons and muons that can be observed directly in the ATLAS detector.   This is tactically challenging, because although the Higgs Mass is large, the masses of the sought for spin-zero particles are low and the energies of the observed particles are similarly low. Additionally, these events are expected to be very rare, and to find them requires high intensity colliding beams at the LHC over several years.  To enhance the technical capabilities of the ATLAS detector to observe these particles, the UIUC group is collaborating with ATLAS colleagues in the development of new electronics upgrades to the experiment, to allow for the effective triggering and recording of these particles.   &lt;br/&gt;&lt;br/&gt;Martinez Outschoorn brings significant experience in outreach and education to her companion program called the "Particle Adventure", which will connect elementary and middle school students in grades 4-8, including children from underrepresented and at-risk groups, to the excitement of physics with the aid of undergraduate and graduate student volunteers from the UIUC Physics Department.  This creative project brings concepts of particle physics into school classrooms in an interactive way and provides opportunities for young students to interact with physicists at work both locally and at CERN.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830832</AwardID>
+<Investigator>
+<FirstName>Verena Ingrid</FirstName>
+<LastName>Martinez Outschoorn</LastName>
+<EmailAddress>vimartin@illinois.edu</EmailAddress>
+<StartDate>03/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1221</Code>
+<Text>ELEMENTARY PARTICLE ACCEL USER</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

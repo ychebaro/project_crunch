@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:   Effects of Environmental Contaminants on the Lignocellulosic Biomass in Switchgrass Plants</AwardTitle>
+<AwardEffectiveDate>02/09/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>84962.00</AwardTotalIntnAmount>
+<AwardAmount>84962</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>1624331&lt;br/&gt;Van Aken&lt;br/&gt;&lt;br/&gt;Growing bioenergy feedstock plants on contaminated land for the combined benefit of bioenergy production and land bioremediation is an attractive strategy which has the potential to increase the cost-efficiency of plant-based biofuel. Production of bioethanol from lignocellulosic biomass, second generation bioethanol, is currently considered one of the most sustainable options for reducing dependency on fossil fuel and reducing carbon dioxide emissions, while limiting competition with land for food production. The plant selected for this study is the lignocellulosic feedstock species, switchgrass (Panicum virgatum), which is a model plant to study the production of second-generation bioethanol. &lt;br/&gt;&lt;br/&gt;The overall objective of the proposed research is to determine the physiological and molecular effects of the phytotoxic antibiotic, chlortetracycline, on the biomass productivity and digestibility in the lignocellulosic plant, switchgrass. The contaminant that will be tested is the model emerging contaminant, chlortetracycline, which is known to exert toxic effects toward most plant species. The proposed research involves the two following specific aims: 1. To determine the effects of the phytotoxic emerging contaminant, chlortetracycline, on the biomass productivity, composition, and digestibility in the model lignocellulosic feedstock plant, switchgrass (Panicum virgatum). 2. To understand the molecular mechanisms by which chlortetracycline affects the biomass productivity and lignocellulose composition in exposed switchgrass plants. Using a combination of analytical and molecular biology methods, the proposed research will address the following questions: 1. What is the tolerance of switchgrass plants toward the selected contaminant, chlortetracycline? 2. How will chlortetracycline affect switchgrass plants in terms of biomass productivity, lignocellulose digestibility, and bioethanol conversion? 3. What are the genetic and molecular bases underlying the changes in biomass and biomass composition (e.g., lignin) in chlortetracycline-exposed plants? The research team brings complementary expertise in phytotechnology, molecular biology, and spectral analyses to conduct the research. Besides the research objectives outlined above, this project will integrate research and education, at the University and include the participation of high school students.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841793</AwardID>
+<Investigator>
+<FirstName>Benoit</FirstName>
+<LastName>Van Aken</LastName>
+<EmailAddress>bvanaken@gmu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>ENVIRONMENTAL ENGINEERING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

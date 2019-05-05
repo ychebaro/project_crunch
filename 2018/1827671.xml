@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Development of a Single-Molecule Electronic Biosensor</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project is to create a new type of biosensor for biomedical research.  Biosensors are key tools in the study of how molecules bind to each other.  Proteins, antibodies, peptides, DNA strands, and medicines all bind and release each other in ways that are critical for human health; and the study of these binding interactions is critical to finding new medicines, detecting diseases, and understanding our own biology.  Better biosensors lead to better health outcomes, and the prototype biosensor developed by this project aims to reveal molecular interactions that are presently hidden to all other types of biosensors currently in use.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposed project will achieve this goal using recent innovations in biosensing research.  Specifically, electronic, solid-state biosensors have been successfully commercialized; and compatible single-molecule electronics have been proven to be useful for precision measurements of biochemical activity.  The technical objective of this project will be a proof-of-concept hybrid device that combines conventional ensemble sensing side-by-side with complementary, electronic monitoring of single-molecule binding kinetics.  This combination of simultaneous ensemble and single-molecule monitoring does not exist in any commercial sensor, but it provides new opportunities to break through fundamental limitations faced by all ensemble biosensors.  Specifically, the project hypothesizes that the combined data will extend the biosensor's effective dynamic range and help eliminate false positive and false negative results.  If successful, this type of hybrid sensor could establish a new paradigm where single-molecule data are leveraged in sensors generally to better inform end users in biology, healthcare, and manufacturing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827671</AwardID>
+<Investigator>
+<FirstName>Philip</FirstName>
+<LastName>Collins</LastName>
+<EmailAddress>collinsp@uci.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

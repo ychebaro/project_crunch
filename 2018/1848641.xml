@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:Experimental Deployment of the ARTEMIS BGP Hijacking Detection Prototype in Research and Educational Networks</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>184985</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Micah Beck</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Internet suffers from a design flaw affecting the security of global routing, exposing it to a class of large-scale attacks that can cause significant portions of network traffic to be diverted across the globe.  The potential impact of these attacks - known as BGP hijacking - can range from massive eavesdropping to identity spoofing or selective content modification. In addition, executing such attacks does not require access or proximity to the affected links and networks, posing increasing risks to national security. Recently, researchers at CAIDA, UC San Diego, proposed a novel methodology (called ARTEMIS) to detect and mitigate BGP hijacking attacks that is radically different from the state of the art but that network operators find promising and more in line with their needs.  In this project, researchers carry out a first experimental assisted deployment of ARTEMIS in few selected operator networks supporting education, research and other no-profit activities in the US.  This project significantly contributes to transitioning from a prototype mainly based on theoretical foundations and controlled experiments into a real platform that can be practically used by operators to secure their networks.  The project also contributes to improving the security of networks participating in the project, with an immediate positive effect on the security of infrastructure critical to our society. &lt;br/&gt;&lt;br/&gt;This project is a collaboration among researchers and selected research and education network operators to carry out an experimental deployment of ARTEMIS detection and mitigation techniques in their networks.  The main goals of such experimentation are: i) to evaluate the ARTEMIS methods and their implementation in real operational scenarios; ii) to learn and address real deployment technical issues; iii) to train operators in the use of the tool and contribute to improve the security of their networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848641</AwardID>
+<Investigator>
+<FirstName>Alberto</FirstName>
+<LastName>Dainotti</LastName>
+<EmailAddress>aldainotti@ucsd.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alistair</FirstName>
+<LastName>King</LastName>
+<EmailAddress>ajking@ucsd.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

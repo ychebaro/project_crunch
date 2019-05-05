@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>New Cosmological Constraints from the Lyman-alpha Forest</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>457722.00</AwardTotalIntnAmount>
+<AwardAmount>457722</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bevin Zauderer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The investigators will use intergalactic hydrogen maps to better understand how the Universe began. Hydrogen, the most common element in the Universe, is seen when backlit by bright objects.  The observed maps of hydrogen across the sky yields important insights about how and why the Universe looks the way it does.  This project will use new computer simulation techniques  to better explain the observed hydrogen maps. These simulations will be made available widely to scientists and the general public.  The simulations will also be shown in public talks and used to teach cosmology at UC Riverside.  Additionally, this program will develop a hands-on workshop for K-12 students, compatible with the Next Generation Science Standards (NGSS), in both English and Spanish.&lt;br/&gt;&lt;br/&gt;This program will produce new constraints on cosmological parameters from the distribution of neutral hydrogen in the Universe. A suite of cosmological simulations will be performed, and a public likelihood function made available to the community. The investigators will prepare for the first major data release in 2021 by the Dark Energy Spectroscopic Instrument (DESI). Improved models will be implemented for gas temperature and for elements other than hydrogen. The program will constrain neutrino mass and models of inflation. The results will enable a variety of other work on extensions to the standard cosmological model.  The astronomy workshops for K-12 students will include activities adopting a cognitive learning strategy, helping students to connect abstract concepts to concrete experiences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817256</AwardID>
+<Investigator>
+<FirstName>Simeon</FirstName>
+<LastName>Bird</LastName>
+<EmailAddress>sbird@ucr.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210217</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>Research &amp; Economic Development</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

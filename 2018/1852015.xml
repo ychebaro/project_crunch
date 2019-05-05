@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site:  Frontiers of Materials Chemistry</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>312000.00</AwardTotalIntnAmount>
+<AwardAmount>312000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Melissa Olson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This REU site award to the University of Texas at Austin, located in Austin, TX, supports the training of 10 students for 10 weeks during the summers of 2019-2021. This site is supported by the Department of Defense in partnership with the NSF REU program and the Division of Chemistry. Participants engage in research projects encompassing materials chemistry. Participants are mentored in research groups that discover, design, develop and characterize new biomaterials and energy materials. This program emphasizes laboratory safety, development of scientific communication skills, and inclusivity.  Participants are exposed to career opportunities and broader applications of materials chemistry via an interdisciplinary seminar series, with speakers from industry and academia. The principles of lab safety are showcased by training participants to be Student Safety Officers, engagement in a peer-to-peer lab safety assessment program, and creation of safety videos. The overarching theme of inclusivity aims to develop a strong sense of community.&lt;br/&gt;&lt;br/&gt;Participants' research projects include development of new biomaterials by combining self-assembly, templating and nanotechnology; design and development of energy materials such as photovoltaic, energy storing, or catalytic materials; and development of new spectroscopic and microscopy strategies for materials analysis. This program targets underrepresented minorities and rising sophomore students in chemistry and chemical engineering. By targeting early career students, this program's intensive training instills a passion for discovery that accelerates success in college and retention of students in science and engineering fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/18/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852015</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Brodbelt</LastName>
+<EmailAddress>jbrodbelt@cm.utexas.edu</EmailAddress>
+<StartDate>04/18/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1986</Code>
+<Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>S153</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>7736</Code>
+<Text>DOD ASSURE PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+</Award>
+</rootTag>

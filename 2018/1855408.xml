@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Maintenance Planning for Complex Systems in  Dynamic Environments</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>244237</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Equipment failures in capital-intensive industries, such as oil and gas exploration, aerospace, and power generation, may threaten human lives and have significant environmental and economic impact.  Many of these equipment failures can be traced to poor equipment maintenance.  One criticism of existing maintenance planning is that the existing predictive failure models do not accurately reflect degradation resulting from multiple causes in dynamic environments.  This project addresses the need for better planning models and analysis to enhance equipment reliability in capital-intensive industries.  The PIs have established collaborations with industrial partners to ensure the relevance of their research.  Educational opportunities for students, including outreach to underrepresented minorities, is also supported by the award.  &lt;br/&gt;&lt;br/&gt;This award will support research on a general and systematic methodology for effective reliability modeling and maintenance planning for critical complex systems in capital-intensive industries.  To successfully accomplish the goal, four specific objectives will be achieved: (1) developing a broad class of general stochastic models that can integrally handle the complexities of degradation processes under dynamic environments; (2) constructing general stochastic-modulated multi-dimensional stochastic processes to model the multiple dependent degradation processes under dynamic environments; (3) creating a general mixture degradation framework to capture heterogeneities at both population and unit-levels; and (4) developing a unified maintenance decision-making framework that jointly integrates long-term maintenance planning and short-term dynamic decisions. Successful development of these models will lead to fundamentally new perspectives on the application of reliability and maintenance optimization for complex engineered systems.</AbstractNarration>
+<MinAmdLetterDate>11/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>11/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855408</AwardID>
+<Investigator>
+<FirstName>Yisha</FirstName>
+<LastName>Xiang</LastName>
+<EmailAddress>yisha.xiang@ttu.edu</EmailAddress>
+<StartDate>11/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794091035</ZipCode>
+<PhoneNumber>8067423884</PhoneNumber>
+<StreetAddress>349 Administration Bldg</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071E</Code>
+<Text>MFG ENTERPRISE OPERATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>078E</Code>
+<Text>ENTERPRISE DESIGN &amp; LOGISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

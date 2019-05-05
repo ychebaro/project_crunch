@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dimension reduction for high-dimensional high-order data</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100001.00</AwardTotalIntnAmount>
+<AwardAmount>100001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nandini Kannan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>High-dimensional, high-order data commonly arise from a wide range of applications, such as neuroimaging, microbiology, bioinformatics, longitudinal studies, and material sciences. These data possess distinct characteristics compared with traditional low-dimensional or low-order data and pose unprecedented challenges to the statistical community. Dimension reduction often becomes the crucial first step in order to better summarize, visualize, and analyze high-dimensional high-order data. One natural approach is to unfold high-order data into matrices, followed by the use of well-established matrix dimension reduction methods. However, such operations often lead to loss of information on the intrinsic data structures and sub-optimal statistical results of subsequent analyses. In addition, the naive generalization of traditional statistical methods to high-dimensional, high-order data is often statistically or computationally infeasible. Therefore, there is a critical need for new high-dimensional high-order data dimension reduction methods.&lt;br/&gt;&lt;br/&gt;In this project, the PI plans to develop new theories, methodologies, and computational algorithms to address a series of fundamental problems in high-dimensional, high-order data dimension reduction. The project will be focused on four major areas: (i) a general framework for regularized tensor SVD; (ii) provable regularized tensor decomposition via alternating annealing; (iii) high-order PCA with theoretical guarantees by a new high-order spiked covariance model; (iv) dynamic network community detection via tensor methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811868</AwardID>
+</Award>
+</rootTag>

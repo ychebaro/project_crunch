@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Building Foundations for Undergraduate Success in STEM</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardAmount>999814</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen Keene</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The NSF Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM) program supports the retention and graduation of high-achieving, low-income students with demonstrated financial need.  During the five-year period of funding, this S-STEM project at Calvin College will fund scholarships for up to 36 students, in three groups of 12 students, who are pursuing bachelor's degrees in biology, chemistry/biochemistry, computer science, engineering, mathematics, or physics. In addition, these students will receive enhanced academic and vocational mentoring, be part of an intentional S-STEM cohort community, and enroll in special sections of chemistry, calculus, and computer science (as is appropriate for their desired academic program) in which research-based interventions will be implemented to enhance student learning. &lt;br/&gt;&lt;br/&gt;The proposed activities will adapt and combine interventions that have been used in other contexts, to improve retention at Calvin College, a mid-sized liberal arts college. A first-year seminar will include a social-belonging exercise, pioneered at Stanford University and implemented for retention of at-risk students at the University of Texas-Austin. Classroom interventions that originate from current best practices and use active-learning methods will be incorporated into introductory chemistry, calculus, and computer science courses that have higher than average failure rates. The project will assess: 1) whether interventions developed elsewhere can be generalized to this cohort of low-income/high-potential first-year students; 2) whether the gains made in these courses by the S-STEM cohort will lead to long-term persistence in STEM through to graduation; and 3) whether these interventions work equally well for distinct sub-populations (e.g., females) within our cohort. The data will enable comparisons to be made between the S-STEM cohort and others who only receive the classroom interventions.  This project has the potential to strengthen STEM education, contribute to the STEM workforce, and provide new insights into practices to promote success of undergraduates in STEM degree programs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833847</AwardID>
+<Investigator>
+<FirstName>Arlene</FirstName>
+<LastName>Hoogewerf</LastName>
+<EmailAddress>ahoogewe@calvin.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Victor</FirstName>
+<LastName>Norman</LastName>
+<EmailAddress>vtn2@calvin.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Bolt</LastName>
+<EmailAddress>mbolt@calvin.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carolyn</FirstName>
+<LastName>Anderson</LastName>
+<EmailAddress>cea3@calvin.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Herbert</FirstName>
+<LastName>Fynewever</LastName>
+<EmailAddress>herb.fynewever@calvin.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Calvin College</Name>
+<CityName>GRAND RAPIDS</CityName>
+<ZipCode>495464301</ZipCode>
+<PhoneNumber>6165266000</PhoneNumber>
+<StreetAddress>3201 BURTON ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1536</Code>
+<Text>S-STEM:SCHLR SCI TECH ENG&amp;MATH</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

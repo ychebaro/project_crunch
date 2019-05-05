@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAISE:TAQS: High Dimensional Frequency Bin Entanglement -- Photonic Integration and Algorithms</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique M. Dagenais</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Entanglement, a fundamentally quantum mechanical phenomenon in which the wave functions of particles are correlated such that their inseparable states must be written as coherent superpositions, is a&lt;br/&gt;key resource for quantum information processing (QIP). Typical QIP systems are based on two-level&lt;br/&gt;quantum states, also called qubits. However, high-dimensional systems based on qudits (high&lt;br/&gt;dimensional units of quantum information) have several potential advantages over the conventional two-dimensional qubit systems most commonly explored, including higher information capacity per particle&lt;br/&gt;and stronger immunity to noise. &lt;br/&gt;This proposal focuses on high dimensional photon entanglement in the frequency degree of freedom, also referred to as biphoton frequency combs (BFCs). &lt;br/&gt;The proposed project seeks to advance the science and technology of frequency-encoded photons for quantum information processing. &lt;br/&gt;This project should provide excellent opportunities for training of students.&lt;br/&gt;&lt;br/&gt;Technical: This highly interdisciplinary project will advance knowledge in many fronts. (1) Rigorous certification of coherence and entanglement in high dimensional BFC photons is fundamental to the future application of frequency-bin encoded photons. (2) The proposed photonic integration effort could lead to a new class of quantum chips architected for generation, preparation, measurement, and processing of high dimensional BFC states. Compared to prior work with discrete components, implementation in integrated photonics can lead to much lower losses, which is critical to scaling to more complex or cascaded operations and to demonstrating entanglement in even higher dimensions. (3) Algorithms for quantum computation using qudits have been underexplored compared to their qubit counterparts. This project will produce new quantum simulation methodologies that seek to exploit high dimensional (qudit) encoding for efficient representation of complex many-body systems with high dimensional degrees of freedom, such as the Holstein Hamiltonian describing polaron/polariton quasiparticles resulting from the coupling between electronic/excitonic modes and vibrational modes. (4) The team will design and perform proof-of-concept experiments using photonic hardware to realize selected aspects of the developed quantum algorithms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839191</AwardID>
+<Investigator>
+<FirstName>Sabre</FirstName>
+<LastName>Kais</LastName>
+<EmailAddress>kais@purdue.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Minghao</FirstName>
+<LastName>Qi</LastName>
+<EmailAddress>mqi@purdue.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Weiner</LastName>
+<EmailAddress>amw@ecn.purdue.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>049Z</Code>
+<Text>RAISE-Research Advanced by Interdiscipli</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>095E</Code>
+<Text>Photonic integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

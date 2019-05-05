@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mechanobiology of Epithelial Monolayers under Shear Loading</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>570736</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michele Grimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mechanical interactions between cells govern the basic processes of life.  We don't understand these mechanical effects enough, however, to explain many of the important questions in multicellular biology, tissue development, and disease progression that we already know are dependent on intercellular forces. Maintenance and turnover of the attachments between cells (adhesions) is critical to how cells can form a barrier between different parts of organs.  Adhesion is important to wound healing, and also disruption of cell-cell adhesion is a precursor to cancer metastasis. Organ formation, wound healing and cancer metastasis involve large deformations and force generation, yet the mechanisms underlying the dynamic regulation of cell adhesions, how cells slide or shear past one another, or how cell-cell adhesions function under mechanical loading are not yet understood. The research goal is to understand how tissues distribute and respond to shear force transmitted through cell-cell junctions.  The project will test how shear modifies collective cell behavior and reorganization of cellular architecture. Such changes are coupled to the biomechanical properties of cells and ultimately regulate tissue integrity, barrier functions and homeostasis.  The research results will be incorporated into modules for teaching basic Engineering and Biology courses, and the development of undergraduate research experiences within our laboratories. The PIs actively participate in community outreach and research experiences for teachers and under-represented students.&lt;br/&gt;&lt;br/&gt;This research combines custom micro-fabricated cell culture platforms with force-sensing and displacement-actuation with mechanical analyses and cell biological methods such as pharmacological inhibitors and knockout cell lines. We study how externally applied and cell-generated forces dynamically modify collective cell behavior in response to shear disruption. Physiological development exhibits slow deformations while injury occurs on a faster timescale, thus we test the idea that collective cell mechanoresponse depends not only on load and tissue rigidity, but also on the applied loading rate. We will test the idea that dynamic cell-cell adhesion is governed by protein catch bonds with force- and rate-dependence. This work will deliver new platform technologies for mechanical manipulation and observation of epithelial tissues and test new models of force transfer and cell-cell communications across cell-cell adhesions and the cytoskeleton. Insights gained in this work will increase our understanding of epithelial homeostasis which underlies normal barrier function in each organ system.</AbstractNarration>
+<MinAmdLetterDate>05/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834760</AwardID>
+<Investigator>
+<FirstName>Beth</FirstName>
+<LastName>Pruitt</LastName>
+<EmailAddress>blp@ucsb.edu</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7479</Code>
+<Text>Biomechanics &amp; Mechanobiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

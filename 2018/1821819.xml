@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase I IUCRC The Georgia Institute of Technology: Center for Fiber-Wireless Integration and Networking for Heterogeneous Mobile Data Communications (FiWIN)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitri Perkins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Fiber-Wireless Integration and Networking (FiWIN) Center for Heterogeneous Mobile Data Communications is an NSF Industry/University Cooperative Research Program (I/UCRC) led by the Georgia Institute of Technology (GT) since 2015. Based on recognized research leadership and accumulated expertise in integrated fiber-wireless access technologies, FiWIN is favorably positioned to make substantial contributions to access network architectures, functional designs of network elements, and optimized system interfaces and operations for the globally competitive next generation mobile communication networks. FiWIN has successfully completed the first three years of operation. The center expands its scope with the addition of Auburn University (AU) as a Member Site in 2018.&lt;br/&gt;&lt;br/&gt;GT has been and continues to be a leading global player in the development of fiber wireless integration and networking technologies for delivering high data rate, large capacity and low latency multi-band 5G services. The combined expertise of AU and GT will expand FiWIN's scope to develop radio frequency (RF) integrated circuits for beamforming in coordinated multi-point transmission, in mission-critical sensors for industrial and health Internet of Things (IoT) applications and in heterogeneous cell coverage with mobile edge computing. Mutual synergy will foster advances in data compression algorithms, bandwidth efficient waveform and modulation, and machine learning to autonomously mitigate nonlinear behaviors of 5G network elements.&lt;br/&gt;&lt;br/&gt;An affordable and reliable advanced communication network will drive academic innovation and business agility for providing a vital gateway for economic and societal growth. The continuing rise of social media and artificial intelligence will revolutionize on how we interact with the internet, the machines and with one another. It will enable new kinds of data analytics to be harnessed for tangible business, education and everyday life benefits. Outcomes of our research will be innovative technologies to benefit US competitive industrial offerings for 5G systems and cloud/fog computing by teaching and fostering students to be ready for a versatile and skilled workforce. &lt;br/&gt;&lt;br/&gt;All FiWIN Center research products are published in archival journals or conference proceedings in compliance according to the Center's Membership agreement and Bylaws. A reference library containing archival research products (Annual reports, Industrial Advisory Board (IAB) presentations, student project proposals and outcome presentations, and a list of publications) will be maintained and updated and be accessible to FiWIN Center Members, FiWIN research team members, and general public with security protection for a period of 5 years after the Center has graduated. An interactive web-based server http://fiwin.org will be used for sharing scientific data products with IAB members and the public.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821819</AwardID>
+<Investigator>
+<FirstName>Hua</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>hua.wang@ece.gatech.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gee-Kung</FirstName>
+<LastName>Chang</LastName>
+<EmailAddress>gkchang@ece.gatech.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Barry</LastName>
+<EmailAddress>barry@ee.gatech.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Umakishore</FirstName>
+<LastName>Ramachandran</LastName>
+<EmailAddress>rama@cc.gatech.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xiaoli</FirstName>
+<LastName>Ma</LastName>
+<EmailAddress>xiaoli@ece.gatech.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

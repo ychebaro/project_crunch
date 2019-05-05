@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Using Software Defined Cache to Accelerate Index Search for In-memory Applications: Software and Hardware Approaches</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>345000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuanyuan Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Memory is one of the most important components in large-scale data centers. As many software systems for big data processing keep their data sets entirely in memory to enable high-performance in-memory computing, memory efficiency becomes critical to application performance. While the applications, such as database systems and big data analytics, often serve as an infrastructure for information processing and providing IT services for millions of people in our society, improvement of their performance via optimization of the memory access is of great importance and impact. As memory access is slow compared with processor and cache speeds, the project eliminates unnecessary memory accesses with a re-designed cache architecture supporting flexible access and efficient management. In addition, this project provides research training to both undergraduate and graduate students, especially under-represented minority students, to prepare them to be future information technology professionals with strong skills in computer architecture and system areas.     &lt;br/&gt;&lt;br/&gt;In memory-intensive computing, a significant percentage of memory access is spent on indices for translating user-defined keys into memory addresses for data accessing. However, due to lack of temporal and spatial localities, it can be very difficult to cache the indices and receive high cache-hit ratio. Accordingly, searching of the indexes is often at the memory speed, and searching for a data item may require multiple memory accesses. This project designs a software-defined cache -- an informed use of processor cache where a user program can explicitly specify data items for caching with their defined keys. As a two-phase effort, the project adopts a software approach, in which it is presented as a user-level library managing a look-aside buffer implicitly mapped into the cache, and a hardware approach, in which keys are explicitly hashed into the cache. Both approaches well exploit access locality and perform index search at the cache speed with their respective unique advantages. Accordingly, performance of memory system and memory-intensive applications can be significantly improved.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815303</AwardID>
+<Investigator>
+<FirstName>Song</FirstName>
+<LastName>Jiang</LastName>
+<EmailAddress>song.jiang@uta.edu</EmailAddress>
+<StartDate>07/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Arlington</Name>
+<CityName>Arlington</CityName>
+<ZipCode>760190145</ZipCode>
+<PhoneNumber>8172722105</PhoneNumber>
+<StreetAddress>701 S Nedderman Dr, Box 19145</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7941</Code>
+<Text>COMPUTER ARCHITECTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

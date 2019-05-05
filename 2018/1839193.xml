@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Support for the first AES Electrophoresis Society Annual Meeting at SciX</AwardTitle>
+<AwardEffectiveDate>10/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>6000.00</AwardTotalIntnAmount>
+<AwardAmount>6000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christina Payne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A region of charge separation, known as the electrical double layer, is well-known to form at most solid/liquid interfaces.  This electrical double layer forms because the surfaces of most particles bare a slight charge, and ions in an aqueous solution, segregate to the surface to balance this charge.  The ions closest to the surface are then surrounded by secondary layer which gradually diffuses the charge.  Application of an external electric field induces a Coulombic force, which acts on this electric double layer and causes a particle or macromolecule to move, in a process known as electrophoresis. Electrophoresis can be used to separate and purify macromolecules, including identification of target cells or biological compounds for diagnostic purposes. &lt;br/&gt;&lt;br/&gt;This project will provide travel funds for twelve students to attend and participate in the 2018 Annual Meeting of the American Electrochemical Society in Atlanta, Georgia. This meeting unites academic, industry, and government researchers working in all aspects of electrokinetics. Several activities have been incorporated in this meeting to train and mentor students, including training workshops, an interactive poster session, and a Lunch with Leaders program to facilitate student/faculty interaction.  Students receiving travel awards resulting from this grant will contribute to a journal article in Electrophoresis summarizing the meeting.  This opportunity provides a key resource to facilitate student training and professional development.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839193</AwardID>
+<Investigator>
+<FirstName>Blanca</FirstName>
+<LastName>Lapizco-Encinas</LastName>
+<EmailAddress>bhlbme@rit.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rochester Institute of Tech</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1417</Code>
+<Text>Process Separations</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

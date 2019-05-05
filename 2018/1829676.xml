@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student and Early-Career Faculty Travel and Registration Grant for IEEE International Conference on Software Engineering 2018 (ICSE)</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardAmount>25175</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal requests funds for to support travelers to the International Conference on Software Engineering (ICSE 2018) to take place in Gothenburg, Sweden in May of 2018. ICSE is the flagship conference in the field. The grant will provide travel and registration support for students, researchers and early-career faculty to participate in three programs at the 2018 International Conference on Software Engineering?the Student Volunteers Program, the Doctoral Symposium, and the New Faculty Symposium.&lt;br/&gt;&lt;br/&gt;The award will make possible the technical exchange of information and research collaborations, as well as advances in the field made possible by these interactions. The funded activity promotes education, training and mentoring of the participants. The international nature of this conference helps develop a globally-aware workforce of research and educators within the US and helps build the community of researchers in the field of Software Engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829676</AwardID>
+<Investigator>
+<FirstName>Sandeep</FirstName>
+<LastName>Kuttal</LastName>
+<EmailAddress>sandeep-kuttal@utulsa.edu</EmailAddress>
+<StartDate>03/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tulsa</Name>
+<CityName>Tulsa</CityName>
+<ZipCode>741049700</ZipCode>
+<PhoneNumber>9186312192</PhoneNumber>
+<StreetAddress>800 S. Tucker Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oklahoma</StateName>
+<StateCode>OK</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

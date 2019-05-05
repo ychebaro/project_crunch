@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Chemistry 360 degrees: A Comprehensive Research and Career Development Experience @UBChemistry</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>343231.00</AwardTotalIntnAmount>
+<AwardAmount>343231</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Melissa Olson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Research Experiences for Undergraduates (REU) site award to the State University of New York (SUNY) at Buffalo, located in Buffalo, NY, supports the training of 10 students for 10 weeks during the summers of 2019-2021. In this program, funded by the Division of Chemistry in the Mathematical and Physical Science Directorate, Professors Jason B. Benedict, Timothy R. Cook and colleagues host an REU site covering a broad range of chemical research and career development with a focus on the leveraging of digital platforms. Participants engage in research encompassing core chemical science areas including inorganic, analytical, biomedical or polymeric chemistry. Alongside chemical research, the program includes industrial site visits to local chemical and biochemical companies, seminars to develop and improve 'soft skills', and training on the use of digital platforms to advance research and career development. In total, these activities prepare UB Chem360 REU participants for graduate school and beyond.&lt;br/&gt;&lt;br/&gt;Individual participants' research projects include synthesis of porous nanomaterials, development of new enantioselective reactions, metal ion complex binding to nucleic acids, photo-responsive crystalline materials, catalysis of ene-yne reactions, ligand-driven enzyme catalysis, charge transfer at semi-conductor interfaces, and structure prediction of novel materials.  Other areas of research include studying the role of lipids in cell processes, physicochemical characteristics of novel chromatographic materials, imaging of hydrogel and polymer surfaces and self-assembly of nanoscopic metallacycles. These independent and interdisciplinary research projects, facilitated by SUNY at Buffalo faculty and graduate student mentors, provide participants with experiences in problem solving and scientific discovery. This site puts an emphasis on recruiting students from two-year colleges and students who are underrepresented in chemistry. Combined with 'soft skills' and digital platform training, this program prepares participants to pursue advanced degrees and enter the chemistry workforce.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/04/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852372</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Benedict</LastName>
+<EmailAddress>jbb6@buffalo.edu</EmailAddress>
+<StartDate>02/04/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Timothy</FirstName>
+<LastName>Cook</LastName>
+<EmailAddress>trcook@buffalo.edu</EmailAddress>
+<StartDate>02/04/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Buffalo</Name>
+<CityName>Buffalo</CityName>
+<ZipCode>142282567</ZipCode>
+<PhoneNumber>7166452634</PhoneNumber>
+<StreetAddress>520 Lee Entrance</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1986</Code>
+<Text>UNDERGRADUATE PROGRAMS IN CHEM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+</Award>
+</rootTag>

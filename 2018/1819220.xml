@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Novel Computational Mathematics for Aperiodic Multilayers</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>81446.00</AwardTotalIntnAmount>
+<AwardAmount>81446</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The recent discovery of a whole family of atomically thin layers has led to much interest in the fields of materials science and nanotechnology. In principle, many desired electronic, optical, and thermal material properties can be obtained by stacking vertically a number of such layers to form so-called two-dimensional weakly-bonded integrated multilayers. Such structures are generally non-periodic. This leads to interesting geometrical properties such as moire patterns, but also results in the breakdown of the traditional (periodic) description of materials that is essential to the computer simulation of materials from first principles. The broad goal of this project is to exploit the mathematical structure that arises in quantum models of two-dimensional multilayer materials to enable the efficient and reliable predictions by computer simulations that are required to explore the vast range of design possibilities and to guide or validate experimental studies.&lt;br/&gt;&lt;br/&gt;This project aims to develop and analyze novel discretization techniques and algorithms based on the C*-algebra formulation of the quantum electronic transport phenomena. This novel class of numerical techniques will implement directly the noncommutative framework for aperiodic multilayer geometries and enable fast and robust ab-initio computations of electronic properties in two-dimensional multilayer materials. Numerical analysis and theory-based numerical experiments will be developed to optimize and certify the resulting computations. Beyond the case of two-dimensional weakly-bonded integrated multilayers, this new prediction and design tool will also allow the investigation of mechanical or photonic meta-materials by engineering artificial incommensurate geometries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819220</AwardID>
+</Award>
+</rootTag>

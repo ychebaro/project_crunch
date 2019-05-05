@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Future Trends and Opportunities for Power Electronics in an Electrified Transportation Industry, Held at Univ. of Maryland, College Park MD, August 17-18, 2018. MD</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>49000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan S. Baheti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Abstract: &lt;br/&gt;An electrified transportation industry will transform mobility, energy independence, power grid operation, and connectivity in a profound and substantially positive way. The cultural, economic, environmental, and industrial outcomes of this disruptive trend will have a global impact. This transformation will open new opportunities for fusing industries such as communication, energy, electric power, and robotics to name a few. Scientific and technological leadership in this growing trend plays a pivotal role in long term economic prosperity, energy independence, and creation of new jobs in the United States and around the world. Power electronics, as an enabling technology, plays a key role in ultimate success of this transformation. The workshop on future trends and opportunities for power electronics in an electrified transportation industry aims to identify the most challenging and needed technological advances in the area of power converter, electric motors, wireless charging, and autonomous vehicle design.&lt;br/&gt;&lt;br/&gt;This workshop brings leaders from the academia, industry, and government together within a two days program to discuss and exchange ideas related to the role of power electronics in electrification of the transportation industry. A series of keynote speeches by experts followed by task specific group discussions will take place on August 17-18, 2018. The main technical focus of the workshop will be on electric drive requirements, charging and energy storage management, and autonomous operation and connectivity of electric vehicles. The final outcome of this gathering will be a set of recommendations to outline the most needed short term and long term technology advances in the area of power electronics and energy conversion to cope with the anticipated rate of growth in electrification of the automotive, aerospace, and marine industries. The requested funds will be used to cover the travel expenses of the invitees to the workshop and meals during the event.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838902</AwardID>
+<Investigator>
+<FirstName>Babak</FirstName>
+<LastName>Fahimi</LastName>
+<EmailAddress>bxf102000@utdallas.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Dallas</Name>
+<CityName>Richardson</CityName>
+<ZipCode>750803021</ZipCode>
+<PhoneNumber>9728832313</PhoneNumber>
+<StreetAddress>800 W. Campbell Rd., AD15</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

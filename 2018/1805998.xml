@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Femtosecond laser surgery in the ablation cooling regime for improved depth and speed</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will study the physical effects of ultra-fast lasers operating in the 'ablation-cool' regime, where the short laser pulses operate at a very high pulse rep-rate so that the pulses occur before the heat is dissipated in the tissue. This can overcome the difficulties that result from laser-cutting tissue at the normal low rep-rates. The advantages include enhanced efficiency of cutting, improved removal-rates of products material, use of lower powers, and allowing deeper penetration depths. This will have a pronounced impact on the operation in systems where fine-tuning of accuracy of surgery, deep tissue penetration, and product removal are critical, such as vocal cords lesions or spine surgeries.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The project utilizes a burst-mode femtosecond laser system that would deliver pulses at nearly 1.5 GHz rate leading to high energy deposited into the target area. The investigators hypothesize that such a burst mode GHz train of pulses would result in a deeper sub-surface ablation. The PIs further predict that such a pulse train will lead to an order-of-magnitude increase in ablation rates compared to conventional kHz repetition rate femtosecond lasers, in addition to avoiding thermal side effects.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805998</AwardID>
+<Investigator>
+<FirstName>Adela</FirstName>
+<LastName>Ben-Yakar</LastName>
+<EmailAddress>ben-yakar@mail.utexas.edu</EmailAddress>
+<StartDate>06/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+</Award>
+</rootTag>

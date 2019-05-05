@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Adaptive Small-systems for data Analytic Pain Management (ERC-ASAP)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Deborah Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.&lt;br/&gt;&lt;br/&gt;The National Academy of Medicine's Institute of Medicine (IOM) estimates that 116 million people in the United States are impacted by pain every year, at an annual cost to the country in the hundreds of billion dollars. Chronic pain conditions are particularly difficult to treat, since pain is a complex experience that is not the result of a single factor. The key to better understand the complexity of pain conditions is to identify the biological changes it creates. The Engineering Research Center for Adaptive Small-systems for data Analytic Pain management (ERC-ASAP) proposes to place miniaturized autonomous sensing systems in several areas of the body. This will allow simultaneous monitoring of biological activities across multiple organs, providing insight into the causes of chronic pain and its onset.  This grant enables planning activities to establish the proposed Center, potentially leading to new breakthrough technologies for diagnosis and monitoring that could alter the national pain management landscape.&lt;br/&gt;&lt;br/&gt;The activities of the NSF ERC-ASAP Planning Grant will allow for the development of the management structures and multi-disciplinary team formation. Planning grant activities will also include a diverse set of stakeholder community members, necessary for effective convergent engineering practices. The center goals are to engage representatives from the main stakeholder community for constructive dialogues to identify challenges and solutions. One major outcome will be to co-develop the center mission and goals with active, continuous user community collaboration and investment. Expert-guided stakeholder engagement workshops will build and establish a strong partnership with institutional and industrial collaborators, as well as medical experts, systems engineers and data scientists, health professionals, decision and social behavior scientists, and federal regulators. In addition, a state-wide online survey and questionnaire will be conducted within the health service community to identify specific challenges, delivery, treatment options, and payer models for a device-driven engineering approach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840468</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Bentley</LastName>
+<EmailAddress>bentley@eng.umd.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Reza</FirstName>
+<LastName>Ghodssi</LastName>
+<EmailAddress>ghodssi@umd.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pamela</FirstName>
+<LastName>Abshire</LastName>
+<EmailAddress>pabshire@umd.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Derek</FirstName>
+<LastName>Paley</LastName>
+<EmailAddress>dpaley@umd.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Niklas</FirstName>
+<LastName>Elmqvist</LastName>
+<EmailAddress>elm@umd.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

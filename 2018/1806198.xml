@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Laser-Biomaterial Interaction Based Prototyping Platform</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will be to provide a fabrication system to companies manufacturing and/or developing cell based models for sale and/or service, pharmaceutical companies, and research organizations.  The platform will allow these entities to prototype and scale quicker, fail faster, and reduce costs of commercialization. Companies often must completely reengineer their fabrication process when scaling or changing their models. With this system, they can more rapidly iterate through potential designs. Decreasing the time to develop new cell based models will benefit the public and companies in this important and growing field. In addition, the technology can have an impact in analyzing/ranking potential drug candidates for pharmaceutical companies.&lt;br/&gt;&lt;br/&gt;This I-Corps project is based on techniques used to rapidly prototype inorganic metallic electronics commonly called laser induced forward transfer.  The system integrates laser direct write and laser micromachining (additive and subtractive techniques, respectively) for the manipulation and prototyping of biomaterials on a micron scale. Cells/biomaterials can be precisely transferred to a substrate using laser-assisted direct write. Before and/or after the transfer of 1-1000's of cells/units, the substrates can be shaped using laser ablation to create cell-scale geometries. Alternating addition and subtraction of (bio)materials in a controlled and repeatable way on a micron scale allows for the creation of cellular constructs in almost any geometry and gradient of chemical factors. A goal of this I-Corps project is to determine the commercial potential for the technology as a platform and/or as a service.</AbstractNarration>
+<MinAmdLetterDate>01/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806198</AwardID>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Chrisey</LastName>
+<EmailAddress>dchrisey@tulane.edu</EmailAddress>
+<StartDate>01/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tulane University</Name>
+<CityName>NEW ORLEANS</CityName>
+<ZipCode>701185698</ZipCode>
+<PhoneNumber>5048654000</PhoneNumber>
+<StreetAddress>6823 ST CHARLES AVENUE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

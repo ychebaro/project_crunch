@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Extremely fouling-resistant nanofiltration membranes treating organic-rich wastewater</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Technology Transfer (STTR) project will be a low-cost, high-performance nanofiltration membrane technology for removing oils, pollutants, and organic materials from highly contaminated wastewater. Industrial activity in the U.S. produces more than 25 billion gallons of wastewater every day, much of contaminated with oils, greases, solvents, and other harmful chemical compounds. Existing filtration membranes are easily clogged and damaged by these oily materials, suffering a rapid decline in performance. Safely processing this wastewater by conventional means costs U.S. industrial facilities more than $40B per year. A breakthrough in nanofiltration technology will allow industries across the country - such as food processors, landfills, power plants, and paper mills - to easily and affordably clean their wastewater. &lt;br/&gt;&lt;br/&gt;This STTR Phase I project proposes to develop the technology and processes to produce commercial-scale anti-fouling nanofiltration membranes for use with highly contaminated industrial wastewater. The project will combine large-scale manufacturing techniques such as high-precision spray coating with a novel chemistry platform based on zwitterionic copolymers to produce high-performance, low-cost membranes. These polymers exhibit extraordinary resistance to organic fouling as well as pore self-assembly at the nanometer scale. To achieve the required performance, the project will develop the process and materials to achieve a thickness of less than one micron in the selective layer of a thin-film composite. Currently, layers of this thickness are only achievable using in-situ polymerization of nylon-based polymers, which are costly, have low permeability, and are intolerant of oxidizing conditions. This project will overcome these limitations by exploiting the unique self-assembly behavior of zwitterionic copolymers to achieve ultrathin, uniformly porous films in both flat sheet and hollow fiber forms. The project will furthermore demonstrate the chemical robustness of these membranes with accelerated lifecycle testing relevant to industrial conditions. Commercial-scale production of self-assembling polymer membranes will represent a significant breakthrough for materials in this class.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/07/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/07/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843847</AwardID>
+<Investigator>
+<FirstName>Ayse</FirstName>
+<LastName>Asatekin</LastName>
+<EmailAddress>Ayse.Asatekin@tufts.edu</EmailAddress>
+<StartDate>02/07/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Drover</LastName>
+<EmailAddress>cdrover@zwitterco.com</EmailAddress>
+<StartDate>02/07/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ZWITTERCO, LLC</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021402717</ZipCode>
+<PhoneNumber>3014425662</PhoneNumber>
+<StreetAddress>17 UPLAND RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

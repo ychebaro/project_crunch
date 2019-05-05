@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Intergalactic Archaeology: Decoding the Relics of Reionization in the Intergalactic Medium</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>482432.00</AwardTotalIntnAmount>
+<AwardAmount>482432</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Kurczynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The first sources of light formed several hundred million years after the Big Bang, ending what astronomers refer to as the cosmic dark ages.  In the 2010 Decadal Survey, the US astronomy community designated the study of this epoch as a core science objective. This project will obtain new constraints on this epoch and the first sources of light by applying novel methods to astronomical data collected with the largest telescopes. These data will be compared to state-of-the-art supercomputer models to yield new insights into cosmic history. This project will support the research of a PhD student, partially support a postdoctoral scholar, and engage undergraduates from two hispanic serving institutions in cutting edge astronomical research. &lt;br/&gt;&lt;br/&gt;Determining exactly how and when reionization occurred are among the most important open questions in cosmology. Absorption spectroscopy of new large statistical samples of high-z quasars has tremendous untapped potential.   This project will study the statistical properties of Ly-alpha; absorption in the spectra of z ~ 6 quasars. By leveraging the recent fivefold increase in the number of such quasars, archival data, new methodologies and simulations, this project will enable precise measurements of hundreds of quasar spectra.  This project will: 1) reconstruct the reionization history at a precision that far surpasses existing methods, 2) measure the ionizing photon output from galaxies up to the end stages of reionization, 3) measure the amount of heat that was injected into the intergalactic medium by reionization, providing new insights into what sources (galaxies, AGN, Pop. III stars) re-ionized the Universe, 4) measure the distribution of quasar lifetimes, 5) spectroscopically characterize a statistical sample of recently discovered young quasars. The overarching goal is to elevate quantitative study of the intergalactic medium to be on the same solid methodological and statistical footing as other precision cosmological measurements.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816006</AwardID>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Hennawi</LastName>
+<EmailAddress>joe@physics.ucsb.edu</EmailAddress>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Barbara</Name>
+<CityName>Santa Barbara</CityName>
+<ZipCode>931062050</ZipCode>
+<PhoneNumber>8058934188</PhoneNumber>
+<StreetAddress>Office of Research</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

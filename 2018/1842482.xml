@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Quadrennial Review of the National Nanotechnology Initiative</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardAmount>650000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the triennial review of the National Nanotechnology Initiative (NNI) and its achievements. The review assesses the United States' position in global nanotechnology research and development. It determines trends and developments in nanoscience, nanoengineering and nanotechnology and identifies critical areas of research where the United States should lead. The study also assesses the current state of nanotechnology resulting from the NNI activities since its authorization in 2003. It evaluates the current impact of nanotechnology on the United States' economy, prosperity and national security, and based on this, recommends new or revised goals, new research areas and technical priorities, partnerships, coordination and management mechanisms, and programs to support those goals. This triennial review of the NNI generates feedback to the Nanoscale Science, Engineering, and Technology (NSET) Subcommittee and the National Nanotechnology Coordination Office (NNCO) to serve the Nanotechnology community moving forward and to guide investments in research and development. &lt;br/&gt;&lt;br/&gt;Since its inception, the NNI has resulted in many discoveries and inventions, which have had far-reaching technological and societal impacts. Nanotechnology is an inter-disciplinary field. The impact of nanotechnology arises from its potential to significantly transform numerous fields, including information technology, aerospace, agriculture, energy, homeland security, environment, healthcare, national defense, and transportation systems. The project plan is to appoint a committee of experts that meets several times. The committee is given background materials and strategic plans by the NNCO. The committee meets with sponsors and representatives from key federal agencies to discuss the statement of work. It gathers preliminary information on current activities related to the NNI. Subsequent meetings include presentations from academic and industrial representatives familiar with nanotechnology developments in the US and abroad. A final report is issued after a full National Academies review. The study report is disseminated to interested technical communities and the general public through briefings, presentations, a published manuscript and on-line.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842482</AwardID>
+<Investigator>
+<FirstName>Erik</FirstName>
+<LastName>Svedberg</LastName>
+<EmailAddress>esvedberg@nas.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Academy of Sciences</Name>
+<CityName>Washington</CityName>
+<ZipCode>200012721</ZipCode>
+<PhoneNumber>2023342254</PhoneNumber>
+<StreetAddress>500 FIFTH STREET NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1685</Code>
+<Text>NNCO ACTIVITIES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>Q147</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>Q179</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>R257</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>R272</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+</Award>
+</rootTag>

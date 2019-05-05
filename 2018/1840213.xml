@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Composite Materials Enabling Batteries with High Energy Density</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is in the identification of the most effective strategy for the deployment of novel and improved materials for lithium-ion batteries. Our society is already experiencing the pressing need for better electrochemical energy storage technologies. These would be beneficial not only for consumer electronics devices and electric vehicles, but would also aid the transition towards renewable energy sources, bringing enormous benefits in terms of public health and reduced environmental hazards. The successful commercialization of more energy dense lithium-ion batteries represents a crucial and fundamental requirement for this vision to be realized. Unfortunately the graphite-based battery anode, while being the most widely utilized technology, is already approaching its theoretical limit. The technology at the center of this proposal overcomes the limitations of graphite while enabling a straightforward integration in the current battery production scheme. Participation in the I-Corps program will allow establishing the most effective pathway towards the commercialization of this new technology.   &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on a novel material that increase the storage capacity of commercial lithium-ion batteries by roughly 30%. The compound, a silicon-graphite composite powder, displays a storage capacity six times higher (1800 mA g-1) than graphite (365 mA g-1), the current anode material of choice in commercial lithium ion batteries, and is produced with an innovative proprietary fabrication method suitable for large-scale production. The composite can be used as an additive to commercial lithium-ion batteries to partially or completely substitute graphite and boost the battery performance in terms of both gravimetric and volumetric energy density. Notably, the compound it is fully compatible with the current lithium-ion battery industrial production processes, allowing for a cost-effective introduction into the manufacturing process without additional capital investments. To enable the breakthrough of this concept into the market, the current efforts are focused on the customer discovery process through the I-Corps program with the goal of identifying an ideal first customer segment.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840213</AwardID>
+<Investigator>
+<FirstName>Lorenzo</FirstName>
+<LastName>Mangolini</LastName>
+<EmailAddress>lmangolini@engr.ucr.edu</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210217</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>Research &amp; Economic Development</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

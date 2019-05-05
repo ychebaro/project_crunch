@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAR-PF The contributions of composition and length-scale to the peak strength of the lithosphere</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>87000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Luciana Astiz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Dr. Kathryn Kumamoto has been awarded a postdoctoral fellowship to engage in research and education at the University of Oxford, in the UK. The theory of plate tectonics describes a set of stable, rigid plates (the lithosphere) moving on top of a comparatively soft convecting medium (the asthenosphere). The strength of the lithosphere compared to the asthenosphere determines how the plates interact and is likely responsible for differences in tectonic styles between Earth, Mars, and Venus. However, laboratory measurements of olivine, the most abundant mineral in the oceanic lithosphere, indicate its strength is significantly greater than plate strengths inferred from field observations and numerical simulations of plate tectonics. This stark disagreement inhibits the creation of predictive models for large-scale phenomena like the formation of new plate boundaries, the uplift of Earth's surface after removing ice sheets, and the stress evolution of seismogenic faults after an earthquake. This project will use experiments to investigate three mechanisms that may lead to a weaker lithospheric mantle than predicted by current laboratory data: a length-scale effect (manifesting in terms of grain size), the presence of intracrystalline water, and the role of secondary mantle phases (orthopyroxene and clinopyroxene). The education plan focuses on (1) co-teaching undergraduate tutorials on rock deformation, incorporating modern research techniques into the curriculum, and (2) teaching an earth science course in an outreach summer school aimed at the high school level. &lt;br/&gt;&lt;br/&gt;Deformation experiments will be conducted using state-of-the-art interdisciplinary techniques, including nanoindentation and D-DIA to deform plastically natural samples in the laboratory. The PI will establish the plastic behavior of olivine, orthopyroxene, and clinopyroxene at room temperature while varying the length-scale and water content of the experiments. Deformed samples will be characterized using secondary ion mass spectrometry to measure water concentrations and high-angular resolution electron backscatter diffraction to determine the microstructures related to crystal deformation. Experiments will then be conducted at high temperatures to develop low-temperature plasticity flow laws for the three minerals. Finally, the behavior of multi-phase aggregates will be examined to determine the best method for combining monomineralic flow laws to understand the strength of tectonic plates. The results of this project will provide constitutive constraints that can be incorporated into models of mantle convection, plate flexure, and deformation at the base of the seismogenic zone. Broader impacts include methodology development: setting up NanoSIMS to measure water content in samples as well as HR-EBSD for pyroxeme minerals. The interdisciplinary nature of this project may provide new perspectives on Earth materials deformation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806791</AwardID>
+<Investigator>
+<FirstName>Kathryn</FirstName>
+<LastName>Kumamoto</LastName>
+<EmailAddress/>
+<StartDate>05/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kumamoto                Kathryn        M</Name>
+<CityName>Stanford</CityName>
+<ZipCode>943052115</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7137</Code>
+<Text>POSTDOCTORAL FELLOWSHIPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

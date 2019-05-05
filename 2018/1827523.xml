@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Acoustic Continuous Condition Monitoring of Manufacturing Machinery</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project is in providing the manufacturing sector with advanced solutions for the early detection of machine malfunctions via continuous acoustic monitoring. Machinery malfunctions have significant negative effects on the manufacturing industry, including: unscheduled downtime leading to the under-utilization of equipment and staff; the production of off-spec products leading to waste of finished product and raw materials; as well as costly-repairs and inefficient maintenance schedules. All these effects increase the cost of manufacturing and can result in loss of revenue, directly affecting the margin of profitability, and thus the competitiveness, for these companies. By improving machine condition monitoring and enabling the widespread adoption of predictive maintenance, we believe our solutions can contribute to the growth of the US manufacturing sector, with all the significant ancillary benefits that entails. Better prediction of machine failures could also potentially affect energy efficiency, environmental impact and workplace safety in manufacturing operations. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposed project will develop an integrated, Industrial Internet-of-Things (IIoT) solution to continuous condition monitoring of manufacturing machinery. Our solution is centered around a network of low-cost, high quality, remote acoustic sensing devices with embedded artificial intelligence (AI) for sound recognition, that can automatically detect and diagnose the early signs of machine failure. Our novel focus on acoustic emissions, both in the audible and ultrasonic range, means that our sensors are non-contact and thus easy to install, capable of monitoring multiple parts per sensor, and able to produce earlier warnings than those possible with existing solutions. Furthermore, our use of AI for sound recognition results in fast and scalable analytics in real-time with minimal expertise required. We provide a unified cyber-infrastructure integrating edge computing, cloud data storage and an easy-to-use dashboard to facilitate navigation, retrieval and operation. This combination has the potential to result in a disruptive and transformative product that improves machine condition monitoring while significantly lowering the cost of deployment and operation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827523</AwardID>
+<Investigator>
+<FirstName>Juan</FirstName>
+<LastName>Bello</LastName>
+<EmailAddress>jpbello@nyu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

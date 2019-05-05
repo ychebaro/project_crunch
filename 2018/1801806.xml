@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Homotopy Theory of Algebras and Its Applications</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>150000.00</AwardTotalIntnAmount>
+<AwardAmount>56634</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janet Striuli</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports research at the interface between mathematics and physics. The proposed projects lie at the intersection of several areas including algebra and geometry. The origin of these problems is from mirror symmetry, a recent and fascinating phenomenon discovered by theoretical physicists. As such, solutions of the proposed projects will enhance our understanding of the interaction between interesting, deep mathematics and applicable, exciting ideas from physics. Part of the funding will also be used to support graduate students to work on the proposed projects, and to travel to conferences.&lt;br/&gt;&lt;br/&gt;The proposed projects use the homotopy theory of algebras to study categorical mirror symmetry, moduli spaces, and derived geometry. The investigator plans to work on: (1) a Whitehead type theorem for L-infinity spaces which simultaneously generalizes the classical inverse function theorem and the Whitehead theorem of L-infinity algebras; (2) proving some essential properties of the PI's previous work on the mirror construction, such as its Calabi-Yau property, vanishing of monodromy, and compactifications; (3) a general approach to define genus zero Gromov-Witten invariants of compact smooth Calabi-Yau A-infinity categories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801806</AwardID>
+<Investigator>
+<FirstName>Junwu</FirstName>
+<LastName>Tu</LastName>
+<EmailAddress>tuju@missouri.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652110001</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>115 Business Loop 70 W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

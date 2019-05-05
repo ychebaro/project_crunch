@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Free Energy Sampling of Biomolecular Dynamics at Biological Timescales</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>95010</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Evelyn M. Goldfield</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Wei Yang of Florida State University is supported by the Chemical Theory, Models and Computational Methods Program in the Division of Chemistry to study biomolecular systems at biological timescales. Protein folding commonly occurs at timescales ranging from hundreds of microseconds to milliseconds and even seconds. This range presents a challenge to conventional computer simulation methods that seek to provide a quantitative description of changes on a long timescale. Only a few calculations of up to the one millisecond timescale have been reported to date. These calculations have been hindered by the lack of appropriate computational methods. Professor Yang is addressing this challenge by providing rigorous, physically-motivated mechanisms in his computational methods.  The outcome of this research may improve our ability to perform practical sampling of biomolecular motions at biological timescales.  These timescales have relevance in biochemical and biophysical processes such as protein folding (important in Alzheimer's disease and others) and pharmaceutical drug design. The new algorithms and codes are being disseminated through community-based platforms.  The researchers are also holding an annual workshop hosted at Florida State University.  The computational methods may be used by the pharmaceutical industry to discover new drug binding sites and new treatments for human health. This project has the potential to advance the health and welfare of society.&lt;br/&gt;&lt;br/&gt;This project is addressing the "hidden barrier" challenge that has been the bottleneck for free energy sampling of biomolecular dynamics, by realizing novel developments that qualitatively extend Professor Yang's orthogonal space sampling (OSS) framework and algorithms.  Specific aims of this project include the development of an adaptive strategy to dynamically modify the OSS Hamiltonian and associated biasing potentials during the course of a simulation.  The research group also implements higher-order biasing functions, where a higher-order biasing term can accelerate energy flow to the next lower order term in a chained relationship. Both strategies are designed to improve dynamical coupling and energy flow between the environment (orthogonal space) and the natural collective coordinate of the system, and synchronize global structural relaxation with the evolution of the collective coordinate. The new methodology is being assessed through applications to long-timescale protein conformational dynamics for biologically-important proteins that have been experimentally characterized, including adenylate kinase, beta-2-adrenergic receptor; HIV protease; and human glucokinase.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839694</AwardID>
+<Investigator>
+<FirstName>Wei</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>yyang2@fsu.edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida State University</Name>
+<CityName>TALLAHASSEE</CityName>
+<ZipCode>323064166</ZipCode>
+<PhoneNumber>8506445260</PhoneNumber>
+<StreetAddress>874 Traditions Way, 3rd Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6881</Code>
+<Text>Theory, Models, Comput. Method</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

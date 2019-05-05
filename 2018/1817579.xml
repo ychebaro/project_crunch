@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Biometric Data Analytics Platform to Enhance Mental Health Provider-Patient Engagement</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita La Salle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to provide a digital health solution that empowers both patients and providers to engage in meaningful and personalized treatment. The market that this proposal has the ability to reach is significant and includes a medical/clinical segment, a research segment, and a performance segment. This approach has the potential to improve patient care while reducing healthcare costs. Additionally, as education of patients and the public improves regarding mental health, the negative stigma surrounding these conditions will decrease and more people in need will seek care.  An initial application will be in treating Post-Traumatic Stress Disorder, where there is an urgent and critical need for innovation. Engaging patients in their treatment plans will have a positive impact on the lives of those suffering from mental illnesses.&lt;br/&gt;&lt;br/&gt;This I-Corps project is an innovative approach that provides easy to interpret results tailored to mental health providers, patients, and other non-technical users. The software aggregates data from numerous modalities, allowing for more complex and valuable analyses than existing platforms. The physiological data being collected has been scientifically proven to be related to mental well-being. Furthermore, clinicians are able to gain deeper insights into their patient's physiological response in real-time and over the course of a long-term treatment plan to guide clinical decision making. Existing barriers to treatment are addressed by providing seamless connection to various wearable devices, HIPAA-compliant architecture to ensure data privacy, pairing to audio recording or virtual reality environments, real-time note taking abilities, and simultaneous multi-session overlay. Engaging patients in their treatment plans through an objective measurement tool addresses a clear gap in mental health treatment, which is currently heavily reliant on subjective questionnaires and self-reporting.</AbstractNarration>
+<MinAmdLetterDate>01/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817579</AwardID>
+<Investigator>
+<FirstName>Arjun</FirstName>
+<LastName>Ramakrishnan</LastName>
+<EmailAddress>arjunra@upenn.edu</EmailAddress>
+<StartDate>01/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

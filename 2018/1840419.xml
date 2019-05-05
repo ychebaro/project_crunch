@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Additive Food Manufacturing Technologies (CAFMT).</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eduardo A. Misawa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research. The proposed Center for Additive Food Manufacturing Technologies (CAFMT) is a comprehensive, pre-competitive, public-private partnership that will create fundamental technologies for the 21st-century food manufacturing industry. New technologies will enable America's food manufacturing industry to transition from its outdated centralized food manufacturing model to a more futuristic decentralized, localized manufacturing network (DLFM) model. DLFM is an emerging food manufacturing network model favored by emerging consumers as it is based on localized food manufacturing with very short distribution chains taking advantage of local sourcing and providing highly desirable fresh foods. &lt;br/&gt;&lt;br/&gt;The proposed ERC will create the new food manufacturing model through the convergence of the advantages of additive manufacturing (3D "printing") of foodstuff with natural structures and texture, automation and robotics, micro/nanotechnologies, (bio)sensing, biomaterials, data integration platforms and internet based processes. New breakthroughs established under CAFMT will utilize raw materials more efficiently, reduce food waste by shortening the long distribution chains and provide nutritious food all consumers, even those in current urban food deserts. Ultimately, the CAFMT approach will advance American manufacturing competitiveness, reduce water and energy demands, and feed a growing global population using local food materials. The broader impact of the ERC will be increasing science literacy and engagement among the consuming public with the planning process used to identify education/intervention activities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>10/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840419</AwardID>
+<Investigator>
+<FirstName>Jeyamkondan</FirstName>
+<LastName>Subbiah</LastName>
+<EmailAddress>jsubbiah2@unl.edu</EmailAddress>
+<StartDate>10/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeyamkondan</FirstName>
+<LastName>Subbiah</LastName>
+<EmailAddress>jsubbiah2@unl.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate>10/15/2018</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>McQuillan</LastName>
+<EmailAddress>jmcquillan2@unl.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Douglas</FirstName>
+<LastName>Britton</LastName>
+<EmailAddress>doug.britton@gtri.gatech.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Tamayol</LastName>
+<EmailAddress>atamayol@unl.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Theodore</FirstName>
+<LastName>Lioutas</LastName>
+<EmailAddress>Theo.lioutas@unl.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate>10/15/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Terry</FirstName>
+<LastName>Howell</LastName>
+<EmailAddress>terry.howell@unl.edu</EmailAddress>
+<StartDate>10/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

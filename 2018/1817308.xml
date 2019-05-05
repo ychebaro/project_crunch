@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Investigations of an invertebrate secreted immune effector that influences microbial communities of the gut</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardAmount>867581</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matthias Falk</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The gut of animals is colonized by a rich assortment of microbes and recent research has demonstrated that microbial communities of the gut influence all kinds of physiological processes of the host, from brain function, to development, and obesity.  Hence, understanding the interplay of microbial gut communities and the host is highly important.  The investigators will use Ciona robusta (Ciona intestinalis type A), a marine filter-feeding organism, to investigate how animals use elements of their immune system to regulate healthy interactions with microbes that like to live in the gut.  As Ciona is transparent, it represents a unique model organism in which gut microbial communities can be visualized directly.  Ciona also is a great teaching tool for students in the classroom and for public outreach in the PIs seasonal programs like the St. Petersburg Science Festival or the Oceanography Camp for Girls.  The investigators will utilize animals reared in the lab under controlled conditions to help students understand how distinct microbes colonize the gut, and illustrate natural mechanisms used by animals to influence where and how these microbes settle within the gut. &lt;br/&gt;&lt;br/&gt;Ciona robusta (Ciona intestinalis type A), an invertebrate filter-feeding protochordate, will be used to investigate how the host utilizes elements of innate immunity to negotiate interactions with the gut microbiome.  The proposal focuses on variable immunoglobulin-like chitin-binding proteins (VCBPs).  VCBPs are bifunctional; the N-terminal Ig domains recognize bacteria and the C-terminal domain binds chitin.  VCBPs are a key to understanding complex dialogues between bacteria, fungi and viruses of the gut microbiome.  These proteins are expressed and secreted in high abundance by the gut epithelium in Ciona, and exhibit functions that resemble vertebrate IgA, including the modulation of bacterial adherence and formation of biofilms on mucosal surfaces.  Preliminary data reveal that when VCBP-C binds to some lysogens, induction of prophages is observed, a process that shapes the outcome of biofilm formation and may impact the growth of other bacteria that may be targeted by the newly released phages.  Various bacterial and fungal isolates, derived from the gut of Ciona, have been cultured and will now be studied both in vitro and in vivo utilizing germ-free animals.  This project, via a combination of in vitro and in vivo experiments, will examine the interaction between VCBP-C and cultured isolates (bacterial and fungal) of the gut; we will then examine transcriptomes of in vitro (bacterial) biofilm formation and colonization of germ-free animals to help characterize the genetics of colonization.  As multi-functional proteins, the VCBPs likely bridge interactions between bacterial and fungal communities of the microbiome; and because VCBPs influence the induction of prophages, which in preliminary observations have been shown to possess broad host ranges, it is likely that activation of these viruses can re-shape the composition of the microbiome.  The Ciona model presents a unique opportunity to study how innate immunity not only protects against pathogens but also modulates microbial ecology to achieve and maintain homeostasis.  Ciona will continue to serve as a platform to further explore the hypothesis that immunity evolved not just to "defend" but to "modulate microbial ecology" of the gut lumen.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817308</AwardID>
+<Investigator>
+<FirstName>Larry</FirstName>
+<LastName>Dishaw</LastName>
+<EmailAddress>ldishaw@health.usf.edu</EmailAddress>
+<StartDate>07/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Florida</Name>
+<CityName>Tampa</CityName>
+<ZipCode>336172008</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress>4019 E. Fowler Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

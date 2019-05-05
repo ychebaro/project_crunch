@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NRI: FND: Communicating Physical Interactions</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>749986.00</AwardTotalIntnAmount>
+<AwardAmount>749986</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reid Simmons</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>For robots to become ubiquitous collaborators, they must interact physically with objects in unstructured human environments. Robots must adeptly grasp, push, squeeze, snap, balance, stabilize and hand-off objects, and must effectively communicate about these actions with their human collaborators. People must not only be able to specify to a robot what to do and how to do it, they must also be able to interpret what a robot intends to do (and how).  Effective communication about physical interactions will be essential if robots are going to perform such tasks as delivering care to older adults, responsively helping technicians in performing repairs, or being trained by non-experts to perform repetitive assembly tasks.  This project will enable a new generation of robot applications, and advance the vision of ubiquitous, collaborative robots by developing better methods for robots to more effectively communicate with people. &lt;br/&gt;&lt;br/&gt;The project will address key challenges in communication about physical interactions: conveying invisible and unfamiliar quantities (e.g., forces and compliances), communicating plans and contingencies, and communicating about what did not (or should not) happen.  The project will involve three key challenges: specification, interpretation, and monitoring.  To address these challenges, the project will 1) perform formative studies to gain insight into how people communicate about physical interactions and interpret displays; 2) develop methods for specifying physical actions based on the idea of augmented demonstrations, methods for interpreting physical actions based on the idea of interpretable representations, and methods for monitoring physical actions based on multimodal communication; and 3) deploy these ideas in prototype systems for contextualized scenarios for evaluation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830242</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Gleicher</LastName>
+<EmailAddress>gleicher@cs.wisc.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Zinn</LastName>
+<EmailAddress>mzinn@wisc.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bilge</FirstName>
+<LastName>Mutlu</LastName>
+<EmailAddress>bilge@cs.wisc.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

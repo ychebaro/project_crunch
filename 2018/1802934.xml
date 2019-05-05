@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conference Proposal: Cluster Algebra and Mathematical Physics</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janet Striuli</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports participation in the conference "Cluster Algebras and Mathematical Physics (CAMP)", to be held May 7th to 11th, 2018. The conference will take place on the Michigan State University (MSU) campus in East Lansing Michigan and hosted by the MSU Institute for Mathematical and Theoretical Physics (IMTP). The conference will be an opportunity to bring together both the mathematics and physics communities to present and collaborate on research in this new and exciting overlapping field. The conference is designed for 50-70 participants. In addition to the rich schedule of talks for Monday to Friday, there will be an additional poster session for graduate students and early career mathematicians. A substantial portion of the funding is being set aside for such participants. Further information can be found at the conference website: https://sites.google.com/site/campmay7may11/&lt;br/&gt;&lt;br/&gt;First invented by Fomin and Zelevinsky in 2001 to study positivity of canonical bases, the research field of cluster algebra has since taken off. Cluster algebras have played a key role in new developments in supersymmetric Yang-Mills theory, also equivalent to the perturbative topological B model string theory and quiver gauge theories, specifically brane tilings and Seiberg dualities. For example, in a collaboration between physicists and mathematicians, the cluster theory of positive Grassmannian resulted in the definition of the amplituhedron. This conference will focus on new developments in this area as well as applications of similar techniques beyond supersymmetric theories.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802934</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Shapiro</LastName>
+<EmailAddress>mshapiro@math.msu.edu</EmailAddress>
+<StartDate>04/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1265</Code>
+<Text>GEOMETRIC ANALYSIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

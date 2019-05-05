@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phosphines Supported on Sulfated Zirconia</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>426000.00</AwardTotalIntnAmount>
+<AwardAmount>426000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CHE</Abbreviation>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Moloy</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A vast majority of chemicals are prepared using solid catalysts in at least one step of the manufacturing process. However, these reactions are often less efficient than theoretically possible. One strategy to achieve more efficient catalytic reactions would be to generate materials with higher amounts of reaction sites on the solid surface. In this project, Dr. Matthew P. Conley of the University of California, Riverside is researching methods to realize this long-standing challenge. A key to solving this problem is a better understanding of the chemical interactions between the solid surface and these catalytically-reactive sites. Dr. Conley is involved in outreach activities related to this research to promote the engagement of underrepresented minorities in science, technology, engineering, and mathematics (STEM) disciplines. Dr. Conley is hosting students from local high schools and community colleges in his laboratory for summer internships to introduce them to the university research environment, which encourages them to enter STEM career paths. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;With funding from the Chemical Catalysis Program of the Chemistry Division, Dr. Matthew P. Conley of the University of California, Riverside is researching new material platforms to generate well-defined heterogeneous catalysts. This work focuses on the reaction of phosphines (R3P) with Brønsted acidic oxides, such as sulfated zirconium oxide, to generate well-defined phosphonium sites on the oxide surface. The substituents in R3P impact how strongly the phosphine binds to the sulfated zirconium oxide surface, which relates to the Brønsted acidity of surface sites on this material. The phosphonium sites react with organometallic complexes to form well-defined catalytic sites that polymerize or oligomerize ethylene, depending on the nature of the organometallic complex in the grafting reaction and the substituents on the phosphonium site. The above reactions are monitored using spectroscopic techniques, such as Fourier Transformed Infrared (FT-IR) and solid-state Nuclear Magnetic Resonance (NMR). Dr. Conley is involved in promoting STEM fields though outreach activities by bringing underrepresented minority students into the lab, in support of the broader impacts of this project. Funding from this Chemical Catalysis program enables Dr. Conley to provide summer internships to local high school students and local community college students from institutions serving predominately Hispanic populations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800561</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Conley</LastName>
+<EmailAddress>matthew.conley@ucr.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Riverside</Name>
+<CityName>RIVERSIDE</CityName>
+<ZipCode>925210217</ZipCode>
+<PhoneNumber>9518275535</PhoneNumber>
+<StreetAddress>Research &amp; Economic Development</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

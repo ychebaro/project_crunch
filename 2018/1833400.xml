@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Support for the 17th International Semantic Web Conference 2018 (ISWC 2018)</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>18000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Maria Zemankova</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides support 13 U.S.-based students to participate in the 17th International Semantic Web Conference (ISWC 2018), held in Monterey, California from October 8 to 12, 2018. ISWC is the premier international forum for state-of-the-art research on all aspects of the Semantic Web and Linked Data Community. The supported students will attend the conference, discuss and disseminate their work. They will also have an opportunity to interact with future national and international scientific collaborators and senior researchers and practitioners. Students will benefit from the Doctoral Consortium - a full day event where students can get critical, but encouraging, feedback on their work from senior members of the community. The program also includes a career mentoring meeting, where experienced members of the community from both academia and industry answer questions in an informal setting. The selected students will form a diverse group in order to broaden participation in computer science.&lt;br/&gt;&lt;br/&gt;The International Semantic Web Conference, now in its 17th year, is an interdisciplinary conference that includes work on: Data Management, Natural Language Processing, Knowledge Representation and Reasoning, Ontologies and Ontology Languages, Semantic Web Engineering, Linked Data, User Interfaces and Applications. The conference regularly includes several hundred attendees. In addition to the main technical tracks, the conference includes a variety of events that provide opportunities for deeper interaction amongst researchers at different institutions, at different stages of their research careers, and researchers who are interested in many different aspects of Semantic Web Research. The ISWC 2018 web site (http://iswc2018.semanticweb.org) provides additional information on the conference.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833400</AwardID>
+<Investigator>
+<FirstName>Bo</FirstName>
+<LastName>Fu</LastName>
+<EmailAddress>Bo.Fu@csulb.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California State University-Long Beach Foundation</Name>
+<CityName>Long Beach</CityName>
+<ZipCode>908154670</ZipCode>
+<PhoneNumber>5629858051</PhoneNumber>
+<StreetAddress>6300 State Univ. Dr.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

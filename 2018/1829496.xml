@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mapping steps of the crust-mantle boundary over the contiguous United States</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>106770.00</AwardTotalIntnAmount>
+<AwardAmount>106770</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Margaret Benoit</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The crust-mantle boundary, or the Moho, is an ubiquitous structural discontinuity of the Earth. Lateral variations in Moho geometry, especially Moho offsets, are important to understand the origin and evolution of the crust, and have been the target of many regional and global studies. However, previous methods offer only either spot illumination of the crust or a smoothed Moho topography. Here we propose a scattering-based method to systematically map Moho offsets. Taking advantage of the dense data coverage from the USArray, this work will provide a complete map of Moho offsets over the contiguous United States.  The results will shed light on the tectonic evolution of the North American Continent and provide information on the material properties of the lower crust.  This project will also support the training of a postdoctoral scholar.&lt;br/&gt;&lt;br/&gt;The proposed new method relies on surface waves scattered from incident teleseismic body waves. When teleseismic body waves hit a Moho offset, the latter serves as a strong secondary source. As a result, the surface waves are radiated horizontally away from the Moho offset. By back propagating the scattered surface waves with a proper velocity model, the Moho offset can be detected and located. The result of this work can potentially resolve the debate of whether Moho offsets are widespread or not. Regional differences (or not) in the distribution of Moho offsets will provide valuable information on the thick-skinned vs. thin-skinned deformation mechanisms and the effects of lower crust ductile flow in smoothing out Moho offsets.  The new method will be applied to USArray data to map Moho topography beneath the United States.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829496</AwardID>
+<Investigator>
+<FirstName>Zhongwen</FirstName>
+<LastName>Zhan</LastName>
+<EmailAddress>zwzhan@gps.caltech.edu</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California Institute of Technology</Name>
+<CityName>PASADENA</CityName>
+<ZipCode>911250600</ZipCode>
+<PhoneNumber>6263956219</PhoneNumber>
+<StreetAddress>1200 E California Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>007F</Code>
+<Text>EARTHSCOPE</Text>
+</ProgramElement>
+</Award>
+</rootTag>

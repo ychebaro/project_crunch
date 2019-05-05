@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Active Control of Laminar Separation Bubbles using a Synergistic Combination of Wind Tunnel Experiments and Direct Numerical Simulations</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ronald Joslin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Laminar separation bubbles are prevalent in many practical systems including aircraft wings, rotorcraft blades and gas turbine blades among others. This relatively small region of the flow plays a dominant role in the governing physical processes, yet it remains poorly understood. This research project will drastically advance the current understanding of laminar separation bubbles by thoroughly evaluating the interplay between relevant flow instabilities. In doing so, this will foster new strategies for the control of laminar separation bubbles leading to improvements in performance and efficiency across many aerodynamic platforms. The project will partially support one post-doctoral researcher, one PhD student and one undergraduate student. Existing outreach programs will be expanded to include experimental and numerical flow visualizations targeting underrepresented minority groups. The outreach program is buoyed by the rich cultural diversity of Tucson, AZ and surrounding areas as well as the importance of aerospace to the state economy. &lt;br/&gt;&lt;br/&gt;The primary objective of the proposed research is to investigate competition between the shear layer instability and the 3D (Klebanoff) mode as it relates to active flow control of laminar separation bubbles. Previous direct numerical simulations performed at the University of Arizona have shown that it is possible to eliminate a laminar separation bubble (even if it has transitioned to turbulence downstream of separation) by 2D periodic forcing at a frequency related to the shear layer instability of the time-averaged flow field. The efficacy of this approach is dependent on the level of freestream turbulence in the simulation, and it has been shown numerically that even small levels render this technique less effective. Recent successful demonstrations at the University of Arizona suggest the technique is feasible, but effectiveness is influenced by pressure gradient and local Reynolds number, which further complicate the fundamental physics. This work will employ the latest instrumentation and a state-of-the-art low-speed wind tunnel capable of various levels of freestream turbulence to investigate the competition between flow instabilities as they pertain to active flow control. Freestream turbulence will be modeled in high-fidelity direct numerical simulations using experimental data thus quantifying the influence of pressure gradient and Reynolds number. Active flow control in the form of dielectric barrier discharge plasma will be employed in the experiment and modeled in the simulation. This synergistic research approach will strengthen established outreach and international exchange programs all while producing a breakthrough in this rich and important field.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805273</AwardID>
+<Investigator>
+<FirstName>Hermann</FirstName>
+<LastName>Fasel</LastName>
+<EmailAddress>faselh@email.arizona.edu</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jesse</FirstName>
+<LastName>Little</LastName>
+<EmailAddress>jesselittle@email.arizona.edu</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FLUID DYNAMICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

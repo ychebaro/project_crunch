@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Acquisition of a laser-ablation system for trace element mapping and large-N geochronology by inductively-coupled-plasma mass spectrometry (ICP-MS)</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>216504.00</AwardTotalIntnAmount>
+<AwardAmount>216504</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EAR</Abbreviation>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Johnson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant provides funding for a laser to connect to an existing device at Johns Hopkins University that measures chemical compositions of samples. The laser system will support creative Geosciences research on tiny samples that contain information about the formation of the Earth. The laser will help to start new research partnerships among early-career Geoscientists from universities in the Baltimore area. This research will support numerous graduate and undergraduate students. The laser system will be included in undergraduate courses at many Baltimore-area universities. It will bring advanced technology and ideas to young minds and broaden their exposure to modern research and instrumentation in the geosciences.&lt;br/&gt;&lt;br/&gt;A laser ablation (LA) system is requested to link to an existing triple-quadrupole inductively-coupled-plasma mass spectrometer (ICP-MS) at Johns Hopkins University. The LA system will enable high-spatial-resolution, in situ analysis of geomaterials. The Hopkins LA-ICP-MS Facility will focus on fine-scale trace element mapping, and large-N U/Pb geochronology. It will also offer capacity for very sensitive trace and rare earth element analysis of solid samples. An updated Hopkins LA-ICP-MS Facility is important for the research programs of multiple early-career geoscientists based in the Baltimore area, and will serve the broader Mid-Atlantic region. Existing projects proposed to utilize the Hopkins LA-ICP-MS Facility span multiple disciplines, from the biogeosciences to meteoritics, petrology, plate tectonics and archaeology. The Hopkins LA-ICP-MS Facility will offer graduate and undergraduate research students valuable training in modern geosciences research and will be incorporated into undergraduate courses at multiple universities in the Baltimore area.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>10/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>10/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831766</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Harrower</LastName>
+<EmailAddress>mharrower@jhu.edu</EmailAddress>
+<StartDate>10/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wendy</FirstName>
+<LastName>Nelson</LastName>
+<EmailAddress>wrnelson@towson.edu</EmailAddress>
+<StartDate>10/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Maya</FirstName>
+<LastName>Gomes</LastName>
+<EmailAddress>mgomes@jhu.edu</EmailAddress>
+<StartDate>10/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Emily</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>Esmit163@jhu.edu</EmailAddress>
+<StartDate>10/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Viete</LastName>
+<EmailAddress>viete@jhu.edu</EmailAddress>
+<StartDate>10/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212182686</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>1101 E 33rd St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1580</Code>
+<Text>INSTRUMENTATION &amp; FACILITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1580</Code>
+<Text>INSTRUMENTATION &amp; FACILITIES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

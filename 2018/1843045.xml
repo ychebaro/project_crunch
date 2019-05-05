@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Generating HLB and canker resistant citrus trees using CRISPR/Cas9</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to engineer resistance to two bacterial diseases in citrus trees, Huanglongbing (HLB) and citrus canker.  HLB and canker have cost growers billions of dollars in destroyed trees and are decimating the Florida citrus industry. In Florida, annual citrus production has fallen from 242 million boxes in the 2003-2004 growing season to 45 million boxes in 2017-2018.  Further, citrus canker may be found in 98% of the citrus production regions in Florida. Working with the University of Florida, the goal of this project is to use CRISPR/Cas9 gene editing to advance natural selection to make citrus trees resistant to both HLB and citrus canker. If successful, this approach could be used to protect the 93 million tons of citrus production worldwide. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this SBIR project is to develop HLB and canker-resistant citrus varieties by using gene editing with CRISPR/Cas9. Florida citrus growers need a solution to these diseases, and producing a genetically-resistant citrus variety is a promising strategy. The approach is to modify plant genes that are the targets of proteins secreted by the disease-causing bacteria. The first objective is to conduct the gene editing in commercially viable citrus varieties. This will be accomplished non-transgenically by transforming a non-integrated plasmid or purified Cas9 protein and in vitro transcribed sgRNA in citrus protoplasts. To identify gene edits, protoplasts will be grown into callus, which will be screened by PCR and DNA heteroduplex digestion as well as Sanger and/or high-throughput sequencing. The second objective will be to take plants with confirmed edits, clonally propagate them, and conduct preliminary testing for HLB or canker resistance. Plants will be inoculated with the disease-causing bacteria and then monitored for disease progression by observation of physical characteristics and measurement of bacterial titers by PCR. The best performing mutations from Phase I will be combined and used for more extensive greenhouse and field testing during SBIR Phase II.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843045</AwardID>
+<Investigator>
+<FirstName>Kara</FirstName>
+<LastName>Boltz</LastName>
+<EmailAddress>kara@soilcea.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Soil Culture Solutions, LLC</Name>
+<CityName>Parrish</CityName>
+<ZipCode>342199047</ZipCode>
+<PhoneNumber>9372158371</PhoneNumber>
+<StreetAddress>9559 25th St. E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

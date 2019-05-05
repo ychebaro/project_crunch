@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Controlled Organoid Synthesis with Fluorescence-Activated Cell Printing</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to provide the biomedical research community with a new tool for next-generation tissue culture platforms, including those derived from patient samples.  If successful, this technology will enable researchers to automate and standardize 3D cell culture techniques in a format that is broadly compatible with current laboratory infrastructure.  It would bridge a gap between commercial biomanufacturing/pharmaceutical development and the academic state-of-the-art.  Moreover, the proposed technology will provide the scientific community with novel tools to perturb and observe how individual cells interact with each other and with their microenvironment.  Probing biological signatures at single-cell resolution underpins major current trends in biomedical research, from clinical applications in cancer therapy, diagnostics, and immunology, to global basic science initiatives such as the Human Cell Atlas project.  The goal of this grant is to facilitate commercialization of a single-cell handling instrument for use in research universities and pharmaceutical R&amp;D laboratories.&lt;br/&gt;&lt;br/&gt;The intellectual merit of this SBIR Phase I project is to develop an automated instrument for seeding organoids or other 3D tissue cultures with single-cell resolution.  Organoids have the potential to transform personalized medicine and disease modelling, but current culture methods are poorly controlled, leading to wide variability between individual samples and across labs.  It is recognized that standardization, reproducibility, and tight control of cell seeding parameters will be paramount for drawing predictive value from organoids in the clinic, particularly when many statistical replicates are required.  The technology developed is a high-resolution robotic cell printing instrument capable of rapidly and deterministically seeding single cells contained within sub-nanoliter liquid volumes.  The goal is to evaluate the feasibility of implementing the proposed cell printing technology to seed organoid cultures with complete control of the type and number of constituent cells in each organoid.  Using Lgr5+ stem cell-derived intestinal organoids as a model culture system, protocols will be developed for preparing "printer-ready" input single stem cells from primary tissue.  Then, the plan is to evaluate the effects of cell seeding state on organoid morphology by varying cell number, cell type and ECM components, to test the hypothesis that controlled seeding will result in improved morphological reproducibility, as assessed by high-content imaging.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843954</AwardID>
+<Investigator>
+<FirstName>christian</FirstName>
+<LastName>siltanen</LastName>
+<EmailAddress>christian.siltanen@scribebiosciences.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Scribe Biosciences, Inc.</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941173371</ZipCode>
+<PhoneNumber>5108136420</PhoneNumber>
+<StreetAddress>120 Pierce St.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

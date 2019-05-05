@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Molecular Identification of Chemical Substances with a Multi-stage Analyzer</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>196122</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project arises with enhanced capability for humans to know the chemical composition of airborne vapors and other materials which may contain substances of some toxicity or danger.  Enhancements are made on principles and practices of a method for chemical measurements known as ion mobility spectrometry which already provides security in commercial aviation with explosives detection and in military preparedness for monitoring chemical warfare agents.  Innovations in this project will advance measurement technology by increasing confidence in detecting chemicals by extracting additional knowledge from the substances.  Such improvements will benefit specialists needing high speed, portable chemical analyzers and society broadly when such analyzers are employed in security, medical, and consumer applications.  The innovations in technology necessitate discovery and development on the behavior of substances as gas ions in strong electric fields.  Understandings of these behaviors should have impacts in chemical measurements science and other physical sciences beyond this particular technology.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposed project solves a key limitation in existing chemical analyzers based on ion mobility spectrometry which are capable only of highly selective detection and are unable to provide accurate chemical identification of substances.  The objective in this project is to enable chemical identification of substances using sequential multi stage processing of gas ions derived from a substance in small planar embodiments of ion mobility spectrometry.  In these structures, chemical class specific fragments are generated in strong electric fields in air at ambient pressure, a topic which is largely unexplored.  This project will explore and mature this topic with technology refinement and descriptions of fundamental processes.  The maturation of this technology should lead to a demonstrator analyzer which permits evaluations of performance for some specific applications and the assessment of a pathway to commercialization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827525</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Eiceman</LastName>
+<EmailAddress>geiceman@nmsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico State University</Name>
+<CityName>Las Cruces</CityName>
+<ZipCode>880038002</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress>Corner of Espina St. &amp; Stewart</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

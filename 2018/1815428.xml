@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CIF: Small: Fundamental limits of interactive communications</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>499996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The proposed research aims to understand how interaction affects the fundamental performance of communication systems. "Interaction" denotes when current decisions such as what to input to the channel may be altered based on past decisions, for example through feedback or access to channel outputs.  To assess the impact of interaction, this project uses the technology-independent formalism of information theory, which quantifies the fundamental limits of data compression and transmission.  This provides upper bounds and benchmarks for real-world performance of interactive communication systems, which will be more realistic than current bounds which consider idealized notions of feedback. This is expected to refine the design of communication systems in the noisy feedback and two-way settings of relevance in many existing and future communication paradigms.&lt;br/&gt;&lt;br/&gt;The role of interaction in one-way channels with noisy feedback and two-way channels will be looked at using three information theoretic metrics: 1) the somewhat crude capacity viewpoint; 2) a more refined error exponents angle; and finally 3) the even more refined second order coding / finite-blocklength context.  One-way channels with noisy feedback highlight the potential utility or futility of adapting current inputs to past noisy channel outputs, extending the understanding from the current state of the art which for the most part considers noiseless / perfect output feedback.  Two-way channels where two users wish to exchange messages over a common channel and do so interactively take this understanding one step further by capturing not only the impact of interaction / feedback, but also the tension  between using a common channel to send data in one direction versus feedback in the other. The outcomes of the proposed research will provide a comprehensive understanding of interaction in two more realistic and relatively unexplored interactive settings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815428</AwardID>
+<Investigator>
+<FirstName>Natasha</FirstName>
+<LastName>Devroye</LastName>
+<EmailAddress>devroye@uic.edu</EmailAddress>
+<StartDate>06/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress>809 S. Marshfield Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

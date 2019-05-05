@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Data Science Leadership Summit</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>28483.00</AwardTotalIntnAmount>
+<AwardAmount>28483</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Spengler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The objective of this workshop is to convene leaders of data science initiatives across a number of research universities, in order to begin the formation of an academic community for data science. While there were only a few data science institutes/centers/initiatives at major research universities a few years ago, there are currently more than twenty such activities across public and private universities. This meeting will be the first ever convening of such a group, to allow for sharing of experiences and best practices in initiating teaching and research programs in data science. Meeting participants will discuss challenges and opportunities facing their respective institutions. One objective of the workshop group is to assume collective responsibility for preparing the next-generation data scientists in order to prepare them to be able to contribute towards the best interests of science and society.&lt;br/&gt;&lt;br/&gt;In addition to the data science leadership across different institutions, invitees to the summit will also include representatives of associated data science activities currently underway, including PIs of the NSF TRIPODS Phase I projects; participants in the NSF-funded NAS study on Envisioning the Data Science Discipline: The Undergraduate Perspective; and, organizers of NSF-sponsored workshops on Translational Data Science, Data Science Corps, and Keeping Data Science Broad: Negotiating the Digital and Data Divide.&lt;br/&gt;&lt;br/&gt;An express purpose of the summit is the formation of an academic community around data science research and teaching. Across the globe, numerous academic institutions are forming data science initiatives, leading to the recognition of Data Science as a discipline and/or as a key sub-disciplinary area. Much as the Computing Research Association (CRA) helped the computer science research community develop an identity, the organizers of this meeting believe that it will be helpful to initiate a community in data science leadership in the US, evolving into an organization like CRA for data science. This summit is the start of such a community-building effort. The intention is to initiate an organization dedicated to the enhancement of data science as a discipline, which can also convene activities to ensure a robust and growing data science community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821451</AwardID>
+<Investigator>
+<FirstName>Jeannette</FirstName>
+<LastName>Wing</LastName>
+<EmailAddress>WING@COLUMBIA.EDU</EmailAddress>
+<StartDate>03/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

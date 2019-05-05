@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FW-HTF: Collaborative Research: Enhancing Human Capabilities through Virtual Personal Embodied Assistants in Self-Contained Eyeglasses-Based Augmented Reality (AR) Systems</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>2190000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Scheidt</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Future of Work at the Human-Technology Frontier (FW-HTF) is one of 10 new Big Ideas for Future Investment announced by NSF. The FW-HTF cross-directorate program aims to respond to the challenges and opportunities of the changing landscape of jobs and work by supporting convergent research. This award fulfills part of that aim. &lt;br/&gt;&lt;br/&gt;This award supports basic research underpinning development of an eyeglass-based 3D mobile telepresence system with integrated virtual personal assistant. This technology will increase worker productivity and improve skills. The system automatically adjusts visual focus and places virtual elements in the image without eye strain.  The user will be able to communicate to the system by speech.  The system also uses sensors to keep track of the user's surroundings and provide the relevant information to the user automatically.  The project will explore two of the many possible uses of the system: amplifying a workers capabilities (such as a physical therapist interacting with a remote patient), and accelerating post-injury return to work through telepresence (such as a burn victim reintegrating into his/her workplace). The project will advance the national interest by allowing the right person to be virtually in the right place at the right time. The project also includes an education and outreach component wherein undergraduate and graduate students shall receive training in engineering and research methods. Course curriculum at Stanford University and the University of North Carolina at Chapel Hill shall be updated to include project-related content and examples. &lt;br/&gt;&lt;br/&gt;This project comprises fundamental research activities needed to develop an embodied Intelligent Cognitive Assistant (GLASS-X) that will amplify the capabilities of workers in a way that will increase productivity and improve quality of life. GLASS-X is conceived of as an eyeglass-based 3D mobile telepresence system with integrated virtual personal assistant. Methods include: body and environment reconstruction (situation awareness) from a fusion of images provided by an eyeglass frame-based camera array and limb motion data provided by inertial measurement units; fundamental research on adaptive focus displays capable to reduce eye strain when using augmented reality displays; dialog-based communication with a virtual personal assistant, including transformations from visual input to dialog and vice versa; human subject evaluations of GLASS-X technology in two workplace domains (remote interactions between a physical therapist and his/her patient; burn survivor remote return-to-work). This research promises to push the state of the art in core areas including: computer vision; augmented reality; accommodating displays; and natural language and dialogue models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840131</AwardID>
+<Investigator>
+<FirstName>Henry</FirstName>
+<LastName>Fuchs</LastName>
+<EmailAddress>fuchs@cs.unc.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jan-Michael</FirstName>
+<LastName>Frahm</LastName>
+<EmailAddress>jmf@cs.unc.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mohit</FirstName>
+<LastName>Bansal</LastName>
+<EmailAddress>mbansal@cs.unc.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Felicia</FirstName>
+<LastName>Williams</LastName>
+<EmailAddress>fnwmd@med.unc.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Prudence</FirstName>
+<LastName>Plummer</LastName>
+<EmailAddress>pplummer@med.unc.edu</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>082Y</Code>
+<Text>FW-HTF: Advancing Cognitive an</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+</Award>
+</rootTag>

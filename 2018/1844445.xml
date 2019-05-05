@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: Statistical Learning of Predictive Dependencies of Tense-Aspect System in the Artificial Language by English and Thai L1 Adults</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardAmount>14471</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joan Maling</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>While many adults are keen to learn a second (L2) or additional (Ln) language because of academic, economic, or cultural reasons, their success may not come as easily as that when they acquired their first language (L1) as children. One of the reasons for this variable success is prior linguistic experience from different L1s. Moreover, the presence of multilingualism, that many adults will learn several languages over their lifetime, makes it harder to assess prior knowledge. Learning a language means becoming attuned to and developing expectations for systematic linguistic patterns, from sound sequences to grammatical relations. Successfully learning a novel language requires that adults abstract new systematic patterns from the input while using existing ones from their learned language(s). This research will help us understand language prediction and multilingual learning processes.&lt;br/&gt;&lt;br/&gt;This dissertation research project employs an artificial grammar learning paradigm to investigate how a particular kind of probabilistic systematic pattern, predictive dependencies, in adults' existing tense-aspect system(s) can promote or prevent adaptation to novel tense-aspect regularities. Adult participants from two L1 backgrounds, English and Thai, will learn a miniature language that expresses temporal meaning involving both English- and Thai-analogous predictive dependencies at different levels: between lexical and sub-lexical items (e.g., walk+ed) for English and between lexical items (e.g., a pair of aspect markers such as sed leew ["already completed"]) for Thai. Because the same meaning in the miniature language is equally likely to appear with both sets of dependencies, this research will investigate (1) whether participants are better able to learn predictive dependencies that are consistent with their L1-analogous dependencies and (2) whether the findings will be true under bilingual learning conditions for the English participants, who have perfect knowledge of one set of dependencies and zero knowledge of the other, and under trilingual learning conditions for the Thai-English participants, who have both sets of dependencies available for use during learning but with varying degrees of statistical precision in their L2, English.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/06/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/06/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844445</AwardID>
+<Investigator>
+<FirstName>Lourdes</FirstName>
+<LastName>Ortega</LastName>
+<EmailAddress>lourdes.ortega@georgetown.edu</EmailAddress>
+<StartDate>02/06/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sakol</FirstName>
+<LastName>Suethanapornkul</LastName>
+<EmailAddress>ss3302@georgetown.edu</EmailAddress>
+<StartDate>02/06/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgetown University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200571789</ZipCode>
+<PhoneNumber>2026250100</PhoneNumber>
+<StreetAddress>37th &amp; O St N W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8374</Code>
+<Text>DDRI Linguistics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1311</Code>
+<Text>LINGUISTICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

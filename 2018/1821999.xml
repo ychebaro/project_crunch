@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Passive Wastewater Processing System</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is in providing a more sustainable, low-cost water management system capable of purifying, or treating, wastewater produced through a wide array of applications, ranging from agriculture to manufacturing. The core technology incorporates an efficient, passive solar thermal harvesting technique for capturing thermal energy. The successful development, commercialization and incorporation of this modular system into existing wastewater systems could reduce costs and increase efficiency in wastewater management, creation of renewable fresh water, and the handling of potentially hazardous wastewater.  &lt;br/&gt;&lt;br/&gt;This I-Corps project provides a high-rate, high-efficiency transformative distillation method that localizes radiation heat within porous media. This passive method for water distillation utilizes stored radiative thermal energy for collecting distilled water from wastewater. Unlike existing methods of distillation where the bulk of the body of liquid is heated for evaporation/boiling, this technology focuses the stored heat onto a thin layer of liquid and allows the rest of the bulk liquid to remain unheated, leading to maximum efficiency and phase-change rate. A physical model has been developed, and laboratory testing under typical solar radiation intensity conditions has shown encouraging results. Through this I-Corps project, this method of distillation can be investigated to determine whether it will lead to the more effective and economical management of industrial wastewater and agricultural runoff.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821999</AwardID>
+<Investigator>
+<FirstName>Ethan</FirstName>
+<LastName>Languri</LastName>
+<EmailAddress>elanguri@tntech.edu</EmailAddress>
+<StartDate>02/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Tennessee Technological University</Name>
+<CityName>Cookeville</CityName>
+<ZipCode>385050001</ZipCode>
+<PhoneNumber>9313723374</PhoneNumber>
+<StreetAddress>Dixie Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

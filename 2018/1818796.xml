@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Ultra-sensitive Detection of Lipoarabinomannan (LAM) and Interferon-Gamma (IFN-g) as Biomarkers for Detection of Tuberculosis (TB)</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>224876.00</AwardTotalIntnAmount>
+<AwardAmount>224876</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project is intended to develop a noninvasive, ultra-sensitive molecular&lt;br/&gt;detection system for Tuberculosis (TB). Although the prevalence of TB has diminished, it still&lt;br/&gt;remains the second leading cause of death from an infectious disease. The latest global TB report&lt;br/&gt;from the World Health Organization with data compiled from 205 countries put the figures at 1.5&lt;br/&gt;million fatalities and 9.6 million infections annually. The proposed technology uses the nano-&lt;br/&gt;Plasmonic Grating (P-GRAT) properties to enhance the detection signal of the TB biomarker by&lt;br/&gt;more than 100X. This results in detecting concentrations in femto-gram/milliliter range resulting&lt;br/&gt;in early detection and treatment. The specificity, faster results, low cost/test and ease of use,&lt;br/&gt;makes this system a substantive innovation in the TB diagnostic market. The TB testing market&lt;br/&gt;accounts for $1.5 billion annually of which North America is the second largest in terms of&lt;br/&gt;generated revenue due to the higher pricing for TB detection. The proposed technology will&lt;br/&gt;benefit the patients with early diagnosis and provide the health care professionals with early&lt;br/&gt;treatment options. With all the advantages this technology has to offer, it is expected to gain a&lt;br/&gt;significant share in the market place and generate a revenue stream.&lt;br/&gt;&lt;br/&gt;The main limitation of the immunoassays is their inability to detect extremely small fluorescence&lt;br/&gt;signals that are associated with ultra-low concentrations of biomarkers. The proposed nano-&lt;br/&gt;Plasmonic Grating (P-GRAT) technology can overcome this limitation due to its exceptionally&lt;br/&gt;efficient light coupling, reduced scattering, high signal-to-noise ratio and directional&lt;br/&gt;excitation/emission. As a result, a fluorescence enhancement of P-GRAT is 100X or higher&lt;br/&gt;compared to a glass substrates or polyurethane well plates. Such enhancements translate to ultrasensitive&lt;br/&gt;detection and early diagnosis. Commercial immunoassays require hours to days to&lt;br/&gt;achieve pg/ml sensitivity. In comparison, P-GRAT can detect pg/mL range concentrations in less&lt;br/&gt;than three hours. P-GRAT utilizes a simplified design to exclude expensive optics like laser&lt;br/&gt;sources, high-magnification objective lenses and filter cubes. The use of 3-D printed parts to&lt;br/&gt;fabricate the system and use a smartphone as the detector further reduces the cost. We intend to&lt;br/&gt;develop and commercialize a noninvasive, ultra-sensitive (fg/ml) molecular detection system for&lt;br/&gt;Tuberculosis (TB). TB specific biomarkers Lipoarabinomannan (LAM) and Interferon gamma&lt;br/&gt;(IFN-g) will be detected in urine and saliva. P-GRAT is a platform technology and can easily be&lt;br/&gt;adapted for the ultra-sensitive detection and diagnosis of other diseases, such as Zika, Ebola,&lt;br/&gt;HIV and Cancer.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818796</AwardID>
+<Investigator>
+<FirstName>Syed</FirstName>
+<LastName>Barizuddin</LastName>
+<EmailAddress>syed.barizuddin@gmail.com</EmailAddress>
+<StartDate>05/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Plasmonic Diagnostics LLC</Name>
+<CityName>Columbia</CityName>
+<ZipCode>652038482</ZipCode>
+<PhoneNumber>5735296676</PhoneNumber>
+<StreetAddress>5006 Newbury Way</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PAWR Platform POWDER-RENEW: A Platform for Open Wireless Data-driven Experimental Research with Massive MIMO Capabilities</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardAmount>4369587</AwardAmount>
+<AwardInstrument>
+<Value>Cooperative Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Thyagarajan Nandagopal</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project creates a city-scale platform for advanced wireless research that will be deployed over the period 2018 - 2023 in Salt Lake City, Utah. This Platform for Open Wireless Data-driven Experimental Research (POWDER) supports at-scale experimentation of novel advanced wireless broadband and communication technologies in the sub-6 GHz band. The project features interactions with regional networks encompassing initiatives on public transportation, broadband delivery, education and health service delivery as well as advancement of science, technology and research by creating an ecosystem of a hundred small companies in allied technical domains. The ability to use this platform by early adopter companies/startups and application developers to evaluate technologies in their pre-commercial phase will have a significant positive impact on the speed of innovation in the data networking and application domains. This effort will also benefit educators and students at all levels of study in communications-related disciplines. &lt;br/&gt;&lt;br/&gt;A key feature of the platform is the partnership with the Reconfigurable Eco-system for Next-generation End-to-end Wireless (RENEW) project at Rice University to develop a highly programmable and flexible massive multi-input multi-output (MIMO) platform that is an essential feature of both 5G and beyond-5G wireless networks. The platform will feature (i) heterogeneous systems composed of programmable base stations, mobile devices and static sensors; (ii) state of the art massive MIMO base-stations; (iii) ability to conduct research over a diverse spectrum range (from 50 MHz to 3.8 GHz), and (iv) a large-scale software defined wireless networking testbed integrated with an existing NSF-funded cloud testbed, thereby enabling end-to-end experimentation. Another unique aspect of the platform is support for wireless mobility-based studies, provided by using couriers with predictable movement patterns (e.g., buses), less predictable but bounded mobility (e.g., maintenance vehicles), and controllable couriers (e.g., on-site volunteers). Each of these deployed units will consist of "base" functionality that includes user-programmable software defined radios, "bring your own device" (BYOD) experiments, and will be connected via a sophisticated platform control framework. Existing fiber links will connect the wireless base stations to about half a dozen edge compute platforms. This will enable complex device provisioning and a set of tools for scientific workflow management, collaboration, and artifact sharing, with a goal towards promoting rigorous standards for reproducibility in this field.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827940</AwardID>
+<Investigator>
+<FirstName>Tommaso</FirstName>
+<LastName>Melodia</LastName>
+<EmailAddress>melodia@ece.neu.edu</EmailAddress>
+<StartDate>04/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2890</Code>
+<Text>CISE RESEARCH RESOURCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>044Z</Code>
+<Text>PAWR- Platforms for Advanced Wireless Re</Text>
+</ProgramReference>
+</Award>
+</rootTag>

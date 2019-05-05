@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  X-Ray Focusing Device for 20-100 keV Photon Energies</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>748975.00</AwardTotalIntnAmount>
+<AwardAmount>748975</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Benaiah Schrag</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase II project targets the fabrication of devices capable of focusing X-rays with high energy (from 10 keV to above 100 keV) to spot sizes as small as 7 nanometers.  This capability is critical for imaging, microtomography, and elemental and structural analyses of materials and will permit imaging in spectral ranges and at resolutions unavailable today. These devices will enable scientists to better image the interplay of structure and functionality for a wide variety of applications, including the development of life-saving drugs, the creation of materials for high-tech devices, and for a number of important basic scientific purposes. The devices? primary use will be in high-end synchrotron radiation facilities and in X-ray microscopes with in specialized industrial and research environments. These devices form a special class of high-value consumables, addressing a global market segment worth about $7 million today with the potential to increase to more than $14 million in the near future. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this project is threefold. First, the innovative method of fabrication explores and exploits the ultimate capability of atomic layer deposition (ALD) for achieving nanometer-scale smoothness in very thick, multilayer films. Unlike related methods that rely on deposition onto wires and slicing, this method uses ALD to deposit sequences of low and high refractive index materials onto batch-fabricated cylindrical silicon precursors, with well-controlled layer thicknesses varying from a few nanometers to tens of nanometers. Subsequently, polishing the wafer will yield membranes with hundreds of high-value focusing devices on a single wafer, minimizing the processing costs per device. Second, the envisioned wafer-level processing method allows for a necessary tilt control of the precursors, not possible with wires, for better focusing properties. Third, the method is extendable towards depositing sequences of more-than-two material layers, which enables the fabrication of step-wise graded index diffractive devices with single foci and featuring ultimate diffraction efficiency. Phase I qualified the individual key processes and proved their integration capability into a complete fabrication sequence, while Phase II will deal with the fabrication and testing of prototypes and preparation for production, using long runs of atomic layer deposition processes, as is necessary for functional devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831268</AwardID>
+<Investigator>
+<FirstName>Nicolaie</FirstName>
+<LastName>Moldovan</LastName>
+<EmailAddress>nicolaie.a.moldovan@gmail.com</EmailAddress>
+<StartDate>09/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Alcorix Co.</Name>
+<CityName>Plainfield</CityName>
+<ZipCode>605446098</ZipCode>
+<PhoneNumber>6308658291</PhoneNumber>
+<StreetAddress>14047 Franklin Ct.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

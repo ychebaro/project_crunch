@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Cloud-Based Electric Power Grid Simulation Software With Equivalent Circuit Methods</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>224956</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to enable a safer, more reliable, and more efficient electric power grid. The power grid is critical infrastructure on which all of America's economic sectors depend, and so its reliability and stability is of the utmost importance. The technology being developed is the ideal modeling and simulation platform to analyze and predict grid abnormalities and blackouts due to its unprecedented ability to simulate complex systems accurately. Its physics-based simulation engine can incorporate more detailed models of loads on the grid, thereby allowing system operators to better assess grid state and stability. The proposed technology is also uniquely capable of modeling distributed energy resources at the transmission and distribution scale, an industry need that has been deemed critical to increase the penetration of renewables on the grid. The technology has substantial potential for commercial impact, as there are thousands of transmission, distribution, generation, and consulting organizations that are potential customers. Combined, these factors can help enable a more robust, secure grid that operates with reduced cost and emissions. This Phase I project represents the first step in making this technology a commercial reality.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project represents a significant departure from traditional methods that are used to model the electric power grid. The team's foundational research has already shown that the technology can simulate the U.S. Eastern Interconnection (half of the U.S. transmission grid) from any initial condition to evaluate complex contingencies - capabilities that are not possible with existing tools. The current- and voltage-based formulation used in the model is more flexible than is used in traditional power systems simulation software, enabling more realistic physics- and/or measurement-based models for more accurate simulation results. The Phase I project includes developing a secure and robust cloud platform for the technology that supports parallelized grid analyses, with a full library of component models and an intuitive web-based interface. This will enable system operators, utilities, and consultants to improve their planning studies and operations by enabling more accurate simulations at a higher throughput than is possible with today's software. The work done in Phase I will serve as a foundation for future advancements in power grid modeling and simulation, including integrated transmission and distribution system analysis and statistical analysis to assess the impact of uncertainties on the grid.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819399</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Bromberg</LastName>
+<EmailAddress>bromberg@pearlstreettechnologies.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pearl Street Technologies, LLC</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152064703</ZipCode>
+<PhoneNumber>4126064390</PhoneNumber>
+<StreetAddress>6392 Melissa Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSR: Small: IOQL: an I/O Interface for Near-Data Processing</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>499515</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Kundu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As data sets grow, the overhead of moving data around different units in computers significantly affect the execution time of applications. Performing computation near the source location of data as much as possible can fundamentally minimize the demand of data movement. However, doing this is difficult with the existing computer systems. This project will develop a Input/Output Query Language (IOQL) to provide a natural language and interface for users to easily describe the tasks to compute near data storage. The IOQL infrastructure optimizes and coordinates the allocation of all tasks in the system. IOQL will boost the performance of many critical datacenter applications. &lt;br/&gt;&lt;br/&gt;IOQL will achieve its goal through presenting a query language with easy-to-understand syntax, application programming interfaces for popular programming languages, a query engine that optimizes and assigns tasks among heterogeneous computing resources during runtime, kernel modules to interact with data storage/memory devices with computing facilities and architectural support of IOQL. IOQL will evaluate the proposed concepts by implementing real system prototype with extended data storage devices and memory controllers. This project will measure the performance, power and energy consumption for data-intensive compute kernels, machine learning frameworks and database systems.&lt;br/&gt;&lt;br/&gt;IOQL will be made compatible with existing computing systems, especially data centers, to address the demand of real-world applications for financial (e.g., business intelligence), scientific (e.g., simulation), and public health (e.g., genomics) applications. The design of IOQL minimizes the amount of additional costs of supporting the proposed tasks but maximizes extensibility of the framework, making IOQL an ideal long-term solution for similar problems.&lt;br/&gt;&lt;br/&gt;This project will publish research results in related peer-reviewed conferences, journals and workshops that allow public to access. This project will also make the stabilized source code of IOQL and all related modules available on https://github.com/ESCALNCSU. The research group plans to retain all related data for at least three years.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812987</AwardID>
+<Investigator>
+<FirstName>Hung-Wei</FirstName>
+<LastName>Tseng</LastName>
+<EmailAddress>htseng3@ncsu.edu</EmailAddress>
+<StartDate>06/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

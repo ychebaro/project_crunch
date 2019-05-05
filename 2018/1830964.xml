@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Development of 3D Second Harmonic Generation Tomography and Deep Learning Algorithms for Classification of Human Ovarian Cancer</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardAmount>299831</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal will address the problem of distinguishing between normal tissue and precancer tissue changes, critical for successful treatment of ovarian cancer. Ovarian cancer has a very poor prognosis unless detected at the earliest stage, which is extremely difficult. Current clinical imaging techniques lack sufficient resolution, specificity, and sensitivity for effective differentiation of normal and diseased cancerous tissue. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;There is a pressing need for new insight into disease etiology and progression. The PI will develop new Second Harmonic Generation (SHG) imaging tools for this purpose. They will extend current SHG microscopy to tomography for better characterization of 3D collagen structure. They will a) develop SHG excitation tomography; b) develope new reconstruction algorithms; and c) incorporate the 3D data into a respective classification scheme, and explore the use of deep learning algorithms to refine the classification analysis.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830964</AwardID>
+<Investigator>
+<FirstName>Vikas</FirstName>
+<LastName>Singh</LastName>
+<EmailAddress>VSINGH@CS.WISC.EDU</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Campagnola</LastName>
+<EmailAddress>pcampagnola@wisc.edu</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

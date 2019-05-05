@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Experimental and numerical study on the Reynolds number dependence of surfaces in von Karman turbulent swirling flows</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ronald Joslin</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The growth of surfaces, thought of as infinitely thin interfaces that separate regions occupied by fluids with dissimilar thermo-physical properties, is a process of intrinsic and practical interest with wide ranging applications in nature, science, and technical devices. As dissimilar fluids mix and interact proportionally to the area of the interface that separates them, the quantitative characterization of the rates of growth and destruction of surfaces is of critical importance. A comprehensive theory that describes these processes in turbulent flows, which are the most common flows encountered, is unavailable at present. The end goal of the project is to formulate a systematic theory that describes the dynamics of surfaces in turbulent flows depending on the state of the motion of the fluid. A comprehensive theory on the dynamics of surfaces will augment the general theory of turbulent flows, including flows with mixing and chemical reaction, which are found in chemical and energy conversion systems. In addition, our project will improve the understanding of physical processes observed in nature, such as cloud formation, where the evolution of interfaces is the rate limiting process. Thus, although the work is fundamental in nature, it has the potential for broad impacts in science and technology. The project will support the education of two graduate students, and it will also include significant outreach educational activities, which will focus on engaging grades 4-7 students in scientific discovery by investigating the properties of fluid mixing.&lt;br/&gt;&lt;br/&gt;The overarching goal of the project is to quantify the dependence of the evolution of surfaces in turbulent flows on the Reynolds number. We combine direct numerical simulations and measurements in a novel von Karman turbulent swirling flow setup featuring a shear-driven closed flow between counter-rotating impellers with fully developed turbulence at high Reynolds numbers. The evolution of surfaces in this canonical laboratory flow is tracked quantitatively, while the parameters that describe the flow configuration are varied judiciously to probe a broad range of conditions in the parameter space where different effects are believed to play a role on the evolution of surfaces. The project will fill this broad goal by focusing on two thrusts: (i) Prove or disprove the Reynolds number dependence of the area and growth rates of large surfaces in turbulent flows; (ii) Identify the parameters that scale the evolution of surfaces in turbulent flow through a detailed analysis of the terms in the transport equation for surfaces in turbulence. The direct numerical simulations of the entire device include all geometrical complexities, while experiments feature a novel manner of generating surfaces on demand and state-of the art volumetric measurements of the velocity field and 3D representation of the turbulent. This novel and unique research program is unprecedented as it includes both the broadest range and highest Reynolds numbers ever considered in the study of surfaces in turbulent flows.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803945</AwardID>
+<Investigator>
+<FirstName>Mirko</FirstName>
+<LastName>Gamba</LastName>
+<EmailAddress>mirkog@umich.edu</EmailAddress>
+<StartDate>06/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FLUID DYNAMICS</Text>
+</ProgramElement>
+</Award>
+</rootTag>

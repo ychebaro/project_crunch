@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: SaTC: Post-Quantum Indifferentiability</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Current technology for securing Internet traffic relies on cryptographic protocols that are based on the presumed difficulty of two mathematical problems - the factorization problem and the discrete logarithm problem. However, the emerging technology of quantum computers - a type of computer that leverages the laws of quantum mechanics to perform certain computations faster than classical computers - can efficiently solve both of these problems and thus effectively attack the respective cryptographic protocols. Anticipating the advent of quantum computers, efforts to standardize new quantum-safe (also called "post-quantum") cryptographic protocols are in progress. It is important to note that quantum attacks not only render factoring and discrete-logarithm based cryptosystems insecure, but also compromise the security of cryptosystems employing a technique known as the "random oracle methodology." This methodology assumes that all parties have access to an ideal object known as a random oracle and the security of the cryptosystem is analyzed in the random oracle model. Classical security proofs in the random oracle model fail in the quantum setting since quantum superposition queries to the oracle allow for improved attacks. This project will develop crucial tools for the security analysis of random oracle based, post-quantum cryptosystems by means of a quantum analogue of the indifferentiability framework.&lt;br/&gt;&lt;br/&gt;A fundamental tool for analyzing the security of classical cryptosystems in the random oracle model involves proving the so-called indifferentiability of constructions. The notion of indifferentiability formalizes the properties required of a construction to securely replace an ideal object (such as a random oracle) in arbitrary cryptosystems. Although often taken for granted, indifferentiability results from the classical setting do not necessarily extend to the quantum setting. Moreover, the quantum setting presents unique obstacles to proving indifferentiability, leaving in doubt whether the entire indifferentiability technique is applicable in the quantum oracle setting. This project explores the possibility of an indifferentiability framework in the quantum oracle setting. Specifically, the project encompasses the following technical problems: (1) Determining whether or not broad impossibility results apply to the quantum indifferentiability setting; (2) Developing new techniques for proving quantum indifferentiability; (3) Defining new formal security models for the analysis of symmetric and public key cryptosystems in the quantum oracle model; (4) Analyzing the security of essential constructions with respect to quantum indifferentiability or the newly introduced formal models.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840893</AwardID>
+<Investigator>
+<FirstName>Dana</FirstName>
+<LastName>Dachman-Soled</LastName>
+<EmailAddress>danadach@ece.umd.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

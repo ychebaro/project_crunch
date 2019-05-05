@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Vapor-Phase Epitaxy of Single-Domain Halide Perovskites for Quantum Applications</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>475000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Birgit Schwenzer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Summary:&lt;br/&gt;Thin film halide perovskite semiconductors have emerged as game-changing materials for many electronic applications and for solar energy conversion. Perovskite semiconductors are composed of earth-abundant elements, and are capable of achieving high performance comparable to traditional semiconductors such as Si and GaAs. However, there is still very little understanding how to grow thin film single crystals that could help lead to the highest potential for this class of material. This project, funded by the Solid State and Materials Chemistry program in the Division of Materials Research at NSF, expands the knowledge of accessible single-crystal growth dynamics for halide perovskites. The researchers study precisely controlled thin-film deposition of inorganic and hybrid halide perovskites. This fundamental research enables the realization of next generation thin-film perovskite quantum applications, designer multilayers, high speed transistors, and guides the development of stable and low-cost halide perovskite solar cells. To complement the technical project, a coordinated outreach and educational effort expands "Sustainable- and Solar-Energy Tinker-Space" workshops to include new modules on "The Magic of Diffraction" for hands-on energy education on the Michigan State University campus. Additionally, the researchers develop an annual art competition to raise awareness of innovative Materials Science research. This research ultimately brings the U.S. closer to the widespread application of the highest performance halide perovskite electronics and quantum devices.   &lt;br/&gt;&lt;br/&gt;Technical Summary:&lt;br/&gt;This project, funded by the Solid State and Materials Chemistry program in the Division of Materials Research at NSF, furthers the understanding of the bottom-up synthesis of halide perovskite epitaxial films and superlattices with controlled order and properties. Compared to their oxide analogues, the study of emergent phenomenon occurring at the interface for halide perovskite system has been underexplored and underexploited. Control over crystalline order, orientation, strain, and quantum confinement are therefore fundamental to the optimization of energy migration in these halide perovskite materials for the next generation high performance photovoltaics, optoelectronics and quantum degenerate two-dimensional electron systems. Employing vapor growth, the researchers explore and uncover heteroepitaxial growth modes of perovskite films that also enable the fabrication of quantum confined multilayers using real-time and in-situ diffraction techniques optimized for growth on both insulating and semiconducting substrates. Routes to tailoring the crystalline phase, stoichiometry, strain, and doping profiles of epitaxial films and quantum wells are established to realize electronic many-body phases in high-quality two-dimensional electron systems and determine the connection between structure and quantum properties that can guide future device development. To complement the technical project, a coordinated outreach and educational effort expands "Sustainable- and Solar-Energy Tinker-Space" workshops to include new modules on "The Magic of Diffraction" for hands-on energy education on the Michigan State University campus. Additionally, the researchers develop an annual art competition to raise awareness of innovative Materials Science research. This research ultimately brings the U.S. closer to the widespread application of the highest performance halide perovskite electronics and quantum devices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807573</AwardID>
+<Investigator>
+<FirstName>Johannes</FirstName>
+<LastName>Pollanen</LastName>
+<EmailAddress>pollanen@pa.msu.edu</EmailAddress>
+<StartDate>05/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Lunt</LastName>
+<EmailAddress>rlunt@msu.edu</EmailAddress>
+<StartDate>05/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1762</Code>
+<Text>SOLID STATE &amp; MATERIALS CHEMIS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8611</Code>
+<Text>Energy Efficiency and End Use</Text>
+</ProgramReference>
+</Award>
+</rootTag>

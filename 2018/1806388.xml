@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SusChEM: Metal-Free Catalysts for Oxygen Evolution and Oxygen Reduction Reactions: From Molecular Models to Graphene-Based Electrocatalysts</AwardTitle>
+<AwardEffectiveDate>09/01/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>559648</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Moloy</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The sun delivers a large amount of energy to our planet in the form of sunlight. A very small fraction of this solar energy is sufficient to satisfy our energy demands. However, to use the sun's energy efficiently, ways to "bottle" the energy from the sun into a chemical form of solar fuel need to be developed. One approach to creating solar fuels is to split water into gaseous hydrogen and oxygen molecules.  This water splitting process needs "helper" molecules, or catalysts, to occur rapidly and efficiently. When energy is needed, the hydrogen and oxygen can then be recombined in a device known as a fuel cell to produce electricity on demand. Unfortunately, the current chemical reactions that converts water into oxygen (the oxygen-evolving reaction, or OER) and oxygen back into water (the oxygen reduction reaction, or ORR) are too slow and inefficient to be a competitive replacement for fossil fuels.  Chemists have yet to discover practical catalysts that can accelerate these processes. In this award, Dr. Ksenjia Glusac of Bowling Green State University is investigating catalysts that not only accelerate OER and ORR, but also are inexpensive and non-toxic. Her model catalysts are made of earth-abundant elements, such as carbon and nitrogen, and utilize the high conductivity of graphene, a building block material of graphite found in pencils. The project also includes outreach activities that aim at introducing energy-related topics into K-12, college and general public education. Raising public energy literacy is a necessary step towards allowing informed decision-making on energy-related behaviors and policies.&lt;br/&gt;&lt;br/&gt;The oxygen evolving reaction (OER) and the oxygen reduction reaction (ORR) are key processes occurring in solar water splitting devices, fuel cells and metal-air batteries. The high conductivity of graphene, coupled with the catalytic performance of nitrogen sites makes N-doped graphenic materials excellent candidates for metal-free OER/ORR catalysis. However, the mechanistic understanding of catalysis by N-doped materials is limited, inhibiting the development of a new generation of materials with improved performance. In this project, Dr. Ksenjia Glusac of Bowling Green State University is supported by the Chemical Catalysis Program to investigate molecular model catalysts of N-doped carbon materials, with the goal of pinpointing the ideal structural motifs that lead to efficient OER and ORR catalysis. Particular emphasis is placed on structures that lead to reversible (bifunctional) OER/ORR catalysis because the electrocatalytic reversibility is directly linked to the decrease in the overpotential of the catalyzed reaction, resulting in greater catalytic efficiency. Dr. Glusac's research results allow her to obtain mechanistic insights into electrocatalytic OER/ORR by N-doped structures and develop a chemical methodology for implementing effective molecular motifs into graphenic materials. Furthermore, broader societal impacts result from activities in the Glusac laboratory that focus on implementing energy-related topics into K-12, college and public education. Raising public energy literacy is a necessary step towards allowing informed decision-making on energy-related behaviors and policies by the general public.</AbstractNarration>
+<MinAmdLetterDate>11/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806388</AwardID>
+<Investigator>
+<FirstName>Ksenija</FirstName>
+<LastName>Glusac</LastName>
+<EmailAddress>glusac@uic.edu</EmailAddress>
+<StartDate>11/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress>809 S. Marshfield Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8248</Code>
+<Text>SusChEM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8397</Code>
+<Text>Hydrogen Storage or Generation</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8604</Code>
+<Text>Fuel Cells</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

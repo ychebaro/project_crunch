@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Eighth (8th) International Symposium on Environmental Hydraulics; Notre Dame, Indiana; June 4-7, 2018</AwardTitle>
+<AwardEffectiveDate>01/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020100</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nicholas Anderson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding for early career scientists to attend the International Symposium on Environmental Hydraulics hosted by the University of Notre Dame in the summer of 2018.  The conference will bring together a broad range of early-career, mid-career, and senior scientists in differing fields with the goal of stimulating cross-fertilization and establishing commonalities in work.  NSF funding will allow registration fees to be cut for graduate students, ensuring robust participation.&lt;br/&gt;&lt;br/&gt;The 8th International Symposium on Environmental Hydraulics will be held on the campus of the University of Notre Dame on June 4-7th, 2018.  The goal of the workshop is to bring together a diverse group of scientists and engineers working in the area of environmental hydraulics, including relevant topics in environmental fluid dynamics, on a common platform to present recent findings, exchange ideas, foster collaborations and welcome junior researchers and students to the broader hydraulics community. Environmental Hydraulics encompasses a range of topics including pollutant reactions and transport in air and water, eco-hydraulics, sediment transport, fundamental fluid mechanics, river and coastal morphology, natural hazard prediction and mitigation, high performance computational applications, and many others.  The commonality in these topics is the application of fluid mechanics to the physical/chemical/ecological/built environment.</AbstractNarration>
+<MinAmdLetterDate>01/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802531</AwardID>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Kennedy</LastName>
+<EmailAddress>Andrew.B.Kennedy.117@nd.edu</EmailAddress>
+<StartDate>01/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harindra</FirstName>
+<LastName>Fernando</LastName>
+<EmailAddress>Fernando.10@nd.edu</EmailAddress>
+<StartDate>01/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Notre Dame</Name>
+<CityName>NOTRE DAME</CityName>
+<ZipCode>465565708</ZipCode>
+<PhoneNumber>5746317432</PhoneNumber>
+<StreetAddress>940 Grace Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1443</Code>
+<Text>FD-Fluid Dynamics</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1525</Code>
+<Text>Physical &amp; Dynamic Meteorology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

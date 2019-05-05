@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>P2C2: Speleothem Records of Permafrost and Climate from an Ice-Proximal, Mid-Continent Cave</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>121066</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020108</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David J. Verardo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The general aims of this project are to: 1) determine, using radiometric Uranium-Thorium dating of carbonate drip-features in the cave (speleothems), when past permafrost conditions occurred at Cave of the Mounds (CoM) in southern Wisconsin; and 2) develop a proxy record of hydroclimate conditions at CoM by measuring stable isotope ratios of oxygen in the speleothems. &lt;br/&gt;&lt;br/&gt;Specific project objectives are: 1) determining the timing of permafrost development at CoM over the past 250,000 years using Uranium-Thorium dating; 2) evaluating the hydroclimate conditions over this same interval using oxygen isotope chemistry; 3) examining the amplitude of high-frequency hydroclimate variability at CoM during ice-free and ice-proximal settings; and 4) measuring the duration and magnitude of hydroclimate changes across known abrupt climate transitions.&lt;br/&gt;&lt;br/&gt;Permafrost presently covers approximately 25 percent of the land surface in the northern hemisphere and represents a significant sink of terrestrial organic carbon. Climate projections into the future indicate a significant increase in global average temperatures that will be amplified at high latitudes and could initiate a positive climate feedback through the release of additional carbon during permafrost thaw.  One way to constrain the sensitivity of permafrost to warming atmospheric temperatures is through the geologic record. Most paleo-permafrost reconstructions in North America are derived from geomorphic features, but these records do not provide continuous records of permafrost and/or climate conditions. This research project aims to reconstruct the chronology of paleo-permafrost and produce a record of hydroclimate over the past 250,000 years near the terminal margin of the LIS.  The CoM is in a unique position to provide a North American paleoenvironmental record that also measures the sensitivity of regional hydroclimate to glacial versus interglacial conditions.&lt;br/&gt;&lt;br/&gt;The potential Broader Impacts include support for a female graduate student and two early career researchers, leveraging connections with the UW Geology Museum for outreach efforts, developing tutorials for sample preparation and imaging techniques (e.g. fluorescent imaging), and using the open-source, freeware, to collate imaging and geochemical data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805629</AwardID>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Orland</LastName>
+<EmailAddress>orland@wisc.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shaun</FirstName>
+<LastName>Marcott</LastName>
+<EmailAddress>smarcott@wisc.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1530</Code>
+<Text>PALEOCLIMATE PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7754</Code>
+<Text>CLIMATE VARIABILITY &amp; CHANGE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8070</Code>
+<Text>P2C2 Proposals</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  AC-Supercapacitors for Power Applications</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project is an innovative new capacitor technology based on kilohertz high-frequency supercapacitor, called AC-Supercap, aiming to replace conventional aluminum electrolytic capacitors (AECs) for a vast range of electronic and power systems. Capacitors are an essential component used in electronic devices, in power supplies driving electrical machines, appliances and instruments, as well as in power conversion and conditioning systems used for renewable energy generation. In the consumer electronics sector, miniaturization and low-profile or even flexible packaging, and higher power efficiency are some of the key demands. In the power system and other power-demanding industry sectors, large capacitance, large ripple current absorption, and high temperature rating are the key requirements. With the emergence of distributed wireless sensors and Internet of Things (IoT), pulse energy storage and generation will be necessary as well. AC-Supercap, with its much better performance than current solutions, is anticipated to better serve the needs of broad range of customers. Upon the success of this technology, there will also be tremendous impact on the local ecosystem and regional community of West Texas. &lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer (STTR) Phase I project will investigate the feasibility of producing AC-Supercap as high-performance alternating current (AC) filtering capacitors for power modules, on-board application, or as compact and efficient pulse power storage. Conventional AECs, limited by their low capacitance density, bulky size, poor lifetime, large equivalent series resistance, and polarity sensitivity cannot meet technical needs well. To achieve AC-Supercaps with both large capacitance density and high-frequency response, two contradictory requirements, and nanostructured electrode engineering will be investigated. To produce a compact capacitor with a large voltage rating and capacitance, multicell integration will be optimally designed and demonstrated, which is crucial considering the intrinsic low voltage rating of a single cell. The proposed innovative solutions to these technical challenges will de-risk the AC-Supercap product prototyping in the following project phases to make ready the technology for commercialization. These research activities will advance the scientific understanding and technological development of nanostructured electrode process and property control, multicell integration design, and particularly AC-Supercap technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820098</AwardID>
+<Investigator>
+<FirstName>Zhaoyang</FirstName>
+<LastName>Fan</LastName>
+<EmailAddress>Zhaoyang.Fan@ttu.edu</EmailAddress>
+<StartDate>06/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Md Nadim</FirstName>
+<LastName>Hoque</LastName>
+<EmailAddress>nadim.ferdous88@gmail.com</EmailAddress>
+<StartDate>06/12/2018</StartDate>
+<EndDate>09/28/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nazifah</FirstName>
+<LastName>Islam</LastName>
+<EmailAddress>nzfh.buet@gmail.com</EmailAddress>
+<StartDate>09/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BAONANO, LLC</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794236373</ZipCode>
+<PhoneNumber>8063170744</PhoneNumber>
+<StreetAddress>3004 County Road 7520</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

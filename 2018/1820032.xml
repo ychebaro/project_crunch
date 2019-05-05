@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Marangoni Processing for the Stabilization of Biologically Active Surfaces</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Konsek</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Small Business Innovation Research Phase I project proposes development and optimization of a surface tension mediated lyoprocessing technique for long-term storage of biologically active surfaces and other biological materials at ambient or above cryogenic temperatures. Stabilization of temperature sensitive biological materials at ambient temperatures can address significant bottlenecks that prevents economic distribution of pharmaceutically relevant biomolecules worldwide. In addition, the implementation of this technology has the potential to greatly improve global health, particularly in developing regions where many advanced treatments are unavailable as a result of their temperature sensitivity. Overall, this project aims at offering an alternative technology platform to stabilize temperature sensitive biological materials at non-cryogenic temperatures. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this project lies primarily in the approach used to achieve stable desiccated storage. The project aims at translating a newly developed drystate biopreservation processing methodology into a commercially viable, mechanized, long-term biopreservation technique. The newly developed biopreservation technology provides a way to efficiently process biologically active surfaces containing bioactive components, assay reagents, cells and cellular components, and other biomolecules for long-term stability at non-cryogenic temperatures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820032</AwardID>
+<Investigator>
+<FirstName>Quinn</FirstName>
+<LastName>Osgood</LastName>
+<EmailAddress>quinn@otzibio.com</EmailAddress>
+<StartDate>05/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Otzi Bio LLC</Name>
+<CityName>Livonia</CityName>
+<ZipCode>481544938</ZipCode>
+<PhoneNumber>7347489444</PhoneNumber>
+<StreetAddress>14281 Richfield</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+</Award>
+</rootTag>

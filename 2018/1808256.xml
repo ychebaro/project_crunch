@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Viscous Organic Liquids and Catalysis of Atmospheric Ice Nucleation</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anne-Marie Schmoltner</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award from the Environmental Chemical Sciences Program in the NSF Division of Chemistry supports Prof. Sarah Brooks at Texas A&amp;M University. Prof. Brooks and her students study the role of secondary organic aerosols SAO) in the nucleation of atmospheric ice particles. Recent measurements indicate that several current assumptions about the organic aerosol phase and the cloud-forming properties may be incorrect. First, the majority of SOA in the troposphere exist in a viscous, rather free-flowing liquid state. Second, the presence of viscous organic aerosols represents a previously unrecognized supply of particles capable of causing the freezing of ice crystals in clouds.  The data collected are used to assess the role of viscous phases and retarded water diffusion in atmospheric ice nucleation processes. The project also includes the training of graduate students, undergraduate students, and high school students. During summers at Texas A&amp;M, high school students attend the campus-wide TAMU Youth Adventure Program to participate in lecture and laboratory activities including, "The role of viscosity in the foods we love." &lt;br/&gt; The team collects quantitative data on the phase, water diffusion, and ice nucleating ability of representative organic compounds and mixtures. The phases of sample aerosols are characterized by their temperature-dependent viscosities and the temperature at which they transition from liquid to glass using specialized spectroscopic techniques. In addition, the freezing temperatures of all samples are determined using our custom ice microscope technique. Taken together the data are used to evaluate whether a minimum glass transition temperature requirement exists for viscous aerosol to facilitate the freezing of droplets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808256</AwardID>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Brooks</LastName>
+<EmailAddress>sbrooks@tamu.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M University Main Campus</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454375</ZipCode>
+<PhoneNumber>9798626777</PhoneNumber>
+<StreetAddress>400 Harvey Mitchell Pkwy South</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6882</Code>
+<Text>Environmental Chemical Science</Text>
+</ProgramElement>
+</Award>
+</rootTag>

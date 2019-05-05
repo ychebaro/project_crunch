@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Towards Modeling &amp; Simulation-Enabled Design of Intelligent Robots  A Meeting Dedicated to Identifying Opportunities, Summarizing Challenges, and Brainstorming for Impactful Di</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>29917.00</AwardTotalIntnAmount>
+<AwardAmount>29917</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reid Simmons</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Robots are becoming increasingly expected to operate in complex, unstructured environments.  To successfully achieve their tasks, they must use models to plan and control their actions.  For reliable performance, these models should adequately capture the types of interactions the robot has with the world.&lt;br/&gt;This workshop brings together researchers in the areas of robotics, modeling and simulation (M&amp;S), and machine learning (ML), to examine the roles that M&amp;S and ML play in robotic planning and control, and how these two different approaches can be combined to produce robust robot behavior. Approximately 35 researchers from academia and industry, from various backgrounds, are invited to participate in open discussion and brainstorming sessions.  &lt;br/&gt;The one-day format, held at the National Institute of Standards and Technology (NIST), includes overview talks and breakout sessions.  The outcome will be a report summarizing the main ideas and themes that emerge from the discussions, with the aim of publishing the results in a robotics journal.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830129</AwardID>
+<Investigator>
+<FirstName>Dan</FirstName>
+<LastName>Negrut</LastName>
+<EmailAddress>negrut@wisc.edu</EmailAddress>
+<StartDate>03/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

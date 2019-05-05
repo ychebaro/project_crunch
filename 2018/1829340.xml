@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  A Simulated Radiation Detector using RFID and GPS Technologies</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is that it provides structure and equipment for simulation and training of low-level to lethal radiation.  Simulated training for this type of infrequent, but high societal-cost disaster is critical to our national safety and homeland security.  This project's solution can be used for training the military, industry, fire and police departments, bomb squads, HAZMAT teams, paramedics, and emergency medicine physicians. The device may be ideal for training anyone who comes into contact, or who has the potential to come into contact with radiation. Training saves lives and money. This device allows safe training for events that might include loss of high intensity industrial radioactive sources (orphan sources) used in the oil drilling industry, radiological dispersal devices (RDD), radiological exposure devices (RED), nuclear accidents, or improvised nuclear devices (IND).  &lt;br/&gt;&lt;br/&gt;This I-Corps project uses RFID (radiofrequency identification) tags in combination with GPS (global positioning satellite) technology to mimic low-level to absolutely lethal level radiation without use of dangerous radioisotopes.  This is important because the vast majority of radiation training in the past has used low level actual radiation sources.  These sources pose both health and security risks.  A time-honored maxim in the radiation industry is ALARA ("as low as reasonably achievable").  Simply stated, radiation exposure should be a low as possible - ideally, it should be zero. This project's technology uses no ionizing radiation, and therefore is always as low as possible. This technology replicates high-intensity lethal radiation events that appear to be real on entry of first responders from a distance.  It also can mimic highly contaminated victims that require immediate medical treatment.  This allows simulation of events for the entire chain of first responders to physicians that treat the victims.  This is a disruptive change in the training for these incidents.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829340</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Stump</LastName>
+<EmailAddress>robert.stump@ttuhsc.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas Tech University Health Science Center</Name>
+<CityName>Lubbock</CityName>
+<ZipCode>794306271</ZipCode>
+<PhoneNumber>8067432961</PhoneNumber>
+<StreetAddress>3601 4th Street, MS 6271</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Vulnerability-Agnostic Secure Systems</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>224725</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be safer and more secure IoT platforms that will contribute to the growth of the IoT market. Current security technologies in the IoT arena are either weak or expensive (usually both). The weakness in conventional approaches lies in their impractical goal of finding and fixing all security vulnerabilities. Modern systems have complexity that vastly outstrips the capabilities of any human or verification tool to find all the security vulnerabilities. The only way to somewhat mitigate this weakness is to throw significant resources at the problem, which is very expensive and still yields an imperfect result. The proposed technology developed in this SBIR Phase I project will provide practical and strong security. It gains these important properties by assuming that all systems are riddled with vulnerabilities, so it builds in security by making IoT computing devices that are unsolvable puzzles to attackers. In addition, it doesn't rely on IoT developers to deploy hand-crafted defenses; instead, developers simply build their applications on the proposed platform, and they receive all of its security benefits.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will develop a new direction in IoT security. Unlike the world of IoT security today, where developers and tools are attempting to find and fix every last security vulnerability (and always failing), the technology being developed is a hardware-based secure IoT technology that is impractically difficult to penetrate. It achieves this by engaging ensembles of moving target defenses (EMTDs) on the runtime information that attackers need to build their attacks. To overcome EMTDs, attackers must extensively probe the system to acquire the run-time information obscured by moving target defenses. To stop these probes, the technology utilizes a technology called churn to re-key moving target defenses while the system is in operation. Once the churn mechanism is engaged, attackers will have to start their attack over again from scratch. With churn cycles of 50ms (or less), the proposed secure IoT platform becomes impractically difficult to breach, across a broad array of attack classes. The work proposed in this SBIR Phase I project will advance the technology from simulation to a real hardware implementation, which will allow the technology to be deployed into the IoT marketplace.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/05/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/05/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845552</AwardID>
+<Investigator>
+<FirstName>Todd</FirstName>
+<LastName>Austin</LastName>
+<EmailAddress>todd.m.austin@gmail.com</EmailAddress>
+<StartDate>02/05/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>AGITA LABS, INC.</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481043935</ZipCode>
+<PhoneNumber>7346442749</PhoneNumber>
+<StreetAddress>1218 OLIVIA AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

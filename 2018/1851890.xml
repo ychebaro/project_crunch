@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU SITE: ASSET: Research Experiences for Undergraduates in Advanced Secured Sensor Enabling Technologies</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2022</AwardExpirationDate>
+<AwardAmount>377684</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Sprinkle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This renewal of a Research Experiences for Undergraduates (REU) Site at Florida International University focuses on research in secured sensor technologies. The theme presents an opportunity for undergraduates to participate in research with broad impact in mobile health, vehicle platooning, cybersecurity, mobile crowd-sensing, and data analytics. Through firsthand-experience in an interdisciplinary, collaborative environment, students will participate in scientific research through focused activities, building research skills and knowledge on innovative, emerging technologies. Planned activities foster collaborative communication among participants, enhance their research skills, promote learning, and provide motivation to consider research careers. &lt;br/&gt;&lt;br/&gt;Undergraduates will work with research faculty to explore new technologies and solutions utilizing wireless sensor networks (WSN), as well as software/hardware solutions essential to the advancement and practical application of new technologies. The research includes a range of projects, including privacy-preserving blockchain for WSN, information-centric networking with augmented reality, security and privacy for flying ad-hoc networks, trusted crowdsourcing schemes in mobile sensor networks, and Li-FI sensor networks. Diverse groups of undergraduates will explore these topics to better prepare them for graduate studies, ultimately building human capacity while increasing workforce diversity. Additional broader impacts include providing scientific/cross-cultural experiences to members of underrepresented undergraduate groups, including minorities, women, and persons with disabilities&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1851890</AwardID>
+<Investigator>
+<FirstName>Sitharama</FirstName>
+<LastName>Iyengar</LastName>
+<EmailAddress>iyengar@cis.fiu.edu</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Niki</FirstName>
+<LastName>Pissinou</LastName>
+<EmailAddress>pissinou@fiu.edu</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>Miami</CityName>
+<ZipCode>331990001</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+</Award>
+</rootTag>

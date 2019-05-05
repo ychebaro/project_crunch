@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Upgrade of a 600 MHz Spectrometer for high-sensitivity Nuclear Magnetic Resonance (NMR)</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>444750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation, and the Chemistry Research Instrumentation programs. Professor Jeffrey Johnson from University of North Carolina at Chapel Hill and colleagues Gary Pielak, Alexander Miller, Jillian Dempsey and Bo Li have upgraded the console of a 600 MHz NMR spectrometer  and have equipped the spectrometer with a cryoplatform to allow higher sensitivity. This will transform and old instrument into a modern spectrometer. This upgraded spectrometer allows research in a variety of fields such as those that accelerate chemical reactions of significant economic importance, as well as allow study of biologically relevant species. In general, Nuclear Magnetic Resonance (NMR) spectroscopy is one of the most powerful tools available to chemists for the elucidation of the structure of molecules. It is used to identify unknown substances, to characterize specific arrangements of atoms within molecules, and to study the dynamics of interactions between molecules in solution or in the solid state. Access to state-of-the-art NMR spectrometers is essential to chemists who are carrying out frontier research. The cryogenic probe provides a significant increase in sensitivity relative to standard NMR probes which permits use of small samples. The instrument is used for research and research training at this university and neighboring schools. &lt;br/&gt;&lt;br/&gt;The proposal is aimed at enhancing research and education at all levels. It especially impacts studies of complexity-building reactions from feedstock chemicals as well as utilization of proton-coupled electron transfer in solar fuel production. The spectrometer is used to investigate quantum dots and in the exploration of structural and functional diversity of microbial natural products and in the identification of new microbial natural products. The upgraded instrument is also employed in characterizing biosynthetic intermediates in natural product pathways and for probing mechanisms in sustainable organometallic catalysis. Fluorine NMR in cells is used to probe globular proteins.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828183</AwardID>
+<Investigator>
+<FirstName>Bo</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>boli@email.unc.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Miller</LastName>
+<EmailAddress>ajmm@email.unc.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>jeff_johnson@unc.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jillian</FirstName>
+<LastName>Dempsey</LastName>
+<EmailAddress>dempseyj@email.unc.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Pielak</LastName>
+<EmailAddress>gary_pielak@unc.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

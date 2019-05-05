@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: ESEC/FSE 2018 Doctoral Consortium, Mentorship, and Conference Travel Support</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>33952</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The grant provides travel support to students and junior faculty to attend  ESEC/FSE, the result of a recent merger of two, top-tier conferences in Software Engineering -- the International Symposium on the Foundations of Software Engineering (FSE) and its European counterpart, the  European Software Engineering Conference (ESEC)).  The travel support is aimed at attendees of the Doctoral Symposium and first-time attendees, who will participate in a mentorship program provided by the organizers. The grant enables  participants to engage in technical exchange of information and research conversations/collaborations leading to advances the field.  Participation is an important education, training and mentoring experience. The international nature of this conference helps develop a globally-aware workforce of research and educators within the US and helps build the community of researchers in the field of Software Engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837807</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Leavens</LastName>
+<EmailAddress>leavens@cs.ucf.edu</EmailAddress>
+<StartDate>06/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

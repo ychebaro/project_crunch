@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RoL:FELS:EAGER: Linking physiology, morphology, and genomics to investigate adaption to rapid environmental change</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>299965</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090300</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Theodore Morgan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Understanding the link between genetics, traits, and the environment will help predict how organisms respond to long-term changes in their environment. Many organisms are adapted to their local environments and advances in DNA sequencing have allowed the discovery of genes responsible for these adaptations. The migratory songbird, Willow Flycatcher, is broadly distributed across the US during the summer breeding season and therefore different populations occupy very different climates. An important example is the endangered Southwestern Willow Flycatcher, which occupies regions of the southwest US that experience intense heatwaves. This project will examine the question: How do Willow Flycatchers inhabiting different regions adapt to different climates? By measuring differences in heat tolerance and body shape and coupling these measurements with DNA sequencing, the project will provide important information about how these birds are adapted to their current environments as well as how they might respond in the future.  The project will broadly impact society via public outreach and the training of young scientists.&lt;br/&gt;&lt;br/&gt;Standing genetic variation associated with climate has now been observed in a wide range of taxa, suggesting that adaptation could mitigate some negative effects of climate. The major knowledge gaps in understanding the evolutionary response to climate are: which traits are under selection and how will standing genetic variation change over time? In Willow Flycatchers the discovery of standing genetic variation associated with summer maximum temperatures could suggest adaptive potentials, but accurate prediction is limited by a lack of understanding of the selective mechanisms. This project will examine the genetic basis of morphological and physiological traits with known roles in thermal tolerance. Once putatively adaptive genetic variants have been identified based on their associations with relevant traits, the project will examine the distribution of these genetic variants in both contemporary and historic samples. This will build an understanding of how selection shapes adaptive genetic variation across contemporary environmental gradients, as well as explicitly test the common space-for-time substitution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837940</AwardID>
+<Investigator>
+<FirstName>Kristen</FirstName>
+<LastName>Ruegg</LastName>
+<EmailAddress>kruegg@ucsc.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rachael</FirstName>
+<LastName>Bay</LastName>
+<EmailAddress>rachaelbay@gmail.com</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7275</Code>
+<Text>CROSS-EF ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

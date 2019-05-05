@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Light-Activated Anti-Infective Coatings: Photosensitizer-Embedded Nanofibrillated Cellulose</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamela McCauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project will be to improve our understanding of the market forces that drive the need/use of antimicrobial materials. With ~1.7 million healthcare-associated infections causing upwards of 99,000 deaths annually in the United States, and adding about $30-45 billion to health care costs every year, the potential societal impact stemming from this proposed activity include a better understanding of the market forces that govern the need/use of antimicrobial materials. Understanding such forces will be important for the creation of the next generation of antimicrobial materials, and will impact the fields of materials and polymer science, textile engineering, packaging, and infectious disease (microbiology, virology) by providing performance guidelines in terms of material characteristics, physical properties, and antimicrobial efficacy. Food processing, packaging and service industries, waste water treatment, daycare facilities, and personal households are other potential areas that will benefit from this project. As such, given the potential commercial applications of platform antimicrobial technologies, narrowing the number of possible products and identifying a few key markets will be important for their commercialization, and this effort will be to better define the most viable products from which to commercialize platform antimicrobial technologies.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to help the research team arrive at a go/no-go decision on whether to pursue commercialization of an anti-infective material: comprised of nanofibrillated cellulose (NFC) into which are embedded photosensitizers (PS, chemical compounds that react with light and emit biocidal oxygen), this photoactive material, termed NFC-PS, is capable of the rapid, efficient, and low-cost sterilization of a wide range of infective agents, including drug-resistant bacteria and viruses, making it a platform technology from which to develop self-sterilizing materials. The intellectual merits of the proposed voice-of-customer research will establish the market-driven need for antimicrobial materials, including: i) to identify what customers and/or potential licensees would need in terms of anti-infective material properties (e.g. longevity, chemical resistance, integration into existing products, maximum cost or price points, EPA and/or FDA regulatory approvals); ii) to help identify potential products that could be improved by adding antimicrobial characteristics to them; and iii) to complete a business model canvas for the NFC-PS technology. Initial product ideation based upon the NFC-PS platform technology will be narrowed to 1-2 main products from a much broader number of market categories, and will be used to identify what prototype(s) should be developed along the path to commercialization.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844766</AwardID>
+<Investigator>
+<FirstName>Reza</FirstName>
+<LastName>Ghiladi</LastName>
+<EmailAddress>reza_ghiladi@ncsu.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

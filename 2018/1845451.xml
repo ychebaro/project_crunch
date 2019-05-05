@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  Establishing the Roles of Multi-enzyme Complexes in Metabolic Network Regulation</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardAmount>746955</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Elebeoba May</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Enzymes that catalyze sequential reactions in a metabolic pathway often form a multi-enzyme complex.  The complex allows intermediate metabolites to be channeled between enzymes. Theoretical and test tube-based experimental studies have shown that multi-enzyme complex formation is important in the regulation of metabolic networks. However, despite 40 years of research, the function of multi-enzyme complexes within a living cell are controversial and difficult to demonstrate due to difficulties controlling highly variable subcellular micro-environments, where these complexes reside. The goal of this project is to address this controversy by characterizing the function and role of multi-enzyme complexes as regulators of metabolic processes in living cells. The knowledge gained will help scientists understand how organisms maintain their metabolic homeostasis under fluctuating environments, and facilitate metabolic engineering of key pathways for synthetic biology applications.  As part of the broader impacts of the project, the investigator will develop a creative paper craft hands-on activity to teach principles of enzyme-based metabolic regulation to a wide audience, including undergraduate and high school students, and adult audiences. This novel broader impact activity will positively impact literacy in metabolism and increase public engagement with metabolic research.  In addition, the investigator will train graduate and undergraduate students through the project's research and educational activities. &lt;br/&gt;&lt;br/&gt;Rapid, flexible and coordinated regulation of metabolism is essential for all living organisms to respond to their changing environments which fluctuate sometimes within an order of seconds. Currently known molecular mechanisms cannot fully explain this regulatory process. In this project, the functionality of the malate dehydrogenase/ citrate synthase/aconitase multi-enzyme complex of the yeast Krebs tricarboxylic acid (TCA) cycle will be investigated as a model system. The overarching goal of this project is to experimentally establish the roles of the TCA cycle multi-enzyme complex in metabolic regulation in yeast cells. The hypothesis the investigator will explore is that the TCA cycle multi-enzyme complex enhances and/or redirects metabolic flux relative to the ratio of the associated enzyme complex. The bi-directional relationship between the rate of enzyme association and metabolic flux dynamics within the TCA cycle will be assessed through two research objectives:  1) assessment of the effects of variations in multi-enzyme complex affinity on metabolic flux, and 2) assessment of the effects of changes in metabolic flux dynamics on multi-enzyme complex formation. Metabolic flux in the TCA cycle and adjacent pathways will be analyzed using isotope tracer experiments and quantitative modeling methods. Enzyme complex association will be quantified using multiple techniques, including a novel bioluminescence-based real-time assay, which will be developed as part of this project.  Results of this work will enhance the fundamental understanding of how enzyme kinetics couples with flux dynamics in a biochemical system, and further clarify the impact of subcellular micro-environments on systems level outcomes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845451</AwardID>
+<Investigator>
+<FirstName>Toshihiro</FirstName>
+<LastName>Obata</LastName>
+<EmailAddress>tobata2@unl.edu</EmailAddress>
+<StartDate>12/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

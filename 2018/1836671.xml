@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Diffusion of Ideas on Gender Equity Interventions Through Networks of U.S. Universities</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jessie A. Dearo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This EAGER is an exploratory study that will use a social network approach and data scrapping strategies to study the diffusion of innovative ideas on systemic change and gender equity among NSF ADVANCE grantees and beyond.  Research on ADVANCE programs usually examine universities or equity enhancing strategies, but not how universities have cooperated, learned from, and influenced each other.  This EAGER will provide knowledge about this movement of ideas and people in order to better understand and document the impact of the NSF ADVANCE program.&lt;br/&gt;&lt;br/&gt;This project will use interdisciplinary social network approaches to analyze the diffusion of ideas within and the impacts of the NSF ADVANCE grantee network.  The proposers will create an original dataset constructed from multiple sources to study collaborations, citations, and job mobility networks. The original dataset will combine multiple publicly available sources: 1) documents, such as NSF ADVANCE project summaries, award database, proposals, reports, and web sites; 2) demographic, career and bibliometric data of ADVANCE PIs and scholars reflecting their publications, citations and collaborations with each other; 3) university characteristics from the survey of Integrated Postsecondary Education Data System (IPEDS), Carnegie classification, doctoral prestige, and other rankings of U.S. News; and 4) qualitative interviews with ADVANCE grantees.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836671</AwardID>
+<Investigator>
+<FirstName>Kathrin</FirstName>
+<LastName>Zippel</LastName>
+<EmailAddress>k.zippel@neu.edu</EmailAddress>
+<StartDate>06/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>016Y</Code>
+<Text>ADVANCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7568</Code>
+<Text>ADVANCE-PAID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8212</Code>
+<Text>Broaden Particip STEM Resrch</Text>
+</ProgramReference>
+</Award>
+</rootTag>

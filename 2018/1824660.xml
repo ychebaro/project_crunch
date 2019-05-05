@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Data-based Iterative Control using Complex-Kernel Regression for Precision SEA Robots</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>387250</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Irina Dolinskaya</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant will support research that will contribute new knowledge related to increased automation in high-demand, low-volume manufacturing sectors, such as aerospace. In contrast to full automation, there is a need for growing-convergence research on semi-autonomous approaches for low-volume manufacturing, which exploit the combination of human adaptability and machine precision and speed, to be cost effective. Robots with series-elastic actuators (SEA) have soft joints, which enables precision control over the forces applied to the environment and are therefore, considered to be inherently safe for human-robot collaboration. This inherent safety facilitates easy adoption by workers who can directly program the robots by physical demonstrations, which in turn reduces the amount of training needed for new workers.  Nevertheless, this increased control over forces comes at the cost of lower positioning precision, which limits their use in manufacturing, where precision is important. The results from this research will increase the precision of such inherently-safe robots, and enable their use by relatively-novice workers. Moreover, the use of robotic solutions for manufacturing in confined spaces, rather than a human crawling inside, can lead to thinner, lighter and more efficient aircraft wings, with lower operating costs. Thus, the work will directly impact US competitiveness in the aerospace manufacturing sector with a substantial number of high-paying jobs. This research involves the integration of control theory and advanced robotics in manufacturing. Due to substantial and growing interest in manufacturing and robotics, the efforts will help to increase participation by underrepresented groups in research, and strengthen engineering education.&lt;br/&gt;&lt;br/&gt;Relatively-soft, series elastic actuators along with low-impedance control improves control authority over the force exerted by such robots on the environment, and has the potential to enable human-robot collaboration in the manufacturing environment. Nevertheless, a central issue is that the flexural systems in such robots result in non-minimum phase dynamics and high gains (for improved precision) can lead to instability. Moreover, accurate modeling for increased precision can be challenging due to substantial friction nonlinearities, backlash, and contact-related effects in series elastic actuators robots. This research will fill the knowledge-gap on data-based iterative machine learning approaches to improve the precision of such systems. The research will use uncertainty estimates from the kernel-based learning approach to develop conditions on the size of the iteration gain for guaranteed convergence.  The approach will be experimentally evaluated with a confined-space manufacturing testbed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>10/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824660</AwardID>
+<Investigator>
+<FirstName>Santosh</FirstName>
+<LastName>Devasia</LastName>
+<EmailAddress>devasia@u.washington.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7569</Code>
+<Text>Dynamics, Control and System D</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>030E</Code>
+<Text>CONTROL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>034E</Code>
+<Text>Dynamical systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8024</Code>
+<Text>Complex Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

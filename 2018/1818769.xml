@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Homotopy Methods for Computing Bifurcations and Multiple Solutions of Nonlinear Partial Differential Equations with Biological Applications</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miao-Jung Ou</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many mathematical models of natural phenomena, e.g., biology, physics and materials science, involve nonlinear systems of partial differential equations (PDEs). Traditional numerical methods focus on the unique time-marching solution and are very hard to capture these solution structures such as bifurcations, multiple steady states, and the structural stability. This project aims to address these challenges by developing efficient computational methods to explore bifurcations and multiple solutions of nonlinear PDEs.&lt;br/&gt;&lt;br/&gt;The aim of this project is to develop efficient numerical methods to study the bifurcations and multiple solutions of nonlinear systems of PDEs. Two novel numerical techniques are proposed to study nonlinear systems of PDEs. First, an adaptive homotopy tracking with bifurcation detection algorithm will be designed for computing bifurcation points and bifurcation solution branches based on adaptive tracking, endgame technique, and inflation process. Second, a homotopy method with optimal basis approximation will be developed to compute multiple solutions of nonlinear systems by optimizing the solution basis in order to minimize the size of the discretized polynomial system. Homotopy method will be employed to solve this bootstrapped discretized polynomial system. The project will also focus on demonstrating and verifying efficiency/reliability of these proposed numerical methods on the real biological problems which have attracted extensive mathematical studies since the models were proposed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818769</AwardID>
+<Investigator>
+<FirstName>Wenrui</FirstName>
+<LastName>Hao</LastName>
+<EmailAddress>wxh64@psu.edu</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

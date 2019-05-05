@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Handheld Device for Detection of Otitis Media</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project advances a novel medical optical spectroscopy device to facilitate accurate diagnosis of middle ear infections.  The device uses a custom multi-LED microchip and photodetectors to illuminate the middle ear and collect reflected light in a familiar otoscope form-factor.   Reflected light signatures are analyzed to determine the presence or absence of middle ear fluid - a hallmark of middle ear infection.  The focus is to optimize product design and algorithm to enable gold standard accuracy across thousands of mass manufactured devices and millions of patients.  The device will be a cost effective means to achieving improved ear infection diagnosis in primary care where it is most needed.  Roughly 90% of children experience at least one ear infection before age 5 and misdiagnosis of suspected ear infection is the leading cause of unnecessary pediatric antibiotic use in the US.  Collectively, ear infection results in at least $5B direct healthcare costs annually in the US and billions more in lost parent productivity.  Improving ear infection diagnosis has the potential to eliminate millions of unnecessary antibiotic prescriptions - a crucial step in mitigating development of resistant microorganisms.  Addressing this challenge requires a product that is cost-effective and consistently accurate.&lt;br/&gt;&lt;br/&gt;This project will enable the first commercially available optical spectroscopy product for middle ear effusion and the only known method capable of accurately assessing ear health in very waxy ears.  Although optical spectroscopy as a scientific method is widely practiced, comparatively few commercial medical products exist.  High-cost, bulky spectrometer units are a primary limitation restricting development of products tailored to primary care and other low margin medical specialties where there is great need.  The proposed work enables cost-effective manufacture and deployment of the proposed device for ear infection and will be a platform for other next-generation, LED-based optical spectroscopy medical devices.  The investigators will develop an algorithmic scheme to correct variability in mass manufactured LED and photodiode components and design and construct test systems to automatically apply corrections to each completed medical device assembly.  The resultant methods and systems will enable deployment of medical optical spectroscopy systems at up to 100X lower unit cost as compared to spectrometer based systems.  The resultant device for ear infection will enable clinicians to more easily adhere to American Academy of Pediatrics and American Academy of Family Physicians guidelines for treating ear infections in primary care where there is greatest need.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841005</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Weidling</LastName>
+<EmailAddress>jweidlin@gmail.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>CACTUS MEDICAL,LLC</Name>
+<CityName>IRVINE</CityName>
+<ZipCode>926121147</ZipCode>
+<PhoneNumber>9496320393</PhoneNumber>
+<StreetAddress>2062 BUSINESS CNTR DR STE 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

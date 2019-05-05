@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Phase I IUCRC at Dartmouth College:  Center for Integrated Power Management Circuits and Systems - Power One IC</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Microelectronics and integrated circuits have revolutionized computing, communication, and information technology. However, in a variety of applications, size, cost, performance, and battery life are increasingly limited by systems that process power and energy. The Center for Power Management Integration (PMIC) will engage with industry partners and conduct targeted research in efficient, high-density power electronics, passive components, and integration strategies. The overall goal of the center is to address bottlenecks related to power and energy management that affect a variety of sectors from performance and mobile computing, to renewable energy, automotive, and industrial electronics. Across these industries, the center will work to help alleviate key performance, packaging, and cost limitations, and enable continued improvements with resulting economic benefits. The center will connect leading academic researchers with a large and growing industry base that has a great need for collaborative, interdisciplinary research as well as workforce development. Educational programs at the graduate and undergraduate levels will address this need while K-12 outreach will help expand awareness of power and energy management disciplines. The program will emphasize recruiting and training engineers from underrepresented backgrounds, building on Dartmouth's success in recruiting and retaining women in engineering.&lt;br/&gt;&lt;br/&gt;Unlike traditional analog and digital circuits that have dramatically benefited from semiconductor scaling, power management systems depend on passive components and circuit architectures subject to Maxwell's equations, material properties, and practical implementation. Thus, addressing bottlenecks in power management requires multidisciplinary innovation in electronics and circuit architectures, passive and active devices, and integration strategies. The PMIC Center will target a range of innovations that leverage novel materials and passive component implementation, new circuit architectures that maximize utilization of available energy- and power-density, and integration strategies leveraging semiconductor foundries and advanced manufacturing. Modeling, design and fabrication of passive components will be advanced through research including optimization of power density and efficiency using advanced models, on-silicon microfabricated inductors using nanocomposite materials and integrated resonant passive components. Research on power electronic circuits will focus on novel architectures that maximize utilization of both active devices and passive components, facilitating a roadmap to mm-scale or monolithic integration. Application-specific objectives relevant to industry partners will also be considered such as reliability, robustness, and performance in high temperature, harsh environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822140</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Levey</LastName>
+<EmailAddress>christopher.levey@Dartmouth.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Sullivan</LastName>
+<EmailAddress>charles.r.sullivan@dartmouth.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Stauth</LastName>
+<EmailAddress>jason.t.stauth@dartmouth.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Dartmouth College</Name>
+<CityName>HANOVER</CityName>
+<ZipCode>037551404</ZipCode>
+<PhoneNumber>6036463007</PhoneNumber>
+<StreetAddress>OFFICE OF SPONSORED PROJECTS</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Hampshire</StateName>
+<StateCode>NH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

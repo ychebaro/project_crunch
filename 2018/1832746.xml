@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for the 2018 Symposium On Usable Privacy and Security (SOUPS)</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>18000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Symposium On Usable Privacy and Security (SOUPS) is the top conference devoted to usable privacy and security. It brings together an interdisciplinary group of researchers and practitioners in human computer interaction, security, and privacy. The program features technical papers, workshops and tutorials, a poster session, panels and invited talks, and discussion sessions. The 14th SOUPS will be held August 12-14, 2018, in Baltimore, MD, co-located with USENIX Security. This award supports student travel to the conference.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832746</AwardID>
+<Investigator>
+<FirstName>Heather</FirstName>
+<LastName>Richter Lipford</LastName>
+<EmailAddress>Heather.Lipford@uncc.edu</EmailAddress>
+<StartDate>05/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Charlotte</Name>
+<CityName>CHARLOTTE</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>7046871888</PhoneNumber>
+<StreetAddress>9201 University City Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

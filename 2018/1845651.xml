@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  From ecology to neurobiology: spatial cognition in rainforest frogs</AwardTitle>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>1200000.00</AwardTotalIntnAmount>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090200</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colin Saldanha</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many animals, including humans, need navigation skills for finding mates and food, or when returning home for shelter and to care for offspring. Successfully navigating the environment requires the brain to be capable of learning and remembering specific features of the environment. In mammals, males tend to have better spatial memory, and for decades, scientists have explained this as a necessity for males to navigate over larger areas in search of mates. However, this hypothesis has never been directly tested, and other researchers have recently suggested that male superiority in spatial abilities might be a side-effect of testosterone. Rainforest frogs will be used to test between these alternative hypotheses. In contrast to mammals, frogs have both the species where males roam larger rainforest areas and species where females have larger home ranges than males. Potential sex differences in navigational ability will be measured across a range of species in the field by tracking their ability to return home after displacements. Then, standardized behavioral assays will be used in the lab to detect any sex differences across various species and identify the brain regions used for spatial memory. Finally, the neuroanatomy of the amphibian hippocampus will be investigated to determine if frogs use similar or different brain mechanisms for navigation compared to mammals. Comparing these mechanisms will shed light on the evolution of spatial capabilities in animals, including humans. These research activities will be integrated into education by collaborating with Stanford undergraduates and Canada Community College students to perform behavior experiments.&lt;br/&gt;&lt;br/&gt;The ability to navigate the environment is essential for survival and reproductive success. Sex differences in spatial abilities have been documented in many taxa. In mammals, males often outperform females and this superiority in spatial ability has been attributed to sex differences in life history strategies where polygamous males maintain larger home ranges. Recent challenges to this theory suggest that improved spatial ability is a byproduct of high testosterone in males rather than an adaptation to different life history strategies. The authors will directly test these alternative hypotheses using an amphibian clade with contrasting life histories and spatial strategies of males and females through three aims: 1) Examine sex differences in navigational ability by tracking translocated frogs in the wild in three species with sex differences in home range size. 2) Test for species variation and the role of androgens in spatial memory. Additional experiments will test the influence of androgens on task performance and link performance differences to patterns of neural activity. 3) Define the neuroanatomy of the amphibian medial pallium (homolog of the mammalian hippocampus) using single nuclei sequencing, sequencing active neurons, and tract tracing to examine potential sex and species differences in pallial connectivity. Together, this work will contrast and test life-history adaptation and testosterone spill-over hypotheses using ecologically-relevant behavioral assays in the wild, controlled behavioral assays in the laboratory, and neuroanatomical studies. This research will be integrated into education with courses and internship opportunities developed for undergraduate students at Stanford University and Canada Community College.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/08/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/08/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845651</AwardID>
+<Investigator>
+<FirstName>Lauren</FirstName>
+<LastName>O'Connell</LastName>
+<EmailAddress>loconnel@stanford.edu</EmailAddress>
+<StartDate>03/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7714</Code>
+<Text>Modulation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1096</Code>
+<Text>NEURAL SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1228</Code>
+<Text>MINORITY INVOLVEMENT -- BIO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9261</Code>
+<Text>RESRCH ASSIST-MINORITY H.S. ST</Text>
+</ProgramReference>
+</Award>
+</rootTag>

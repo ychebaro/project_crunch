@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase I:  Tuned Miniaturized Point-Field Detectors as Contactless Current Sensor for Post-silicon Power Electronics</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project is to introduce a fully integrated current sensor with an order of magnitude performance improvement over state-of-the-art technologies. The developed technology will enable more reliable, efficient and compact power electronics systems. Power electronics is an integral part of today's power delivery systems such as renewable energy systems, electric vehicles, data centers and most consumer electronics. In these applications, electric current information is often an essential parameter that needs to be known and measured for control, diagnostic and prognostic purposes. With advances in power electronic circuits with specific attention to high frequency power converters, there is a need to investigate alternative approaches and techniques to measure the current. These approaches should result in availability of current sensors that have fast-response, are accurate, loss-less, and preferably non-intrusive. The impact of such a sensor is to enable systems and circuits that will be miniaturized and be made more efficient by using wide bandgap semiconductors and high switching frequencies. Additionally, the availability of current measurement information will lead to greater reliability and prognostic capability. Applications include but are not limited to power converters in electric vehicles and data centers.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer Phase I project seeks to demonstrate the feasibility of a novel contactless, hybrid current sensor offering an order of magnitude better performance than the state-of-the-art in capturing currents up to and beyond 30 MHz for use in emerging high-frequency power converter applications utilizing wide bandgap semiconductors. The proposed sensor combines complementary magnetoresisor and Rogowski coil technology along with magnetic concentrators into a single chip. By combining these previously underexplored technologies in discrete current sensing would result in a non-invasive, lossless current sensor for MHz converters, where today none exists. Phase I objectives will address technical challenges in developing a chip-scale integrated sensor, including miniaturized Rogowski coil design and magnetic concentrator shape and material evaluation for signal amplification and electromagnetic interference rejection. Design of the analog signal conditioning circuits required for the integrated circuits are also part of this phase.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/12/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/27/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843330</AwardID>
+<Investigator>
+<FirstName>Homer</FirstName>
+<LastName>Mantooth</LastName>
+<EmailAddress>mantooth@uark.edu</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Babak</FirstName>
+<LastName>Parkhideh</LastName>
+<EmailAddress>babak.parkhideh@tell-i.com</EmailAddress>
+<StartDate>03/27/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shahriar</FirstName>
+<LastName>Nibir</LastName>
+<EmailAddress>shahriar.nibir@tell-i.com</EmailAddress>
+<StartDate>02/12/2019</StartDate>
+<EndDate>03/27/2019</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Telli Technologies Inc</Name>
+<CityName>Charlotte</CityName>
+<ZipCode>282230001</ZipCode>
+<PhoneNumber>9193682352</PhoneNumber>
+<StreetAddress>9319 Robert D Snyder Rd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1505</Code>
+<Text>STTR Phase I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1185</Code>
+<Text>SENSORY SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1505</Code>
+<Text>STTR PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

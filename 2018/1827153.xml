@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Networking Infrastructure: High Performance Research Data Infrastructure at the American Museum of Natural History</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>499722</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin L. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Through the National Science Foundation?s Campus Cyberinfrastructure (CC*) program, this project provides a major data network upgrade for the American Museum of Natural History (AMNH) that makes scientific data flows a priority. AMNH conducts scientific research and education activities spanning astrophysics, geosciences, and genomics. Scientific collaborations require increasing network capacity among scientific instruments, collaborators and researchers. These data networking improvements to AMNH directly support these research activities. AMNH's ability to move large data sets quickly between its campus and other sites across the nation and throughout the world is critical to the success of the Museum's research program.&lt;br/&gt;&lt;br/&gt;In the project, AMNH implements a high-speed Science DMZ, a network specifically tuned for large data transfers. Through the Science DMZ, AMNH connects to the NYSERNet Research and Education Network, which provides pathways to the higher education community in New York State, Internet2, and beyond. Using purpose-built Data Transfer Nodes (DTNs) based on the FIONA concept, AMNH scientists can move diverse, large-scale data sets between research facilities, supercomputing centers, and collaborators via a dedicated 10Gb/s connection. The efficiencies gained enable greater collaboration, more intelligent and timely coordination of research, and increased research throughput and quality. To further facilitate collaboration, the project leverages the GLOBUS file transfer system to easily orchestrate data transfers and for disseminating AMNH's research to the broader research community. Additionally, AMNH integrates with the InCommon Federation, utilizing a common framework to provide researchers secure access to online resources. Using perfSONAR, the Science DMZ is continually monitored to ensure that throughput, latency, and performance targets are met, and data can flow unimpeded. This allows Museum researchers to focus on science rather than the logistical details of moving data. Additionally, the work of AMNH scientists informs the Museum's educational and curatorial programs, directly benefitting AMNH students and the public.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827153</AwardID>
+<Investigator>
+<FirstName>Juan</FirstName>
+<LastName>Montes</LastName>
+<EmailAddress>jmontes@amnh.org</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rebecca</FirstName>
+<LastName>Oppenheimer</LastName>
+<EmailAddress>roppenheimer@amnh.org</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Benedetto</LastName>
+<EmailAddress>mbenedetto@amnh.org</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>American Museum Natural History</Name>
+<CityName>New York</CityName>
+<ZipCode>100245192</ZipCode>
+<PhoneNumber>2127695975</PhoneNumber>
+<StreetAddress>Central Park West at 79th St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+</Award>
+</rootTag>

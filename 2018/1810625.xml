@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Election Sciences Conference 2018: Madison, WI - July 26-27, 2018</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>49988</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Brian D. Humes</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Elections sciences is an emerging field of scholarship that focuses on the systematic study of election administration and conduct.  The aim of scholars in this field is to identify problems and provide valuable data and performance measures to assess and reform election systems to ensure the highest levels of integrity and voter access.  The Elections Sciences summer conference will bring together a group of political scientists, statisticians, computer scientists, and legal scholars interested in building and diversifying the field.  The conference complements scholarly efforts to identify the intellectual boundaries of elections sciences, define primary research questions, create a network to support junior scholars and graduate students, and develop curricular materials for use in graduate and undergraduate education.  The conference embodies NSF's mission to broaden participation in science that benefits the national interest and enhances security.  The conference and the research that will come out of the conference will help to assure that American elections are accepted as legitimate, use safe and secure technology, and maximize public participation.&lt;br/&gt;&lt;br/&gt;The Election Sciences summer conference complements a national effort led by senior scholars in political science in partnership with selected scholars in computer science, law, and public policy.  The primary of these efforts is to build and institutionalize election science as a field of study.  Political scientists a central role in helping to understand the problems in the American election system that contributed to the election crisis of 2000.  This work helped to shape subsequent federal election reform legislation and contributed research for the presidential commission established after the 2012 elections.  However, significant barriers to entry still exist for entry into the election sciences field. For example, voter registration and voter history files present challenging data and statistical inference problems.  In addition, scholars need to be trained to interact with elections officials, state legislators, and other policy makers in a meaningful way.    This conference will work to reduce these barriers as well as others.  This conference follows established models in our field by offering a small focused summer conference targeted particularly at younger scholars and graduate students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810625</AwardID>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Stewart</LastName>
+<EmailAddress>CStewart@mit.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Gronke</LastName>
+<EmailAddress>gronke@reed.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Barry</FirstName>
+<LastName>Burden</LastName>
+<EmailAddress>bcburden@wisc.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1371</Code>
+<Text>POLITICAL SCIENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Postdoctoral Fellowship in Biology FY 2018</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>138000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>08080000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Biological Infrastructure</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Daniel Marenda</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This action funds an NSF Postdoctoral Research Fellowship in Biology for FY 2018, Research Using Biological Collections. The fellowship supports research and training of the fellow that will utilize biological collections in innovative ways. This research will examine how the structure of American freshwater habitats relates to the diversity of fishes that live in those habitats. Depending on the physical features of any given watershed, there may be different species, traits, or evolution represented by the fishes in that environment. Any one of these aspects of a fish community can be prioritized by conservation policy makers in their efforts to preserve the United States' remarkable and economically significant fish fauna.&lt;br/&gt;&lt;br/&gt;The fellow will use digital radiography and geometric morphometrics to measure body shape from over 900 species of native freshwater fishes. The species composition of each National Hydrography Dataset subwatershed will be determined from existing range maps and occurrence data from the Global Biodiversity Information Facility. Morphological diversity, species richness, and phylogenetic diversity&lt;br/&gt;of each subwatershed will be calculated in order to determine relationships among different diversity metrics. These variables will then be mapped onto the conterminous US using geographic information services, along with climate and other environmental variables compiled from EPA and USGS datasets. Spatial autoregressive models will be used to determine how, if at all, diversity is related to these environmental parameters. The fellow will receive training in the use of GIS and hydrologic data, community level trait modeling, and experience working with North American freshwater fish systematics and historical biogeography. This work will result in the creation of a comprehensive, open-access compendium of the morphological diversity of US freshwater fishes. This compendium will allow researchers from around the world to ask their own diverse questions about the evolution and biogeography of shape diversity and environmental effects on shape evolution. In addition, data and findings from this research will be used to create K-12 educational outreach materials for teaching freshwater biology and ecology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811891</AwardID>
+<Investigator>
+<FirstName>Kara</FirstName>
+<LastName>Feilich</LastName>
+<EmailAddress/>
+<StartDate>07/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Feilich                 Kara           L</Name>
+<CityName>ANN ARBOR</CityName>
+<ZipCode>481046732</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>001Y</Code>
+<Text>Collections Postdocs</Text>
+</ProgramElement>
+</Award>
+</rootTag>

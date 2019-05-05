@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Increasing commercial potential of deep skin imaging using OCT.</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project is to improve skin imaging to see deep enough below the tissue surface that they are useful for dermatologists and surgeons.  The technique, called optical coherence tomography or OCT, can non-invasively image tissues with near cellular resolution and identify changes in structure due to disease or injury. While OCT has shown great capabilities for imaging the retina, the approach offers limited depth penetration which has prevented success in other tissues. We have developed a new approach for OCT, under NSF support (CBET 1133222), that significantly extends its depth penetration.  Increasing depth penetration will open up new applications, particular for diagnosing skin disease. We expect this project to help justify commercialization by our partner company by showing that the technology can image skin in a format that is compatible with medical practice of dermatologists and surgeons.  This proposal seeks to build and test a prototype system with enough scanning range to be useful to medicine.  The technology will be tested and validated with skin imaging in animal models. By increasing access to better biomedical imaging technology, we will advance the health and welfare of the American public.&lt;br/&gt;&lt;br/&gt;The proposed project will advance a new imaging modality, dual axis OCT, towards a practical implementation for imaging skin. The proposal builds on NSF supported work that demonstrated the principle of extended depth imaging in OCT. Currently, OCT is not widely used for skin imaging due to limited penetration depth and an inability to evaluate large enough tissue areas. The proposed work will address this shortcoming. First, we will build a new scanning system that will validate that the approach can be used to examine larger tissue areas yet penetrate deeply into biological tissues such as animal skin. Second, we will implement a new dynamic focusing approach that will enable commercial success by making allowing physicians to image tissues at several millimeters below the tissue surface without repositioning the device.   Finally, this proposal will demonstrate the medical applicability of the approach by imaging in vivo animal tissues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827560</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Wax</LastName>
+<EmailAddress>a.wax@duke.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

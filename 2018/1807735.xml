@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Electrically induced optical frequency shifts of laser light using microresonators</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>399999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Eric Johnson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-technical description&lt;br/&gt;&lt;br/&gt;This program will develop a novel platform capable of changing the frequency of laser light after its emission by applying an electrical field, without the need of a gain medium or an optical pump. Current techniques for changing the frequency of light require strong optical pumps, which limit the scalability of devices based on laser frequency conversion. The proposed technology will electrically induce laser frequency shifts on a photonic chip and enable generation of multiple desired frequencies on a chip from a single input laser. This new capability will enable high-radix optical switching, frequency control of single photons, and add a new dimension to network traffic manipulation.  This project seeks to expose underrepresented students at the pre-college and undergraduate levels to STEM careers via integrated photonics. We will develop a weeklong mini course centered on hands-on activities in photonics for the local high school community. The PIs will host underrepresented undergraduate students for an immersive research experience during the summer. As part of this effort, we will train two PhD students in integrated photonics, microfabrication, nonlinear optics, and cavity dynamics. &lt;br/&gt;&lt;br/&gt;Technical description&lt;br/&gt;&lt;br/&gt;The PIs propose to develop and demonstrate electrically induced adiabatic frequency conversion on a photonic chip using a lossless electro-optic platform. The proposed work will lay the foundation by extending the general theoretical model of adiabatic frequency conversion to photonic devices built on electro-optic platforms. Building on the theoretical framework, the experimental work will demonstrate electrical frequency conversion on an integrated photonic platform using microring resonator cavities coupled to a bus waveguide. The PIs plan to extend frequency conversion from a single cavity to arrays of coupled cavities to enable cascaded frequency conversion.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807735</AwardID>
+<Investigator>
+<FirstName>Govind</FirstName>
+<LastName>Agrawal</LastName>
+<EmailAddress>gpa@optics.rochester.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jaime</FirstName>
+<LastName>Cardenas</LastName>
+<EmailAddress>jaime.cardenas@rochester.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Rochester</Name>
+<CityName>Rochester</CityName>
+<ZipCode>146270140</ZipCode>
+<PhoneNumber>5852754031</PhoneNumber>
+<StreetAddress>518 HYLAN, RC BOX 270140</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>091E</Code>
+<Text>Light generation &amp; detection</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

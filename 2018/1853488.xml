@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Outgoing IAA: Funding Request for the 2020 National Survey of College Graduates Expansion Study Content and Operations Test Interagency Agreement with the U.S. Census Bureau</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>7000000</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>04030000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>National Center For S&amp;E Statistics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John M. Finamore</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>09/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853488</AwardID>
+<Investigator>
+<FirstName>Stephen</FirstName>
+<LastName>Simoncini</LastName>
+<EmailAddress>stephen.g.simoncini@census.gov</EmailAddress>
+<StartDate>09/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bureau of the Census</Name>
+<CityName>Washington</CityName>
+<ZipCode>20233</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8807</Code>
+<Text>HUMAN RESOURCES STATISTICS PGM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

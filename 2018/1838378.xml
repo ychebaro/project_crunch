@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Enabling Quantum Leap: Towards Room Temperature Quantum Logic Using Moire Heterostructure Single Quantum Emitters Coupled to Plasmonic Waveguides</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Opila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical description: Quantum mechanical systems have the potential to lead to transformative advances in communication, sensing and computing technologies.  However, these quantum information technologies require the creation of novel materials to enable their full potential.  Recently two-dimensional materials have emerged as a promising platform as their properties can be easily tailored through control of their constituent atoms, electrical interactions, and interactions between layers of the material.  One promising avenue for quantum information processing is through the use of light sources that produce individual photons on demand. However, there are several drawbacks that need to be overcome before these are technologically feasible, including the fabrication, placement and control of such light sources. This project aims to create a room-temperature-operating scalable single-photon-source platform, opening the way to quantum information processing technologies that are currently not possible because they require cryogenic temperatures to operate.  Beyond the significant impact that this research has on technology, it also provides interdisciplinary training for two graduate students in the areas of materials synthesis, nanofabrication, scanning probe microscopy and optics.  &lt;br/&gt;&lt;br/&gt;Technical description: This interdisciplinary project seeks to create a scalable room-temperature quantum logic architecture composed of single quantum emitters intrinsic to 2D materials heterostructures coupled to plasmonic waveguides.  In particular, the lattice mismatch and twist angle between two transition metal dichalcogenide monolayers leads to a moire pattern with a periodic arrangement of potential minima. Using a heterostructure of WSe2 and MoSe2 allows a long wavelength moire pattern to be created, thanks to a close match between lattice constants. In each of the potential minima, a single exciton can be trapped with a well-defined intrinsic confinement potential, leading to the creation of a single quantum emitter. The excitons consist of an electron in one layer and a hole in the other layer.  By uniquely controlling the twist angle between layers, the confinement potential of the exciton can be changed and the spacing between them also controlled, allowing the deterministic placement of the single quantum emitters. These emitters are then coupled to the electromagnetic field of propagating surface plasmon polaritons using plasmonic nanostructures. This coupling of surface plasmon polaritons and single quantum emitters is subsequently used for a room-temperature single photon transistor platform.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838378</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>LeRoy</LastName>
+<EmailAddress>leroy@physics.arizona.edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Schaibley</LastName>
+<EmailAddress>johnschaibley@email.arizona.edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Oliver</FirstName>
+<LastName>Monti</LastName>
+<EmailAddress>monti@u.arizona.edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1775</Code>
+<Text>ELECTRONIC/PHOTONIC MATERIALS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

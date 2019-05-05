@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Helium Ion Source Upgrade for the Edwards Accelerator Laboratory at Ohio University</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>186965.00</AwardTotalIntnAmount>
+<AwardAmount>186965</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>PHY</Abbreviation>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Allena K. Opper</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Intense beams of atomic nuclei are essential for studies in fundamental and applied research. These ion beams can be used to reproduce and study the nuclear reactions occurring in stars and stellar explosions, characterize nuclear reactions of interest for nuclear energy and national security, and assist in the development of novel materials via ion beam analysis. Such experiments are performed at the Edwards Accelerator Laboratory (EAL) at Ohio University, where helium nuclei play a particularly important role as helium-induced nuclear reactions are ubiquitous in nature and applications. This award provides the funds to acquire an upgrade to the EAL's helium ion source which will substantially increase operational reliability and will greatly expand measurement capabilities.&lt;br/&gt;&lt;br/&gt;The EAL is a low energy nuclear physics facility with world-unique research capabilities. Experiments in the laboratory rely on light-ion beams accelerated by a 4.5 MV Pelletron, where beams are used at various target stations for charged-particle, gamma-ray, and neutron spectroscopy. This award supports the acquisition of an RF charge-exchange ion source, known as the Alphatross, from the National Electrostatics Corporation. The Alphatross provides a factor of eight improvement compared to currently achievable helium beam intensities and a factor of two reduction in gas consumption. This will enable several important measurements to be performed that were previously out of reach due to limited intensities or excessive helium-3 costs. The anticipated improvement in ion source reliability would provide additional benefits, such as more efficient operations for collaborators visiting from external institutions, a more consistent experience for the many undergraduate and graduate students who are trained on the accelerator, and increased throughput of experiments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827893</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Ingram</LastName>
+<EmailAddress>Ingram@ohio.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thomas</FirstName>
+<LastName>Massey</LastName>
+<EmailAddress/>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Carl</FirstName>
+<LastName>Brune</LastName>
+<EmailAddress>brune@ohio.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Voinov</LastName>
+<EmailAddress>voinov@ohio.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zach</FirstName>
+<LastName>Meisel</LastName>
+<EmailAddress>meisel@ohio.edu</EmailAddress>
+<StartDate>08/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ohio University</Name>
+<CityName>ATHENS</CityName>
+<ZipCode>457012979</ZipCode>
+<PhoneNumber>7405932857</PhoneNumber>
+<StreetAddress>108 CUTLER HL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Ohio</StateName>
+<StateCode>OH</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>Major Research Instrumentation</Text>
+</ProgramElement>
+</Award>
+</rootTag>

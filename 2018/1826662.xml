@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Training workshop on genomic methods and analysis for early-career invertebrate systematists</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>19200.00</AwardTotalIntnAmount>
+<AwardAmount>19200</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010206</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Katharina Dittmar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Invertebrates represent 95% of animal diversity, yet few genomic resources exist for the group, leaving a great deal of information on gene diversity and function to be discovered. Coordination among limited research efforts is lacking, limiting comparability among projects and in some cases resulting in duplicated efforts. The Global Invertebrate Genomics Alliance (GIGA) is a network of diverse scientists working to coordinate and advance invertebrate research using advanced techniques to shed light on this genomic diversity and guide scientific discoveries. This workshop, hosted at the 3rd bi-annual GlGA Conference, will provide a much-needed training opportunity for graduate students and early-career researchears in the latest cutting-edge approaches for comparative genomics and bioinformatics in systematic biology. The workshop will also get participants actively involved with developing best practices in invertebrate genomics. Workshop participants will be recruited from diverse levels of expertise with a specific effort to target underrepresented minorities. Information from this workshop will be shared with students and the community at large through publicly available learning exercises and tutorials, facilitating information access to minority groups. Material from this workshop will also be showcased through several media outlets to emphasize the link and importance of invertebrate animals to society as well as the power of genomics in studying marine resources and habitats.&lt;br/&gt;&lt;br/&gt;The few invertebrate genomes that have been fully sequenced reveal major structural differences with vertebrates, unusual frequencies of transposable elements and genomic innovations among other features. Presently, research coordination among scientists carrying out non-model invertebrate genomics research remains sparse or scattered. Additionally, as a whole, the invertebrate systematics community is inadequately trained to work broadly at the genomic level, thus hampering progress elucidating the evolutionary history for most of the life on earth. This workshop will work to position invertebrate systematists at the leading edge of phylogenomics methodology and begin the process of catching up to their vertebrate systematics counterparts. Primary objectives of this workshop are to 1) provide bioinformatics training and support to the community; 2) promote the sharing of data, resources, and future collaborations; 3) disseminate knowledge on the best practices for laboratory protocols and techniques; and 4) inform and support student researchers in the field of invertebrate genomics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826662</AwardID>
+<Investigator>
+<FirstName>Heather</FirstName>
+<LastName>Bracken-Grissom</LastName>
+<EmailAddress>heather.bracken@gmail.com</EmailAddress>
+<StartDate>03/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Danielle</FirstName>
+<LastName>DeLeo</LastName>
+<EmailAddress>dmdeleo14@gmail.com</EmailAddress>
+<StartDate>03/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida International University</Name>
+<CityName>Miami</CityName>
+<ZipCode>331990001</ZipCode>
+<PhoneNumber>3053482494</PhoneNumber>
+<StreetAddress>11200 SW 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7374</Code>
+<Text>Systematics &amp; Biodiversity Sci</Text>
+</ProgramElement>
+</Award>
+</rootTag>

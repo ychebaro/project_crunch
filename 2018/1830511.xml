@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>LEAP-HI: Embedding Regional Hurricane Risk Management in the Life of a Community: A Computational Framework</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>1999619.00</AwardTotalIntnAmount>
+<AwardAmount>2015619</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CMMI</Abbreviation>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Kramer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The effort in this Leading Engineering for America's Prosperity, Health, and Infrastructure (LEAP-HI) award provides a scientific framework for evaluating the risks of hurricanes to residential communities and public policies to manage them.  Disaster losses in the United States continue to grow despite a wealth of interdisciplinary knowledge and many interventions intended to minimize their effects. A breakthrough in disaster risk reduction requires an approach that views disasters not as abnormal events, but as a regular part of a community's evolution and that recognizes that disaster risk management is inextricably interwoven with the normal activities of everyday life. A novel computational modeling framework will implement this approach to understand escalating regional natural disaster risks and support the design of public policy interventions to address them. The system-wide analysis framework will consider the perspectives of and interactions among multiple key stakeholders (government, primary insurers, and homeowners), multiple interventions (home strengthening, insurance, land use planning), and secondary factors that affect risk. The framework will directly support management of the country's natural disaster risk and promise long-term societal benefits through improved quality of life and economic competitiveness. Collaboration with representatives of the home building and insurance industries and relevant government agencies will help ensure practical results and wide dissemination. Summer internships for William A. Anderson Fund Graduate Student Fellows, all scholars from underrepresented groups, will help broaden participation in disaster research and practice. &lt;br/&gt;&lt;br/&gt;The Multistakeholder Disaster Risk Management (MDRM) computational framework will include seven interacting mathematical models representing physically-based simulations of damage, losses, and ways to strengthen homes; decision-making by each main stakeholder type (government, primary insurers, and homeowners) including oligopolistic competition among insurers; and the changing building inventory and regional economy that provide the context. It will build on an existing framework that the investigators have developed, expanding it through the integration of six tasks: (1) Identify a broad range of government interventions, including both risk-focused and risk-influential actions; (2) Develop a new empirically-based homeowner decision model that considers the process by which homeowners initiate risk-focused and risk-influential decisions; (3) Develop a dynamic model of the insurance market;  (4) Develop a dynamic building inventory model; (5) Develop a dynamic regional economic model that interacts with the building inventory; and (6) Conduct a full-scale case study for hurricanes in North Carolina. This project promises improved understanding of the creation and management of regional natural disaster risk by, for the first time, uniting the conceptualization of disasters as part of the normal life of a community with the power of quantitative, dynamic engineering modeling of risk, decision-making, and economics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830511</AwardID>
+<Investigator>
+<FirstName>Jamie</FirstName>
+<LastName>Kruse</LastName>
+<EmailAddress>krusej@ecu.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Linda</FirstName>
+<LastName>Nozick</LastName>
+<EmailAddress>lkn3@cornell.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rachel</FirstName>
+<LastName>Davidson</LastName>
+<EmailAddress>rdavidso@udel.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Trainor</LastName>
+<EmailAddress>jtrainor@udel.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>Newark</CityName>
+<ZipCode>197162553</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>210 Hullihen Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>068Y</Code>
+<Text>LEAP-HI Leading Engineering fo</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1638</Code>
+<Text>INFRAST MGMT &amp; EXTREME EVENTS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9231</Code>
+<Text>SUPPL FOR UNDERGRAD RES ASSIST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

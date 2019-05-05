@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Quantifying the controls of wildfire, climate, and tectonics on the transition between soil-mantled and bedrock hillslopes</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2024</AwardExpirationDate>
+<AwardAmount>165068</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Lawrence</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Where erosion strips soil from hillslopes faster than it can be replenished, bedrock hillslopes emerge, leading to steeper topography, sparser vegetation, flashier runoff, and changes to the mechanisms of sediment delivery from hillslopes to channels, amplifying the effects of destructive floods and debris flows. However, existing models developed for soil-mantled landscapes are poorly suited to explain the transition to bedrock hillslopes that emerges due to either short-term (e.g. wildfire) or long-term (e.g., tectonic) drivers of imbalance between soil production and erosion. This project aims to address this knowledge gap by quantifying the transition from soil-mantled to bedrock hillslopes that arises due to variations in the controls on the relative rates of soil production and soil erosion in mountain landscapes.&lt;br/&gt; &lt;br/&gt;Four field studies in granitic landscapes will exploit gradients in bedrock exposure to elucidate the underlying controls on soil production and erosion rates. This project will take advantage of increasingly high-resolution lidar, drone, and ground-based photogrammetry methods to efficiently map the transition from soil-mantled to bedrock hillslopes driven by wildfire, rock uplift rate, knickpoint retreat, and climate/vegetation cover. Measurements of in situ cosmogenic 10Be, soil and bedrock chemistry, and soil thickness will constrain soil production rates and establish the how soil production, soil weathering, and erosion rate vary across these gradients. Results from this project will be used to generate data-rich immersive virtual-reality (iVR) experiences compatible with low-cost self-contained iVR headset systems and incorporated into new laboratory exercises developed for an undergraduate geomorphology course. The educational component of this CAREER proposal will focus on assessing the effectiveness of iVR and traditional GIS-based laboratory exercises for engaging students and communicating concepts in hillslope geomorphology and critical zone science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848321</AwardID>
+<Investigator>
+<FirstName>Roman</FirstName>
+<LastName>DiBiase</LastName>
+<EmailAddress>rad22@psu.edu</EmailAddress>
+<StartDate>12/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1575</Code>
+<Text>EDUCATION AND HUMAN RESOURCES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7458</Code>
+<Text>GEOMORPHOLOGY &amp; LAND USE DYNAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1575</Code>
+<Text>EDUCATION AND HUMAN RESOURCES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7693</Code>
+<Text>CZO: CRITICAL ZONE OBSER SOLIC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

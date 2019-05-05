@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 IEEE International Conference on Sensing, Communication and Networking (IEEE SECON)</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jonathan Sprinkle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will enable up to 14 students from educational institutions in the US to attend the Institute of Electrical and Electronics Engineers (IEEE) Communications Society Conference on Sensing, Communication, and Networking (SECON) conference---SECON 2018. The conference has established itself as the IEEE Communication Society's premier venue for research in sensor, mesh, ad hoc networks and cyber physical systems. The high cost of international travel may preclude student authors from participation unless they are the only ones attending and presenting their papers. This award will especially benefit students who identify as members of under-represented groups (women, minorities and people with disabilities), and students who are attending the conference for the first time, from universities not represented in the conference program. &lt;br/&gt;&lt;br/&gt;Conference attendance is an integral part of the life of a researcher. By creating new opportunities for students, especially those from under-represented groups, to attend a high-quality conference, this project will benefit the research community in several ways. The students themselves benefit from (1) the opportunity to meet and interact with many other researchers in a favorable setting; (2) seeing research presented that may be related to what they are working on; and (3) the inspiration to pursue new directions. Leading conferences such as SECON also provide an opportunity for students to interact with industry researchers and recruiters helping pave the way for the next step in their careers. The research community benefits from the training and experience of the students in the pipeline, and the introduction of new diverse research perspectives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829758</AwardID>
+<Investigator>
+<FirstName>Bala</FirstName>
+<LastName>Natarajan</LastName>
+<EmailAddress>bala@ksu.edu</EmailAddress>
+<StartDate>03/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Kansas State University</Name>
+<CityName>Manhattan</CityName>
+<ZipCode>665061100</ZipCode>
+<PhoneNumber>7855326804</PhoneNumber>
+<StreetAddress>2 FAIRCHILD HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Kansas</StateName>
+<StateCode>KS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

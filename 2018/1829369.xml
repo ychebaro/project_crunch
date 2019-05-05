@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  The Augmented Reality WEarable Device (ARWED) for Upper-Limb Rehabilitation</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is based on the characteristics of the Augmented Reality WEarable Device (ARWED) for training of post-stroke patients, allowing, for example, the user to perceive an impaired arm as healthy. Preliminary training protocols, incorporated within the ARWED, make the system a reliable solution that is expected to be broadly utilized by medical professionals working in rehabilitation, sports therapy ,and convalescence. Although the ARWED has been developed mainly for the physical training of post-stroke patients, the project's explorations are expected to provide effective tools for the physical rehabilitation of patients with limb limitations at any scale -- ranging from individuals suffering partial loss of motor ability to those with severe limitations in mobility due to strokes, birth defects or accidents. Since observational learning may offer greater benefits regarding transfer to Activities of Daily Living (ADLs), in comparison to robotic-based stroke training, the medical community would also benefit from the development of the ARWED. Insights into how training using technology may enhance the recovery of motor control in diverse populations while providing a novel intervention that may prove more effective than what is currently available. &lt;br/&gt;&lt;br/&gt;This I-Corps project centers on exploiting the link between action-observation and action execution in order to develop training protocols, based on observational learning techniques, to facilitate rehabilitation following a neurological disorder. Such a disorder may range from such catastrophic events as stroke or a spinal cord injury. Currently, there are limited systems that utilize virtual reality in the relearning of biological movements. The development of the ARWED required solving several challenges in computer vision, modeling, and robot motion. The current testing of the effectiveness of the device requires combined expertise from the areas of biomechanics, signal analysis, virtual reality, robotic fault recovery theory and rehabilitation. Therefore, the theoretical contributions emerging from this collaborative research is expected to advance knowledge and understanding not only within the medical field, but also across the above-mentioned research areas. The multidisciplinary nature of the research will lead to the education of undergraduate and graduate students in the areas of Engineering, Medicine and Kinesiology, among others. The outcomes of the project will facilitate a dialogue between Physical/Occupational Therapy and Engineering students and professionals that can aid in the human recovery following neurological disorders efforts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/04/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/04/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829369</AwardID>
+<Investigator>
+<FirstName>Nina</FirstName>
+<LastName>Robson</LastName>
+<EmailAddress>nrobson@fullerton.edu</EmailAddress>
+<StartDate>04/04/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California State University-Fullerton Foundation</Name>
+<CityName>Fullerton</CityName>
+<ZipCode>928313014</ZipCode>
+<PhoneNumber>6572782106</PhoneNumber>
+<StreetAddress>1121 North State College Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

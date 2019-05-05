@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Elements: Software: NSCI: Efficient GPU Enabled QM/MM Calculations: AMBER Coupled with QUICK</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>600000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The over-arching goal of this project is to develop a software cyberinfrastructure aimed at solving important molecular-level problems in catalysis, drug design, and energy conversion. The PI and his collaborators will develop open source software that will enhance the ability to tackle chemical and biological problems using a sustainable model. The PI and his collaborators are collaborating with NVIDIA on this project to help accelerate the development efforts. Finally, the projects undertaken here will train students in formal theory, computer programming, computational chemistry and biology, and manuscript preparation/publication further enhancing the technical workforce in the USA.&lt;br/&gt;&lt;br/&gt;Combined quantum mechanical/molecular mechanical (QM/MM) models have enabled significant advances in the understanding of chemical reactivity and intermolecular interactions. This approach allows regions of a system where bonds are to be broken and formed to be modeled using accurate QM methods, while the surrounding environment is treated using classical models. The most widely used QM models in QM/MM studies are generally semiempirical, but the most accurate employ density functional theory (DFT), Hartree-Fock (HF) or post HF methods. The shortcoming when using the more accurate methods is the computational expense, which limits the extent of QM/MM molecular dynamics simulations. The performance of QM methods has been greatly improved over the years through algorithmic and hardware improvements. This project will focus on both: for the former the PI will add the ability to handle long-range interactions in QM/MM calculations, add GPU enabled correlated methods and create an electron repulsion interaction (ERI) engine for general use, while for the latter the PI will integrate the GPU enabled Quantum Interaction Computational Kernel (QUICK) program with the Sander and PMEMD molecular dynamics (MD) engines from the AMBER suite of programs. AMBER is one of the most popular simulations packages and has been supported and sustained by the AMBER developer community for approximately 30 years. The developments proposed here will be fully available to the community via AMBERTools, which is released using an open source model (see http://ambermd.org/AmberTools.php). &lt;br/&gt;&lt;br/&gt;This project is supported by the Office of Advanced Cyberinfrastructure in the Directorate for Computer &amp; Information Science &amp; Engineering and the Division of Chemistry in the Directorate of Mathematical and Physical Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835144</AwardID>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Goetz</LastName>
+<EmailAddress>agoetz@sdsc.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kenneth</FirstName>
+<LastName>Merz</LastName>
+<EmailAddress>merzjrke@msu.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Michigan State University</Name>
+<CityName>East Lansing</CityName>
+<ZipCode>488242600</ZipCode>
+<PhoneNumber>5173555040</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8005</Code>
+<Text>Scientific Software Elements</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9216</Code>
+<Text>ADVANCED SOFTWARE TECH &amp; ALGOR</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: MethaneAIR</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2021</AwardExpirationDate>
+<AwardAmount>230980</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sylvia Edgerton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to test a newly developed instrument, named MethaneAIR, on the NSF Gulfstream-V aircraft.  This new instrument will measure carbon dioxide and methane in the atmosphere at a higher resolution than previously possible.  The design and acquisition of MethaneAIR is funded by the Environmental Defense Fund (EDF) and private philanthropy, as part of the EDF International Methane project. MethaneAIR will provide new observing technology and research infrastructure for the atmospheric science community as well as opportunities for student education and research training and public engagement with science and technology.  &lt;br/&gt;&lt;br/&gt;The MethaneAIR instrument consists of two imaging spectrometers that have been designed as the precursor to MethaneSAT, a small satellite intended to revolutionize measurements and modeling of emissions of CH4 from regional (100s of km) to fine scale (&lt; 1 km) across the globe.  Two deployments of MethaneAIR are suggested to take place over Colorado on the NSF G-V aircraft during November 2019 and February 2020. In addition to high resolution measurements of the total-column dry air mole fraction of CH4 and CO2, the fine scale spatial and temporal variability of atmospheric airglow will be characterized and incorporated into retrievals of total column O2.  The research flights will incorporate emission surveys of major targets of interest, including the Julesburg Basin O&amp;G field in Northeastern Colorado, the coal mines near Gillete-Campbell in Wyoming, and other targets along the Colorado Front Range such as cities, landfills, and cattle operations.  The EDF has committed to partnering with the broader community to apply these tools widely to atmospheric and environmental investigations. This project meets the criteria for an EAGER award because of its exploratory nature and the multiple engineering and science challenges that must be met.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1856426</AwardID>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Wofsy</LastName>
+<EmailAddress>swofsy@seas.harvard.edu</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>ATMOSPHERIC CHEMISTRY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

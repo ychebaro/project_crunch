@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CHS: Overcoming Novice Programmers' Misconceptions of Program Behavior</AwardTitle>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>174956.00</AwardTotalIntnAmount>
+<AwardAmount>174956</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Bainbridge</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The objective of this research is to investigate how programming tools can be enhanced to aid novice programmers in understanding how their program behaves. The number of people interested in learning computer programming has increased dramatically in recent years. However, a particularly challenging barrier that novice programmers face is they often hold misconceptions about how their code behaves. A key reason that novices have this issue is they often have a different definition of program correctness than professional programmers. Although current tools provide helpful feedback in fixing syntax errors, novice programmers often have considerable difficulty with semantic errors, which occur when the program compiles but behaves differently than the programmer expected. This research will investigate tool designs that identify novice programmers' misconceptions, correct the misconceptions, and prevent future misconceptions. Taking a user-centered design approach, the researcher will share findings from a series of comparative user studies and a field deployment that measure the effectiveness of the tool designs. The availability of such tools could lower the barriers that novice programmers face and improve accessibility to learn how to program.&lt;br/&gt;&lt;br/&gt;In particular, this project will develop novel tool designs that accomplish three mutually supportive goals: (1) identify misconceptions that novice programmers have about their program's behavior by leveraging program analysis techniques and predictive models, (2) correct novice programmers' misconceptions and explain the rationale without disrupting the programmers, and (3) prevent future misconceptions by generating test code for the novice programmers that will catch unintended changes to the program's behavior. The tools will be implemented as extensions to code editors, and will be made open source and publicly available for the public to use. Additionally, the project will contribute teaching materials to aid instructors in integrating the tools into programming courses, and maintain a publicly available database of key data that were obtained during the investigations. Overall, this project strives to make considerable impact by helping a diverse population of novice programmers to better understand their code while learning how to program.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850027</AwardID>
+<Investigator>
+<FirstName>Austin</FirstName>
+<LastName>Henley</LastName>
+<EmailAddress>azh@utk.edu</EmailAddress>
+<StartDate>03/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RIDIR: Collaborative Research: A Data Science Platform and Mechanisms for Its Sustainability</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>1500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This research will design and develop a data science platform that provides access to documents. The platform will make available for the first-time analytical tools, using natural language computer processing and data science to enable systematic research and inquiry by practitioners, project proponents, scholars, and the public to answer a host of critical questions.&lt;br/&gt; &lt;br/&gt;Using natural language processing and data science, this research will design and develop a data science platform. The research team will produce a blueprint for the platform and validate its functionality with a community of scholars and practitioners. The team will establish the platform structure, ingest data, and refine analytical tools to integrate documents across many repositories, link text to metadata even when text comes from one source and the metadata from another, infer more detailed types of metadata that are not present in any of the existing repositories from analysis of the text, and allow researchers, contractors, and policy analysts to pose complex questions and answer them via analysis of documents. The team will also build a user community to catalyze scholarship and application and develop long-term mechanisms to ensure the sustainability and continued growth, management, and use of the platform and its resources.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831551</AwardID>
+<Investigator>
+<FirstName>Sudha</FirstName>
+<LastName>Ram</LastName>
+<EmailAddress>ram@eller.arizona.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Lopez Hoffman</LastName>
+<EmailAddress>lauralh@email.arizona.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Steven</FirstName>
+<LastName>Bethard</LastName>
+<EmailAddress>bethard@email.arizona.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Baldwin</LastName>
+<EmailAddress>elizabethb@email.arizona.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marc</FirstName>
+<LastName>Miller</LastName>
+<EmailAddress>miller47@email.arizona.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8294</Code>
+<Text>Data Infrastructure</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

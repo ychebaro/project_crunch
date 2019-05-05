@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Energy Storage System Enabled Society (ESSENSE)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dana L. Denick</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.  This award funds an effort to use team collective science and knowledge to build a strong collaborative culture. The planning team will engage investigators in strategic planning and potential test-beds exercises to enable revolutionary breakthroughs in electric energy storage and the power electronics integration.   The project will plan a collective research effort to create innovative technological solutions and lay the foundation for achieving affordable, clean, resilient, and secure electric energy sources.&lt;br/&gt;&lt;br/&gt;To address the technical barriers and challenges to distributed, autonomous, and modern power systems that meet national energy needs, the investigators will explore: (1) Solid State Batteries, (2) Nanocomposite Capacitors, (3) Wide-Band Gap Power Devices, and (4) Integrated Power Electronic and Electric Storage for Grid-tied Application.  The plan is to organize two workshops, each lasting two days, to bring together faculty members and researchers from the partner institutions, national labs, and industry for team formation to address the targeted research and societal goals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840359</AwardID>
+<Investigator>
+<FirstName>Alex</FirstName>
+<LastName>Huang</LastName>
+<EmailAddress>aqhuang@utexas.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Issa</FirstName>
+<LastName>Batarseh</LastName>
+<EmailAddress>issa.batarseh@ucf.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zheng</FirstName>
+<LastName>Shen</LastName>
+<EmailAddress>johnshen@iit.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Reza</FirstName>
+<LastName>Shahbazian-Yassar</LastName>
+<EmailAddress>rsyassar@uic.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tania</FirstName>
+<LastName>Roy</LastName>
+<EmailAddress>Tania.Roy@ucf.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

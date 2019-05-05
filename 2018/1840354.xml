@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2018 Summer Program on Game Theory and Economics; July 16 - July 20 and July 22 - July 23, 2018; Stony Brook, New York</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>49688.00</AwardTotalIntnAmount>
+<AwardAmount>49688</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Lutz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award funds a 2018 workshop in game theory and applications of game theory. The conference, follow-on workshops, and lectures are held each summer as a coordinated program designed to bring together a distinguished group of senior scientists from around the globe with junior faculty and graduate students from across the U.S. Topics include new developments in game theory, areas in the intersection between game theory and computer science (such as Computation and Privacy), and applications of game theory to business and public policy. The activities advance science by giving young scholars the opportunity to form new research collaborations and present their work to a distinguished audience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>10/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840354</AwardID>
+<Investigator>
+<FirstName>Pradeep</FirstName>
+<LastName>Dubey</LastName>
+<EmailAddress>pradeepkdubey@yahoo.com</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yair</FirstName>
+<LastName>Tauman</LastName>
+<EmailAddress>amty21@gmail.com</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sandro</FirstName>
+<LastName>Brusco</LastName>
+<EmailAddress>sandro.brusco@stonybrook.edu</EmailAddress>
+<StartDate>07/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Camilo</FirstName>
+<LastName>Rubbini</LastName>
+<EmailAddress>camilo.rubbini@stonybrook.edu</EmailAddress>
+<StartDate>10/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SUNY at Stony Brook</Name>
+<CityName>Stony Brook</CityName>
+<ZipCode>117940001</ZipCode>
+<PhoneNumber>6316329949</PhoneNumber>
+<StreetAddress>WEST 5510 FRK MEL LIB</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>Economics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

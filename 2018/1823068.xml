@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Inter-Disciplinary Research Challenges in Computer Systems</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>49731</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award funds a visioning workshop with the goal of bringing together leading researchers and practitioners in computing systems (architecture, operating systems, languages/compilers) to reflect on the research progress in the overlapped areas of the three fields and to discuss the grand challenges for the fields so that they can rise to meet the demands of modern computing in synergy.&lt;br/&gt;&lt;br/&gt;The workshop will have focused discussions in the context of four important application domains: Internet of Things (IoT)/infrastructure, augmenting Human Abilities/Artificial Intelligence, security and privacy, and complexity management/environment. It will discuss how inter-disciplinary research in computing systems could help meet the grand challenges in these domains, such as the lack of principles and techniques that reliably and efficiently support large and heterogeneous ensembles of IoT devices and humans, the safety and efficiency barriers facing the deployment of Artificial Intelligence, and the vulnerabilities in both hardware and software that threaten to undermine security and privacy.&lt;br/&gt;&lt;br/&gt;The principal investigators, along with workshop participants, will produce a detailed workshop report that will outline the grand challenges and promising directions for the further development of inter-disciplinary research in computing systems. The report will be made be publicly available through the internet as well as professional journals and magazines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823068</AwardID>
+<Investigator>
+<FirstName>Xipeng</FirstName>
+<LastName>Shen</LastName>
+<EmailAddress>xshen5@ncsu.edu</EmailAddress>
+<StartDate>03/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Tuck</LastName>
+<EmailAddress>jtuck@ncsu.edu</EmailAddress>
+<StartDate>03/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

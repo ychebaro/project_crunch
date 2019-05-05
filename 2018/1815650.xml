@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: TTP: Small: Enhancing Container Security via Fine-Grained System Resource Constraints</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>489287</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin L. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Linux containers have become a popular light-weight virtualization platform for effective on-demand computing. Their use ranges from simple high-performance computing (HPC) clusters to fully orchestrated enterprise systems. As such they have become attractive targets for attackers. This project aims at improving the trustworthiness and reliability of the Linux containers and their applications. With the substantial security enhancement against malicious attacks, it could promote the adaptation of the light-weight container platform, particularly, in the HPC community to satisfy the needs on mobility of compute. In addition, the developed techniques are generic and can be easily ported or extended to protect other Linux platforms that have the basic security primitives enabled.&lt;br/&gt;&lt;br/&gt;This project provides a novel and practical framework to enhance container security via enforcing dynamic system resource constraints based on the lifecycle phases of a particular container platform. Particularly, since the same operating system (OS) kernel is shared among all containers on a host, when one malicious container escapes from the user-level process into the OS kernel, all other containers are compromised too. The project can dramatically reduce the attack surface of the host OS by smoothly integrating dynamic filters with the existing security primitives (e.g., seccomp, capabilities, and cgroups) in Linux kernels. Moreover, the combination of these enhanced security primitives provides more power and flexibility on attack mitigation. This security enhancement is user-transparent and has a minimal overhead.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815650</AwardID>
+<Investigator>
+<FirstName>Kun</FirstName>
+<LastName>Sun</LastName>
+<EmailAddress>ksun3@gmu.edu</EmailAddress>
+<StartDate>08/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

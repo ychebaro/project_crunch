@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Planar Biaxial Material Testing System for Enhancement of Research and Teaching at Bucknell University</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>123790</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joanne Culbertson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation (MRI) award supports the acquisition of a state-of-the-art planar biaxial materials system that enables fundamental research in polymer mechanics and the mechanics of biological tissues.  This project conducts realistic testing that relates the molecular and formulaic conditions to physical behavior that may enable novel designs for biomimetic structures that emulate the remarkable properties of natural materials, including synthetic muscle analogs, medical implants,  moisture-sensitive nanodevices and tunable open-channel microfluidics.  This knowledge could catalyze global medical advances, particularly in the prevention and treatment of neuromuscular and tissue diseases.   This award will provide new research opportunities for over fifty faculty, staff, and students at multiple institutions in central Pennsylvania. The research will be integrated into course work and the project will encourage students to pursue careers in engineering and health-- particularly females and other underrepresented students-- through Bucknell's annual Engineering Summer Camp and university scholarship programs. This project will energize collaborative biomedical, mechanical, and chemical research endeavors in central Pennsylvania aimed at understanding and improving advanced soft materials.&lt;br/&gt; &lt;br/&gt;Connecting the internal nanostructure of soft materials-- both biologically derived and synthetic--may enable comprehensive design of new polymeric materials that efficiently make use of very small details of their internal structure. These four projects address how complex stress states induce mechanisms of response not present under uniaxial conditions-- something relevant to a wide variety of synthetic and natural polymers. The planar biaxial test system that will be acquired is equipped to test samples under a range of experimental protocols, sizes, and load conditions and enables researchers to investigate the multi-axial mechanical properties of a wide range of soft and/or fibrous materials at loads from &lt;1 newton to 1 kilonewton. This research will drive fundamental understanding of how microstructure in biological materials translates to in vivo function, with an emphasis on the role of the extracellular matrix in skeletal muscle force transmission--enabling the development of computational models of muscle and future treatment methods for neuromuscular diseases. The testing will inform the design of tissue replacements for soft, fibrous tissues such as muscle, ligament, and cartilage by gaining better insight into how polymeric materials can mimic tissue mechanics. This research will also support the development of soft actuators subject to multiaxial mechanical loads to better engineer complex electromechanical systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828082</AwardID>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Wheatley</LastName>
+<EmailAddress>b.wheatley@bucknell.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kenny</FirstName>
+<LastName>Mineart</LastName>
+<EmailAddress>kpm007@bucknell.edu</EmailAddress>
+<StartDate>08/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bucknell University</Name>
+<CityName>LEWISBURG</CityName>
+<ZipCode>178372111</ZipCode>
+<PhoneNumber>5705773510</PhoneNumber>
+<StreetAddress>One Dent Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>022E</Code>
+<Text>SOLID MECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>024E</Code>
+<Text>MATERIALS DESIGN</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>028E</Code>
+<Text>BIOMECHANICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

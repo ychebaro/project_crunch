@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Support for ACM High-Performance Parallel and Distributed Computing (HPDC) 2018</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>15000.00</AwardTotalIntnAmount>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will support student travel to the 27th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC 2018).  HPDC, the premier venue for presenting the latest research on the design, implementation, evaluation, and use of parallel and distributed systems for high performance and high end computing, will take place over the week of June 27th in Tempe, AZ. &lt;br/&gt;&lt;br/&gt;The experience will include a set of co-located full-day workshops with topics that include&lt;br/&gt;       o Fault-Tolerance for HPC at Extreme Scale (FTXS)&lt;br/&gt;       o Software Engineering Methods for Parallel and High Performance Applications (SEM4HPC)&lt;br/&gt;       o The Ninth Workshop on Scientific Cloud Computing (ScienceCloud)&lt;br/&gt;       o The Eighth Interntional Workshop on Runtime and Operating Systems for Supercomputers (ROSS)&lt;br/&gt;&lt;br/&gt;The main conference takes place Wednesday through Friday. This is a single-track conference that will include keynotes, paper sessions, a poster session, a panel, and an industry/institutional session.  The recruitment strategy encourages diversity in participation.  Active involvement in major conferences is a valuable experience for students.</AbstractNarration>
+<MinAmdLetterDate>11/29/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/29/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1803286</AwardID>
+<Investigator>
+<FirstName>Dong</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>dli35@ucmerced.edu</EmailAddress>
+<StartDate>11/29/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California - Merced</Name>
+<CityName>Merced</CityName>
+<ZipCode>953435001</ZipCode>
+<PhoneNumber>2092598670</PhoneNumber>
+<StreetAddress>5200 North Lake Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7354</Code>
+<Text>COMPUTER SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

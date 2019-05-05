@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Demonstration of a Liquid Piston Gas Compressor/Expander for Compressed Air Energy Storage and CO2 Sequestration</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project is in advancing the development of a high efficiency, high power, high pressure gas compressor/expander. Such a device is key to enabling Compressed Air Energy Storage (CAES) to be used as a viable, economical electricity storage approach that can be deployed anywhere. Such an energy storage system can be used to save surplus electricity that would otherwise be waster to be used when demand is high. Also, as intermittent renewable energy resources such as wind and solar supply a larger portion of the electricity supply, energy storage is needed to supplement these resources when they are not available. The gas compressor can also be used for compressing other gases, such as carbon dioxide and gases used in many industries, with less energy consumption. The reduction in energy consumption and greenhouse gases will consequently increase the energy security of the U.S. and help combat climate change. &lt;br/&gt;&lt;br/&gt;The proposed project will develop and validate the performance of a prototype device for compressing and expanding gas to and from a high pressure. High efficiency will be achieved if the compression and expansion processes occur at constant temperature. To attain both high efficiency and high power, the compressor/expander will incorporate design that augments heat transfer. The prototype design will be based upon prior fundamental research that has led to two orders of magnitude increase in power density without sacrificing efficiency. This project advances the technological know-how of compressing and expanding gases more efficiently. In particular, it makes advances on the technique of achieving isothermal compression/ expansion using a liquid piston augmented with porous media heat transfer. Although the fundamental benefits of this approach have been established in prior research, these benefits have not been realized in a device. This project fills the knowledge gaps that exist to create such a devices by providing insight and understanding on optimal system design, valving, sensing and control, and the management of liquid-gas interface, which are necessary to achieve continuous reciprocating operation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827517</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Nickels</LastName>
+<EmailAddress>knickels@umn.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Terrence</FirstName>
+<LastName>Simon</LastName>
+<EmailAddress/>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Perry</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>lixxx099@umn.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Van de Ven</LastName>
+<EmailAddress>vandeven@umn.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Agile multiplexed multiphoton microscope for interrogation of neural circuits</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will develop a non-invasive tool that can be used for interrogating neural circuits across large brain regions. The investigator will develop and test a novel imaging platform that will take advantage of the progress that has been made in recent years in the field of nonlinear microscopy and intravital imaging. The proposed instrument will provide capabilities for high-resolution microscopy and light stimulation of deeper regions of the brain. This will enable investigators to better characterize and understand complex neutral interaction between the neocortex and hippocampus, improving our understanding of processes such as learning and memory consolidation. &lt;br/&gt;&lt;br/&gt;The plan includes development of a spatiotemporally multiplexed three-photon microscopy system to simultaneously image the cortex and the 1-mm deeper hippocampus with large (2x2 mm) fields of view in each segment. In addition, photostimulation of optogenetic circuits will use both 2- and 3-photon activation at the cortex and hippocampus, respectively. Validation of the system will be performed in live mice by studying cortex and hippocampus tissues to investigate their interaction in a visual discrimination learning task and subsequent memory consolidation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/20/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/20/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847141</AwardID>
+<Investigator>
+<FirstName>Weijian</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>wejyang@ucdavis.edu</EmailAddress>
+<StartDate>02/20/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

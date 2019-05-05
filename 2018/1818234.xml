@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dynamics and determinants of copy number variation in evolving populations</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2022</AwardExpirationDate>
+<AwardAmount>950417</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karen C. Cone</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>DNA copy number variation underlies differences in many inherited traits and is involved in diverse processes ranging from drug resistance in pathogens to domestication of animals.  The study aims to characterize the dynamics of copy number variation in evolving populations and to understand the properties of the genome that facilitate their generation. Using evolution experiments in the lab, the project will investigate the dynamics with which copy number variation arises as populations evolve under selection. The project will test the role of different processes that generate copy number variation using a panel of mutants. Completion of this study will provide important new insights into the generation and selection of copy number variation leading to a more complete understanding of evolutionary processes with potential applications to microbial drug resistance and industrial microbiology.  To broaden the impact of the scientific training activities, the study will provide opportunities for undergraduate and high school students from traditionally under-represented groups to undertake mentored research in our laboratory. In addition, a freely available, online textbook integrating instruction in genetics, statistics and computer programming will be completed as part of the project. &lt;br/&gt;&lt;br/&gt;To gain quantitative insights into the role of CNVs in evolving populations, the project will use a newly developed CNV reporter system that comprises a constitutively expressed fluorescent protein gene linked to loci at which CNVs are recurrently selected. Using long term experimental evolution of budding yeast (Saccharomyces cerevisiae) in nutrient-limited chemostats, the project will use the CNV reporter to quantify the evolutionary dynamics of CNVs at three loci that have distinct genomic architectures. To identify the number of unique CNVs that are generated and selected in each evolving population, the project will employ a lineage tracking method using random molecular barcodes and FACS-based isolation of CNV-containing lineages. Using next generation DNA sequencing of lineages containing CNVs, the project will define the mechanisms by which CNVs are formed. The project will study the role of different pathways on CNV formation using strains mutant for DNA replication and repair components. To test the effect of different sequence elements the project will alter the genomic architecture of the three loci and test the effect on CNV dynamics and diversity. Finally, the project will also test whether transcriptional activation impacts CNV formation rates.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818234</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Gresham</LastName>
+<EmailAddress>dg107@nyu.edu</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1112</Code>
+<Text>Genetic Mechanisms</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

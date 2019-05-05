@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 International Workshop on String Algorithms in Bioinformatics (StringBio)</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The emerging string analytics problems from bioinformatics introduce new theoretical challenges and necessitate researchers to re-engineer already well-established solutions to cope with big data issues. Consequently, string matching algorithms and related data structures are gaining an ever-increasing interest as they form the backbone of many current genomic data processing tools. This project supports primarily undergraduate student attendance at a workshop focused solely on string matching algorithms in bioinformatics (StringBio). The workshop primarily aims to gather researchers, practitioners, and students with a different format that is composed of short tutorials and research talks. The travel award will provide partial support to 15-20 students, with preference to students from under-represented groups in order to inspire these participants to pursue higher studies not only in Bioinformatics and related interdisciplinary areas, but also in algorithms, data structures, and their applications in the newly emerging trends of big data. &lt;br/&gt;&lt;br/&gt;The concise tutorials to be given by experienced researchers on foundations of string processing will cover related algorithms and data structures from standard to advanced levels. These tutorials aim to help students and computer science researchers who would like to make a quick start in bioinformatics challenges by addressing the basic building blocks and current state-of-the-art. Different from standard conference presentations of already achieved progress, the research talks by experts in StringBio will describe current and ongoing research studies to which, the attendees can join by expressing their interests and potentials. The talks are expected to provide an excellent opportunity, particularly for the beginners in the path to their research experience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849136</AwardID>
+<Investigator>
+<FirstName>Sharma</FirstName>
+<LastName>Thankachan</LastName>
+<EmailAddress>sharma.thankachan@ucf.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

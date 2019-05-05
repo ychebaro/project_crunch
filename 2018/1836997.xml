@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop Proposal:  Rethinking NSF's Computational Ecosystem for 21st Century Science and Engineering</AwardTitle>
+<AwardEffectiveDate>05/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>26645.00</AwardTotalIntnAmount>
+<AwardAmount>26645</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Chadduck</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>For nearly four decades, NSF has effectively supported the broad availability and innovative uses of leading edge computational resources to accelerate advances in science and engineering. These NSF investments have spanned discipline-specific instruments and facilities; computational systems of varying capabilities and architectures optimized for different applications; virtual organizations for allocating resources and interfacing with users; and network backbones connecting and providing access to these resources. Recent profound advances across science and engineering interests and priorities, as well as in enabling technologies, contribute to the current view of cyberinfrastructure supporting research as appropriately embodying a model of an "ecosystem" constituting interconnected, appropriately synergistically evolving, elements.&lt;br/&gt;&lt;br/&gt;The objective of this workshop is to further foster and promote the NSF supported cyberinfrastructure ecosystem, including its makeup of interconnected, appropriately evolving, elements, to continue to be both motivated by scientific interests and priorities, as well as to evolve responsively to an increasing pace of technologies developments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836997</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Reed</LastName>
+<EmailAddress>dan-reed@uiowa.edu</EmailAddress>
+<StartDate>05/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Iowa</Name>
+<CityName>IOWA CITY</CityName>
+<ZipCode>522421320</ZipCode>
+<PhoneNumber>3193352123</PhoneNumber>
+<StreetAddress>2 GILMORE HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7476</Code>
+<Text>ETF</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

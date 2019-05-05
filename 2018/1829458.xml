@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: RUI: Isolating neural mechanisms of perceptual awareness from post-perceptual processes</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>184318</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kurt Thoroughman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Understanding the neural mechanisms that give rise to perceptual awareness is a long-standing and fundamental endeavor in human cognitive neuroscience. For decades, cognitive neuroscientists have tried distinguishing between neural activity patterns associated with conscious and unconscious processing. Answering this question can shed light on whether the fundamental conscious experience is linked to activity in lower-level sensory systems, higher-level brain systems in frontal cortex that developed later (in both phylogeny and ontogeny), or interactions between the two.  This investigation is also relevant for understanding various disorders of consciousness such as persistent vegetative state or minimally conscious state, in which individuals are non-responsive, and where such findings could be a first step towards construction of computer algorithms that could indicate the presence of conscious states. Finally, with the adoption of machine learning and neural networks, understanding the neural processes that lead to conscious experience in the human brain could be useful in developing new network architectures designed to more closely mimic human intelligence. &lt;br/&gt;&lt;br/&gt;The goal of the proposed research is to identify neural correlates of perceptual awareness using a variety of methods such as electroencephalography and functional magnetic resonance imaging. To examine this issue, the researchers will compare conscious versus unconscious processing in the brains of awake human observers. Specifically, they will investigate the differences in neural activity when observers consciously perceive visual items compared to when those same items go unnoticed.  A critical problem in comparing conscious versus unconscious processing is that it is difficult to separate the neural events associated with conscious perception from the neural events associated with task performance such as memory, decision-making, or verbal and manual responses. Therefore, the researchers will use newly developed "no-report paradigms" that include conditions in which stimuli are sometimes seen and sometimes unseen, but observers are not required to report their perceptual experience. By comparing differential neural activity for seen versus unseen stimuli when observers report their experience versus when they do not, the researchers will have a unique opportunity to test several leading theories of consciousness and to identify minimally sufficient neural correlates of perceptual awareness.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829458</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Pitts</LastName>
+<EmailAddress>mpitts@reed.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Reed College</Name>
+<CityName>Portland</CityName>
+<ZipCode>972028138</ZipCode>
+<PhoneNumber>5037711112</PhoneNumber>
+<StreetAddress>3203 S E Woodstock Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

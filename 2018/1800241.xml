@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Invariant Objects and Their Connections in Dynamical Systems: Rigorous Results, Computations, and Applications</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>270000.00</AwardTotalIntnAmount>
+<AwardAmount>90000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yunping Jiang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Many systems in nature are governed by deterministic rules. Nevertheless, the results of applying even simple rules many times may be complicated and hard to understand (think of a simple motion of a spoon in a cup of coffee; after a few repetitions the liquid is completely scrambled). It is well known that small disturbances can have rapid growth, as for example in the "butterfly effect" in meteorology.  Other systems where complicated effects take place include the motions of small celestial bodies subject to the changing forces of the sun and the planets. In some cases (for example, in the motion of satellites) it is of interest to devise maneuvers that take advantage of the natural amplification of disturbances to accomplish big effects with small efforts. To understand such complicated behavior, this research project searches for pieces that move in an orderly way and that act as anchors and reference points for all the other motions. This allows systematic classification of the possible motions. &lt;br/&gt;&lt;br/&gt;To accomplish these goals, this project will employ methods from several parts of mathematics. The fact that an object behaves simply can be formulated as a functional equation that can be studied with rigorous mathematics using functional analysis and topology. One surprise in these studies is that delicate number-theoretic properties (for instance whether a frequency satisfies a polynomial equation with integer coefficients) play a practical role. The tools from functional analysis must be supplemented by a very strong geometric intuition. The project also aims to develop practical algorithms for calculation, so that the knowledge acquired in the theory can be made concrete. The mixture of tools (analysis, topology, geometry, and numerical algorithms) makes involvement in the project an effective training ground for students who can subsequently pursue either academic or industrial careers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800241</AwardID>
+</Award>
+</rootTag>

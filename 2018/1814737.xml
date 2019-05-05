@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Disease Spread on Networks: Integrating Structure, Dynamics, and Data Through a Generalized Inverse</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>220000.00</AwardTotalIntnAmount>
+<AwardAmount>220000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Junping Wang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A fundamental question in the study of many infectious diseases is how contact patterns and local disease characteristics combine to affect disease dynamics on networks.  Geography, demography, and behavior influence network structure, and are also associated with variation in disease characteristics such as time to treatment, immune response, and environmental conditions influencing pathogen persistence.  This project aims to develop new mathematical tools for understanding how local disease characteristics shape effective network structure and in turn influence disease spread.  Specific applications include syphilis dynamics on sexual contact networks, in partnership with Columbus Public Health and the North Carolina Department of Health and Human Services. &lt;br/&gt;&lt;br/&gt;A recently-introduced generalized inverse of the graph Laplacian is promising for understanding how network structure and node characteristics combine to affect disease spread on networks. This generalized inverse, called the absorption inverse, relates directly to disease invasion and the basic reproduction number for community networks, and also suggests broadly applicable structural measures that depend upon both graph structure and node dynamics.  Properties of the absorption inverse will be studied, and analytical tools developed for understanding disease dynamics on networks with heterogeneous node dynamics.  Biological contributions will include insight into basic questions such as how node dynamics affect core groups and community structure, and how the distribution of core groups within a network affect disease prevalence and outbreak size.  Mathematical contributions will be made in the areas of generalized inverses, random walks on graphs, combinatorial matrix analysis, and spectral graph theory.  Algorithmic development of structural measures using the absorption inverse will also contribute to network science, with potential application to dynamics on networks outside of biology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814737</AwardID>
+</Award>
+</rootTag>

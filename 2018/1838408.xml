@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 ACM Annual International Conference on Mobile Computing and Networking (ACM MobiCom)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Monisha Ghosh</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 24th Annual International Conference on Mobile Computing and Networking, ACM MobiCom 2018, will be held between October 29 and November 2, 2018, in New Delhi, India. MobiCom is dedicated to addressing the challenges of mobile computing and networking, and has emerged as one of the leading conferences covering networks, systems, algorithms, and applications that support the convergence of mobile computers and wireless networks. MobiCom attracts world-leading researchers and practitioners to attend and present their work and attend panels and keynote sessions. In addition to the regular conference program, MobiCom 2018 will include a set of workshops, panels, research demonstrations, and a poster session that includes the ACM Student Research Competition (SRC). This year again, MobiCom plans to feature both a mobile app competition and a student career fair.&lt;br/&gt;&lt;br/&gt;The NSF travel grant will help increase representation and participation of United States-based graduate and undergraduate students at this conference, and enable sharing of information and preliminary research results among participating students. Participation of top conferences like ACM MobiCom is an extremely important part of the graduate school experience, providing students with an opportunity to interact with more senior researchers, and exposing them to leading edge research in the field. The award will enable graduate students to attend the main MobiCom 2018 and the associated workshops. The travel awards will target first-time attendees and under-represented minority students, since attending conferences is an important part of their educational experience, and they often have limited travel funds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838408</AwardID>
+<Investigator>
+<FirstName>Carlee</FirstName>
+<LastName>Joe-Wong</LastName>
+<EmailAddress>cjoewong@andrew.cmu.edu</EmailAddress>
+<StartDate>05/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

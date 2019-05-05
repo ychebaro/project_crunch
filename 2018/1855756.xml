@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Empowering Software Engineering with Eye Tracking</AwardTitle>
+<AwardEffectiveDate>08/13/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>241331.00</AwardTotalIntnAmount>
+<AwardAmount>106023</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The objective of this research project is to advance knowledge of developer activity by conducting empirical studies on large software systems using an eye tracker. Most eye tracking studies done in software engineering use small snippets of software artifacts such as source code that are shown as images or text. With software artifacts being hundreds of lines long, doing realistic studies using a variety of software artifacts is not practical. To address this problem, this research will develop a robust infrastructure that enables implicit eye tracking within the working environment of the developer thereby supporting inherent scrolling on large files and automating the linking of eye gaze to artifact elements looked at. This infrastructure will advance the state of the art in conducting eye tracking studies in software engineering.&lt;br/&gt;&lt;br/&gt;The proposed research will lead to inventing, evaluating, and applying innovative methods and tools that use developer eye gaze to support the developer in software engineering tasks such as code summarization, code recommendations, and software traceability. Additional activities that crosscut these three main directions are related to using eye tracking as a benchmark and standardizing visual effort metrics. The broader impacts of this work include developing educational course content, increased mentoring of underrepresented undergraduate student groups, developing open source software, producing large eye tracking datasets, and collaborating with industry for assessment and validation of the proposed research. Educational activities also include a strong K-12 outreach program to encourage students to pursue a career in computing.</AbstractNarration>
+<MinAmdLetterDate>12/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855756</AwardID>
+<Investigator>
+<FirstName>Bonita</FirstName>
+<LastName>Sharif</LastName>
+<EmailAddress>bsharif@unl.edu</EmailAddress>
+<StartDate>12/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

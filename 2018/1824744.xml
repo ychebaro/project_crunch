@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Decentralized Engineering Decision Models to Support Product Transitions</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>618910</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will contribute to the national prosperity by providing rigorous methods to improve the management of product transitions, the introduction of new products to replace older models, in high-technology manufacturing industries.  Because of the rapid pace of technological development and strong competition among firms, product life cycles in high-tech industries have shortened significantly in recent years.  New product development and testing, critical to the firm's success, must be executed while continuing to produce a range of products unaffected by the transition. Effective management of both new and existing products requires close coordination between manufacturing, engineering, and product development organizations, which are autonomous organizational units. In contrast to current product transitions, which are often managed without considering the operational issues requiring coordination of  multiple organizations, this project provides a novel approach to collaborative risk management by negotiating resource allocation between units, which will both reduce the cost and shorten the length of product transitions.  An integral part of the award is the development of a simulation-based computer game that will give hands-on experience of solving this problem and its crucial importance in today's high tech economy. The research is contextualized within the semiconductor industry, which is of central importance to the nation's long-term economic success.&lt;br/&gt;&lt;br/&gt;This award will develop decentralized decision making tools to understand incentive structures and coordination mechanisms to enable efficient collaborative solutions for the management of product transitions.  The research draws on the tools of algorithmic game theory and combinatorial auctions to develop and analyze  decentralized decision making methods to support the firm's long-term viability. This requires computing Nash equilibria for a multiperiod problem involving both discrete and continuous decisions. This approach will be complemented by a bilevel programming approach in which corporate management plays the role of the leader allocating resources to the other units. The project will extend the bilevel programming framework to consider interactions among the followers, providing novel formulations and solution approaches. Once satisfactory solutions have been obtained for a deterministic environment, these will be used to explore alternative strategies for hedging against uncertainties.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824744</AwardID>
+<Investigator>
+<FirstName>Karl</FirstName>
+<LastName>Kempf</LastName>
+<EmailAddress>karl.g.kempf@intel.com</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Thayer</FirstName>
+<LastName>Morrill</LastName>
+<EmailAddress>thayer_morrill@ncsu.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Reha</FirstName>
+<LastName>Uzsoy</LastName>
+<EmailAddress>ruzsoy@ncsu.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Osman</FirstName>
+<LastName>Ozaltin</LastName>
+<EmailAddress>oyozalti@ncsu.edu</EmailAddress>
+<StartDate>07/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>006Y</Code>
+<Text>OE Operations Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>071E</Code>
+<Text>MFG ENTERPRISE OPERATIONS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>073E</Code>
+<Text>OPTIMIZATION &amp; DECISION MAKING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

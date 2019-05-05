@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Collaborative Research: Resource-Guided Program Synthesis</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nina Amla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of the RESYN project is to automate the development of efficient programs by advancing the state of the art in program synthesis. Program synthesis is an emerging technology for automatically generating programs from high-level descriptions of the task they must perform. For any given task, however, there are generally many programs that perform the same function, but differ in their use of computing resources, such as time, memory, or energy. Most state-of-the-art synthesis tools do not model nor analyze resource usage. By taking resource consumption of candidate programs into account during synthesis, RESYN is able to synthesize  provably efficient programs, as well as customized programs for platforms with specific resource requirements. The project involves graduate and undergraduate students in this research.&lt;br/&gt;&lt;br/&gt;To leverage resource usage information during synthesis, the investigators combine two recent techniques: type-driven program synthesis and automated amortized resource analysis. First, they develop a novel resource-aware refinement type system, which unifies the expressive type systems at the core of the two techniques. Next, based on this type system, the investigators build a new type-driven synthesis engine, capable of pruning and prioritizing the search for programs based on their resource consumption. Finally, they evaluate the synthesis engine in three relevant application domains: server-less computing, smart contracts, and prevention of side-channel attacks. The course materials and research products developed in this project will be made freely available.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812876</AwardID>
+<Investigator>
+<FirstName>Jan</FirstName>
+<LastName>Hoffmann</LastName>
+<EmailAddress>jhoffmann@cmu.edu</EmailAddress>
+<StartDate>05/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8206</Code>
+<Text>Formal Methods and Verification</Text>
+</ProgramReference>
+</Award>
+</rootTag>

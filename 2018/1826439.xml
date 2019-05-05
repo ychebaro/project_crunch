@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Nanodiamond Particle Fabrication by Confined Laser Shock Detonation for Drug Delivery and Other Applications</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Khershed Cooper</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nanodiamonds, or nanosized diamond particles, have been widely explored as drug delivery vehicles and bio-imaging agents for biomedical treatments ranging from oncology to infection to regenerative medicine.  However, the manufacture of medical quality nanodiamonds is difficult, costly, and energy intensive.  The existing methods for nanodiamond fabrication often rely on a chemical detonation process, which suffers from poor controllability, complex experimental set-ups, and safety issues.  This award supports fundamental research to provide knowledge required for the development of a simple and cost-effective nanomanufacturing process to fabricate nanodiamonds under ambient conditions.  Using this easy and viable route for nanodiamond fabrication, many complex nanodiamond-based devices for biomedical, electronics, and optics applications can be built at low cost.  Such a capability impacts key U.S. industries thus enhancing national prosperity and security.  The research results will be integrated into a comic book -- Nanodiamond Nora and Neal -- targeted to engage K-12 students.  In addition, this project provides an integrated training platform for undergraduate and graduate students, and promotes broadening participation of women and underrepresented students in research.&lt;br/&gt;&lt;br/&gt;This project aims to establish a new nanomanufacturing strategy for nanodiamond fabrication.  It is hypothesized that the laser-induced plasma in the nanosecond pulsed laser shock processing, can provide sufficient energy input and duration to promote the graphite-to-diamond phase transition.  To test this hypothesis, a confined laser shock detonation approach is planned to realize the scalable nanomanufacturing of nanodiamonds at room-temperature and in open air, through utilizing high-energy laser-matter interaction phenomena.  The major research objective is to establish a fundamental understanding of mechanisms involved in the confined laser shock detonation process that are responsible for the growth of nanodiamonds.  First-principles modeling and molecular dynamics simulations performed at ASU and UNR, help understand the laser-graphite interactions and the plasma dynamics that lead to the graphite-to-diamond phase transition.  Biocompatibility of laser-fabricated nanodiamonds is evaluated through collaboration between ASU and UCLA to demonstrate potential applications in drug delivery and bio-imaging.  This project contributes to advances in laser-based nanomanufacturing and innovations in nanomaterials.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826439</AwardID>
+<Investigator>
+<FirstName>Qiong</FirstName>
+<LastName>Nian</LastName>
+<EmailAddress>qiong.nian@asu.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1788</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>081E</Code>
+<Text>NANO SCALE ASSEMBLY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>084E</Code>
+<Text>NANOMANUFACTURING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

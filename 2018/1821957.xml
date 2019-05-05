@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Verification, Validation, and Test of ML Systems (V-TML) Workshop</AwardTitle>
+<AwardEffectiveDate>05/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>49960</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sankar Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Electronic systems are creating a renewed innovation cycle in many industries, including automobiles and manufacturing. These systems, which are at the heart of innovation in areas such as autonomous systems, often incorporate Machine Learning (ML) components to make decisions. Since safety, reliability, and predictability are paramount in these systems, this award funds a workshop to explore safe, reliable, and predictable applications of machine learning methods and systems, the performance of which often depends on factors that are not within the full control of the user or the system designer. These latter factors could range from uncertainties in training data, to lack of robust algorithms, to probabilistic aspects of inference mechanism etc. The organizing committee, as well as the participants are composed of individuals from academia, industry and the government, include diverse participation from minority, women and underrepresented groups.&lt;br/&gt;&lt;br/&gt;Examples of technical aspects to be discussed at the workshop include, but are not limited to: (1) survey of relevant machine learning techniques, (2) data analytics currently used by electronic design automation, and problems in which similar paradigms are used, and (3) robustness, test, validation and verification in the context of ML. The outcomes of the workshop will be reported publicly and shared widely with the research community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821957</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Yeh</LastName>
+<EmailAddress>david.yeh@src.org</EmailAddress>
+<StartDate>05/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Semiconductor Research Corporation</Name>
+<CityName>Durham</CityName>
+<ZipCode>277035420</ZipCode>
+<PhoneNumber>9199419400</PhoneNumber>
+<StreetAddress>4819 Emperor Blvd.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>2878</Code>
+<Text>SPECIAL PROJECTS - CCF</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>073Z</Code>
+<Text>Visioning Workshops</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7945</Code>
+<Text>DES AUTO FOR MICRO &amp; NANO SYST</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7947</Code>
+<Text>NANOCOMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

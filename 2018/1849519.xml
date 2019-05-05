@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Promoting International Collaboration on Developing Scalable, Portable &amp; Efficient HPC Software for Modern HPC Platforms</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>27750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sushil Prasad</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Supercomputers are used to power discoveries and to reduce the time-to-results in a wide variety of disciplines such as engineering, physical sciences, and healthcare. Scalable and efficient software is required for optimally using the large-scale supercomputing platforms, and thereby, effectively leveraging NSF investments in the nation's advanced CyberInfrastructure (CI). With the rapid advancement in the computer architecture discipline, the complexity of the processors that are used in the supercomputers is also increasing, and, in turn, the task of developing efficient software for supercomputers is further becoming challenging and complex. To mitigate such challenges, there is a need for forums that brings together different stakeholders - the researchers and practitioners from the areas of software engineering and supercomputing. To provide such a platform, the second workshop on "Software Challenges to Exascale Computing (SCEC)" is being organized in India. This project funds the participation of ten US students from diverse backgrounds in the workshop and will provide them the opportunities to develop their skills in the area of "software for supercomputing platforms". The SCEC workshop will not only inform the participants about the challenges in large-scale software development for supercomputers but will also steer them in the direction of building international collaborations for finding solutions to those challenges. The project provides opportunities for workforce development, and serves the national interest, as stated by NSF's mission: to promote the progress of science; to advance the national health, prosperity and welfare; or to secure the national defense. &lt;br/&gt;&lt;br/&gt;The workshop participants will learn about the two NSF funded supercomputers - Stampede2 and Comet - and will get practical experience at developing scalable, efficient, and portable software on those systems through tutorials and "bring your own code" sessions. The SCEC workshop will provide a forum through which hardware vendors and software developers can communicate with each other and influence the architecture of the next generation supercomputing systems and the supporting software stack. By fostering cross-disciplinary associations, the SCEC workshop will serve as a stepping-stone towards innovations in the future. The workshop will benefit researchers, students, and practitioners in supercomputing by providing them an opportunity to disseminate their results to the public, and find potential collaborators. The students funded through this project will get an opportunity to network with professionals, faculties and researchers working in the areas of supercomputing and software engineering, and will get to learn about the opportunities for internships, jobs, and higher education.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849519</AwardID>
+<Investigator>
+<FirstName>Amitava</FirstName>
+<LastName>Majumdar</LastName>
+<EmailAddress>majumdar@sdsc.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7361</Code>
+<Text>EDUCATION AND WORKFORCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

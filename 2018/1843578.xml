@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Chemical Mechanical Planarization pad with controlled micro features for sub 7nm semiconductor technology</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to offers a way for semiconductor chip fabricators to extend Moore's Law and simultaneously allowing them to reduce costs in consumables and scrap wafers that have been damaged during polishing. Currently chip fabricators are challenged to continue Moore's Law due to the complexity and scale down sizes of semiconductor device structures. Improved computer chip performance is critical to countless applications as computers,mobile phones, tablets, and Internet of Thing have become ubiquitous in everyday life.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project will address the challenges which the semiconductor industry faces trying to move beyond 14 nm technologies by using Chemical Mechanical Planarization. Polishing pads are used to planarize wafer surface for multilayer stack integration. Conventional polishing pad technology has randomly distributed micro pores that lead to non-uniform polishing and scratched due to stress concentration on asperities with less than 1% real contact area. Additionally, conventional pads require a pad conditioning process to re-generate pad surface. This project proposes engineering micro features on the pad surface using micro fabrication technologies. In addition, the real contact area between the pad and wafer will be controllable increasing to 5-10 percent of the total pad-wafer contact. This will make the polishing performance more precise and consistent. The micro features are designed to retain polishing slurry longer so to increase the number of active slurry abrasives for polishing. The contact area and feature design will be tunable to specific polishing performance requirements per customer applications. The independent multi-body structure of a hard top-pad with a soft sub-pad will increase the conformity of the pad and distribute the pressure from polishing evenly across the pad surface. This will significantly improve the chip-level planarization and wafer-level uniformity, as well as reducing the pad wear during polishing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843578</AwardID>
+<Investigator>
+<FirstName>Goo Youn</FirstName>
+<LastName>Kim</LastName>
+<EmailAddress>gooyoun10@hotmail.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SMART PAD LLC</Name>
+<CityName>REXFORD</CityName>
+<ZipCode>121481516</ZipCode>
+<PhoneNumber>5035098009</PhoneNumber>
+<StreetAddress>14 MALLARD DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>123E</Code>
+<Text>CENTERS: ADVANCED MATERIALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+</Award>
+</rootTag>

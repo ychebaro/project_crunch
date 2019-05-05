@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EFRI C3 SoRo: Textile Robotics: Integrative Design, Modeling, Manufacture, and Control of Soft Human-Interactive Apparel</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>1900000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07040000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Emerging Frontiers &amp; Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jordan Berg</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project seeks to leverage textile materials to create soft and compliant wearable robots that are lightweight and nonrestrictive, and can deliver valuable levels of assistance. This will be achieved by studying how to model, manufacture and control textile-based robotic systems. The outcomes from this project will highlight the benefits of textiles as a materials platform for new components that enable wearable robot systems that can be worn like clothing. When people suffer neurologic and musculoskeletal injuries, they often cannot perform even the simplest activities of daily life. The innovative new devices and systems that result from this project will offer the potential to provide additional strength by applying forces to a wearer's limb to mitigate disability and augment the natural abilities of the human body. This will simultaneously open avenues for independence, societal participation, and return-to-work, while reducing healthcare costs. This project will also promote interdisciplinary research and teaching, and facilitate interactions between roboticists, applied mathematicians, computer scientists, biomedical engineers, material scientists, and functional apparel designers. &lt;br/&gt; &lt;br/&gt;This project will create, analyze, and evaluate a new class of textile-based, conformal, and compliant wearable robots in the form of garments. Embedded textile strain and pressure sensors will monitor the state of the actuators and the underlying limb, while integrated air-impermeable and conductive pathways for fluid power and data transfer will enable manipulation of the limb through simultaneous online estimation and control. This transformative, interdisciplinary research program will address fundamental questions aimed at increasing our understanding of how to leverage the mechanical and electrical properties of advanced textile materials to achieve flexible and distributed actuation, sensing, and information/power transfer for textile-based robots. The project will develop new computational and analytical modeling tools that account for the inherent material and geometric nonlinearities to guide the parametric design of both individual actuators, sensors and their distributions on a limb; model-based and data-driven control and estimation algorithms that account for the nonlinear actuator properties and inherent uncertainty in positioning a textile-based robot on a limb and finally novel material constructions and their manufacturing processes spanning the nanoscale to wearable garments. This project will integrate the activities at all stages of the research through highly collaborative interactions and demonstrate and validate the benefits of this approach through multiple experimental testbeds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830896</AwardID>
+<Investigator>
+<FirstName>Joey</FirstName>
+<LastName>Mead</LastName>
+<EmailAddress>Joey_Mead@uml.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Conor</FirstName>
+<LastName>Walsh</LastName>
+<EmailAddress>walsh@seas.harvard.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Katia</FirstName>
+<LastName>Bertoldi</LastName>
+<EmailAddress>bertoldi@seas.harvard.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Kuindersma</LastName>
+<EmailAddress>scottk@seas.harvard.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ramaswamy</FirstName>
+<LastName>Nagarajan</LastName>
+<EmailAddress>Ramaswamy_Nagarajan@uml.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Harvard University</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021385369</ZipCode>
+<PhoneNumber>6174955501</PhoneNumber>
+<StreetAddress>1033 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7633</Code>
+<Text>EFRI RESEARCH PROJECTS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

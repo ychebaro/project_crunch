@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Long-Term Dynamics of Nonlinear Evolution Partial Differential Equations</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>23925.00</AwardTotalIntnAmount>
+<AwardAmount>23925</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Holmer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Electricity, magnetism, light, and therefore information propagates by means of wave motion. While basic aspects of wave propagation were understood about three hundred years ago, technology and science demand methods to analyze more and more sophisticated phenomena relating to waves. For example, information for the internet is passed along glass fiber cables in the form of light as well as  via satellites in space through electromagnetic waves.  Cell phone technology operates essentially the same way. The dramatic increase in speed in internet communication today as compared to the mid 1990s, for example, is due to a complete and radical change in the design of glass fiber cables. Instead of using the same material for hundreds or thousands of miles, the current design alternates between different materials thus allowing for subtle nonlinear effects to come into play. This revolutionary design is the result of interactions between engineers, applied mathematicians, and material scientists. Advanced mathematics very closely related to the subject matter of this project played a decisive role in the process. Mathematicians working in partial differential equations are cognizant of the importance of training students in the sciences in order to meet the high demands of industry and government. &lt;br/&gt;&lt;br/&gt;This project aims at understanding the long-term dynamics of solutions to various systems of nonlinear partial differential equation of wave type. This typically means hyperbolic equations, but it can also refer to the Schroedinger equation. While much progress has been made on the defocusing case, where waves exist for all times and scatter to the vacuum state, focusing equations are much less studied. This type of equation can exhibit finite time blowup as well as small data scattering. The main goal is to determine whether or not global solutions scatter to a stationary solution also known as a soliton. The latter seems likely if basic invariances of the equations, such those given by dilation and translation symmetries, are excluded. This is precisely the case for Klein-Gordon equations in the radial setting.</AbstractNarration>
+<MinAmdLetterDate>07/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842197</AwardID>
+</Award>
+</rootTag>

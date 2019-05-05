@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>AF: Small: Algorithmic Techniques for High-throughput Analysis of Long Reads</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>424992</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The field of DNA sequencing has rapidly evolved from Sanger sequencing (700-1000 base pairs, or bp, in length) to massively parallel high-throughput sequencing of short reads (100-200 bp) to the more recent advances in generating long (&gt; 5,000 bp) and ultra-long (&gt; 50,000 bp) reads. There is currently an urgent need to develop efficient algorithms for analyzing long-read datasets in the context of the myriad biological applications they enable. Long read technologies sustain high error rates but with more attractive error distribution characteristics that often permit probabilistic guarantees on the quality of results. This project will result in fundamental research advances in developing bioinformatics algorithms for long-read sequencing, along with distributable open-source software products to facilitate their immediate adoption by the life sciences community. The award will also support interdisciplinary training, and undergraduate participation in research.&lt;br/&gt;&lt;br/&gt;The project seeks to advance mapping, assembly, and biological applications of long-read sequencing through the design of provably efficient algorithms, formal characterization of the quality of results, development of methods that scale to larger datasets, and methods that are robust to changes brought about by continued developments in long read sequencing. Problems addressed include (i) split-read mapping of ultra-long reads to a reference genome, (ii) development of data structures based on bloom filters to achieve space optimization and perfect statistical sensitivity, (iii) algorithms for mapping long reads to a collection of reference genomes represented by compact graph-based structures, (iv) algorithms for partitioning long reads to facilitate identification of haplotypes in diploid assemblies, and (v) long-read inspired alignment free algorithms for genome-to-genome comparison, as well as important biological applications enabled by these. The research will emphasize utilization of real datasets, relevance to practically encountered problems and applications, and independent validation by collaborators and other experts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816027</AwardID>
+<Investigator>
+<FirstName>Srinivas</FirstName>
+<LastName>Aluru</LastName>
+<EmailAddress>aluru@cc.gatech.edu</EmailAddress>
+<StartDate>07/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7942</Code>
+<Text>HIGH-PERFORMANCE COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

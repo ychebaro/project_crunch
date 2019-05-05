@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Excellence in Research: GaAsSb/GaAs Nanowires based Avalanche Photodetectors on Si</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>499999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dominique M. Dagenais</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>An important building block of the quantum information circuit is the single photon detection device. The avalanche photodetector  in the nanowire configuration is a promising route to achieving single photon detection as it enables reduction in the impact ionization region, thus improving gain and detectivity. Further, the relaxation of the lattice mismatch constraint in the nanowire configuration enables integration of the avalanche photodetector to the traditional silicon technology.   GaAsSb is an ideal material system  for wavelength tunability in the optical communication wavelength range of 1.3 - 1.55 microns. The GaAsSb/GaAs heterostructure will be designed for independent multiplication and absorption regions, with the former occurring in the larger bandgap GaAs junction to minimize the effect of Zener breakdown, which is a common problem in low band gap materials. This proposal's central theme is on the growth and design optimization of the separate optical absorption and multiplication region in the GaAsSb/GaAs nanowire based avalanche photodetector heterostructure on Si. Two different nanowire configurations namely axial and core-shell  will be examined  using a variety of material and device characterization techniques. The experimental work will be complemented by modeling using different software packages. Emphasis will be on engineering the increase of the electric field in 3D and gaining deeper insight into the avalanche mechanism (multiplication of the carriers) in the two different nanowire configurations. The performance in these two configurations will be evaluated to arrive at an optimized design in the final phase to achieve nano-avalanche photodetector with gain exceeding 10 in the near infrared region. &lt;br/&gt;&lt;br/&gt;Technical: Avalanche photodetectors  are commonly used for high speed, high gain and low optical signal detection applications.  The interest in nanowire - based avalanche photodetectors stems from the potential success of single photon detection devices. Nanowire architecture due to its one dimensional attributes leads to unique and novel material properties and concomitantly enables adaptation of fabrication processes from thin film technology. The relaxation of lattice mismatch constraint, small footprint, high surface to volume ratio, superior optical trapping and feasibility of implementing in different nanowire architectures can be strategically used to improve the detector performance and enabling heterogeneous integration with traditional Si technology. &lt;br/&gt;In the proposed work, separate optical absorption and multiplication region  avalanche photodetector  concepts from the thin film form will be adapted toward bandgap engineering of GaAsSb/GaAs heterostructure in a unique manner, exclusive to the nanowire architecture. The GaAsSb material system has been chosen as it encompasses the bandgap tunable in the telecommunication wavelength region. Different design concepts in the implementation of avalanche photodetector will be realized: axial and radial architectures, the latter of which is exclusive to the nanowire configuration.  The investigation of nanowire ensemble based avalanche photodetectors enable taking  advantage of the vertical alignment that allows superior light trapping properties leading to enhanced optical absorption. The performance in the two different configurations will be evaluated to arrive at an optimized design in the final phase to achieve nano-avalanche photodetector with gain exceeding 10 in the near infrared region. &lt;br/&gt;This study will  provide deeper insight into the effect of photoconductivity modulation on the avalanche mechanism in nanowires due to the band bending at the surface stemming from the close proximity of the surface to the core of the NW, particularly in axial architecture. Advances made in the heterostructure design toward achieving an increased 3D electric field in a lower dimensional structure will enable transformational improvement in the device performance with significant impact on material and device research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832117</AwardID>
+<Investigator>
+<FirstName>Shanthi</FirstName>
+<LastName>Iyer</LastName>
+<EmailAddress>iyer@ncat.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina Agricultural &amp; Technical State University</Name>
+<CityName>Greensboro</CityName>
+<ZipCode>274110001</ZipCode>
+<PhoneNumber>3363347995</PhoneNumber>
+<StreetAddress>1601 E. Market Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>070Y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7680</Code>
+<Text>ENG DIVERSITY ACTIVITIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>091E</Code>
+<Text>Light generation &amp; detection</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>094E</Code>
+<Text>Optoelectronic devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

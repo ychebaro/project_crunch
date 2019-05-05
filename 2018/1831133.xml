@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Excellence in Research: Engineering Two-dimensional Transition Metal Dichalcogenide Nanomaterials for Sweat Sensing</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>500001</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chenzhong Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project seeks to boost participation and academic success of underrepresented minority students in the Department of Chemistry and Biochemistry at North Carolina Central University, a historically black university. The research builds on our extensive research experience in sensor development and nanotechnology, and will benefit from the close collaboration with scientists in the Department of Materials Science and Engineering and Department of Chemical and Biomolecular Engineering at North Carolina State University. Specifically, the grant will provide support for eight undergraduate students and four graduate students for their independent and/or thesis research. The students will be involved in the development of flexible and cost-effective platforms for sweat sensing, which will considerably improve our ability of tracking a person's physiological state in a real-time fashion, and will thus provide a new opportunity for medical diagnostics and therapy. The students will use the knowledge and experience gained in the research to prepare for future careers in Science, Technology, Engineering and Mathematics disciplines, industry, and/or higher education. Moreover, the strategies developed in this study are expected to provide new insights into a wider range of applications in environmental monitoring, forensic investigation, and medical diagnostics.&lt;br/&gt;&lt;br/&gt;The goal of this project is to develop a novel wearable technology for real-time monitoring of the various trace constituents in sweat, these include water, electrolytes (e.g., chloride, sodium, potassium, magnesium and ammonium etc.), and metabolites (e.g.  lactate and glucose). Real-time sweat sensing presents an intriguing and cost-effective way to monitor the well-being of human body, which would be very useful for early stage medical diagnose and healthcare. However, the current sensing technique usually fall short of providing satisfactory portability, sensitivity, and selectivity. Two-dimensional (2D) ultrathin layered transition metal dichalcogenide (TMD) materials emerged as a promising substrate for sweat sensing. The proposed research will focus on three integrated objectives: 1) Understanding the fundamentals of sweat sensing with 2D TMD materials, 2) Developing capabilities to synthesize pristine 2D TMD nan sheets and noble metal nanoparticle-TMD heterostructures with desirable chemo-physical properties, and 3) Developing prototype 2D TMD materials-based sensors showing capabilities of sensing the constituents of sweat with high sensitivity and selectivity. Along with the proposed work on research and development of 2D materials-based sweat sensing devices, outreach and education activities will be integrated to broaden participation in scientific research, to train next-generation work forces, and to broadly disseminate the results to the community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831133</AwardID>
+<Investigator>
+<FirstName>Fei</FirstName>
+<LastName>Yan</LastName>
+<EmailAddress>fyan@nccu.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina Central University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277073129</ZipCode>
+<PhoneNumber>9195307333</PhoneNumber>
+<StreetAddress>1801 Fayetteville Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>070Y</Code>
+<Text>HBCU-EiR - HBCU-Excellence in</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7680</Code>
+<Text>ENG DIVERSITY ACTIVITIES</Text>
+</ProgramElement>
+</Award>
+</rootTag>

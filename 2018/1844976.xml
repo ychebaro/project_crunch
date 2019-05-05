@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Error-Free, Uniform and Composable Chemical Computation</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardAmount>100770</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mitra Basu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Computation by electronic computers has revolutionized relatively mundane aspects of life, such as shopping and commuting, by automating tasks that previously required human intervention. Similarly, the programming of chemicals-automating the processing of information embedded in molecules could remake the world: smart molecules controlled by programmable chemical reactions could achieve the same level of precise automated control over the configuration of matter at the molecular level. This may one day revolutionize, for example, therapeutic treatments applied within living cells or nanoscale materials fabricated by self-assembly. This project aims to develop the mathematical foundations of such chemical information processing, bringing the engineering of chemistry-based "software" closer to the reliability of modern electronic computing. Research will be directed toward key challenges that have faced practitioners in the field: namely error-prevention, reusability, and the ability to integrate separately designed chemical systems into a properly functioning whole. Insights gleaned from research in classical computer science will be applied to achieve these goals, but new insights, based on the laws of physics and chemistry, will be required to reason about the uniquely molecular interactions mediating chemical computation. The potential applications in medicine or nano-engineering include identifying and curing diseases, as well as self-assembling devices with nanoscale precision. Together with a tightly integrated educational plan based on training female undergraduate mathematics students in computer science research, and a data-driven approach to develop autograding software for undergraduate CS courses, this project will help train a new and diverse generation of interdisciplinary scientists and programmers, who can innovate robust nanoscale information technologies.&lt;br/&gt;&lt;br/&gt;This project advances the theoretical foundation for programming chemical algorithms-that is, algorithms executed by artificially synthesized chemical reactions-ensuring they have three crucial properties that are lacking, or at best poorly understood, in existing systems: (1) error-free: implementable by real chemicals that faithfully execute the intended algorithm, (2) uniform: correct for any "population size", i.e., the total number of molecules, unlike many current algorithms where reactions must be tailored specifically to the population size and (3) composable: can be packaged into functional modules that are easily combined. As DNA nanotechnology and molecular computing mature, so too must our insight into their fundamental abilities and limitations. A rigorous theory of chemical computing will guide the experimental breakthroughs of the future. Development of this theory will be guided by a preference for substrate-independence, identifying the laws of computation obeyed by all chemical systems, sifting out artifacts of particular technologies from their shared unifying principles. The development of techniques to make chemical algorithms error-free, uniform, and composable could lead to a systematic path for programming chemistry, making it understandable and usable by non-chemists thus allowing the molecular computing revolution to take flight. Advances in programmable kinetic barriers in implementing an autocatalytic reaction could eventually lead to a significant technological breakthrough allowing error-resilient single-molecule detection.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/04/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844976</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Doty</LastName>
+<EmailAddress>doty@ucdavis.edu</EmailAddress>
+<StartDate>02/04/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7931</Code>
+<Text>COMPUTATIONAL BIOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

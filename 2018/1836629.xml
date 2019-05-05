@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Computer Systems Research (CSR) Program 2018 PI Meeting</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>160040.00</AwardTotalIntnAmount>
+<AwardAmount>160040</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Mutka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Computing Systems Research (CSR) program of the NSF funds a wide range of systems research including (but not limited to) systems for Internet-of-Things (which makes our homes and city smarter), systems to make more affordable and energy-efficient Supercomputers (which furthers medical research, our understanding of the universe, and warns the population of tornadoes and hurricanes, to name a few), systems to improve the usefulness, security, and reliability of our smartphones, and systems to secure and scale cloud computing (which has expanded the capabilities of Information Systems while dramatically decreasing the associated costs). The project organizes and funds a community event on October 24, 2018 in Bellevue, Washington, for the researchers of awards from the CSR program. At this event, the researchers funded by the CSR program will have the opportunity to meet and share their research and ideas for the future.&lt;br/&gt;&lt;br/&gt;The project organizes a meeting of CSR researchers that includes three types of activities. Plenary presentations will give a forum for the most remarkable research in the field to be presented and diffused to a large audience. These presentations are also useful to set the tone and quality of expected research for the researchers of more recent awards. Poster presentations of ongoing award enable casual scientific conversation and person-to-person research diffusion; they are expected to strengthen the social interaction between CSR researchers and to lead to new collaborations and synergy in the field. Breakout sessions will focus on subfield of systems research to summarize recent successful methodology and identify problems and opportunities for future work. The project provides a forum for systems researchers to meet and to form new collaborations, to discuss and to disseminate successful efforts, to identify the problems and opportunities of the future, and to maximize the impact of subsequent systems research efforts.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836629</AwardID>
+<Investigator>
+<FirstName>Weisong</FirstName>
+<LastName>Shi</LastName>
+<EmailAddress>weisong@wayne.edu</EmailAddress>
+<StartDate>07/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Wayne State University</Name>
+<CityName>Detroit</CityName>
+<ZipCode>482023622</ZipCode>
+<PhoneNumber>3135772424</PhoneNumber>
+<StreetAddress>5057 Woodward</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

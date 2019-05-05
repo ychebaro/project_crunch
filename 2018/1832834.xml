@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>WORKSHOP: Student Travel to CHI Mentoring (CHIMe) 2018</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>25825</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ephraim Glinert</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports participation by approximately 25 students from U.S.-based educational institutions in the Computer-Human Interaction Mentoring (CHIMe) 2018 workshop, which will be held April 21-22 in conjunction with the 2018 ACM Conference on Human Factors in Computing Systems (CHI 2018), and whose goal is to provide an opportunity for networking and mentoring among students in the field of HCI who belong to one or more of the following communities: women, underrepresented minorities, and persons with disabilities.  CHI 2018 will be held April 21-26 in Montreal, Canada, and is sponsored by the Association for Computing Machinery's Special Interest Group on Human-Computer Interaction (SIGCHI).  The annual CHI conferences are the leading international forum for the presentation and discussion of research and practice relating to human-computer interaction, and they are attended by approximately 3,000 HCI professionals from around the world.  More information about this year's conference is available online at https://chi2018.acm.org/.  The topic of Human Computer Interaction (HCI) is more important now than at any other time in the history of computing.  As computers become smaller, faster, and more ubiquitous, our ability to use them effectively becomes critical.  Not only must we design usable systems, but we must do so in a rapidly changing landscape of computing hardware that includes desktops, mobile phones, and embedded systems.  A unique aspect of HCI is that it requires the study of not just computing, but of the combination of computing and people.  Because people are involved, HCI is a field where aspects such as culture, socio-economic background, gender, etc., are considered in the systems that we build.  This is a clear argument for the development of a diverse field of researchers who bring to bear a wide range of experiences in their problem solving skills.  The PIs have made a serious effort to attract participants from HBCU (Historically Black Colleges and Universities) and HSI (Hispanic-Serving Institutions).  Additional funds for the workshop are being provided by Microsoft Corporation.  More information about the workshop is available online at https://chime2018.wordpress.com/.  &lt;br/&gt;&lt;br/&gt;CHIMe 2018 will replicate the successful formula employed in the 2010 and 2012 workshops, and will be run as a series of presentations and panels.  The workshop will harness the cumulative experience of successful STEM professionals in the field to provide a unique forum in which to showcase the technical achievements of diverse researchers in computing and to encourage a new generation of researchers from underrepresented groups.  With its focus on graduate students in HCI, the workshop will be positioned to have a direct impact on future faculty and researchers in this area of endeavor.  It will provide a highly technical and supportive environment for underrepresented minority doctoral students in the field of HCI to discuss their research and to receive constructive feedback from experts, along with ample opportunities for networking and peer mentoring.  Speakers will include leading researchers in the field drawn from these same communities, who will address a broad range of issues ranging from technical concerns (such as appropriate evaluation methods) to some of today's hot topics (e.g., health and accessibility, ubiquitous computing, games, privacy, theory and computer science education).  The speakers' diverse occupations in government labs, academia and industry will provide attendees with different perspectives of the field.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832834</AwardID>
+<Investigator>
+<FirstName>Marvin</FirstName>
+<LastName>Andujar</LastName>
+<EmailAddress>andujar1@usf.edu</EmailAddress>
+<StartDate>04/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of South Florida</Name>
+<CityName>Tampa</CityName>
+<ZipCode>336172008</ZipCode>
+<PhoneNumber>8139742897</PhoneNumber>
+<StreetAddress>4019 E. Fowler Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

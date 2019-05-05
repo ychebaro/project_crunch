@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Synthetic biology platform for production of stabilized high-value proteins</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to develop technology using engineered bacteria to improve protein stability in two large markets: therapeutic proteins and industrial enzymes. Proteins used as therapeutics frequently have insufficient half-lives in human blood plasma, so that patients with chronic disease need to receive frequent dosings, often by painful injections. These burdensome dosing schedules result in high rates of patient noncompliance, with attendant poor responses and negative health outcomes. Therapeutic proteins with improved half-lives in blood plasma would permit relaxed dosing schedules, lowering costs of administration and improving outcomes by reducing noncompliance. This proposed technology focuses on improving the plasma half-life of a therapeutic for a chronic disease primarily affecting children that currently comprises a $4B global market. Similarly, industrial enzymes are frequently deployed in harsh environments that impair enzyme stability and activity. Endowing enzymes with improved resistance to destabilizing chemicals would enable their deployment in high-value environments that are currently prohibitive. The proposed technology will be used to stabilize an enzyme for application in a $730M segment of the personalized medicine market. If successful, this work would provide a platform for developing next-generation enzymes deployable in currently prohibitive environments. &lt;br/&gt;&lt;br/&gt;The intellectual merit of this SBIR Phase I project is to utilize a synthetic biology platform to create proteins with new amino acid building blocks that dramatically improve half-life and stability. Many proteins used as therapeutics or used as industrial enzymes are stabilized by disulfide bonds. These bonds break in the presence of chemicals called reducing agents that are found both in human blood plasma (destabilizing to therapeutics) and in solvents and buffers (destabilizing to industrial enzymes). Using a strain of engineered E. coli that can incorporate amino acids beyond the 20 standard amino acids into proteins, the goal is to replace disulfide-forming cysteine amino acids with selenocysteine amino acids that form bonds called diselenides. Diselenide-stabilized proteins maintain stability and activity in environments with reducing agents incompatible with disulfide-stabilized proteins. This project will produce a diselenide-stabilized protein therapeutic for a major disease class. Improvements to disulfide-stabilized therapeutics will be demonstrated by ELISA assays showing improved binding activity, and by cell-based assays showing improved therapeutic activity, after prolonged exposure to blood plasma. This project also will produce a diselenide-stabilized industrial enzyme to catalyze a critical reaction for personalized medicine. Performance improvements over disulfide-stabilized enzymes will be demonstrated by in vitro stability and activity assays in reducing conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/29/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/29/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842697</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Mandell</LastName>
+<EmailAddress>dan.mandell@grobio.com</EmailAddress>
+<StartDate>01/29/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>GRO BIOSCIENCES INC</Name>
+<CityName>BROOKLINE</CityName>
+<ZipCode>024465711</ZipCode>
+<PhoneNumber>4159997625</PhoneNumber>
+<StreetAddress>131 FULLER ST UNIT 3</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

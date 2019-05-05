@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Building Tech Talent and Connecting Student Pipelines to Entrepreneurial Ecosystems at Historically Black Colleges and Universities</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>199898.00</AwardTotalIntnAmount>
+<AwardAmount>199898</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fay Cobb Payton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This 2-year planning grant enables the Association of Public and Land-grant Universities, United Negro College Fund, and Thurgood Marshall College Fund to develop a national Historically Black Colleges and Universities focused effort to broaden participation in computer and information science.  This project develops a framework for achieving the following key objectives: 1) Increase the number and yield of bachelor's degrees Historically Black Colleges and Universities award in computer and information science and related fields, 2) Increase the readiness of Historically Black Colleges and Universities' science, technology, engineering and math graduates for tech workforce and tech job creation, 3) Increase the number of African American computer and information science doctoral students at all U.S. doctoral programs from Historically Black Colleges and Universities (undergrad degree), and 4) Increase the institutional capacity - including research and development - of Historically Black Colleges and Universities to achieve the above stated goals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846597</AwardID>
+<Investigator>
+<FirstName>Eugene</FirstName>
+<LastName>Anderson</LastName>
+<EmailAddress>eanderson@aplu.org</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Association of Public and Land-Grant Universities</Name>
+<CityName>Washington</CityName>
+<ZipCode>200054722</ZipCode>
+<PhoneNumber>2024786040</PhoneNumber>
+<StreetAddress>1307 New York Ave NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

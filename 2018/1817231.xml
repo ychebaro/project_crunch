@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Small: Fast and Accurate Natural Language Parsing and Generation by Marrying Deep Learning with Dynamic Programming</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>127456</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tatiana D. Korelsky</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant aims to improve automatic understanding, generation, and translation of natural language by machines. Automated natural language processing has already changed the way we interact with digital assistants such as Amazon Echo and Apple Siri on smartphones and other devices.  Automated machine translation reduces information barriers on the Web, where most information is inaccessible to most users because it is in a language they do not understand.  Today's natural language systems, however, are limited to short exchanges and often make errors.  These limitations are due to need for the systems to respond very quickly: current methods for more accurate understanding and generation take too long.  This project will overcome this problem by developing new, fast, principled algorithms for these tasks.  This project also supports STEM education of underrepresented minorities (who do not speak English natively) by recruiting them in machine translation studies.&lt;br/&gt;&lt;br/&gt;This grant aims to construct fast (linear-time) and accurate natural language parsers and generators (including translators) that utilize the power of both deep learning (for accurate and automatic feature engineering) and dynamic programming (to speed up the search). This project focuses on Recurrent Neural Network-based models (RNNs) such as Long Short Term Memory (LSTMs). In particular, this project aims to (1) Develop linear-time dynamic programming-based neural parsers by using RNNs to summarize the input text and extend them to joint syntactic-discourse parsing and predictive parsing.  (2) Develop approximate dynamic programming algorithms and principled beam search methods for text generation and machine translation systems that use RNN-based decoders to model output text.  (3) Combine the above two directions with an innovative application of simultaneous translation using predictive parsing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817231</AwardID>
+<Investigator>
+<FirstName>Liang</FirstName>
+<LastName>Huang</LastName>
+<EmailAddress>huanlian@oregonstate.edu</EmailAddress>
+<StartDate>07/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

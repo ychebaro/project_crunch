@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Deep Learning for Passive RF Imaging</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>360000.00</AwardTotalIntnAmount>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Deep Learning for Passive Radio Frequency Imaging&lt;br/&gt;&lt;br/&gt;Deep Learning has enjoyed a spectacular success in wide range of machine learning applications in recent years. However, its potential as a mathematical tool in imaging is yet to be explored. This project develops a Deep Learning based theory, methods and algorithms for passive Radio Frequency (RF) imaging in complex environments using illuminators of opportunity. With the proliferation of wireless communications and broadcasting signals, passive RF imaging has emerged as a potential alternative to active imaging with several advantages. Passive imaging does not require spectrum allocation. It is environmentally friendly and capable of stealth operations. Passive RF systems are lightweight, small, inexpensive, and easy to build and operate, making them suitable for deployment on small uninhabited aerial vehicles (UAVs). These attributes make passive synthetic aperture radar (SAR) technology suitable for a vast array of everyday civilian applications ranging from agriculture to infrastructure monitoring.&lt;br/&gt;While UAV-based passive SAR has the potential to revolutionize imaging across many domains of applications, one of the fundamental bottlenecks in the deployment of these systems is the challenges in image formation. Unlike active imaging, passive SAR image reconstruction involves many unknowns and uncertainties including transmitter locations, transmitted waveforms, multiply scattering and dynamically changing wave propagation environments and limited communication and computational resources. These challenges rule out the use of existing methods such as the usual Fourier transform based or iterative ones.&lt;br/&gt;&lt;br/&gt;This project takes a radically different approach to imaging and interprets physics-based modeling and image reconstruction as machine learning tasks. Deep Learning excels in extracting features from data automatically bypassing hand-crafting process of modeling and feature engineering. Conventional approach to imaging involves physics based and statistical modeling, estimation, tomography and optimization. Central to this project is to remove this separation between different domains of expertise and learn and refine models and perform optimization within Deep Learning framework from training data. This takes advantage of Deep Learning's ability to generate complex, non-linear functions to jointly learn wave propagation and prior models and hyperparameters to improve accuracy and robustness. The network designs range from entirely data-driven model-free approaches to ones that are guided by Bayesian inference and optimization theory. The resulting image reconstruction methods are expected to be more robust and accurate with respect to uncertain and dynamically changing environments and unknown imaging parameters and computationally more efficient than state-of-the-art alternatives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1809234</AwardID>
+<Investigator>
+<FirstName>Birsen</FirstName>
+<LastName>Yazici</LastName>
+<EmailAddress>yazici@ecse.rpi.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rensselaer Polytechnic Institute</Name>
+<CityName>Troy</CityName>
+<ZipCode>121803522</ZipCode>
+<PhoneNumber>5182766000</PhoneNumber>
+<StreetAddress>110 8TH ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

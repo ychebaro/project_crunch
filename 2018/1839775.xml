@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  Coral Chimeras - A Novel Perspective on Coral Reef Ecology and Evolution</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>274997.00</AwardTotalIntnAmount>
+<AwardAmount>274997</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010207</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leslie J. Rissler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Corals constitute the core of coral reef ecosystems. The majority of corals are colonies of creatures living in a cup, coral polyps, that are connected to each other with tissue. An underlying assumption about coral colonies, similar to the approach to cells in humans and other mammals, is that the polyps in a colony arose from a single coral genotype. But, what if a single coral colony was actually composed of multiple coral genotypes, which is referred to as a biological chimera?  This proposal challenges the assumption of the genetic identity of coral colonies, and this could have important ecological and evolutionary consequences. For example, chimerism may confer a competitive advantage within and between coral species. In addition, if a coral colony is composed of multiple coral genotypes, these genotypes may respond differently to changing environmental conditions. Thus, chimerism may affect interpreting how corals, and hence coral reefs, react to environmental change. Undergraduate and graduate students at the University of Mississippi will contribute to the research.&lt;br/&gt;&lt;br/&gt;The goal of this proposal is to investigate coral chimerism as an ecological and evolutionary phenomenon and its influence on coral reef ecosystems. The ecology and physiology, including gene expression, of chimeric and non-chimeric coral colonies will be examined. In addition, the genetic identity of the obligatory intracellular mutualistic dinoflagellates, Symbiodinium spp. will be taken into account as well as the spatial distribution of the coral genotypes within a chimera. Understanding these aspects of coral chimeras will enable investigators to predict the implications of coral chimerism for a common Indo Pacific coral species, Stylophora pistillata. It will also potentially transform our understanding of the ecology and evolution of coral reef ecosystems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839775</AwardID>
+<Investigator>
+<FirstName>Tamar</FirstName>
+<LastName>Goulet</LastName>
+<EmailAddress>tlgoulet@olemiss.edu</EmailAddress>
+<StartDate>07/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Mississippi</Name>
+<CityName>UNIVERSITY</CityName>
+<ZipCode>386771848</ZipCode>
+<PhoneNumber>6629157482</PhoneNumber>
+<StreetAddress>100 BARR HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1127</Code>
+<Text>EVOLUTIONARY PROCESSES CLUSTER</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7657</Code>
+<Text>Integrtv Ecological Physiology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

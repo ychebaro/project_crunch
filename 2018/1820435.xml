@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: Efficient Narrow-Band Communication via Geosynchronous Satellites</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>158852</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to transform 2-way, mobile satellite communications from a niche service (affordable to less than 0.1% of the world?s people), to a broadly accessible mass market product (at costs well under $1/month).  Communications devices (that could be as small as vehicle key fobs) will communicate modest volumes of data to and from virtually anywhere on Earth.   The number of potential applications is large, with the following being a few examples:  every lifejacket on every commercial aircraft and cruise ship could transmit its location and status (in the event of a mishap); children and the elderly could be tracked globally; and drivers could be assured of assistance wherever they travel.   Secondary impacts would include an increase in average fuel efficiency when, for example, more vehicles are sold without spare tires (as drivers have more peace-of-mind regarding the possibility of being stranded).   The United States will benefit in terms of improved safety, conserved resources, stimulus to the satellite and related industries, and increased export revenues.&lt;br/&gt;&lt;br/&gt;The proposed project centers around a combination of innovations that exploit inherent (but previously unutilized) capabilities of existing satellites.  Currently operational Mobile Satellite Systems have communications architectures that do not lend themselves to low-cost transmission of small volumes of data.  By starting with a blank sheet of paper and rethinking the architecture, costs can be reduced by orders of magnitude (for both the communications devices and the data service).  The cost reduction of the terminal devices is primarily driven by lower data rates (with associated lower power and size).  While most technical aspects of communications links improve with lower data rates, one characteristic emerges as a constraint on the extent to which data rate can be reduced.  The purpose of this research is to study this characteristic, called phase noise, and its impact on the communications performance at low data rates when using real satellite links.  The results of this research will be quantitative conclusions regarding the trades between data rates, the cost impact of lowering phase noise in the communication elements, transmission performance, and the modem architectural options.  This study will enable optimization of this trade when developing the follow-on commercial products.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820435</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Parr</LastName>
+<EmailAddress>michael.parr@esatglobal.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>eSAT Global, Inc.</Name>
+<CityName>Solana Beach</CityName>
+<ZipCode>920751619</ZipCode>
+<PhoneNumber>6192491986</PhoneNumber>
+<StreetAddress>1460 Santa Luisa</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

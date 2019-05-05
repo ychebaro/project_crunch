@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research: Investigating astrocyte-mediated adaptive changes in primate brain metabolism</AwardTitle>
+<AwardEffectiveDate>02/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>31800.00</AwardTotalIntnAmount>
+<AwardAmount>31800</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>BCS</Abbreviation>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rebecca Ferrell</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Human adaptations in diet and metabolism are likely to be linked to other important human traits, like our large, metabolically demanding brains. This doctoral dissertation project will study astrocytes, a type of metabolically important brain cell, to determine their contribution to the unique metabolism of the human brain. This work will further our understanding of evolved metabolic and neurological differences among primates, while providing insight into an understudied, but critical cell type of the brain at the cellular and genetic levels. This project will support the research of a first-generation female college and graduate student, as well as the development of public and K-12 science communication efforts largely focused on demystifying the genome and understanding the societal implications of readily accessible genomic data. &lt;br/&gt;&lt;br/&gt;Previous research has consistently shown enrichment of metabolic function in genes differentially expressed between the brains of several primate species. This proposal will investigate the evolution of gene expression and function in astrocytes, to understand the extent to which this cell type contributes to the unique metabolism of the human brain. The investigators will use established, non-invasive cell culture methods to grow and develop astrocytes from induced pluripotent stem cells of both humans and chimpanzees. These astrocytes will be assayed for differences in gene expression and traits important for metabolic function, such as glucose uptake into the cell.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/25/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/25/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846904</AwardID>
+<Investigator>
+<FirstName>Courtney</FirstName>
+<LastName>Babbitt</LastName>
+<EmailAddress>cbabbitt@bio.umass.edu</EmailAddress>
+<StartDate>02/25/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Trisha</FirstName>
+<LastName>Zintel</LastName>
+<EmailAddress>tzintel@umass.edu</EmailAddress>
+<StartDate>02/25/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7608</Code>
+<Text>Bio Anthro DDRI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1392</Code>
+<Text>Biological Anthropology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

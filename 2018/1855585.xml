@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RESEARCH-PGR:  Regulation of tomato fruit flavor and nutrition quality</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>2484852.00</AwardTotalIntnAmount>
+<AwardAmount>1207727</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08090000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IOS</Abbreviation>
+<LongName>Division Of Integrative Organismal Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Clifford Weil</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Tomato is the most valuable fruit or vegetable grown worldwide. This project uses genetics and biochemistry to understand how the tomato synthesizes flavor and nutritional chemicals.  Flavor and nutrition are critical targets for improvement of agricultural crops in our modern society. Unhealthy shifts in diets can be countered by producing more flavorful, attractive and nutritious foods. Globally, biofortified food crops can address micronutrient malnutrition affecting millions of the poorest people. Better tasting, more nutritious, longer shelf-life food crops could have far reaching effects on world food production and sustainability. If fruits and vegetables taste better, people will eat more of them. Tomato fruit ripening involves simultaneous expression of more than 1000 genes. How the many metabolic pathways involved in different aspects of ripening are regulated is largely unknown. This project uses systems approaches to identify the regulators of each pathway, defining a regulatory hierarchy of genetic control on the entire process. The knowledge gained will in turn facilitate improvements in specific traits such as flavor and vitamin content. In addition to interdisciplinary training of the next generation of scientists, a citizen science project will leverage the public's keen interest in tomatoes. Individuals will be enrolled in an amateur plant breeding program to identify new varieties for the home garden. They will collect data on performance of experimental lines relative to a standard check variety, Better Boy, across North America. The citizen input will be the basis for which varieties are released.&lt;br/&gt;&lt;br/&gt;Prior efforts have established the tomato fruit as a paradigm for understanding the genetic control of complex, multigenic traits. The unifying project objective is to identify regulators of important fruit ripening, nutrient and flavor pathway genes to facilitate both more complete understanding of fruit maturation and develop tools for crop improvement. This project uses a systems approach involving genetics, biochemistry, molecular biology, physiology, genomics, informatics and metabolomics to define important components of the regulation of fruit quality-related processes and pathways and functionally characterize identified genes. Public genomics resources enabling additional tomato and translational research for improvement of additional fruit crops will be developed. Specific research objectives center on development of data sets that shed light on regulatory interactions, analysis of resulting data with the goal of functional characterization of a subset of high priority regulatory genes and public release of data through existing databases (http://ted.bti.cornell.edu and http://ted.bti.cornell.edu/epigenome/). All of the discovered genes will be freely available to all for marker-assisted breeding.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855585</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Giovannoni</LastName>
+<EmailAddress>jjg33@cornell.edu</EmailAddress>
+<StartDate>04/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harry</FirstName>
+<LastName>Klee</LastName>
+<EmailAddress>hjklee@ifas.ufl.edu</EmailAddress>
+<StartDate>04/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Julia</FirstName>
+<LastName>Vrebalov</LastName>
+<EmailAddress>jv22@cornell.edu</EmailAddress>
+<StartDate>04/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Denise</FirstName>
+<LastName>Tieman</LastName>
+<EmailAddress>dmtieman@mail.ifas.ufl.edu</EmailAddress>
+<StartDate>04/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhangjun</FirstName>
+<LastName>Fei</LastName>
+<EmailAddress>zf25@cornell.edu</EmailAddress>
+<StartDate>04/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1329</Code>
+<Text>PLANT GENOME RESEARCH PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7577</Code>
+<Text>PLANT GENOME RESEARCH RESOURCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9109</Code>
+<Text>AGRICULTURAL BIOTECHNOLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>BIOT</Code>
+<Text>BIOTECHNOLOGY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

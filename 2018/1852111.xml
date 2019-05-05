@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Research Experiences for Undergraduates in Chemical Engineering at the University of Florida</AwardTitle>
+<AwardEffectiveDate>05/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>394728.00</AwardTotalIntnAmount>
+<AwardAmount>394728</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mary Poats</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Research Experiences for Undergraduates (REU) program in Chemical Engineering at the University of Florida (UF), Department of Chemical Engineering (ChE), will host a diverse cohort of undergraduate students who will be exposed to state-of-the-art Chemical Engineering research in the broad areas of: Catalysis and Reaction Engineering, Nanomanufacturing and Nanoscale Engineering, Complex Flows and Interfacial Phenomena, and Biomedical Applications. Visits to local technology incubators and interactions with local entrepreneurs will provide participants with examples of translation of laboratory technologies. &lt;br/&gt;&lt;br/&gt;The goals of this 10 week summer REU program are to provide meaningful research experiences to undergraduates interested in chemical engineering research, provide formal and informal education on how to conduct research, and motivate students to pursue advanced studies in chemical engineering. Participants will conduct research in a broad range of areas representative of current Chemical Engineering research, including catalysis and reaction engineering, nanomanufacturing and nanoscale engineering, complex flows and interfacial phenomena, and biomedical applications of chemical engineering. Participants will be mentored by a group of sixteen faculty with a distinguished track record of mentoring undergraduates. Weekly seminars will introduce participants to many of the skills needed to be successful in research. These seminars will be led by UF ChE faculty, promoting interactions with potential role models. Participants will also benefit from visits to technology incubators and cultural sites close to Gainesville, FL.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/25/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/25/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852111</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Rinaldi</LastName>
+<EmailAddress>carlos.rinaldi@ufl.edu</EmailAddress>
+<StartDate>02/25/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Helena</FirstName>
+<LastName>Hagelin-Weaver</LastName>
+<EmailAddress>hweaver@che.ufl.edu</EmailAddress>
+<StartDate>02/25/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1360</Code>
+<Text>HUMAN RESOURCES DEVELOPMENT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>116E</Code>
+<Text>RESEARCH EXP FOR UNDERGRADS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Statistical Modeling of Linguistic Change in Open Source Software</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>63067.00</AwardTotalIntnAmount>
+<AwardAmount>63067</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CCF</Abbreviation>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project explores a theory of open source software (OSS) evolution based on statistical natural language processing techniques. Based on the emerging recognition that software code is, in many ways, as "natural" as natural language (e.g., English), there is a trend to apply statistical models for software development tasks such as code analysis, comprehension, and programmer support. This grant extends the "naturalness of code" theory by studying how the code lexicon evolves in open source software as different developers work on a software project and features are added, modified, deleted.  The goal is to learn the extent to which the evolution of a developer's lexicon follows the laws of natural language evolution.&lt;br/&gt;&lt;br/&gt;To create the needed demonstration, large datasets of code lexicons are being collected from a large number of OSS projects and their revisions (on GitHub and SourceForge). The main constructs of the frequency model of natural language evolution will be applied to track and identify the main patterns of language changes (e.g., birth, propagation, death of terms in the lexicon) throughout OSS projects life cycle. Part of the challenge is to better understand how events that instigate code evolution, such as maintenance activities and team formation, are fundamentally different from the events that instigate change in natural language, such as war and migration. The research should lead to new ways to predict software project outcomes and to improve software productivity and quality. The project will make available the data, tools, and algorithms that will be produced by the project, which will support future work to understand the dynamics of code evolution in open source software ecosystems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821525</AwardID>
+<Investigator>
+<FirstName>Anas</FirstName>
+<LastName>Mahmoud</LastName>
+<EmailAddress>mahmoud@csc.lsu.edu</EmailAddress>
+<StartDate>04/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Louisiana State University &amp; Agricultural and Mechanical College</Name>
+<CityName>Baton Rouge</CityName>
+<ZipCode>708032701</ZipCode>
+<PhoneNumber>2255782760</PhoneNumber>
+<StreetAddress>202 Himes Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7944</Code>
+<Text>SOFTWARE ENG &amp; FORMAL METHODS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

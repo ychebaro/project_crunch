@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: SaTC: Mitigating Software-Based Microarchitectural Attacks via Secure Microcode Customization</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardAmount>174996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandip Kundu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Modern high-performance processors implement complex microarchitectural optimizations involving speculative execution which has recently been shown to be vulnerable to a type of malicious attack called Spectre.  This project will investigate a microarchitectural solution framework to secure against such attacks.  This framework, called context-sensitive fencing, will seek to automatically track and detect malicious execution patterns dynamically to trigger defense code without programmer intervention and with minimal impact on processor performance.&lt;br/&gt;&lt;br/&gt;This research will investigate a high performance defense strategy with three novel components: (a) secure microcode customization which leverages the processor's microcode engine to enable the surgical injection of Spectre defense code (e.g., speculation fences) into the dynamic instruction stream without the need for software patching, (b) a decoder-level information flow tracking framework which detects spurious execution patterns that result in the mis-training of core microprocessor structures such as the branch predictor, and (c) microarchitecture hardening mechanisms that shield sensitive microarchitectural structures against the malicious side effects of speculative execution, to further enable a security-aware processor architecture design.&lt;br/&gt;&lt;br/&gt;The reconfigurable microcode-level defense proposed by this research may address the Spectre attack which affects millions of users.  This project will train and mentor graduate and undergraduate students and is expected to facilitate development of a hardware security course to be delivered in-class and online.&lt;br/&gt;&lt;br/&gt;The results from this research will be disseminated in the form of publications, presentations, design reports, course materials, and source code, and will be hosted publicly for the length of this project and beyond, on the investigator's website at http://www.cs.virginia.edu/venkat.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850436</AwardID>
+<Investigator>
+<FirstName>Ashish</FirstName>
+<LastName>Venkat</LastName>
+<EmailAddress>av6ds@virginia.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Virginia Main Campus</Name>
+<CityName>CHARLOTTESVILLE</CityName>
+<ZipCode>229044195</ZipCode>
+<PhoneNumber>4349244270</PhoneNumber>
+<StreetAddress>P.O.  BOX 400195</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>026Y</Code>
+<Text>CRII CISE Research Initiation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

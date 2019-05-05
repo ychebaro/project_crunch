@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NeTS: JUNO2: Disaster-Resiliency Strategies for Next-Generation Metro Optical Networks</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>450000.00</AwardTotalIntnAmount>
+<AwardAmount>145097</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ann Von Lehmen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A new generation of metropolitan optical networks is needed to enable the vision of future 'Smart Cities', where urban population can access a new class of revolutionary ultra-reliable and low-latency network services such as autonomous driving, augmented reality and telemedicine. Metro networks will evolve from a rigid infrastructure, simply designed to collect end-user traffic, to a composite network-and-computing ecosystem that provides resources needed by an application. Given the importance of these network services to society, next-generation metro-area networks (NG-MAN) must be designed to be resilient against large disruptive events, such as natural disasters or terrorist attacks. This project will investigate novel resilience strategies for NG-MAN that incorporate new technical directions, technologies and edge computing. This research has the potential to enable a high level of availability of critical communications and services in disaster scenarios that affect metropolitan areas.  &lt;br/&gt;&lt;br/&gt;This joint National Science Foundataion and Japan National Institute of Information and Communications Technology (NICT)-funded research project will provide new approaches to the design of disaster-resilient NG-MAN. There are three main research areas, to address complex network management and design problems arising in both the pre-disaster phase (i.e., prevention) and the post-disaster phase (i.e, recovery): i) Disaster-resilient control plane in NG-MAN. New strategies for control-plane protection will be studied, targeting a cognitive and hierarchical control-plane architecture that remains operational even if the main controllers fail. ii) Slice protection for a NG-MAN disaster-resilient data plane. Different disaster-resiliency approaches shall be enforced depending on the priority of different network slices and related services, considering all the elements composing a slice that must be protected, i.e., bandwidth, computing and storage resources. iii) Rapid recovery via deployable recovery units. Rapid post-disaster recovery of a network is critical, and is facilitated through use of movable devices, e.g., transported over specialized trucks to restore connectivity or computing facilities. (Mobile units were deployed after the 2011 earthquake and tsunami in Japan). This project will explore the deployment of optical burst mode amplifiers for recovery of fiber plant operation.  Evaluation of the proposed approach will be performed using the NICT testbed in Sendai.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818972</AwardID>
+<Investigator>
+<FirstName>Biswanath</FirstName>
+<LastName>Mukherjee</LastName>
+<EmailAddress>bmukherjee@ucdavis.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Massimo</FirstName>
+<LastName>Tornatore</LastName>
+<EmailAddress>mtornatore@ucdavis.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7071</Code>
+<Text>JUNO</Text>
+</ProgramReference>
+</Award>
+</rootTag>

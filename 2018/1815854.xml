@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CHS: SMALL: Stress Reflection Systems in Medical Team Training</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>369643</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Medical personnel are frequently exposed to physiological stress which can result in anxiety and other mental health issues. Indeed, stress is one of the leading causes of errors and long-term health implications for medical personnel such as emergency medical workers. Because of this, there have been efforts to introduce stress training into medical personnel training programs. If a trainee can identify, visualize, and reflect on specific events that trigger stress, performance in future situations may improve. While there has been much work focused on detecting stress from physiological response data of individuals, less work has focused on questions of how to design interventions centered around presenting stress data for an individual's comprehension, and even less so in teams and groups. This project's goal is to design, develop, and evaluate a Team Stress Reflection system, assessing its effect on stress discussions and comprehension in medical personnel team training. Societal impact will be realized through innovating new technologies that can be effectively used by medical personnel for better performance in the field, as well as supporting education and diversity through mentorship of STEM students from underrepresented groups.&lt;br/&gt;&lt;br/&gt;The project has three main research thrusts. The first is to investigate the current stress discussion practices that occur in paramedic team-based simulation training and the impact these discussions have on stress comprehension. This will entail obtaining a detailed transcription of videos recorded during training and performing an ethnomethodologically informed, inductive data-driven analysis to find recurring patterns of interaction. A result of this thrust will be a set of user needs to inform the development of a Team Stress Reflection system and collection of a dataset of trainees' physiological responses during typical training simulations for use in evaluating the stress reflection display in the third stage of the project. The second thrust is to design and develop the Team Stress Reflection system that presents the trainees' physiological responses and situated video for individual, dyad, or team review. In the third thrust, the team will evaluate the effect of and reactions to the system on trainer-trainee stress discussion and trainee stress comprehension in paramedic team-based simulations through a series of experiments and measures comparing teams using the system to teams not using it. The results will inform the problem space of stress reflection displays as well as provide a firm basis for the feasibility and benefit of stress display intervention on medical personnel performance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815854</AwardID>
+<Investigator>
+<FirstName>Helena</FirstName>
+<LastName>Mentis</LastName>
+<EmailAddress>mentis@umbc.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrea</FirstName>
+<LastName>Kleinsmith</LastName>
+<EmailAddress>andreak@umbc.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Jenkins-Levy</LastName>
+<EmailAddress>leejenkins@umbc.edu</EmailAddress>
+<StartDate>08/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland Baltimore County</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212500002</ZipCode>
+<PhoneNumber>4104553140</PhoneNumber>
+<StreetAddress>1000 Hilltop Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

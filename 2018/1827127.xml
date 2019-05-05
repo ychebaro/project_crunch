@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Networking Infrastructure: Bulldog Connectivity and Research</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>443726.00</AwardTotalIntnAmount>
+<AwardAmount>443726</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Bulldog Connectivity and Research Network  (BCR net) project at South Carolina State University (SCSU) creates a network infrastructure to accommodate increasing research activities in STEM and non-traditional areas such as the library, visual arts, museum and the planetarium. The campus enterprise network, plagued with bandwidth bottlenecks, supports only administrative, and academic needs, which competes for simultaneous use of limited resources. Disparate silos of unconnected computing resources have supported research computing in research labs with little scalability to the evolution of research needs. The BCR net provides a frictionless redundant design dedicated to research computing that delivers high-speed connectivity. Its design focuses on isolating high-throughput research functions through data paths on operationally efficient high-speed connections to research partners.&lt;br/&gt;&lt;br/&gt;BCR net, separate from the campus enterprise network, gives SCSU researchers access to on-demand high bandwidth science DMZ connections to sharable storage of research data connected to high throughput data transfer nodes with secure digital connections. Transfers of large datasets and instructions will be enabled under projects such as the Robotically Controlled Telescope Consortium, the NSF Partnership in Observational and Computational Astronomy (POCA), the NSF SCI-STEPS INCLUDES Project. Other areas affected include; the Physics and Chemistry computational labs for astrophysics and cancer research, the digital media lab, the historical collection and archiving Orangeburg massacre collection, applied radiation sciences lab, the Nuclear Engineering program reactor simulation lab, and the computer science security lab.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827127</AwardID>
+<Investigator>
+<FirstName>Nikunja</FirstName>
+<LastName>Swain</LastName>
+<EmailAddress>nswain@scsu.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate>09/06/2018</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nikunja</FirstName>
+<LastName>Swain</LastName>
+<EmailAddress>nswain@scsu.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Walter</LastName>
+<EmailAddress>dwalter@scsu.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Damian</FirstName>
+<LastName>Clarke</LastName>
+<EmailAddress>damian.clarke@aamu.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate>09/06/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>South Carolina State University</Name>
+<CityName>Orangeburg</CityName>
+<ZipCode>291170001</ZipCode>
+<PhoneNumber>8035367000</PhoneNumber>
+<StreetAddress>300 College Street NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+</Award>
+</rootTag>

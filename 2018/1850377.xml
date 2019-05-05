@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: SaTC: Preempting Physical Damage from Control-Related Attacks on Smart Grids' Cyber-Physical Infrastructure</AwardTitle>
+<AwardEffectiveDate>06/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>174958</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Control-related attacks are a severe threat to cyber-physical systems (CPSs) such as smart grids, because they can introduce catastrophic physical damage by using malicious control commands crafted in a legitimate format. While current research efforts have focused on detecting malicious commands that lead to physical damage, the investigator proposes to preemptively prevent the damage by disrupting and misleading adversaries' preparation before they issue the malicious commands. To achieve this objective, the proposed work includes: (i) characterizing dependencies between normal activities from both the cyber and physical domains in smart grids; (ii) determining a network spoofing paradigm to disrupt adversaries' knowledge of smart grids by injecting network packets on behalf of nonexistent computing nodes; and (iii) crafting decoy measurements to mislead adversaries into designing damage-free attack strategies. The proposed work will use software-defined networking (SDN) to prevent physical damage in smart grids without changing the grids' physical infrastructure. With the wide use of SDN in different CPSs, this work may serve as the basis for future research that extends to the broader domains of CPS and Internet-of-Things, which connect devices from different applications, such as smart health and smart home. Since CPS companies are upgrading their cyberinfrastructure with advanced network technologies, this work has promising applications in real utility environments to increase their resilience.&lt;br/&gt;&lt;br/&gt;The proposed work has the potential to transform current passive detection methods into preemptive approaches that disarm adversaries with misleading information. This work includes the following thrusts: (i) Development of interdisciplinary methods to identify dependencies between activities from the cyber and physical domains by combining data analytics and system specifications. Driven by real data collected from deep-packet network monitoring enabled by the Bro network analyzer, these methods will reveal the thorough operational logic of smart grids by integrating knowledge from different disciplines. (ii) Creation of an SDN-based platform to determine a network spoofing paradigm that resembles normal activities. By establishing interactions between the Bro network analyzer and SDN network controllers, the investigator will use the modeling of system activities to inject network traffic that is statistically indistinguishable from normal traffic to prevent adversaries from learning the true system configuration, without affecting legitimate applications. (iii) Creation of an algorithm to craft decoy measurements that mislead adversaries. To craft the application-layer payload of the spoofed packets, the investigator will model adversaries' attack preparation procedure as an optimization problem and thus determine decoy measurements that will mislead adversaries into designing attacks that target nonexistent components to thus induce little if any physical damage. (iv) Validation of the proposed preemptive approach using a cyber-physical testbed that integrates real SDN-enabled switches and power system simulations driven by real operational data.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850377</AwardID>
+<Investigator>
+<FirstName>Hui</FirstName>
+<LastName>Lin</LastName>
+<EmailAddress>hlin2@unr.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Regents, NSHE, obo University of Nevada, Reno</Name>
+<CityName>Reno</CityName>
+<ZipCode>895570001</ZipCode>
+<PhoneNumber>7757844040</PhoneNumber>
+<StreetAddress>1664 North Virginia Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>026Y</Code>
+<Text>CRII CISE Research Initiation</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

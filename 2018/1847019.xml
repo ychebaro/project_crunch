@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Comprehensive Evaluation of Critical Properties of Amine Salts and Their Impacts on Ambient Aerosol</AwardTitle>
+<AwardEffectiveDate>09/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>694646.00</AwardTotalIntnAmount>
+<AwardAmount>133773</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020104</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sherri W. Hunt</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is an integrated research, education, and outreach program to improve understanding of nitrogen containing particles in the atmosphere. The research team will measure several physical and chemical properties of salts of ammonia, which includes nitrogen. The team will include undergraduate students participating in a project-based learning class taught by the PI. Measurements will be used to develop a model to predict behavior of these salts in the atmosphere and the model will be evaluated with measurements from the field. The knowledge gained, and the updated model, will improve the representation of these particles in both weather and air quality models. Additionally, the project will provide scientific research opportunities for many students at a primarily undergraduate institution.&lt;br/&gt;&lt;br/&gt;This research is comprised of six objectives: (1) measure several fundamental physical and chemical properties of amine salts relevant to aerosol formation and transformation, including density, surface tension, viscosity, thermostability, phase transition, and hygroscopicity; (2) determine the properties of aerosol partially modified with amine salts; (3) develop chemical-structure based parameters and improve current atmospheric models; (4) conduct field measurements on ambient amines; (5) incorporate the research into several courses at University of New Haven (UNH); and (6) organize outreach activities for grades 6-12 students&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/15/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/15/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847019</AwardID>
+<Investigator>
+<FirstName>Chong</FirstName>
+<LastName>Qiu</LastName>
+<EmailAddress>cqiu@newhaven.edu</EmailAddress>
+<StartDate>03/15/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of New Haven</Name>
+<CityName>West Haven</CityName>
+<ZipCode>065161916</ZipCode>
+<PhoneNumber>2039327000</PhoneNumber>
+<StreetAddress>300 Boston Post Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1524</Code>
+<Text>Atmospheric Chemistry</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

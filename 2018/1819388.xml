@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Determination of complex outcome measures using narrative clinical data to enable observational trials</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>224793</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to enable accurate electronic health record (EHR)-based studies to support precision medicine. The country is embarking on a journey of using real world evidence (RWE) to adjust the existing standard of care. EHR-based subgroup analytics and comparative effectiveness studies will increasingly be used to augment regulatory and reimbursement approval. These efforts require accurately recognizing clinical outcomes in real world scenarios. Studies attempting to identify real world outcomes, such as pain and disease free survival, have shown low accuracy rates in claims and EHR discrete data. This proposal aims to accurately detect challenging outcomes from EHR data using advanced semantic technologies. The goal is to enable accurate RWE studies to achieve safer and more effective use of RWE in clinical practice.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to create an application to extract clinical outcomes from real world data to enable EHR-based pragmatic clinical trials (PCTs). The approach uses natural language processing (NLP) to dive deep into the health record for exposure, intervention, and outcome data that do not exist or are inaccurate in claims and EHR discrete data. Project objectives include extracting features from clinical data using NLP and ontologic mapping, developing a knowledge database that reflects common outcomes in observational and clinical trials, and inferring outcome from extracted features using clinical data. The project will validate the outcome detection engine using de-identified longitudinal clinical data to assess accuracy of feature extraction and inferred outcome.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819388</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Riskin</LastName>
+<EmailAddress>grants@vmt.com</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>VMT, Inc.</Name>
+<CityName>Newark</CityName>
+<ZipCode>197113258</ZipCode>
+<PhoneNumber>6507777978</PhoneNumber>
+<StreetAddress>113 BARKSDALE PROFESSIONAL CTR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

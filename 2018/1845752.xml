@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  A Community-Building Platform That Uses Machine Learning To Facilitate In-Person Interactions</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>224995</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is the reinvention of community wellness programming from a typically qualitative process into an evidence-based procedure. Treating wellness as a science will allow for more efficacious use of wellness budgets (an annual expenditure exceeding $100 Billion), will create a positive social impact within organizations, and by extension, society as a whole. Organizations with effective wellness initiatives have higher employee engagement, improved productivity, and increased profitability. Hence, there is significant opportunity for societal and commercial impact through evidence-based wellness technologies.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project involves the theoretical development, and practical deployment, of recommendation algorithms that arrange meetings between groups of people with divergent interests and incentives. Our research objectives are (1) the development of a theoretically grounded recommendation algorithm that accounts for the effects of social dynamics and incentives on behavior, (2) the development of an application to facilitate community wellness through in-person meetings.  We anticipate the successful deployment of the platform, the collection of multi-center data for semi-supervised training and prospective evaluation of the developed algorithms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845752</AwardID>
+<Investigator>
+<FirstName>Mohammad</FirstName>
+<LastName>Ghassemi</LastName>
+<EmailAddress>deskool@gmail.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>GHAMUT CORPORATION</Name>
+<CityName>CAMBRIDGE</CityName>
+<ZipCode>021394907</ZipCode>
+<PhoneNumber>6175996010</PhoneNumber>
+<StreetAddress>540 MEMORIAL DR APT 603</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

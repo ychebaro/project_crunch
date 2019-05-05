@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Modeling and Simulation of Bacterial Outer Membranes and Interactions with Proteins</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>616685.00</AwardTotalIntnAmount>
+<AwardAmount>616685</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Charles Cunningham</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The outer membrane (OM) of Gram-negative bacteria is a unique and highly asymmetric lipid bilayer composed of phospholipids in the inner leaflet and lipopolysaccharides (LPS) in the outer leaflet. While LPS is the major component, the OM also contains the enterobacterial common antigens (ECAs) and capsular polysaccharides (CPS) whose occurrence is frequently overlooked. These unique cell surface glycolipids make the OM an effective, selective barrier against the permeation of toxic molecules such as antibiotics and bile salts into the bacteria, which causes significant threats to public health. This project seeks to acquire an understanding of structure and dynamics of the bacterial OMs and their interactions with the OM proteins using start-of-the-art molecular modeling and simulations. This project will also provide the basis for a general approach to OM molecular modeling and simulation. In particular, this project will raise the scientific literacy of the public through the educational outreach, publication of research results and workshop participation.&lt;br/&gt;&lt;br/&gt;This project aims to provide an in-depth and unprecedented understanding on structural and dynamics information of the OMs from various bacteria, interactions between proteins and OMs, and their influences on solute permeation by establishing reliable computational methods for all-atom modeling and simulation of various LPS/ECA/CPS-containing complex OMs of Gram-negative bacteria and membrane proteins in various OMs. It also seeks to foster synergistic scientific research and education on LPS/ECA/CPS molecules and bacterial OMs by providing reliable and general computational methods (through LPS/ECA/CPS Modelers and their incorporated into Membrane Builder in CHARMM-GUI, www.charmm-gui.org) to students and researchers in the simulation community and other disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810695</AwardID>
+<Investigator>
+<FirstName>Wonpil</FirstName>
+<LastName>Im</LastName>
+<EmailAddress>woi216@lehigh.edu</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Lehigh University</Name>
+<CityName>Bethlehem</CityName>
+<ZipCode>180153005</ZipCode>
+<PhoneNumber>6107583021</PhoneNumber>
+<StreetAddress>Alumni Building 27</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1144</Code>
+<Text>Molecular Biophysics</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

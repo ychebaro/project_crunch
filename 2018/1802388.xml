@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Linking Dissolved Organic Matter Composition to Photochemical Reactivity</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>234782</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Karl Rockne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Contaminants such as pesticides and pharmaceuticals are commonly found in lakes, rivers, and other surface waters. It is important to know how quickly these chemicals break down in the environment due to natural processes in order to assess their potential risks to humans and ecosystems. This research project studies the role of sunlight in the breakdown of pesticides and pharmaceuticals in a process known as photodegradation. Photodegradation is driven by the photochemical reactions of dissolved organic matter (DOM), which is a complex mixture of organic chemicals derived from plants and microorganisms that is found in all natural waters. The chemical composition of DOM is highly variable in different waters, and the different compositions influence how quickly pesticides and pharmaceuticals break down when exposed to sunlight. Therefore, this project will develop a framework to predict the relative photoreactivity of a wide variety of DOM samples collected from rivers, bogs, lakes, and wastewater treatment plants located in forested, agricultural, and urban watersheds. By developing predictive models based on DOM composition measurements, this research will lay the groundwork for predicting the degradation rates of chemicals in aquatic systems. If successful, this knowledge can be used to identify and isolate chemical contaminants in the Nation's natural waters, thereby protecting public health and the environment. &lt;br/&gt;&lt;br/&gt;This project aims to determine the link between the composition of dissolved organic matter (DOM) to its photochemical reactivity. While state-of-the-science techniques such as high-resolution mass spectrometry provide more information about DOM composition than ever before, it is still not possible to predict the reactivity of DOM based solely on its composition due to the heterogeneity of this complex mixture. This research collaboration between the University of Wisconsin-Madison and the University of St. Thomas will test the hypothesis that a combination of parameters derived from a variety of analytical techniques can be used to predict relative photochemical reactivity within a diverse set of DOM samples. The principal investigators hypothesize that a subset of the data produced by the different techniques contributes strongly to variance in DOM reactivity because each technique samples different populations of DOM. In order to test this hypothesis, river and lake samples will be collected from five watersheds (St. Louis River, Yahara, Northern Highlands, Minnesota River, and Mississippi River), as well as samples before and after disinfection at five wastewater treatment plants. Collectively, these sites represent the range of natural freshwaters that are impacted by polar contaminants, such as pesticides and pharmaceuticals. These samples will be characterized by UV-visible spectroscopy, antioxidant measurements, and both Fourier transform-ion cyclotron resonance (FT-ICR) and Orbitrap mass spectrometry. Photoreactivity will be assessed using probe studies to quantify the quantum yields and steady-state concentrations of reactive species and by experiments with five target pesticides and pharmaceuticals. Multivariate statistics, including multiple linear regressions, hierarchical cluster analysis, and principal component analysis, will be used to develop a novel framework to predict the relative photochemical reactivity of natural and effluent organic matter based on composition. Finally, this unique data set will be used to test whether Orbitrap mass spectrometry is able to provide sufficient information to replace the use of FT-ICR mass spectrometry in determining the molecular composition of DOM for reactivity studies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/01/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/01/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802388</AwardID>
+<Investigator>
+<FirstName>Christina</FirstName>
+<LastName>Remucal</LastName>
+<EmailAddress>remucal@wisc.edu</EmailAddress>
+<StartDate>08/01/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1440</Code>
+<Text>ENVIRONMENTAL ENGINEERING</Text>
+</ProgramElement>
+</Award>
+</rootTag>

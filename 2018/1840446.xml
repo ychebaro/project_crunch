@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Augmentation Systems and Intelligent Support Technologies for Aging (ASISTa-ERC)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dana Denick</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.&lt;br/&gt;&lt;br/&gt;The objective of this planning grant is to further develop the goals and organization of the proposed ASISTa-ERC. The ASISTa-ERC will explore the use of technology to enhance the lives of the growing population of older adults and their caregivers. To do so, it will leverage advances in artificial intelligence, robotics, human-computer interaction, and mobile sensing and computing to create intelligent environments that augment cognitive ability, support physical activities, and amplify social and emotional support for aging individuals, their support network, and their caregivers. These environments will be designed to track individuals over time and adapt to changes in their daily life and their evolving healthcare needs. By enhancing and supporting the growing population of older adults and their caregivers, the work of the ASISTa-ERC will create significant economic and social benefits for older adults and their families. It will also create a new platform to support a rapidly growing workforce devoted to care for aging adults, and a unified framework for new commercial innovations.&lt;br/&gt;&lt;br/&gt;The planning activities will refine the research, workforce development, culture of inclusion, and innovation programs of the ASISTa-ERC through a series of three meetings. These meetings will explore three cross-cutting themes: physical support, cognitive support, and social support. They will develop a strategy for creating systems addressing these opportunities that have three key properties: intelligence, interactivity, and individualization (I3). Intelligent systems employ models that can classify and anticipate patterns of activity, and respond to those patterns in ways that most enhance the quality of life of the individual. Interactive systems exploit advanced sensing and human-computer interaction to observe, engage and respond in an appropriate manner. Individualized systems adapt the blend of cognitive, social, and physical support to each unique life situation, and evolve that blend of support as the individual ages and life circumstances change.  All development efforts will be user-centered and user-informed to increase acceptance and adoption by the target populations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840446</AwardID>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Mynatt</LastName>
+<EmailAddress>mynatt@cc.gatech.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Wendy</FirstName>
+<LastName>Rogers</LastName>
+<EmailAddress>wendyr@illinois.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Hager</LastName>
+<EmailAddress>hager@cs.jhu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Szanton</LastName>
+<EmailAddress>sszanto1@jhu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Johns Hopkins University</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212182686</ZipCode>
+<PhoneNumber>4439971898</PhoneNumber>
+<StreetAddress>1101 E 33rd St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>124E</Code>
+<Text>CENTERS: BIOENG &amp; HEALTH CARE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

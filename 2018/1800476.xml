@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>D3SC: Integrated Studies on Designing Organometallic Complexes with Nonlinear Absorption and Near-Infrared Emission</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>468030</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this project, funded by the Chemical Structure, Dynamic &amp; Mechanism B Program of the Chemistry Division, Professors Bakhtiyor Rasulev, Dmitri S Kilin, Svetlana V Kilina, and Wenfang Sun at North Dakota State University are developing new organometallic complexes with nonlinear optical absorption (NLO) and near IR (NIR) emission properties.  The approach involves the application of combined computational and data-driven methods.  The new methodology could offer an efficient and cost-effective development of optical materials for various applications.  These applications include optical communication, data storage, dynamic holography, optical switching, optical limiting, photodynamic therapy, and/or photocatalysis.  The project lies at the interface of organic, inorganic, materials chemistry, theoretical quantum chemistry, cheminformatics and data mining approaches, and is therefore well suited to the education of scientists at all levels. This group is also well positioned to provide the highest level of education and training for students underrepresented in science. Outreach activities involving tribal college students and K-12 students will also be part of the funded project.  &lt;br/&gt;&lt;br/&gt;Transition metal complexes display a rich array of photophysical properties where substituted ligands can be used both for the tuning of excited states and as conduits for electron- and energy-transfer.   In this project, the combination of experimental, computational, cheminformatics and data mining methods are being used to reveal the factors responsible for NLO properties and near IR emission properties.  A broad library of organometallic complexes that possess specific optical properties, by in-house data, as well as a large set of data collected from various public sources using computer science methods, will be studied.   A virtual library of thousands of promising organometallic complexes will be generated and the most promising ones will be synthesized and tested, to confirm the data-driven findings.  It is hoped that new complexes will be achieved with the following desirable properties: (1) weak and broad absorption at visible to NIR region, (2) intense excited state absorption to guaranty a large ratio of the excited-state absorption cross section relative to that of the ground-state absorption, (3) long-lived triplet excited states, and (4) relatively high triplet quantum yield.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800476</AwardID>
+<Investigator>
+<FirstName>Wenfang</FirstName>
+<LastName>Sun</LastName>
+<EmailAddress>Wenfang.Sun@ndsu.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Svetlana</FirstName>
+<LastName>Kilina</LastName>
+<EmailAddress>svetlana.kilina@ndsu.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bakhtiyor</FirstName>
+<LastName>Rasulev</LastName>
+<EmailAddress>bakhtiyor.rasulev@ndsu.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dmitri</FirstName>
+<LastName>Kilin</LastName>
+<EmailAddress>dmitri.kilin@ndsu.edu</EmailAddress>
+<StartDate>07/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Dakota State University Fargo</Name>
+<CityName>FARGO</CityName>
+<ZipCode>581086050</ZipCode>
+<PhoneNumber>7012318045</PhoneNumber>
+<StreetAddress>Dept 4000 - PO Box 6050</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Dakota</StateName>
+<StateCode>ND</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9102</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

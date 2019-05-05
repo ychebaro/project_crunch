@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of High Performance Computing Equipment for Research and Teaching at an Undergraduate Liberal Arts College</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>151164</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>John E. Yellen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Major Research Instrumentation Grant award supports the acquisition of a high-performance computing (HPC) system, the first large-scale, interdisciplinary research cluster at Middlebury College, a research intensive undergraduate institution. Cutting-edge research in the natural and social sciences utilizes digital technology to model and evaluate important social, environmental and scientific problems. Sophisticated modeling techniques and expanding datasets require the processing capabilities of a multi-processor server with the capability to read and analyze datasets sized as large as several hundred gigabytes or low terabytes. High-performance computing systems offer computing power that is useable across any discipline with computer modeling or data analysis applications. The research to be supported by this equipment is varied and impactful, ranging from studies of the impact of trade and agricultural technology on food markets to genomic studies of variation in pain sensitivity. This proposal includes nine separate research projects slated to use the HPC system with many more in queue. Overall, this substantial increase in processing capability enhances the scope of existing research at Middlebury and makes possible new projects that would have otherwise been impossible with existing computing infrastructure. HPC also supports faculty-mentored research-training programs in the social and natural sciences, fulfilling a critical part of the college's teaching mission. Middlebury College takes special effort to recruit and support underrepresented minorities in the STEM and STEM-related social sciences. HPC increases student access to faculty-guided research in these fields. The research to be conducted focuses primarily on human behaviors with the potential to refine best practices in neurological and genomic studies. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Research projects will leverage the HPC resource across political science, economics, neuroscience, computer science and biology. One project examines heterogeneous causes for unemployment and their impact on labor market recovery rates, suggesting more targeted corrective measures for unemployment. A neuroscience study explores pain perception and stress responses, focusing on how animals learn in response to noxious stimuli and tying particular genes to variation in responses. Two other projects involve DNA sequencing. One offers new modeling techniques to improve genotype prediction from observed data; another examines toxic algae blooms and investigates viruses as bloom-mitigation mechanisms using genome sequencing techniques. The flexibility of HPC makes it a multi-disciplinary tool to enhance research across STEM-related social sciences and more traditional STEM fields.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827373</AwardID>
+<Investigator>
+<FirstName>Amanda</FirstName>
+<LastName>Crocker</LastName>
+<EmailAddress>acrocker@middlebury.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Obie</FirstName>
+<LastName>Porteous</LastName>
+<EmailAddress>oporteous@middlebury.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bertram</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>bnjohnso@middlebury.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Yuen</LastName>
+<EmailAddress>ayuen@middlebury.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Middlebury College</Name>
+<CityName>MIDDLEBURY</CityName>
+<ZipCode>057536000</ZipCode>
+<PhoneNumber>8024435000</PhoneNumber>
+<StreetAddress>14 OLD CHAPEL ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Vermont</StateName>
+<StateCode>VT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

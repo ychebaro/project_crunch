@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a 400 MHz Nuclear Magnetic Resonance (NMR) Spectrometer for Chemistry and Energy Research and Education at the University of Pennsylvania</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>347713</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation and the Chemistry Research Instrumentation programs. Professor Karen Goldberg from University of Pennsylvania and colleagues Gary Molander, Marisa Kozlowski and Daniel Mindiola have acquired a 400 MHz nuclear magnetic resonance (NMR) spectrometer. This spectrometer allows research in a variety of fields such as those that accelerate chemical reactions of significant economic importance, as well as allow study of biologically relevant species. In general, Nuclear Magnetic Resonance spectroscopy is one of the most powerful tools available to chemists for the elucidation of the structure of molecules. It is used to identify unknown substances, to characterize specific arrangements of atoms within molecules, and to study the dynamics of interactions between molecules in solution or in the solid state. Access to state-of-the-art NMR spectrometers is essential to chemists who are carrying out frontier research. The instrument positively impacts several institutions and is critical to the training of numerous students and postdoctoral researchers across the Penn campus; undergraduate students in chemistry laboratory courses; and undergraduate majors in Chemistry and the Vagelos Integrated Program in Energy Research (VIPER). In addition, existing partnerships between Penn and the School District of Philadelphia are being leveraged to hold professional development workshops for secondary school teachers on the topic of NMR and its use in scientific research. Classroom materials developed in these workshops and "virtual field trips" introduce high school students to NMR, in alignment with the Next Generation Science Standards for Physical Science.&lt;br/&gt;&lt;br/&gt;The award of this spectrometer is aimed at enhancing research and education at all levels. It especially aids researchers investigating the reactions of transition metal complexes with oxygen and those developing synthetic routes to natural products and organic materials containing large numbers of quaternary centers. The spectrometer is being used in studies of complexes with metal-ligand multiple bonds for catalytic transformations, and for the development of new methods for asymmetric cross-coupling reactions. In addition, it benefits studies of fluxional bioorganic and dynamic biopolymer systems and the design of xenon-binding host molecules for use as biosensors and gas storage systems. The instrumentation is also essential in designing nonbiological systems that exhibit biological functions and for the development of small, fluorescent unnatural amino acid probes and quenchers for protein labelling. The instrument also serves researchers investigating the coordination/organometallic chemistry and catalysis of rare earth metal and actinide complexes and those studying the reactivity of metal clusters bound by redox-active macrocyclic ligands designed to mimic a metallic surface,. Finally, the spectrometer is also indispensable for the development of disulfoxide ligands for use in transition metal catalyzed reactions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827457</AwardID>
+<Investigator>
+<FirstName>Gary</FirstName>
+<LastName>Molander</LastName>
+<EmailAddress>gmolandr@sas.upenn.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Goldberg</LastName>
+<EmailAddress>kig@sas.upenn.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marisa</FirstName>
+<LastName>Kozlowski</LastName>
+<EmailAddress>marisa@chem.upenn.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Mindiola</LastName>
+<EmailAddress>mindiola@sas.upenn.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Pennsylvania</Name>
+<CityName>Philadelphia</CityName>
+<ZipCode>191046205</ZipCode>
+<PhoneNumber>2158987293</PhoneNumber>
+<StreetAddress>Research Services</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1938</Code>
+<Text>CHEMICAL INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8393</Code>
+<Text>ITR SMALL PROGRAMS RESERVE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+</Award>
+</rootTag>

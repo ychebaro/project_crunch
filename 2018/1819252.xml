@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Developing Efficient and Accessible Computational Tools for Poroelasticity Problems</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>149941</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miao-Jung Ou</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Poroelasticity problems arise from a broad range of real world problems, in which fluid flows through a porous medium that can deform due to the fluid pressure.  For example, convection-enhanced drug delivery to tumor sites, functioning of knee meniscus, and CO2 sequestration all involve this type of interaction between solid (displacement) and fluid (pressure).  Mathematical modeling and computer simulations will provide valuable tools to enhance our ability in understanding, predicting, and controlling these complicated physical processes.  This research project aims at developing a family of novel accurate, efficient, and robust numerical methods for poroelasticity problems.&lt;br/&gt;    &lt;br/&gt;The focus of this project is on design, analysis, implementation, and applications of a family of novel finite element methods for poroelasticity problems.  Based on the displacement-pressure two-field formulation, weak Galerkin finite element methods will be developed for approximating both solid displacement and fluid pressure.  Conditions for stable coupling of these sub-problem solvers will be investigated.  The new methods will be applied to an engineering problem on knee meniscus. These new methods will also be implemented as Matlab and C++ code modules (on deal.II platform) that are openly accessible to the scientific computing community. The efficient and robust computational tools developed in this project can be applied to many real world problems that involve poroelasticity such as drug delivery to tumor sites, food processing, reservoir engineering, and tissue engineering.  These will have further economic impact on better use of natural resources or cures for diseases.  The methodology developed in this project can be applied to a large class of scientific computing tasks that deal with multiple physical processes.  This project will also provide hands-on training opportunities for both graduate and undergraduate students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/26/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819252</AwardID>
+<Investigator>
+<FirstName>Jiangguo</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>liu@math.colostate.edu</EmailAddress>
+<StartDate>07/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

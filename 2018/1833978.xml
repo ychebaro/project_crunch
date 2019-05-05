@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Travel Support for Conference on Dynamics and Stability of Interfaces</AwardTitle>
+<AwardEffectiveDate>04/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>William Olbricht</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will support participation of students and postdoctoral scientists and engineers at the IUTAM Symposium on Dynamics and Stability of Fluid Interfaces, which will be held April 2-5, 2018 at the University of Florida, Gainesville. The symposium will focus on the simulation and modeling of interfaces between fluids and fluids/solids. Two phase flows are key to processes including additive manufacturing, coating, flow in porous media, aircraft de-icing, and many other natural and engineered flows. The symposium will bring together computational and modeling experts to address major issues in fluid interfaces and contact lines. Featured lectures by leading experts and round-table discussions will provide a range of learning and networking opportunities for early career scientists and students. &lt;br/&gt;&lt;br/&gt;The conference is timely in terms of the technical impact and translation to applications. While major advances have been made in the numerical simulation of interfacial dynamics and accurate solutions from first principles can be obtained, the cost of such simulations severely restricts their usefulness. In addition, because topology changes and contact line dynamics take place below the grid resolution, obtaining grid-independent results remains challenging. The availability of reliable reduced-order models to represent sub-grid scale physics would reduce computational costs. Thus, it is timely to bring computational and modeling experts together. Encouraging the participation of young investigators will help fill a national need to train a future work force in interfacial fluid mechanics and will provide a unique opportunity for young investigators to interact with leading researchers and industrial practitioners in this area.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1833978</AwardID>
+<Investigator>
+<FirstName>Ranga</FirstName>
+<LastName>Narayanan</LastName>
+<EmailAddress>ranga@ufl.edu</EmailAddress>
+<StartDate>04/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1415</Code>
+<Text>PARTICULATE &amp;MULTIPHASE PROCES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

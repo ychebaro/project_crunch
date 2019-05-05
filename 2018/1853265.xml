@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Novel Dynamic Elastomer System For Additive Manufacturing</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>749999.00</AwardTotalIntnAmount>
+<AwardAmount>749999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Linda Molnar</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase II project will create a material, printer, and software system for printing a novel set of flexible, durable materials for additive manufacturing technologies. Additive manufacturing, or 3D Printing, is a rapidly growing $7bn industry, which enables small and medium enterprises to competitively manufacture new and innovative products. It is a key to strengthening the US manufacturing economy. Continued growth and health of the 3D printing industry, particularly for manufacture of functional parts for finished goods, will depend upon an expansion of the available material library. 3D printing materials are limited to a small segment of the plastics in common industrial use today. This project will expand that material library with development of printable polyurethane elastomers with a broad range of flexibilities. These materials will be particularly relevant for markets that demand personalization and customization, such as patient-specific medical devices, sporting goods, and footwear. Manufacturers of flexible, durable polyurethane goods for industrial and automotive products will also benefit from low cost small-scale production of parts made from materials with performance that match their product specifications. The printing system will enable production of parts with user-specified geometry and flexibility, and will also enable multi-material printing for novel product designs. &lt;br/&gt;&lt;br/&gt;This SBIR Phase II project will produce a set of reactive polyurethane precursor formulas which can be combined to form printable, flexible polyurethanes with a broad hardness range. The Phase II project will also produce an integrated system of printer control software and printhead design for production of parts with the polyurethane precursor formulas. The materials will be printed using extrusion 3D printing techniques, and customized to handle liquid, reactive feeds. The research approach will include determination of the starting materials to control reaction rates, rheology development, and part solidification. Software development will incorporate printing parameters for the spectrum of materials that can be produced from the starting materials in order to produce a user interface where part flexibility is specified as a function of part geometry, and the printer receives commands for printing the desired object.  The material  will be parameterized to determine space-filling properties of the material as a function of composition, print speed, and printhead geometry.  This 3D printing technology will overcome challenges in part durability and printing speeds that are common to photo-cure approaches to produce flexible parts, and will greatly extend the part durability and flexibility available to extrusion 3D printing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/28/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/28/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853265</AwardID>
+<Investigator>
+<FirstName>Cora</FirstName>
+<LastName>Leibig</LastName>
+<EmailAddress>leibig@chromatic3dmaterials.com</EmailAddress>
+<StartDate>02/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Chromatic 3D Materials Inc.</Name>
+<CityName>Maple Grove</CityName>
+<ZipCode>553112166</ZipCode>
+<PhoneNumber>7634639381</PhoneNumber>
+<StreetAddress>15292 80th Pl N</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8029</Code>
+<Text>Manufacturing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

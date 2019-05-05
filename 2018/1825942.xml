@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Learning to Control Dynamically Complex Objects</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>349223</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Robert Scheidt</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Human sensorimotor capabilities vastly out-perform those of modern robots. Prior research suggests that humans achieve skillful movement by exploiting combinations of "dynamic primitives", which are robust building blocks of coordination that simplify control. Interaction with complex objects - such as spreading a tablecloth - requires prediction which, in turn, requires mental representations of the objects and environment.  This project explores the extent to which such mental models may also take the form of dynamic primitives.  The project team will perform fundamental research exploring: how humans learn to manipulate a complex flexible object through the composition of dynamic primitives; the impact of explicit instruction on the acquisition of the mental models; and whether a primitive-based control structure to be implemented in a robot can achieve skillful manipulation of complex objects and fluid interactions between humans and robot. This project serves the national interest because the resulting understanding of human sensorimotor control and robot control methods may result in improved efficacy of robot-assisted physical rehabilitation after neuromotor injuries such as stroke, where safe physical cooperation with humans is fundamental and mutual learning is of paramount importance.  The project will involve an educational component that provides engineering and research methods training to graduate and undergraduate students, as well as STEM outreach to individuals of all ages at the Museum of Science in Boston. Additional efforts will be made to attract and retain women into careers in science and engineering.&lt;br/&gt;&lt;br/&gt;This research investigates a biomimetic approach to robot control that promise improved human-robot physical interaction during co-manipulation of flexible objects with complex continuum dynamics. Methods include skill acquisition experiments involving expert and novice human subjects to test how mental representations are formed and the extent to which they may be shaped by explicit instruction during training; a theoretical study of how motor learning may be facilitated using mental models based on dynamic primitives vs. lumped mechanical properties; and a study of human-robot co-manipulation of flexible objects wherein dynamic primitives provide the basis not only for robotic control, but also for communication and mutual learning between the human and robot partners. This research promises new insights into the manipulation of complex objects and tools, an area where humans still outperform machines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1825942</AwardID>
+<Investigator>
+<FirstName>Dagmar</FirstName>
+<LastName>Sternad</LastName>
+<EmailAddress>d.sternad@northeastern.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>021155005</ZipCode>
+<PhoneNumber>6173733004</PhoneNumber>
+<StreetAddress>360 HUNTINGTON AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1642</Code>
+<Text>SPECIAL INITIATIVES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>070E</Code>
+<Text>INTEG OF HUMAN &amp; COGNITIVE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6856</Code>
+<Text>ARTIFICIAL INTELL &amp; COGNIT SCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7632</Code>
+<Text>HUMAN-ROBOT INTERACTION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

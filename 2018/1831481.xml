@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RIDIR: Collaborative Research: Integrated Communication Database and Computational Tools</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>209486</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04010000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>SBE Off Of Multidisciplinary Activities</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will develop an integrated research framework for sociotechnical cybersecurity research and broader investigations of information provenance by behavioral, information, and computer scientists. Currently, researchers are mainly limited to natural language processing of large bodies of online text. This project will make it possible to analyze larger information worlds, including those from such countries as China, and the flow of information, including video and audio information, in newspapers, TV, and online sources. The project addresses a core goal of cybersecurity research, which is to understand the provenance, flow, and termination of information warfare, and censorship.&lt;br/&gt;&lt;br/&gt;The project is aimed at constructing an integrated and unified information database that combines mass communication data from TV and print sources from six locations, with data from two popular online communication platforms. The project will generate a variety of metadata and time series data on topics, actors, events, and sentiments presented in communications by automated multimodal content analysis using text, image, video, and audio. Variables will be linked to identify trajectories of information flow between communication channels through multiple platforms. It will develop a new class of computational models and algorithms that can automatically analyze both verbal and nonverbal communications data by machine learning, computer vision, deep learning, and natural language processing. This project will allow researchers across the computational and social sciences to access the metadata and time series data through a search interface for qualitative research, a statistical package for quantitative research, and various visualization tools. This project will therefore link previously untapped data sources using cutting-edge computational methods to enable scholars to conduct systematic research on large-scale patterns in the emerging information and communication ecosystem.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831481</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Pan</LastName>
+<EmailAddress>jp1@stanford.edu</EmailAddress>
+<StartDate>09/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stanford University</Name>
+<CityName>Palo Alto</CityName>
+<ZipCode>943041212</ZipCode>
+<PhoneNumber>6507232300</PhoneNumber>
+<StreetAddress>3160 Porter Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>065Z</Code>
+<Text>Human factors for security research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7433</Code>
+<Text>CyberInfra Frmwrk 21st (CIF21)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

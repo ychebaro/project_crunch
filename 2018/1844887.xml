@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Information Theoretic Methods in Data Structures</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardAmount>48310</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Balasubramanian Kalyanasundaram</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Data structures constitute the backbone of algorithm design and information retrieval, and underlie the performance of countless industrial-scale applications, from internet routing and road navigation to cloud storage, search and compression. As such, understanding what data structures can, and cannot, compute efficiently is a fundamental question in both theory and practice. Motivated by this question and the growing amounts of data to be processed in modern databases, this project is focused on two primary themes: (1) developing new mathematical tools for proving unconditional lower bounds on the operational time and memory consumption of static and dynamic data structures, thereby reducing the (huge) existing gaps from known upper bounds; (2) exploring the interplay between information theory and data structures in large-scale storage applications. In particular, the second part of the project will focus on designing novel data structures for information retrieval (mainly compression and search) over correlated datasets. The project reflects a scientific agenda for conducting interdisciplinary research in the intersection of theoretical computer science and information theory, bridging and impacting research and education in both communities.&lt;br/&gt;&lt;br/&gt;In recent years, information theory and communication complexity have emerged as powerful mathematical tools for proving unconditional lower bounds on the operational time of data structures and for analyzing the power of pre-processing information. Proving time-space lower bounds in the "cell-probe" model has long been recognized as one of the major challenges of complexity theory, with many implications on theory and practice. The first part of this project will develop new information-theoretic tools for proving such trade-offs, and will explore connections between data-structure lower bounds and other areas in computational complexity and mathematics, such as locally-decodable codes, circuit complexity, streaming, functional analysis, rigidity and algebraic geometry. Apart from its role as an analytic tool for computation, the interplay between information theory and data structures is particularly vital in large-scale storage applications. The increasing size and complexity of data sets being uploaded and processed on remote data centers, pose a real problem of scalability for traditional data compression and database architectures. The second part of this project establishes a new research program for storage and information-retrieval problems that arise over massive correlated data sets, focusing on the (unexplored) problem of locally decodable source coding for correlated files in static and dynamic scenarios.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844887</AwardID>
+<Investigator>
+<FirstName>Omri</FirstName>
+<LastName>Weinstein</LastName>
+<EmailAddress>omri@cs.columbia.edu</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7796</Code>
+<Text>ALGORITHMIC FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7927</Code>
+<Text>COMPLEXITY &amp; CRYPTOGRAPHY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Support for the 2018 International Conference on Probabilistic Methods Applied to Power Systems, To Be Held in Boise, IDaho, June 24-28, 2018</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>12750</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anil Pahwa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 2018 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) will be held in Boise, Idaho from June 24 to June 28, 2018. The objective of this proposal is to request support for conference and housing expenses for US students participating in the PMAPS conference. The PMAPS takes place once every two years with locations around the world.  It is a nonprofit event with technical co-sponsorship from the IEEE Power and Energy Society. It is specifically designed to provide a forum for academic and industrial researchers, and students, to discuss innovative development and application of probabilistic methods to a variety of problems in the planning and operation of power systems to improve their operation.  Traditionally the PMAPS conference has attracted a sizable participation of researchers from countries across the globe. The interaction of students with researchers from different cultural backgrounds provides an enriching experience that reaches far beyond technical knowledge acquisition.  Support from NSF will significantly increase the number of student participants including those from underrepresented minority groups and minority serving institutions.  &lt;br/&gt;&lt;br/&gt;PMAPS is the only international conference entirely dedicated to probabilistic methodologies and applications to power systems and thus provides an ideal forum for the presentation of innovative research fostering close interaction among students, professors, practicing engineers, and regulators.It also offers opportunities for students to present their work in front an audience of experts and peers. Students who attend this conference will have an opportunity to compete for the "Roy Billinton Student Paper Award". In addition, students will have an opportunity to learn about possible future directions in the research. PMAPS also provides a unique opportunity to academia and power industry to discuss their vision of challenges in power and energy fields where statistical and probabilistic methods can be applied to power system planning, operation, control, maintenance, condition monitoring, and diagnostics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836416</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>bjohnson@uidaho.edu</EmailAddress>
+<StartDate>06/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hangtian</FirstName>
+<LastName>Lei</LastName>
+<EmailAddress>hlei7@uidaho.edu</EmailAddress>
+<StartDate>06/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Idaho</Name>
+<CityName>MOSCOW</CityName>
+<ZipCode>838443020</ZipCode>
+<PhoneNumber>2088856651</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

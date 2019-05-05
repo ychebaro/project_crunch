@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CPS: TTP Option: Medium: Machine learning enabled "smart nets" to optimize sustainable fisheries technologies</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ralph Wachter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Fisheries employ 260 million people globally and fish are a primary animal protein source for roughly 40% of the world's population. Fishing effort has increased worldwide over the past few decades, leading to concerns over the incidental capture (termed "bycatch") of non-target species, especially endangered species such as sea turtles, sharks, and marine mammals. Globally, bycatch of sea turtles is especially problematic as recent estimates suggest that hundreds of thousands of turtles are killed annually in fishing gear, representing the greatest known threat to their continued survival. This project addresses this problem through cyber-physical system-enabled technologies. &lt;br/&gt;&lt;br/&gt;This project builds on an observation about fish behavior that species respond differently to the light spectrum and that can be used to modulate their behaviors. This smart nets project extends that observation to determine signatures for sensing modalities of different species. The intent is to develop fishing gear, specifically fishing nets, that can deter non-target species. The project uses machine learning to determine effective cues, e.g., light and sound that uses the least amount of power possible to prevent an endangered species from capture in the nets without decreasing the fishermen's target catch. Using underwater cameras with standard video, infrared, and sonar to monitor species behavior to various signatures, it builds a database of the responses for each species under varying oceanic environment conditions. The project plans large-scale follow-up studies in partnership with the National Oceanic and Atmospheric Administration (NOAA). This research on CPS technology for the fishing industry will be invaluable to the design of the next-generation of CPS-enabled fishing nets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837473</AwardID>
+<Investigator>
+<FirstName>Jesse</FirstName>
+<LastName>Senko</LastName>
+<EmailAddress>jesse.senko@asu.edu</EmailAddress>
+<StartDate>09/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sule</FirstName>
+<LastName>Ozev</LastName>
+<EmailAddress>sule.ozev@asu.edu</EmailAddress>
+<StartDate>09/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Blain Christen</LastName>
+<EmailAddress>Jennifer.BlainChristen@asu.edu</EmailAddress>
+<StartDate>09/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Arizona State University</Name>
+<CityName>TEMPE</CityName>
+<ZipCode>852816011</ZipCode>
+<PhoneNumber>4809655479</PhoneNumber>
+<StreetAddress>ORSPA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

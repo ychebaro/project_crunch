@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel to the Cornell, Maryland, Max Planck Pre-Doctoral Research School</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>49996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Various universities, funding agencies including National Science Foundation, and companies have made extensive efforts to create opportunities for research experiences for undergraduates (REUs). However, at many top undergraduate institutions worldwide, far too few talented students ever attempt systems research, let alone pursue a research career.&lt;br/&gt;&lt;br/&gt;As a result many of our best students fail to realize their full potential for a research career in computing.  Sadly, as many studies have shown, the fraction of students who choose a research career in Computer Science is even lower among women, underrepresented minorities, first-generation students, and those from low-income backgrounds.  Focusing on Computer Science and specifically in systems, we believe this unfortunate attrition out of a career in research arises largely from a basic misunderstanding and lack of exposure to what Computer Science (CS) research is. Motivated by this observation, and in an effort to address this problem, we propose a new series of annual summer research schools aimed at giving students a brief but intensive exposure to systems research.  The high-level idea is to provide an engaging environment in which students can interact with preeminent researchers from multiple areas of Computer Science, but to do so in a short enough amount of time (on the order of a week) so as to appeal to students who may be skeptical of what research has to offer.&lt;br/&gt;&lt;br/&gt;This proposal seeks funding for supporting the travel and accommodations for students from the United States to attend the summer school (we anticipate 100 participants worldwide).  We believe the program will only be successful if it is able to offer full financial support for travel and accommodation for all participating students, since this will remove a significant barrier for attending for many students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838985</AwardID>
+<Investigator>
+<FirstName>Samrat</FirstName>
+<LastName>Bhattacharjee</LastName>
+<EmailAddress>bobby@cs.umd.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Dickerson</LastName>
+<EmailAddress>john@cs.umd.edu</EmailAddress>
+<StartDate>06/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

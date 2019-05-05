@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>US Students Participation in the 21st Course of ISCRA in Enrice, Italy August 1-7, 2018.</AwardTitle>
+<AwardEffectiveDate>02/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03010000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Physics</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jean Allen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The International School of Cosmic Ray Astrophysics (ISCRA) is a biannual summer school designed to provide an overview of the field to graduate students and young postdoctoral scholars through both lectures and informal discussions with Particle Astrophysics experts. This is the only regular Particle Astrophysics summer school in the world and it has an excellent history of training future leaders in the field. The 21st ISCRA course will take place in Erice, Italy, from the 1st to the 7th of August 2018.  The sessions will include discussions of new experiments, new experimental results and the new understanding of those results, emphasizing the multi-messenger approach to astrophysics. This award will support the participation of US graduate students and young postdoctoral scientists.&lt;br/&gt;&lt;br/&gt;The theme of the 21st ISCRA is "Astroparticle physics: yesterday, today, and tomorrow."  Topics for discussion will include neutrino astrophysics, gravitational waves, acceleration and interactions of high energy particles and radiation, measurements of cosmic rays and gamma rays, and future space- and ground-based experiments. Proceedings are published to more broadly disseminate the results.</AbstractNarration>
+<MinAmdLetterDate>02/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806742</AwardID>
+<Investigator>
+<FirstName>Todor</FirstName>
+<LastName>Stanev</LastName>
+<EmailAddress>stanev@bartol.udel.edu</EmailAddress>
+<StartDate>02/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Delaware</Name>
+<CityName>Newark</CityName>
+<ZipCode>197162553</ZipCode>
+<PhoneNumber>3028312136</PhoneNumber>
+<StreetAddress>210 Hullihen Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1643</Code>
+<Text>Particle Astrophysics/Cosmic P</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7483</Code>
+<Text>PHYSICS OF THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

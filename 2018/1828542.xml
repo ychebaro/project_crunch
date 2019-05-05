@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Nano-Computed Tomography System for Nondestructive 3D Microstructural Imaging</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>695668</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harsha Chelliah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will enable the purchase of a high-resolution computed tomography (CT) system at North Carolina State University (NC State). This type of system works much like medical scanners used to obtain 3D images of the inside of the body, but it can provide details at a much smaller scale - down to less than 1 micrometer. This system will allow scientists and engineers to study the intricate structures of very small internal features within many materials, including dinosaur bone, cutting-edge plastics, new materials for energy storage, and specialized metals for artificial joints. A better understanding of internal structure will advance technologies in material design and fabrication and will aid the development of innovative approaches for medicine and engineering. The new high-resolution CT system will enhance college education by integrating student training into more than a dozen existing graduate and undergraduate courses. Researchers will use images and results from the instrument in ongoing outreach activities that will enhance both K-12 education and community engagement. &lt;br/&gt;&lt;br/&gt;The acquisition of a high-resolution nano-CT system will fill a critical gap in current CT and microscopy equipment in the region. This technology will add nondestructive nanoscale imaging that requires minimal sample preparation and accommodates a relatively large field of view for large samples, low- and high-density materials simultaneously, and in situ environmental conditions. It will advance fundamental understanding about internal nano- and microscale structures and complex interfaces within a broad range of materials (e.g., dinosaur bone, biopolymers, multilayer capacitors, additive manufactured metal parts, and fibrous materials). These unique capabilities are essential for five strategic research areas at NC State and in the surrounding region: biomedical sciences, biological and social sciences, materials science and characterization, materials synthesis and fabrication, and textiles and fibrous materials. Locating the instrument within NC State's Analytical Instrumentation Facility, a leading open-access materials characterization facility, will make it broadly available to regional and national users, catalyzing interdisciplinary collaborations to advance the scope and impact of many research areas in science and engineering.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828542</AwardID>
+<Investigator>
+<FirstName>Mary</FirstName>
+<LastName>Schweitzer</LastName>
+<EmailAddress>schweitzer@ncsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ola</FirstName>
+<LastName>Harrysson</LastName>
+<EmailAddress>harrysson@ncsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jacob</FirstName>
+<LastName>Jones</LastName>
+<EmailAddress>jacobjones@ncsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Pankow</LastName>
+<EmailAddress>mrpankow@ncsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jacqueline</FirstName>
+<LastName>Cole</LastName>
+<EmailAddress>jacquecole@ncsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Carolina State University</Name>
+<CityName>RALEIGH</CityName>
+<ZipCode>276957514</ZipCode>
+<PhoneNumber>9195152444</PhoneNumber>
+<StreetAddress>CAMPUS BOX 7514</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

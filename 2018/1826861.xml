@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>USENIX File and Storage Technologies (FAST) 2018 Student Travel Support</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>20000.00</AwardTotalIntnAmount>
+<AwardAmount>20000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Matt Mutka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is to assist approximately 15 US-based graduate students to attend the 16th USENIX Conference on File and Storage Technologies (FAST 2018) in Oakland, CA.  Participation in FAST 2018 and similar conferences is a valuable and important part of the graduate school experience. It provides students with the opportunity to interact with more senior researchers, and exposes students to leading work and practical industry practices in this important area of research.&lt;br/&gt;&lt;br/&gt;Past grant recipients have gone on to run their own research labs and organize conferences including FAST, and the long-term merits of this program?s impact on storage research is well established.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826861</AwardID>
+<Investigator>
+<FirstName>Camille</FirstName>
+<LastName>Mulligan</LastName>
+<EmailAddress>camille@usenix.org</EmailAddress>
+<StartDate>03/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>USENIX Association</Name>
+<CityName>Berkeley</CityName>
+<ZipCode>947102565</ZipCode>
+<PhoneNumber>5105288649</PhoneNumber>
+<StreetAddress>2560 9th Street Suite 215</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

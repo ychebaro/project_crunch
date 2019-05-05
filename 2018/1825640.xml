@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Hybrid-Compatible Deformation Processing of Performance Critical Components</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>214747</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven R. Schmid</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Additive manufacturing has emerged as a viable route for fabricating complex machine components that have important applications in the aerospace, defense, automotive and energy sectors. Unfortunately, machine components made through additive manufacturing are often unreliable due to internal defects. This prohibits their industrial use as defective components can respond to normal service conditions in unexpected ways or fail prematurely. This award supports research to establish a novel hybrid-additive method for fabrication of defect-free components, and therefore directly impacts economic welfare and national security. This hybrid approach will repair defects using local severe deformation. Modeling efforts that will support this research will enable rapid fabrication of high quality additively manufactured components. The project will also support several classroom teaching initiatives including those focused at the K-12, undergraduate and graduate levels. These include (i) incorporation of research results into an interactive educational computer game and (ii) dissemination through short video-scribe movies available for viewing in open social media platforms.&lt;br/&gt; &lt;br/&gt;The goal of this project is to facilitate defect control in additively manufactured components through hybrid post-processing methods. For achieving this goal, the methodology will involve systematic use of plastic deformation in interwoven steps during additive manufacturing for mitigation of volumetric defects. Modeling efforts will involve detailed characterization of material microstructure evolution under graded plastic strain. Microstructure parameters of interest include grain structure and defect structure. The deformation response of these parameters will be studied using in situ loading platforms that will work with existing electron microscopes and X-Ray computed tomography machines. Deformation strain fields will be characterized using digital image correlation through secondary electron imaging. These strain fields will be correlated with the evolving micro-structure parameters that will be characterized simultaneously. A process modeling framework for prediction of the surface microstructure as a function of processing conditions will be validated and used to determine optimal hybrid strategies for post processing additively manufactured microstructures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1825640</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Saldana</LastName>
+<EmailAddress>christopher.saldana@me.gatech.edu</EmailAddress>
+<StartDate>08/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1468</Code>
+<Text>Manufacturing Machines &amp; Equip</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>082E</Code>
+<Text>MFG MACHINES &amp; METROLOGY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>083E</Code>
+<Text>MATERIAL TRANSFORMATION PROC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

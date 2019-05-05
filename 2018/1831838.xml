@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dimensions:  The roles of phylogeny, genome content, and functional performance traits in the evolution and assembly of a diverse Methylobacterium community</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2022</AwardExpirationDate>
+<AwardAmount>1777713</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Gilchrist</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Advances in sequencing DNA have led to an unprecedented increase in our understanding of microbial diversity, yet we lack a clear picture of how functional traits relate to organismal diversity, or to the gene content found in their genomes. Because of this, it is not clear how similar in DNA sequence two organisms need to be for us to call them the same thing. This has important consequences when making ecological inferences. The researchers have developed a novel way to rapidly determine which microbes grow well under different environmental conditions by following the frequency of unique "barcodes" that have been genetically inserted into a panel of 96 natural isolates of bacteria that naturally grow on plant leaves. The researchers will also be able to track how different strains of microbes assemble into communities, which will illuminate which ones can stably coexist. The work will ultimately shed light on the phylogenetic conservation of traits, association of those traits to changes in the genome, and how much these traits influence genetic exchange across microbes. Outreach to K-12 students will result in a greater appreciation by the public of microbial genetic and functional diversity.&lt;br/&gt;&lt;br/&gt;Researchers will focus on the genus Methylobacterium, a collection of &gt;50 named species well known for use of plant-derived methanol as one of their growth substrates. This team recently uncovered that Methylobacterium stimulates growth of soybeans when lanthanides are present; thus, there is opportunity to connect community diversity with an important ecosystem function. The team's novel barcoding system will accomplish two things not possible with traditional 16S rRNA amplicon sequencing: elimination of PCR bias, and the ability to track dozens of isolates simultaneously in any mixture, even if they have identical 16S rRNA. This proposal leverages data to develop a picture of the genus Methylobacterium at unprecedented depth and efficiency to examine the phylogenetic conservation of traits, associate traits to changes in genome content, and ask how much these traits influence genetic exchange across the genus. Ultimately, this can establish whether an abundant group of strains with identical 16S rRNA sequences represents a single cloud of successful genomes that are ecologically neutral with regard to each other, or a panel of ecologically diverse strains that have evolved distinct traits that permit coexistence.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831838</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Foster</LastName>
+<EmailAddress>foster@uidaho.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John (Jack)</FirstName>
+<LastName>Sullivan</LastName>
+<EmailAddress>jacks@uidaho.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Marx</LastName>
+<EmailAddress>christopher.j.marx@gmail.com</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Norma</FirstName>
+<LastName>Martinez-Gomez</LastName>
+<EmailAddress>mart1754@msu.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jessica</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>Jessica.Lee@globalviral.org</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Idaho</Name>
+<CityName>MOSCOW</CityName>
+<ZipCode>838443020</ZipCode>
+<PhoneNumber>2088856651</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Idaho</StateName>
+<StateCode>ID</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7968</Code>
+<Text>Dimensions of Biodiversity</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7968</Code>
+<Text>Dimensions of Biodiversity</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Magnetic Evolution of Sun-like Activity Cycles</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>225545.00</AwardTotalIntnAmount>
+<AwardAmount>71089</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The magnetic activity of the Sun becomes stronger and weaker over roughly an 11-year cycle, modulating the radiation and charged particle environment experienced by the Earth as "space weather."  Decades of observations have revealed that other stars also show regular activity cycles.  The solar cycle appears to be an outlier, which may mean that the Sun is in a transitional phase that occurs in all middle-aged stars.  This research program at the Space Science Institute will establish an observational foundation for understanding how activity cycles change over the lifetimes of the Sun and stars, including possible connections to planetary habitability. These developments will also provide insight about the fundamental physics of magnetic dynamos, which operate inside Sun-like stars, in exotic astrophysical environments, and in laboratory plasmas.  The research activities will directly contribute to the training of young scientists in the techniques of astronomical data processing and analysis of time series of observations, through the participation of summer students in the research. The principal investigator will also continue his award-winning monthly science column "Lab Notes" for the Boulder, CO weekly newspaper, connecting recent science discoveries with the activities of local scientists and the laboratories where they work.&lt;br/&gt;&lt;br/&gt;The researchers will obtain, analyze, and interpret new time-series spectroscopic Ca II H &amp; K (Ca HK) observations of stellar activity in two samples of stars with known rotation rates, designed to probe both the precursors and the contemporaries of the Sun. For a sample of young solar analogs from the Mount Wilson survey that rotate faster than the Sun, the project will obtain queue-scheduled Ca HK observations over several years to search for the relatively short activity cycles that appear to be the precursors of the 11-year solar cycle. The second sample will focus on fainter stars with asteroseismic properties and rotation rates already determined from NASA's Kepler mission, including targets with a range of evolutionary states that span the middle-age magnetic transition. The project will obtain queue-scheduled Ca HK observations of this sample to characterize the onset and duration of the transition, and to place limits on the variability of stellar activity at various stages as the global dynamo shuts down. All of the observations will be obtained using the Las Cumbres Observatory global telescope network.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1812634</AwardID>
+<Investigator>
+<FirstName>Travis</FirstName>
+<LastName>Metcalfe</LastName>
+<EmailAddress>tmetcalfe@spacescience.org</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SPACE SCIENCE INSTITUTE</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803012532</ZipCode>
+<PhoneNumber>7209745888</PhoneNumber>
+<StreetAddress>4750 Walnut Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1215</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

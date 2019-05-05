@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Participating in Literacies and Computer Science: A research-practice partnership to explore new computational literacies</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>999998.00</AwardTotalIntnAmount>
+<AwardAmount>999998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DRL</Abbreviation>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Ford</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project focuses on computational thinking and computer science education for emergent bilingual learners. The research will examine how emergent bilinguals and others participate in language and literacy use in and outside of school and use that knowledge to inform the development of computer science curricula. One component of the project extends existing curriculum development and learning research as emergent bilinguals learn computational thinking in courses designed to leverage their language use. The second component engages New York City educators, community groups, and adults in understanding how computing can be integrated into larger multilingual education initiatives in and outside of schools.&lt;br/&gt;&lt;br/&gt;The research builds on a theory of social language use, known as translanguaging, to frame the design of curriculum and professional development materials. The central research question asks how translanguaging pedagogy can be used to integrate the literacy practices of multiple human languages, computer code, and school disciplines (e.g., science, language arts) in meaningful ways. Iterations of the curriculum and professional development design will study the ways that students use language to talk about computing in and outside of schools and how teachers learn with the professional development materials. Case studies of students and teachers working in and out of schools will be collected to illustrate the instructional units, how they involve computational thinking, and how language use unfolds as students work. The research will result in new models for 1) how translanguaging approaches can support emergent bilinguals and other students to learn computational literacies, 2) how computational literacy use outside of school can be connected to school-based practices, and 3) how professional development can be designed for teachers to infuse computational literacies into middle school curricula that support students with diverse language backgrounds.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837446</AwardID>
+<Investigator>
+<FirstName>Christopher</FirstName>
+<LastName>Hoadley</LastName>
+<EmailAddress>tophe@nyu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jasmine</FirstName>
+<LastName>Ma</LastName>
+<EmailAddress>j.ma@nyu.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kate</FirstName>
+<LastName>Menken</LastName>
+<EmailAddress>kmenken@gc.cuny.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Ascenzi-Moreno</LastName>
+<EmailAddress>lascenzimoreno@brooklyn.cuny.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

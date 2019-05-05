@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CICI: SSC: Development of a Secure and Privacy-Preserving Workflow Architecture for Dynamic Data Sharing in Scientific Infrastructures</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>599998</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Micah Beck</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Scientific cyberinfrastructures embrace collaborative workflows where users can access and share heterogeneous data and computing resources to perform research and education tasks, which catalyze scientific discovery. One such cyberinfrastructure, JetStream, is the first production cloud funded by the NSF for general-purpose science and engineering research and education. Although Jetstream provides basic data storage security and web authentication, its security features do not satisfy the strict requirements involving sensitive data, such as healthcare data with protected health information (PHI). This project builds a secure, holistic and resilient cybersecurity architecture on JetStream so that collaborative research and education projects can share PHI securely between its users.&lt;br/&gt;&lt;br/&gt;The secured infrastructure provides comprehensive multi-level protection for the PHI and its workflows through user authentication, fine-tuned data access control, confidentiality, integrity, and traceability. The project implements role-wise passwordless authentication and authorization, cryptography-based hierarchical access control, dual-level key management, and secure digital provenance integrity protection. By employing these, JetStream VMs can guarantee the security, privacy, and integrity of scientific workflows and associated data, thus protecting data and computing resources from internal and external attacks. When applied to healthcare and life-science cyberinfrastructures, it enables sensitive health data to be shared securely, which is an essential requirement for accelerating life science research. The project promotes the use of real clinical data in training to produce enormous educational impacts. The developed secure architecture is generic and applicable to other data and resource sharing environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839746</AwardID>
+<Investigator>
+<FirstName>Xukai</FirstName>
+<LastName>Zou</LastName>
+<EmailAddress>xkzou@cs.iupui.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Huanmei</FirstName>
+<LastName>Wu</LastName>
+<EmailAddress>hw9@iupui.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Saptarshi</FirstName>
+<LastName>Purkayastha</LastName>
+<EmailAddress>saptpurk@iupui.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Indiana University</Name>
+<CityName>Bloomington</CityName>
+<ZipCode>474013654</ZipCode>
+<PhoneNumber>8128550516</PhoneNumber>
+<StreetAddress>509 E 3RD ST</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8027</Code>
+<Text>Cyber Secur - Cyberinfrastruc</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Medium: Towards Mechanized Proofs of Composable Security Properties</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2022</AwardExpirationDate>
+<AwardAmount>270485</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sol J. Greenspan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Securing computing systems is a formidable task that becomes harder as systems become more complex, widespread and intertwined with our daily lives. This is especially true for protection mechanisms that use cryptographic schemes and protocols. This interdisciplinary project strives to combine two complementary approaches to analyzing the security of complex protocols. The first is modularity: The ability to deduce the security of a complex system from the security of its simpler components. The second is mechanization: the use of computer tools in which mathematical proofs are formalized on the computer, eliminating the errors that may lurk in paper-and-pencil proofs. More broadly, the project is working to foster deeper connections between the cryptography community and the programming languages and formal methods community. In particular, it is training graduate students from both sides of this divide in the methodologies of the other side.&lt;br/&gt;&lt;br/&gt;Specifically, the project is combining the universally composable (UC) security framework with the EasyCrypt cryptographic proof assistant, so as to obtain a proof assistant and related tools and methodologies enabling security proofs that are rigorous and cryptographically sound, as well as mechanized and modular. In order to find common ground between the UC framework, which was not designed for automation, and the EasyCrypt mechanized proof assistant, the project brings together an interdisciplinary team with expertise in theoretical cryptography, programming languages, and the design and implementation of proof assistants. The project is bridging the gap between the coroutine-based execution model of the UC framework and the traditional procedural execution model of EasyCrypt, developing a domain-specific extension of the EasyCrypt programming language for representing UC protocols and security specifications, and implementing the UC composition operation and theorem within EasyCrypt. The project is progressing through a series of stages, first developing an EasyCrypt architecture supporting UC, and testing this architecture by hand via simple case studies, and then gradually moving toward greater ease of protocol expression and proof automation. The tools and methodologies developed during the project are being evaluated via a series of increasingly complex case studies, working up to real-world systems that combine algorithmic and systems security, such as the Signal messaging system, the OpenStack cloud management framework, and secure multi-party computation systems. Outreach events such as hackathons and tutorials are being used to increase the impact of the developed technology to students and the research community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/03/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/03/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801564</AwardID>
+<Investigator>
+<FirstName>Assaf</FirstName>
+<LastName>Kfoury</LastName>
+<EmailAddress>kfoury@cs.bu.edu</EmailAddress>
+<StartDate>08/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ran</FirstName>
+<LastName>Canetti</LastName>
+<EmailAddress>canetti@bu.edu</EmailAddress>
+<StartDate>08/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mayank</FirstName>
+<LastName>Varia</LastName>
+<EmailAddress>varia@bu.edu</EmailAddress>
+<StartDate>08/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alley</FirstName>
+<LastName>Stoughton</LastName>
+<EmailAddress>stough@bu.edu</EmailAddress>
+<StartDate>08/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7924</Code>
+<Text>MEDIUM PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Modeling, Measuring and Controlling Human Comfort in Human-Autonomous-Machine Interaction (HaMI)</AwardTitle>
+<AwardEffectiveDate>08/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>95045</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Todd Leen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The next generation of autonomous machines, including collaborative robots and autonomous vehicles, will interact closely with humans. Despite tremendous efforts to promote safety and efficiency of such machines, low user acceptance remains a critical roadblock to their use. This project addresses the problem by developing techniques to measure human comfort and to modify machine behavior to increase human comfort while interacting with autonomous machines.  The resulting advances will facilitate successful deployment of next-generation collaborative robots and autonomous vehicles that humans can interact with comfortably. The theoretical, computational, experimental, and design principles devised will apply to other autonomous machines that human interact with closely, such as surgical robots, domestic robots, and autonomous aircraft. The integrated education plan of this award will empower students, workforces, and the public by engaging them in learning about and helping to design next-generation autonomous machines that interact closely with humans.&lt;br/&gt;&lt;br/&gt;The main objective of this project is to advance the underlying science of human comfort in Human--Autonomous-Machine Interaction (HaMI) and provide transformative solutions and guidelines to design autonomous machines that humans interact with comfortably. The project will advance knowledge of the factors that influence human comfort in HaMI and create new computational models that give quantitative predictions of human comfort. It will create a novel multi-modal measurement paradigm for human comfort that uses the computational models and physiological signals to accurately measure human comfort in real-time. The project will create a novel framework to optimize the behaviors of autonomous machines to improve human comfort. Finally, it will create and disseminate comfort datasets for collaborative robots and autonomous vehicles to facilitate further research.  Research-integrated teaching will educate students to understand and design autonomous machines that interact closely with humans. Outreach to K-12 students will inspire youngsters to engage in STEM learning especially in autonomous machines.   Integrated academic, industrial and public dissemination will create a consortium to collectively understand, work with, and accept next-generation autonomous machines that interact closely with humans.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/21/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/21/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845779</AwardID>
+<Investigator>
+<FirstName>Yunyi</FirstName>
+<LastName>Jia</LastName>
+<EmailAddress>yunyij@clemson.edu</EmailAddress>
+<StartDate>02/21/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296345701</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>230 Kappa Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Petascale Polar Topography Production</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>14999.00</AwardTotalIntnAmount>
+<AwardAmount>14999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OAC</Abbreviation>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Edward Walker</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The polar regions are changing faster than any other region of the Earth, with accelerating rates of coastal erosion, permafrost loss, glacier thinning, and other changes. Yet the poles are also among the least well observed regions, due to both their relative inaccessibility and coverage limitations in prior global surveys by remote sensing.  The project will use the high performance computing capabilities of Blue Waters to produce high-resolution, high-quality, time-dependent, and openly distributed digital elevation models (DEMs) for the Earth's poles. This data set is needed for measuring and understanding rapid, ongoing changes to the polar landscapes, as well as for impact mitigation and adaptation planning by polar communities. The produced DEMs will be distributed at no cost to the science community and public at large.  &lt;br/&gt;&lt;br/&gt;The project will use Blue Waters to produce 2m resolution DEMs with absolute accuracies of approximately 1m or better and relative accuracies of 0.2m over the Antarctic and Arctic regions.  The project incorporates the capability for repeat, high-resolution and high-precision topographic mapping in the form of sub-meter stereoscopic imagery from the DigitalGlobe constellation of five polar-orbiting sun-synchronous Earth imagers (WorldView 1-4 and GeoEye-1), as well as the archive of IKONOS and QuickBird.  These satellites images allow for precise stereo photogrammetric DEM construction from overlapping image pairs over a wide range of terrain types and light conditions, including the "flat white" interior of ice sheets and shadowed mountain faces. The time-dependent collection of DEMs will be invaluable to scientists studying change in the polar region.   Resources for obtaining and maintaining the imagery, tools for post-processing the results, software development time, and methods for distributing the DEMs have been secured by the project.  All DEMs will be publically distributed through the Polar Geospatial Center (PGC) website and a consortium including the National Geospatial Agency (NGA) and NASA, as well as Amazon web services and the geospatial software company ESRI.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810976</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Morin</LastName>
+<EmailAddress>lpaul@umn.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ian</FirstName>
+<LastName>Howat</LastName>
+<EmailAddress>ihowat@gmail.com</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Nguyen</LastName>
+<EmailAddress>ctn@umn.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Myoung-Jong</FirstName>
+<LastName>Noh</LastName>
+<EmailAddress>noh.56@osu.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Claire</FirstName>
+<LastName>Porter</LastName>
+<EmailAddress>porte254@umn.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7781</Code>
+<Text>PETASCALE - TRACK 1</Text>
+</ProgramElement>
+</Award>
+</rootTag>

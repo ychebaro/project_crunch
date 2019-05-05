@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRI: II-New: Cognitive Mechanisms and Computational Modeling of Gaze Control During Scene Free Viewing, Visual Search, and Daily Tasks</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>249277</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is to build an infrastructure to study visual attention and its applications at the University of Central Florida. The infrastructure will also enable larger-scale inquiries into high-level visual recognition problems in the vision sciences. The infrastructure of fixed and portable eye trackers will be used by several faculty and researchers across the University (e.g., Computer Science, Engineering and Computer Engineering, Psychology, Biomedical engineering and UCF Institute for Simulation and Training) to study human perception, cognition, learning, and motor control, as well as exploring applications in activity recognition, surveillance, and data summarization. &lt;br/&gt;&lt;br/&gt;The core goal of this infrastructure is to utilize gaze and eye tracking technology to understand mechanisms of attention from behavioral, neurophysiological, and computational perspectives and explore its applications in a wide range of problems in computer vision and psychology. The team utilizing the infrastructure has complementary expertise to address research encompassing computer vision, machine learning, human vision, imaging, and psychology. In particular, this infrastructure will be used to explore in what ways current attention models fail, how to remedy them, and discover new cues that attract gaze. The approach is a combination of cognitive and computational studies utilizing machine learning and computer vision techniques. New large-scale eye movement datasets and benchmarks will be constructed as part of this proposal.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823276</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Neider</LastName>
+<EmailAddress>Mark.Neider@ucf.edu</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ulas</FirstName>
+<LastName>Bagci</LastName>
+<EmailAddress>bagci@crcv.ucf.edu</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mubarak</FirstName>
+<LastName>Shah</LastName>
+<EmailAddress>shah@crcv.ucf.edu</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate>08/22/2018</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mubarak</FirstName>
+<LastName>Shah</LastName>
+<EmailAddress>shah@crcv.ucf.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Borji</LastName>
+<EmailAddress>ali.borji@ucf.edu</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate>08/22/2018</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Central Florida</Name>
+<CityName>Orlando</CityName>
+<ZipCode>328168005</ZipCode>
+<PhoneNumber>4078230387</PhoneNumber>
+<StreetAddress>4000 CNTRL FLORIDA BLVD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

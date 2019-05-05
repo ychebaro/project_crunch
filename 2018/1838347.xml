@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2018 NSF NRI PIs Meeting Logistics</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>267047</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The objective of this award is to organize the logistics portion of the annual Principal Investigators (PI) meeting for the National Robotics Initiative (NRI), which was launched in 2011. The PI meeting brings together the community of researchers, companies, and program officers who are actively engaged in the NRI to provide cross-project coordination in terms of common intellectual challenges, methods for education and training, best practices in education, technology transfer and general outreach, and a centralized and lasting repository illustrating the research ideas explored and milestones achieved by the NRI projects.&lt;br/&gt;&lt;br/&gt;The meeting of the Principal Investigators of the National Robotics Initiative will be two days in October 2018 in the vicinity of Washington DC. The format will include presentations by the attending PIs of projects in their final year, a poster session with all other projects, keynote speeches, and panel discussions. Invitations to the meeting will include all PIs with active NRI grants, program managers with robotics-related programs, and members of the press. This award will take care of the venue, travel, A/V, supplies, and many of the personnel involved in organizing the meeting.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838347</AwardID>
+<Investigator>
+<FirstName>Frankie</FirstName>
+<LastName>King</LastName>
+<EmailAddress>frankie.king@vanderbilt.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Vanderbilt University</Name>
+<CityName>Nashville</CityName>
+<ZipCode>372350002</ZipCode>
+<PhoneNumber>6153222631</PhoneNumber>
+<StreetAddress>Sponsored Programs Administratio</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

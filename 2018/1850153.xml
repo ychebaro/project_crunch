@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII:RI:A Multi-level Framework for Text Specificity</AwardTitle>
+<AwardEffectiveDate>06/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>174496.00</AwardTotalIntnAmount>
+<AwardAmount>174496</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>D.  Langendoen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Language specificity, which captures the level of detail in text, varies throughout discourse as a reflection of speaker intent: general content makes high-level observations or claims, while specific content provides concrete details. Appropriately gauged specificity is a characteristic of well-organized text and plays a crucial role in comprehension. Intelligent systems that make predictions of sentence specificity have been useful for natural language processing tasks such as summarization and argumentation mining, as well as for linguistic analyses in fields such as forensic science, political science, and education. However, existing systems are domain-specific tools that operate only on the sentence level. This project addresses a series of challenges to enable domain-agnostic, multi-level analysis of specificity, bringing together concepts across computational methods, linguistic analysis and corpora development. It opens up venues of applying specificity as a pragmatic tool in a wide range of disciplines, including those where the use of computational methods is rapidly emerging. &lt;br/&gt;&lt;br/&gt;To substantially advance our understanding and practical use of text specificity to capture information organization in discourse, this CISE Research Initiation Initiative (CRII) project aims to (1) develop effective specificity prediction systems that work across multiple domains, (2) develop annotation guidelines and datasets to capture specificity in a nuanced way, (3) develop techniques to predict specificity from multiple levels of linguistic analysis (words, phrases and sentences). Throughout these tasks, the project draws connections between specificity variations in text, their pragmatic functions, and their impact on discourse structure. This project also develops new methods that integrate text specificity in natural language generation tasks, for example, dialog generation systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/13/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/13/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850153</AwardID>
+<Investigator>
+<FirstName>Junyi</FirstName>
+<LastName>Li</LastName>
+<EmailAddress>jessy@austin.utexas.edu</EmailAddress>
+<StartDate>03/13/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at Austin</Name>
+<CityName>Austin</CityName>
+<ZipCode>787595316</ZipCode>
+<PhoneNumber>5124716424</PhoneNumber>
+<StreetAddress>3925 W Braker Lane, Ste 3.340</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

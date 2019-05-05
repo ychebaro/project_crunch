@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2nd Summer School on Cognitive Robotics: Proposed Summer School</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reid Simmons</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant supports a week-long summer school on Cognitive Robotics to be held in Boston, Ma in July 2018. The summer school will be a combination of invited talks and tutorials, which are designed to introduce researchers to issues in planning and execution from perspectives of both Robotics and Cognitive Artificial Intelligence, and daily labs, which are designed to give students hands-on experience with robotic hardware and state-of-the-art software tools for developing robotic behaviors. The summer school will help expose graduate students to cutting-edge ideas at the intersection of Robotics and Cognitive Systems and will help to form a new community of researchers in this interdisciplinary area.  The hands-on experience with, and open-source release of, the Enterprise Executive Architecture will facilitate the formation of this collaborative community.  The summer school concludes with a grand challenge using robot hardware that combines what the students have learned during the week.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822181</AwardID>
+<Investigator>
+<FirstName>Brian</FirstName>
+<LastName>Williams</LastName>
+<EmailAddress>williams@mit.edu</EmailAddress>
+<StartDate>06/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Massachusetts Institute of Technology</Name>
+<CityName>Cambridge</CityName>
+<ZipCode>021394301</ZipCode>
+<PhoneNumber>6172531000</PhoneNumber>
+<StreetAddress>77 MASSACHUSETTS AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

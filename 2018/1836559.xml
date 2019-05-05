@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Orchestrating Discussions Around Proof</AwardTitle>
+<AwardEffectiveDate>11/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2021</AwardExpirationDate>
+<AwardAmount>299574</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sandra Richardson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mathematics classes that incorporate student discussion have been shown to engage students in authentic mathematical activity and support students' development of conceptual understanding. Although major organizations (e.g., the Mathematical Association of America) have called for a shift away from pure lecture in all mathematics courses, college mathematics instructors have few supports available to help them include student discussion in their classes. This project aims to address this need helping faculty build discussion into their Abstract Algebra courses, and to study those discussions. Abstract Algebra is a proof-based course taken by many mathematics majors and preservice secondary mathematics teachers in the United States. The project team will design instructor supports (tasks, tools, and protocols) that can be used to promote productive discussion.  The goal is to help faculty guide classroom discussion that advances a lesson's mathematical agenda, while genuinely incorporating student ideas and voices. Through the design process, the study will also document student discussion to aid in deeper knowledge of this activity for both instructors and future researchers. The national impact of the project lies in both the development of instructor supports for incorporating discussion and the direct study of undergraduate students engaged in discussions in an advanced mathematics course.&lt;br/&gt;&lt;br/&gt;This project consists of a two-phase design-based research study focused on adapting research-based K-12 practices for orchestrating discussion to the context of an undergraduate proof-based mathematics course. The project team will hypothesize, pilot, and refine a model for promoting productive discussion in this context through a series of task-based interviews (Phase 1) and classroom implementations (Phase 2). The analysis will focus on the teaching moves and task components that promote students' engagement in three key activities connected to proof: comprehending, validating, and constructing. Results of these studies have the potential to contribute to the field by testing the transferability of K-12 supports to the undergraduate proof-based setting. Project outcomes could expand knowledge about supporting productive discussions, and contribute refinements and principles specific to the undergraduate proof-based setting. The project will also offer analyses of student-instructor interactions in an authentic proof-based course setting, complementing the current literature base that primarily uses clinical settings.  The project aims to affect the research community, instructors, and students of proof-based courses by: (1) meeting the genuine need for resources to support mathematics instructors' shift away from lecture-only pedagogy; (2) providing opportunities for students to engage in important mathematical activities that have the potential to support deeper mathematical understanding and more equitable classrooms; (3) providing undergraduate mathematics students with an opportunity to participate in a student-discourse driven mathematics classroom; and (4) contributing to the field's knowledge via expanding and testing results for using evidence-based K-12 instructional strategies in undergraduate proof settings to promote productive discussion.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836559</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Sigley</LastName>
+<EmailAddress>sigley@txstate.edu</EmailAddress>
+<StartDate>08/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kathleen</FirstName>
+<LastName>Melhuish</LastName>
+<EmailAddress>kmm335@txstate.edu</EmailAddress>
+<StartDate>08/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kristen</FirstName>
+<LastName>Lew</LastName>
+<EmailAddress>kristen.lew@txstate.edu</EmailAddress>
+<StartDate>08/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas State University - San Marcos</Name>
+<CityName>San Marcos</CityName>
+<ZipCode>786664616</ZipCode>
+<PhoneNumber>5122452314</PhoneNumber>
+<StreetAddress>601 University Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

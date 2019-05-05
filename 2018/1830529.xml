@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Conference: The 15th U.S.-Korea Forum on Nanotechnology: Nanomedicine focusing on Single Cell level and Internet of Things including Nanosensors, July 12-13 2018, Ilsan, Korea</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>49604.00</AwardTotalIntnAmount>
+<AwardAmount>49604</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The proposed project for a Forum seeks financial to support scientist and engineer participation in the The 15th U.S.-Korea Forum on Nanotechnology: Nanomedicine focusing on Single Cell level and Internet of Things including Nanosensors to be held July 12-13, 2018 in Ilsan, Korea. The Forum will host 8 senior presenters and 7 additional early-career presenters and an approximately equal number of Korean presenters. It will actively encourage partnerships in nanotechnology for breakthroughs in various topics in nanomedicine focusing on single cell level as well as IoT including nanosensors. &lt;br/&gt;&lt;br/&gt;The participants will address issues related to the understanding of toxicity and environmental impact of nanomaterials. The meeting will encourage research collaboration and exchange on various aspects of nanomedicine including integration of nanomaterials with biology, development of diagnostic devices, contrast agents, analytical tools, physical therapy applications, and drug delivery vehicles. It will also address cutting-edge IoT devices with nanosensors and nanoactuators and massively-distributed networks. &lt;br/&gt;&lt;br/&gt;Post-doctoral researchers will be considered as qualified early-career researchers to present posters and promote in this way further research collaboration among young scientists in both countries. Collaboration possibilities will be intensively pursued by active participation in discussions throughout the Workshop. The forum proceedings and findings will be published on Carnegie Mellon's website and will be available to a broad audience.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830529</AwardID>
+<Investigator>
+<FirstName>Myung</FirstName>
+<LastName>Jhon</LastName>
+<EmailAddress>mj3a@andrew.cmu.edu</EmailAddress>
+<StartDate>06/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elias</FirstName>
+<LastName>Towe</LastName>
+<EmailAddress>towe@cmu.edu</EmailAddress>
+<StartDate>06/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7681</Code>
+<Text>ENG NNI SPECIAL STUDIES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8028</Code>
+<Text>Sensor Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

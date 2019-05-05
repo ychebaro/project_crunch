@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>STTR Phase II:  Occupancy Estimation and Energy Savings with True Presence Sensors</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>750000.00</AwardTotalIntnAmount>
+<AwardAmount>760000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project will extend to a number of applications, including smart buildings, home automation, and security. The development of this new technology for efficient indoor sensing, and development of new algorithms for occupancy sensing and counting techniques, will have immediate implications in the building automation and home construction industries, where improved occupancy sensing is necessary to achieve the promise of Smart Buildings that adjust environmental conditions such as lighting and air conditioning automatically to suit the needs of the occupants. Implementing this false-alarm free technology will realize millions of dollars in cost savings from reduced energy use. Such energy savings would impact the US energy independence while helping to cut greenhouse gas emissions. In addition to "smart building"/energy efficiency applications there are also significant opportunities to apply these highly-reliable and difficult-to-defeat sensors to facility security, military, law-enforcement/correctional facilities and in-home care monitoring. This project represents Broadening Participation: As a woman-owned minority business in an underrepresented geographical location (Hawaii), the success of Adnoviv will bring opportunity for graduate students through our relationship with the University of Hawaii and encourage young girls to enter Science, Technology, Engineering and Mathematics (STEM) related fields.&lt;br/&gt;&lt;br/&gt;This Small Business Technology Transfer Research (STTR) Phase II project will result in a revolutionary advance in occupancy sensing for smart buildings and energy-use reduction by providing a low-cost sensor capable of real human presence detection and occupant count and eliminating the issues that have limited the utility of occupancy sensors in many applications. The feasibility of using radio frequency Doppler radar to detect human cardiopulmonary activity and estimate number of occupants using a low power system-on-chip (SoC) platform will be demonstrated. In particular, reliable occupant detection without false alarms, and occupant count estimation will be investigated to further enhance energy savings potential, especially in conjunction with heating, ventilation, and air conditioning (HVAC) loads. The significant commercial potential of such True Presence Occupancy Detection Sensors in energy-saving applications will be demonstrated in partnership with one of the largest building automation companies in the world.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/12/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831303</AwardID>
+<Investigator>
+<FirstName>Olga</FirstName>
+<LastName>Boric-Lubecke</LastName>
+<EmailAddress>olgabl@hawaii.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Droitcour</LastName>
+<EmailAddress>amy.droitcour@adnoviv.com</EmailAddress>
+<StartDate>11/27/2018</StartDate>
+<EndDate>04/12/2019</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Droitcour</LastName>
+<EmailAddress>amy.droitcour@adnoviv.com</EmailAddress>
+<StartDate>04/12/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ehsan</FirstName>
+<LastName>Yavari</LastName>
+<EmailAddress>ehsan@adnoviv.com</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate>04/12/2019</EndDate>
+<RoleCode>Former Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Adnoviv LLC</Name>
+<CityName>Honolulu</CityName>
+<ZipCode>968221862</ZipCode>
+<PhoneNumber>8087838080</PhoneNumber>
+<StreetAddress>2800 Woodlawn Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1591</Code>
+<Text>STTR PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1185</Code>
+<Text>SENSORY SYSTEMS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1591</Code>
+<Text>STTR PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8240</Code>
+<Text>SBIR/STTR CAP</Text>
+</ProgramReference>
+</Award>
+</rootTag>

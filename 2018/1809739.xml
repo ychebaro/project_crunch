@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Cyber-Physical Systems Security through Robust Adaptive Possibilitistic Algorithms: a Cross Layered Framework</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anil Pahwa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to develop a cross-layer cyber-physical security framework for the smart grid. The proposed research will improve the quality of real-time monitoring of the smart grid through anomaly analysis. This will lead to more reliable data for control, situation awareness to first responders and other improved applications to smart grids. The proposed research will improve the resilience of smart grids to cyber-attacks in meters, parameters, topology and communication infrastructure and large physical disturbances by developing new techniques for distributed control of large complex systems that guarantees secure and reliable performance. The project will foster education through enhancement to curriculum by building bridges among communications, machine learning, power and control systems. The PIs plan to teach short courses on smart grid security at conferences.  In addition, they plan to engage under-represented minority students in their project. &lt;br/&gt;&lt;br/&gt;The project aims at developing a distributed nonlinear controller for transient stability enhancement. The new control layer will actuate on distributed energy storage systems, be robust to uncertainties in modelling and capable of compensating input time-delay while independent of operating conditions. Furthermore, the robust controller will not require exact knowledge of the system dynamics. Second, bad data analytics based on the innovation approach and cross-layered information provided by distributed software-defined network will be developed. The bad data analytics will consider the inherent interdependencies of the physical processes while providing a countermeasure. Third, an adaptive distributed robust machine learning approach will be developed. The overwhelming majority of supervised machine learning methods require large amounts of carefully labeled training data that is representative of the data distribution to be seen under test. However, in security applications, novel threats and malicious attacks are continuously being developed and attempted. Thus, approaches that rely on prior training data are unlikely to be robust in the case of behaviors never seen before, as would be the case in a rapidly changing threat environment. The novel distributed machine intelligence method that will be developed will be focused on being rapidly adaptive to identifying and distinguishing novel threats given even only one example of an anomalous novel threat.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1809739</AwardID>
+<Investigator>
+<FirstName>Janise</FirstName>
+<LastName>McNair</LastName>
+<EmailAddress>mcnair@ece.ufl.edu</EmailAddress>
+<StartDate>08/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Alina</FirstName>
+<LastName>Zare</LastName>
+<EmailAddress>azare@ece.ufl.edu</EmailAddress>
+<StartDate>08/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arturo</FirstName>
+<LastName>Bretas</LastName>
+<EmailAddress>arturo@ece.ufl.edu</EmailAddress>
+<StartDate>08/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+</Award>
+</rootTag>

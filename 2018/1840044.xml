@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>FW-HTF: First Person View and Augmented Reality for Airborne Embodied Intelligent Cognitive Assistants</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>1500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Future of Work at the Human-Technology Frontier (FW-HTF) is one of 10 new Big Ideas for Future Investment announced by NSF. The FW-HTF cross-directorate program aims to respond to the challenges and opportunities of the changing landscape of jobs and work by supporting convergent research. This award fulfills part of that aim. &lt;br/&gt;&lt;br/&gt;The future of work will involve human operators and semi-autonomous robotic systems. Human workers control the robots, extending their sensing and physical capabilities. This technology-empowered workforce will do remote, dangerous, and increasingly specialized work. An example use of this work might be the inspection of hard-to-access bridge supports. This project will explore the use of intelligent airborne drones to help ground-based operators in the inspection of highway bridges. Through the careful integration of augmented reality (AR) with first-person-view (FPV) operator interfaces this research will enhance worker performance across a wide range of otherwise very difficult tasks. &lt;br/&gt;&lt;br/&gt;The research program will address key challenges in the use of embodied intelligent cognitive assistants (e-ICAs) for infrastructure inspection. New principles of shared situation awareness will be developed for human/robot collaboration through AR/FPV user interfaces and these principles will inform interface design guidelines and evaluation measures. The research program will also emphasize collaborative perception and planning, such as peripheral/central computer vision to enhance shared situation awareness, gaze-informed adaptive viewpoint planning for improved image quality, and a global planning method for partially known and uncertain maps that adapts the plan in real-time as the worker discovers new information. Tunable control system performance will allow the worker and the e-ICA to collaborate in managing disturbance energy to optimize mission data quality and flight endurance while ensuring safety of flight. The parallel development of a public repository containing annotated deterioration imagery will support artificial intelligence based defect analytics to provide the human worker with real-time inspection cues. A parallel and coordinated economic and workforce analysis will assess the impact of airborne e-ICAs, controlled using FPV with augmented reality, on the future of work in infrastructure inspection and beyond.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840044</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Hebdon</LastName>
+<EmailAddress>mhebdon@vt.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Craig</FirstName>
+<LastName>Woolsey</LastName>
+<EmailAddress>cwoolsey@vt.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Gabbard</LastName>
+<EmailAddress>jgabbard@vt.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pratap</FirstName>
+<LastName>Tokekar</LastName>
+<EmailAddress>tokekar@vt.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>082Y</Code>
+<Text>FW-HTF: Advancing Cognitive an</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+</Award>
+</rootTag>

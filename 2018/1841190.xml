@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Developing a Theory for Function Optimization on Graphs Using Local Information</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>175326</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project seeks to advance the frontiers of knowledge concerning efficient search on networked data. The investigators will devise new algorithms for optimizing a function defined over a graph. Such algorithms will be easily implementable, broadly applicable, and backed by mathematical theory. Some example application areas in which the work will be relevant include faster web retrieval and cybersecurity, where it is important to identify key individuals in a large web of interconnected data. The project will also support the educational goals of the investigators by training multiple graduate students working at the interface of theoretical and applied data science research.&lt;br/&gt;&lt;br/&gt;The work conducted in this project will establish new connections between continuous and discrete optimization. The investigators will explore notions of smoothness and convexity that may be used to characterize the convergence properties of their proposed optimization algorithms; unlike optimization on graphs, optimization on continuous domains is backed by a mature theory that has been developed over several decades. Developing an analogous theory for discrete domains such as graphs poses many challenges, however -- in particular, it requires developing new notions of derivatives, Hessians, smoothness, or convexity, which have no obvious analogs. This work is divided into the following sub-projects, each with a distinct set of research objectives: (1) Develop and analyze iterative and local algorithms on graphs; (2) Find suitable notions of smoothness and convexity on graphs, and analyze their consequences. In addition, the algorithms will be implemented and evaluated on various real-world networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1841190</AwardID>
+<Investigator>
+<FirstName>Varun</FirstName>
+<LastName>Jog</LastName>
+<EmailAddress>vjog@wisc.edu</EmailAddress>
+<StartDate>07/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Po-Ling</FirstName>
+<LastName>Loh</LastName>
+<EmailAddress>loh@ece.wisc.edu</EmailAddress>
+<StartDate>07/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

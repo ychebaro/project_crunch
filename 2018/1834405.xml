@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Second Annual Joint PI Meeting for the NSF BigData Research Program and the NSF Big Data Regional Innovation Hubs and Spokes Programs</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>130201</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Beth Plale</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The second annual joint Principal Investigators meeting for the Big Data program and the Big Data Hubs and Spokes program provides updates to progress on intellectual objectives and information sharing.  The meeting will promote interaction between the participants in these programs, facilitate collaborations, expose students to the latest research, and situate the programs within the larger big data ecosystem.&lt;br/&gt;&lt;br/&gt;The meeting will be a three-day meeting that includes one day dedicated to each program and a third day shared between the two. The agenda includes breakouts, panel discussions, lightning talks, and poster sessions to encourage intellectual engagement across the programs, thus setting conditions for new projects and multi-disciplinary activities. The meeting will produce a report that highlights outcomes for broader dissemination and sharing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834405</AwardID>
+<Investigator>
+<FirstName>Vladimir</FirstName>
+<LastName>Braverman</LastName>
+<EmailAddress>vova@cs.jhu.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Samarth</FirstName>
+<LastName>Swarup</LastName>
+<EmailAddress>swarup@virginia.edu</EmailAddress>
+<StartDate>06/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>024Y</Code>
+<Text>BD Spokes -Big Data Regional I</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

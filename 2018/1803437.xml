@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rootTag>
+  <Award>
+    <AwardTitle>A Novel Platform for the Tunable Production of Proteoglycans</AwardTitle>
+    <AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+    <AwardExpirationDate>06/30/2021</AwardExpirationDate>
+    <AwardAmount>450000</AwardAmount>
+    <AwardInstrument>
+      <Value>Standard Grant</Value>
+    </AwardInstrument>
+    <Organization>
+      <Code>07020000</Code>
+      <Directorate>
+        <LongName>Directorate For Engineering</LongName>
+      </Directorate>
+      <Division>
+        <LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+      </Division>
+    </Organization>
+    <ProgramOfficer>
+      <SignBlockName>Steven Peretti</SignBlockName>
+    </ProgramOfficer>
+    <AbstractNarration>On the surface of most all mammalian cells are proteins that have amino and sugar groups (glycosaminoglycan; GAGs) attached as side chains. These proteins, known as proteoglycans, are important to human health. How the structure of these proteins influences their function is still poorly understood. We will develop a tobacco cell that can be tuned to produced different GAGs so the relationships between chain length, GAG composition, and core protein on function can be understood more clearly. The ability to control the production of GAGs with defined structure will enhanced their potential use in therapeutic applications. Undergraduate and graduate students will be trained, and students from underrepresented groups will be actively recruited to perform research in the labs. Students will gain expertise that will better prepare them for productive participation in the expanding biomanufacturing workforce.&lt;br/&gt;&lt;br/&gt;The overall objective of this project is to demonstrate the production of the core proteoglycan structure in tobacco without sulfation or other modifications. To accomplish this, we will need to expand the molecular tool box for plant synthetic biology, enabling additional control over protein expression. The long-term goal is to develop a proteoglycan production platform in N. benthamiana that will enable us to produce proteoglycans with defined GAGs, chain length, composition and core proteins. This modular approach to proteoglycan production will enable future discoveries into the structure-function relationship of proteoglycans in a variety of biological contexts. Which in turn will allow for the development of a new class of functional biological macromolecules, fostering a revolution in the field of glycomics. This novel technology will enable researchers to explore the enormous, untapped potential of GAGs and proteoglycans for the development of new biological and medical technologies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+    <MinAmdLetterDate>05/16/2018</MinAmdLetterDate>
+    <MaxAmdLetterDate>05/16/2018</MaxAmdLetterDate>
+    <ARRAAmount/>
+    <AwardID>1803437</AwardID>
+    <Investigator>
+      <FirstName>Matthew</FirstName>
+      <LastName>Kipper</LastName>
+      <EmailAddress>mkipper@engr.colostate.edu</EmailAddress>
+      <StartDate>05/16/2018</StartDate>
+      <EndDate/>
+      <RoleCode>Co-Principal Investigator</RoleCode>
+    </Investigator>
+    <Investigator>
+      <FirstName>Christie</FirstName>
+      <LastName>Peebles</LastName>
+      <EmailAddress>christie.peebles@colostate.edu</EmailAddress>
+      <StartDate>05/16/2018</StartDate>
+      <EndDate/>
+      <RoleCode>Principal Investigator</RoleCode>
+    </Investigator>
+    <Institution>
+      <Name>Colorado State University</Name>
+      <CityName>Fort Collins</CityName>
+      <ZipCode>805232002</ZipCode>
+      <PhoneNumber>9704916355</PhoneNumber>
+      <StreetAddress>601 S Howes St</StreetAddress>
+      <CountryName>United States</CountryName>
+      <StateName>Colorado</StateName>
+      <StateCode>CO</StateCode>
+    </Institution>
+    <ProgramElement>
+      <Code>1491</Code>
+      <Text>Cellular &amp; Biochem Engineering</Text>
+    </ProgramElement>
+    <ProgramReference>
+      <Code>1757</Code>
+      <Text>Quantitative sys bio and biotech</Text>
+    </ProgramReference>
+  </Award>
+</rootTag>

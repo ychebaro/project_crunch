@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Novae as IR Transients</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>460069.00</AwardTotalIntnAmount>
+<AwardAmount>460069</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Hans Krimm</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Novae are stars that brighten dramatically almost overnight due to an explosion on the surface of a star. Observations show that some of the dusty material ejected from the explosion must be cold and dense, even though it is surrounded by hot gas and high energy radiation. The investigator and her collaborators will test a new theory for how such hot and cold material can co-exist. They will also perform a census of novae in the northern hemisphere with optical and infrared telescopes. The PI will redesign and restart an annual intensive, week-long writing and presentation boot camp for graduate students, and will incorporate instruction on writing into a research seminar for graduate students. &lt;br/&gt;&lt;br/&gt;The PI and her collaborators will monitor northern novae with the Zwicky Transient Facility, an optical survey, and use the Gattini-IR telescope to address the question of how novae create dust. They will test the hypothesis that the colliding flows responsible for gamma ray emission from novae also lead to conditions favorable for dust formation. Because of the lower extinction in the IR compared to the optical, they will detect novae throughout the Galaxy and place strong constraints on the rate at which novae occur. This will have implications for our understanding of low-mass binary stellar evolution.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816100</AwardID>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Sokoloski</LastName>
+<EmailAddress>jeno@astro.columbia.edu</EmailAddress>
+<StartDate>05/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Columbia University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100276902</ZipCode>
+<PhoneNumber>2128546851</PhoneNumber>
+<StreetAddress>2960 Broadway</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1215</Code>
+<Text>STELLAR ASTRONOMY &amp; ASTROPHYSC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

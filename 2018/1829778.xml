@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Drivers of coral and reef-scale calcification in the North Atlantic</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>265466.00</AwardTotalIntnAmount>
+<AwardAmount>265466</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Garrison</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Millions of people around the world are dependent on the ecosystem services provided by coral reefs, which include the provision of nutrition, fishing, tourism, and protection from storms and waves. The foundation for these services is based on the basic principle that coral reefs maintain positive calcium carbonate accretion, which is facilitated by the production of calcium carbonate by corals and other marine calcifiers. For the past several decades, coral reef calcium carbonate production has declined in many reef systems throughout the world primarily due to coral bleaching, coral disease, and poor water quality. Current projections suggest that this production will continue to decline in response to future ocean warming and acidification. However, our knowledge of how environmental parameters control coral and reef-scale calcification rates in situ is not complete and limits our understanding of the underlying mechanisms for past and future changes in coral and reef-scale calcium carbonate production. Thus, the research proposed here seeks to quantify how coral calcification rates, determined from image analysis of coral cores collected in Bermuda, have varied as a function of environmental parameters across space and time. This analysis is made possible by the existence of time-series datasets of physical and chemical parameters offshore in the Sargasso Sea and inshore where the coral cores were collected. The combination of data will offer new insights to the environmental controls of coral and reef-scale calcification. Furthermore, the investigators will engage in educational field and classroom activities with Ocean Discovery Institute (ODI) in San Diego. ODI's mission is to engage, educate, and inspire youth from diverse backgrounds through scientific explorations of the ocean and nature, and specifically work with students from underserved communities. &lt;br/&gt;&lt;br/&gt;The research to be conducted here seeks to understand the relative importance of different environmental drivers of coral and reef-scale calcification on seasonal to interannual timescales. To accomplish this, the investigators will characterize the skeletal density, extension, and calcification rates of 42 coral cores extracted from three different species (Diploria labyrinthiformis, Pseudodiploria strigosa and Orbicella franksi) at five different sites from the Bermuda coral reef platform using computed tomography (CT) scanning techniques. Seasonal measurements of coral skeletal parameters will be analyzed in conjunction with a unique decadal time series of monthly resolved in situ seawater physical-biogeochemical parameters. The investigators will also conduct stable isotope and trace metal geochemical analyses (18O, 13C, Sr/Ca, Cd/Ca) of the coral skeleton to evaluate and construct additional proxy records of environmental conditions for the duration of the coral cores. This combination of coral growth, environmental, and geochemical datasets provides an unprecedented opportunity to evaluate the relative importance of different environmental drivers on coral and reef-scale calcification rates between three dominant coral species along inshore-offshore gradients and over seasonal and interannual timescales. No such other datasets currently exist and the proposed research has strong potential to contribute to scientific advancement in several areas. The coral calcification record coupled with the geochemical proxies and the monthly in situ seawater biogeochemistry data will help to elucidate causal links between coral calcification and its environmental drivers, including interannual variability linked to the North Atlantic Oscillation. In addition, evaluation and validation of the trace metals and isotopic proxies in the context of the well-constrained environmental data have the potential to greatly assist the coral paleoceanography community in generating more robust reconstructions of past environmental conditions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829778</AwardID>
+<Investigator>
+<FirstName>Andreas</FirstName>
+<LastName>Andersson</LastName>
+<EmailAddress>aandersson@ucsd.edu</EmailAddress>
+<StartDate>07/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego Scripps Inst of Oceanography</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930210</ZipCode>
+<PhoneNumber>8585341293</PhoneNumber>
+<StreetAddress>8602 La Jolla Shores Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1650</Code>
+<Text>BIOLOGICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>006Z</Code>
+<Text>Multiple Environmental Stressors</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1315</Code>
+<Text>JOINT GLOBAL OCEAN FLUX STUDY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1382</Code>
+<Text>OCEAN ACIDIFICATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8556</Code>
+<Text>Coral Reefs</Text>
+</ProgramReference>
+</Award>
+</rootTag>

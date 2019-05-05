@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CDS&amp;E: Collaborative Research: Strategies for Managing Data in Uncertainty Quantification at Extreme Scales</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>396066</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Vipin Chaudhary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The exponential increase in the quantity of measurements and data holds tremendous promise for data-driven scientific discovery and decision making.  In many cases, data-driven scientific discovery is mathematically formulated as an inverse problem.  For inverse problems that serve as a basis for discovery and decision-making for complex problems, the uncertainty in its solutions must be quantified.  Though the past decades have seen tremendous advances in both theories and computational algorithms for inverse problems, quantifying the uncertainty (UQ) in their solutions taking big-data issues into account remains challenging.  This is largely due to computationally demanding nature of existing mathematical techniques that are unable to scale up to the amount of data being generated.  Consequently, much of the available data remains unused.  This project develops UQ algorithms that are both computationally scalable as well as datascalable for making scientific progresses in geosciences and medical imaging. In particular, the proposed methods are evaluated in the context of two challenging data-driven applications: (1) from large amount of seismograms (records of the ground motion) perform geophysical imaging to infer earth's interior structure to better understand earthquakes, and (2) from magnetic resonance (MR) cine images of patients estimate the heart's function (e.g. motion, contraction) to detect early onset of heart disease (cardiomyopathy).&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The goal of this collaborative research project is to develop an integrated research program that addresses the data management and data analytics arising from both observations and scientific simulations, with applications from diverse domains at extreme scales. The project develops innovative statistical, mathematical, and parallel computational methods to manage the large amounts of simulation data as well as the ever increasing amounts of observation data required for extreme-scale UQ problems in general and Bayesian inverse problems in particular. These methods will be of immediate practical utility to scientists  and engineers dealing with big data and large-scale UQ problems in sensing-based disciplines, geosciences, climatology, medical imaging, etc. The successful completion of the project would  provide a first step towards the development of mathematical and computational methods for a wide range of data-driven  large-scale inverse and UQ challenges that can lead to original scientific discoveries and promote the progress of science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808652</AwardID>
+<Investigator>
+<FirstName>Hari</FirstName>
+<LastName>Sundar</LastName>
+<EmailAddress>hari@cs.utah.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Utah</Name>
+<CityName>SALT LAKE CITY</CityName>
+<ZipCode>841128930</ZipCode>
+<PhoneNumber>8015816903</PhoneNumber>
+<StreetAddress>75 S 2000 E</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Utah</StateName>
+<StateCode>UT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8069</Code>
+<Text>CDS&amp;E-MSS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

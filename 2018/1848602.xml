@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Using the National Organizations Study to Examine Developments in the Labor Force in the 21st Century</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>10/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>222858.00</AwardTotalIntnAmount>
+<AwardAmount>222858</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<Abbreviation>SBE</Abbreviation>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<Abbreviation>SES</Abbreviation>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Joseph Whitmeyer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project supports the addition of the National Organizations Survey (NOS) module to the 2018 General Social Survey.  The NOS is a hypernetwork sample of employers in the United States that will produce a nationally-representative sample of employers from the self-employed up to the largest public and private organizations. It will cover government agencies, private corporations, not-for-profits, and all other sectors.  In particular, the NOS will provide data on organizations' approach to occupational health and safety and to workplace health promotion.  The availability of these data, and their linkage to the General Social Survey will enable researchers to investigate questions of importance to employers and workers, and to national health and well-being.&lt;br/&gt;&lt;br/&gt;This project will link the organizational-level data to respondent-level data from the General Social Survey (GSS), allowing examination of the effect of different types of employers with different employment policies and benefits on employees' assessment of job satisfaction, the quality of working life, and many other attitudes and behaviors.   Support for the addition of the NOS module is provided by the National Institute for Occupational Safety and Health of the Centers for Disease Control (CDC/NIOSH).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848602</AwardID>
+<Investigator>
+<FirstName>Tom</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>smitht@norc.uchicago.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>National Opinion Research Center</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372745</ZipCode>
+<PhoneNumber>7732566000</PhoneNumber>
+<StreetAddress>1155 E. 60th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>R159</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

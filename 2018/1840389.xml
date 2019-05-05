@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning Grant: Engineering Research Center for Photonic Quantum Networks (PQN)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07050000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>EEC</Abbreviation>
+<LongName>Div Of Engineering Education and Centers</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dana L. Denick</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Planning Grants for Engineering Research Centers competition was run as a pilot solicitation within the ERC program.  Planning grants are not required as part of the full ERC competition, but intended to build capacity among teams to plan for convergent, center-scale engineering research.  This award funds an effort by the University of Arizona and its partner institutions Stanford University, Harvard University, the University of Massachusetts Amherst, and Northwestern University for a technical planning and convergent team exercise that will engage stakeholders in academia, industry, and government laboratories.  The objective is to put elements in place that will support the development of the first scalable photonic quantum network for secure communications, quantum advanced sensing, and information processing, that paves the way to the first quantum internet.  The planning process will develop a plan for an integrated research and education plan for students from k-12 through the graduate level, with a focus on the inclusion of diverse perspectives throughout the project.&lt;br/&gt;&lt;br/&gt;The planning grant will support a project that will advance knowledge by developing transformational technologies for quantum networks.  A versatile quantum repeater node will support virtually any application that requires quantum communication or entanglement as a resource, to be seamlessly integrated with a core photonic network.  Three research thrusts will be considered: Quantum Network Architectures, Systems, and Networks, Quantum Nanophotonic Subsystem Integration, and Quantum Materials, Subsystems, and Devices.  The planning exercise will provide early feedback to prioritize key device metrics for system-level goals and chart out the applications-driven design of a network.  A plan to train students for industrial success, international skills, and systems-wide experience in quantum information science and engineering will be developed.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1840389</AwardID>
+<Investigator>
+<FirstName>Prem</FirstName>
+<LastName>Kumar</LastName>
+<EmailAddress>kumarp@northwestern.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Donald</FirstName>
+<LastName>Towsley</LastName>
+<EmailAddress>towsley@cs.umass.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jelena</FirstName>
+<LastName>Vuckovic</LastName>
+<EmailAddress>jela@stanford.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marko</FirstName>
+<LastName>Loncar</LastName>
+<EmailAddress>loncar@seas.harvard.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Saikat</FirstName>
+<LastName>Guha</LastName>
+<EmailAddress>saikat@email.arizona.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1480</Code>
+<Text>ENGINEERING RESEARCH CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

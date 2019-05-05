@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Mathematical Foundation for Signal Processing on Spatially Distributed Networks</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>195231.00</AwardTotalIntnAmount>
+<AwardAmount>195231</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Steuerwalt</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A spatially distributed data network consists of a large number of cooperative agents that have data collecting, processing, and sharing capabilities.  It has been widely used in (wireless) sensor networks, smart power grids, and other engineering and science fields, because it offers some practical advantages over the more traditional form of data network that ships collected data to central processing facilities.  However, distributing the data processing tasks, such as filtering, denoising, and compressing, raises some new challenges.  While these have received much attention in recent years, there still is a gap between mathematical theory and engineering practice.  The investigator works to develop a mathematical foundation for signal processing on spatially distributed data networks that has practical consequences for engineering applications.  Graduate students participate in the research.  Graduate students participate in the research.&lt;br/&gt;&lt;br/&gt;The topological structure of a spatially distributed data network is described by a sparse graph.  Data processing on a spatially distributed data network is performed by agents in the network; many of them can be described by well-localized matrices and integral operators, in terms of which the network behavior can in principle be described and optimized globally.  But this could be an impractically large optimization problem.  The principal investigator studies how to split a large network into a set of overlapping smaller ones whose separate global optimizations can be used to approximate the global optimization of the large network.  In this way, he aims to develop a mathematical foundation for signal processing on such networks that has engineering applications.  Here he emphasizes applied harmonic analysis and numerical analysis of well-localized matrices on graphs, design of stable spatially distributed data networks, fast algorithms implemented by agents in spatially distributed data networks, phaseless signal reconstruction, and deep learning coupled to signal processing on graphs.  Graduate students participate in the research.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816313</AwardID>
+</Award>
+</rootTag>

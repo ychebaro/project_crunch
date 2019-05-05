@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: Vehicular Edge Computing and Security: Research Experience for Undergraduates</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>359993</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harriet Taylor</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This Research Experiences for Undergraduates (REU) Site award funds a new REU Site at the University of North Texas.   The site will recruit undergraduates from across the nation to participate in research involving vehicular edge computing and security. The topic is important and timely due to the high demand for dependable, reliable, and secure autonomous cars. The students will work in teams to develop technologies and apply them to electric cars equipped with a variety of sensors. The students will participate in a variety of related professional development activities. The REU experience provides students with the foundations and inspiration to pursue computing careers and research in areas that are rapidly evolving and essential for the technical workforce of the future.&lt;br/&gt;&lt;br/&gt;The project is led by an outstanding team offering state-of-the art facilities and professional mentors to guide undergraduates in explorations of cutting-edge problems related to vehicular edge computing and security. Project topics include hierarchical edge computing architecture, vehicular sensing data processing, trustworthy information dissemination, and privacy protection of sensing data on vehicles.  The site is run with a problem-based, team-oriented approach.  The goals are to expose undergraduates to real-world and innovative research focused on vehicular edge systems and security by system design, to motivate more undergraduates to continue their academic careers and seek graduate degrees in computer science and engineering, and to develop research skills and improve communication and collaboration skills. The team will strive to attract students from groups under-represented in computing, particularly students from small colleges with limited research opportunities.  Thus, the project has the potential to produce a new generation of computer science graduate students and computing professionals and to advance discovery and understanding while promoting learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852134</AwardID>
+<Investigator>
+<FirstName>Song</FirstName>
+<LastName>Fu</LastName>
+<EmailAddress>song.fu@unt.edu</EmailAddress>
+<StartDate>12/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Qing</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>qing.yang@unt.edu</EmailAddress>
+<StartDate>12/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Texas</Name>
+<CityName>Denton</CityName>
+<ZipCode>762035017</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress>1155 Union Circle #305250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+</Award>
+</rootTag>

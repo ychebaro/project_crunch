@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: CHS: Examining Self-Harm and Suicide Contagion Risks of Viral Social Media Challenges on Youth and Young Adults</AwardTitle>
+<AwardEffectiveDate>04/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>42053.00</AwardTotalIntnAmount>
+<AwardAmount>58053</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will study potentially harmful social media challenges, in which participants record themselves engaging in specific activities, share the experience in social networks, and encourage others to participate.  Some challenges have positive effects. For example, the ALS Ice Bucket challenge involved people dumping a bucket of ice water over their heads to raise awareness of and funding for Lou Gehrig's disease.  Others, however, encourage people to engage in behaviors that risk physical or psychological harm. For example, the Cinnamon challenge involves eating a spoonful of cinnamon, which can cause severe respiratory distress, while the Blue Whale challenge encourages a series of increasingly self-harmful behaviors culminating in suicide.  Although there is much folklore and hearsay around such harmful challenges, actual studies and data about them are sparse.  To address this, the project team will conduct a series of interview studies along with quantitative analysis of social network data around the Cinnamon and Blue Whale challenges. Analyses will examine both individual-level and message-level factors that lead people to participate in and spread these challenges. The results will inform the development of preventative measures to mitigate the spread of harmful viral Internet challenges. Findings will also provide a better understanding of how to protect vulnerable individuals who are exposed to the challenges from both the direct potential risks of participating and indirect potential risks (e.g., through the normalization of self-harm and peer pressure to engage in it).&lt;br/&gt;&lt;br/&gt;The project will address a number of specific research questions, including: 1) better assessing the extent to which viral social media challenges have caused real harm and pose a public health risk to social media users, and 2) identifying characteristics of both the messages containing these challenges and the individuals receiving and spreading them that predict risk, adoption, and spread of the challenges. The work is organized into two main thrusts.  In the first, the team will conduct semi-structured, retrospective interviews with approximately 30 adolescent and young adult social media users (ages 13-25) and/or their families, who report being harmed or committing self-harm after engaging in social media challenges prevalent at the time of the studies.  The questions will be structured to assess factors known to contribute to self-harm contagion effects (such as graphic depiction of the challenge, peer pressure, and support for self-harmful activities), as well as to probe people's own motivations and decision-making around participating in such challenges.  The second main thrust involves larger-scale quantitative analysis of digital trace data about self-harmful challenges from five popular social media sites.  This portion of the study will first include constructing and cleaning the dataset (both in terms of protecting personal information and capturing data relevant to the challenges). Next, the researchers will employ qualitative coding of how the challenge messages deviate from the Suicide Prevention Resource Center's evidence-based safe messaging guidelines. These analyses are intended to identify strategies that authors use to spread the challenges as well as the potential risk each poses. Finally, computational modeling will relate message characteristics to measures of message reach such as likes, views, and shares.  Together, these research activities will provide much-needed empirical evidence of real-world social media behavior and individual decision-making around these harmful challenges. The data can be used to inform theory development regarding the spread of viral challenges, as well as interventions to mitigate their future harms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832904</AwardID>
+<Investigator>
+<FirstName>Kapil</FirstName>
+<LastName>Madathil</LastName>
+<EmailAddress>kmadath@clemson.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pamela</FirstName>
+<LastName>Wisniewski</LastName>
+<EmailAddress>Pamela.Wisniewski@ucf.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Whitlock</LastName>
+<EmailAddress>lwhitlo@clemson.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Heidi</FirstName>
+<LastName>Zinzow</LastName>
+<EmailAddress>HZINZOW@clemson.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clemson University</Name>
+<CityName>CLEMSON</CityName>
+<ZipCode>296345701</ZipCode>
+<PhoneNumber>8646562424</PhoneNumber>
+<StreetAddress>230 Kappa Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>South Carolina</StateName>
+<StateCode>SC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

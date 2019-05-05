@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Novel Urea Mixer to Enable Low Temperature Reduction of Diesel Exhaust Nitrogen Compounds</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>746477.00</AwardTotalIntnAmount>
+<AwardAmount>746477</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/ commercial potential of this Small Business Innovation Research (SBIR) project includes reducing emission of Diesel engines' toxic nitrogen oxides (NOx) in challengingly low temperature exhaust operations, while eliminating damaging urea deposits saving warranty costs for vehicle manufacturers, saving fuel, reducing greenhouse gases CO2 and N2O as well as particulate matter, while potentially enabling downsizing the complex and costly diesel emission control systems. The novel technology developed in this SBIR project may be configured for retrofitting existing diesel platforms.  Nitrogen oxides pose risks to human respiratory and pulmonary systems, are associated with forming ground level ozone, photochemical oxidants, acid rain and fine particles, amongst a variety of their detriments, and their emission is therefore regulated. Our concept, when successful, will therefore make available a broad value proposition to the society, the environment and to the mobility industry. Finally, the insights developed into its gas phase reactions may have applications in other branches of science and technology.&lt;br/&gt;&lt;br/&gt;This SBIR Phase II project proposes to resolve a currently unmet need in mitigating emission of toxic nitrogen oxides (NOx) from diesel engines, especially in low exhaust temperatures such as when the vehicle operates in stop-and-go, in local delivery or when idles its engine. The goal of this project is to develop a low cost, easy-to-fit and simple-to-integrate novel technology enabling low temperature Diesel NOx reduction. Continuing our successful Phase I research results, in this Phase II project more advanced prototypes will be developed and tested in low-temperature exhaust conditions, demonstrating rapid reduction of NOx on a commercially-available Selective Catalytic Reduction (SCR) catalyst, while evaluating the impact on lowering greenhouse gases CO2 and N2O.  High fidelity computer simulations will be heavily utilized to further our understanding of underlying mechanisms such as the gas-phase reactions as well as to accelerate the development path. The project outcome is expected to alleviate a remaining challenge in Diesel emission control and to be rapidly welcome by the Diesel engine and vehicle industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831231</AwardID>
+<Investigator>
+<FirstName>Mansour</FirstName>
+<LastName>Masoudi</LastName>
+<EmailAddress>mansour.masoudi@emissol.com</EmailAddress>
+<StartDate>09/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Emissol LLC</Name>
+<CityName>Mill Creek</CityName>
+<ZipCode>980121279</ZipCode>
+<PhoneNumber>4252311686</PhoneNumber>
+<StreetAddress>16300 Mill Creek Blvd. Ste 208-F</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1591</Code>
+<Text>STTR PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Ecology of MERS-CoV in camels, humans, and wildlife in Ethiopia</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>2487071</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Colette St. Mary</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Zoonotic diseases are diseases that exist in animals and can be transmitted to humans. Zoonoses currently account for approximately 75 percent of all emerging infections worldwide. However, the factors that trigger zoonotic disease emergence and spread remain poorly understood, in part because they involve multiple species, complex inter-species and intra-species relationships, and many interacting environmental, behavioral, social, and economic factors. Middle Eastern Respiratory Syndrome-Coronavirus (MERS-CoV) presents a case in point. MERS-CoV was first identified in human beings in 2012 and has killed 36 percent of those infected, but little is known about what has led to its emergence. For example, several human cases have been traced to contact with camels imported from Africa; studies also have detected MERS-CoV in African wildlife; and while camels are a known reservoir host for MERS-CoV, it is not known if there are additional reservoirs or intermediate hosts, or how frequently and under what conditions MERS-CoV spillover occurs. This project will investigate the natural ecology of MERS-CoV in relation to broader social, economic, and environmental changes; its potential wildlife reservoirs in close contact with camels; and the potential for spillover to humans who consume, herd, and trade camels and camel products. This work is of direct importance to national security with respect to disease threats; MERS-CoV is currently on the World Health Organization's priority shortlist of diseases in urgent need of accelerated research.  &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;To understand when and under what conditions MERS-CoV emerges and spreads from animals to humans, the researchers ask, (1) How do social, cultural and behavioral characteristics of camel economics shape virus ecologies? (2) Which intra- and inter-species interactions increase MERS-CoV emergence and transmission? and (3) What climatic and environmental variables are associated with transmission? Researchers will conduct field studies of wild and domestic (camel) reservoirs, collecting roughly 800 samples from targeted wildlife (ungulates and eulipotyphlads) over two years at four locations. They will carry out socio-behavioral studies across the camel value chain and follow individual camels longitudinally to determine when the same individuals seroconvert to MERS-CoV positive status. They will conduct laboratory analyses and do viral sequencing. The researchers will integrate the data into mathematical models using the 'Method of Plausible Parameter Sets' (MPPS), which will determine which mechanistic scenarios are consistent with observed patterns of MERS-CoV in camels and humans. This broadly inclusive approach expands upon traditional studies of zoonotic disease emergence. The transmission models will be applicable to other zoonotic diseases linked to livestock production and will help to identify interventions to reduce disease emergence and transmission.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816064</AwardID>
+<Investigator>
+<FirstName>Amira</FirstName>
+<LastName>Roess</LastName>
+<EmailAddress>aroess@gwu.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sally</FirstName>
+<LastName>Lahm</LastName>
+<EmailAddress>salahm@gwu.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Washington University</Name>
+<CityName>Washington</CityName>
+<ZipCode>200520086</ZipCode>
+<PhoneNumber>2029940728</PhoneNumber>
+<StreetAddress>1922 F Street NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7242</Code>
+<Text>ECOLOGY OF INFECTIOUS DISEASES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>R226</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7242</Code>
+<Text>ECOLOGY OF INFECTIOUS DISEASES</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>EGCH</Code>
+<Text>ENVIRONMENT AND GLOBAL CHANGE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

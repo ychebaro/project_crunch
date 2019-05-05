@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Transformation360</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>224753</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project will create a novel educational product by pairing VR/360 video with impact measurement software and interactive social engagement tools to simulate true-to-life experiences that enable users to gain personal insight into pressing social issues and then take action to solve them. Installed either as a multisensory 'empathy exhibition' or used in a classroom setting, participants embark on a transformative learning journey which builds empathy and critical understanding about a social issue and those affected by it, then connects them to concrete opportunities to make social change. Users begin as uniformed participants, and through the proposed process emerge as changemakers engaged in solving social problems. Experiential learning has long been an empathy building discipline outside the mediated experience, yet it is encumbered by barriers of cost, safety, distance, time and access that limit participation. Transformation360 will use technology to render experiential learning programs virtually anywhere. The result will be a revolutionary new way to move the public from apathy to action on a limitless number of social issues. Transformation360 will provide nonprofits, governments, and institutions working to solve social problems with a powerful social engagement tool that creates actively engaged citizens, consumers, volunteers, supporters, and social entrepreneurs to address the world's most pressing social problems.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project will develop a VR/360 video hybridization that will allow users interactive choices within a conventional three-degree-of-freedom 360 Video experience. Currently only VR's computer-generated imaging can provide a significant choice landscape for users. By using 360/3D photography, unique game engine software and multi-scenario video capture in the field the project will give users a new level of choice options for a photo documentary experiences. The efficacy of this technology for building empathy will be quantified through audience testing. Also, cinematic techniques such as mise-en-cine and montage, not currently used in most 360 video projects, will also be tested against audience reactions. These video production and consumption technologies and techniques will also be cross-tested against experience learning processes such as the breaking down assumptions, peer learning, debriefing, uncertainty, and risk. Potential adverse side effects to VR/360 video will also be addressed. The project will rely heavily on the engagement measurement and data visualization tool Harvis to test and analyze audience reactions to these experiments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819650</AwardID>
+<Investigator>
+<FirstName>Sutia</FirstName>
+<LastName>Alter</LastName>
+<EmailAddress>kalter@virtueventures.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virtue Ventures, LLC</Name>
+<CityName>Wilmington</CityName>
+<ZipCode>198011155</ZipCode>
+<PhoneNumber>2026894403</PhoneNumber>
+<StreetAddress>1201 N Orange street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Delaware</StateName>
+<StateCode>DE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

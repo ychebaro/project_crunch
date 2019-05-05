@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Nilch Bee Naa Alkaa Go Ohooa Doo Eidii Tii  (Using Air (Technology) to Learn and Understand New Things)</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>667909</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Navajo Technical University (NTU) is one of the nation's largest tribal colleges and a leader in delivering academic and research programs for Native Americans.  NTU students have access to a plethora of academic programs including strong programs in Science, Technology, Engineering, and Math (STEM).  However, NTU and the residents of the Navajo Nation are not well connected to the Internet and to the larger research and education community.  Connectivity limitations, especially at Navajo community centers and at their homes, restrict NTU's ability to collaborate and contribute in the ever-growing integrated global research and education environment.  There is a fundamental lack of Internet connectivity with sufficient bandwidth to successfully participate in the ever-increasing distance or online learning courses/programs. &lt;br/&gt;&lt;br/&gt;This proposal will increase Wide Area Network connectivity by connecting NTU to the Front Range GigaPoP (FRGP) regional network at much higher network speeds with dedicated bandwidth for NTU research and academic projects.  The proposal addresses distance education challenges by implementing an advanced wireless test bed to deliver NTU distance education courses to Chapter Houses, tribal libraries, and other community anchor locations.  This proposal engages the country's largest tribal university and is a collaboration with New Mexico and Arizona Tribal Colleges and Universities.  It leverages a strong existing regional relationship with the FRGP, and it provides an organizational model for other tribal colleges to adopt a similar technology and associated collaborations.  The proposal emphasizes needs and requirements-gathering meetings, followed by design and training workshops, which will benefit regional Native American community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827199</AwardID>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Arviso</LastName>
+<EmailAddress>jarviso@navajotech.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marla</FirstName>
+<LastName>Meehl</LastName>
+<EmailAddress>marla@ucar.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jared</FirstName>
+<LastName>Ribble</LastName>
+<EmailAddress>jribble@navajotech.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Hernandez</LastName>
+<EmailAddress>jph@ucar.edu</EmailAddress>
+<StartDate>08/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Navajo Technical University</Name>
+<CityName>Crownpoint</CityName>
+<ZipCode>873130849</ZipCode>
+<PhoneNumber>5057864112</PhoneNumber>
+<StreetAddress>LOWER POINT ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+</Award>
+</rootTag>

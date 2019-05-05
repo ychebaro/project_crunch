@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Actively Shielded Superconducting Generators for Large Wind Turbines</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2019</AwardExpirationDate>
+<AwardAmount>219444</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan S. Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is reduced levelized cost of electricity (LCOE) of offshore wind from current levels that are about twice that of onshore wind. Given the proximity of offshore wind resources to load centers along the coast, it is an attractive renewable energy source for the nation, but high costs are an impediment to widespread adoption. One way to address this is with larger turbines that can lead to lower ?balance of plant? costs, which can be as high as 65% of the total project costs of offshore wind. However, turbine rating is currently limited due to the large size and weight of the generator and the rotor, as well as infrastructure obstacles like manufacturing, transport, and assembly. The lightweight superconducting (SC) generators being developed within this project, coupled with advanced rotors already being developed by the OEM?s, could open the door to significantly larger turbine ratings and lower costs. The underlying high specific power machine technology can also help transform a number of other weight-sensitive electrical systems like hybrid electric airplanes and ship propulsion.&lt;br/&gt; &lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project seeks to disrupt the traditional risk versus benefit trade of the low Technology Readiness Level (TRL) SC technology by significantly increasing the benefits with a novel ?active magnetic shielding? concept. This design concept enables a very high operating magnetic field within the machine while eliminating the need for a yoke made of ferromagnetic steel to contain the field. The higher internal fields increase the electromagnetic torque significantly over other solutions, leading to very high power density. Additionally, the elimination of heavy iron from the magnetic circuit leads to further reduction in weight. The proposed generator design can be about half the size of currently available wind direct-drives. Efficiency is also expected to improve with the elimination of about a third of copper coils while maintaining the same current density. Available cryogenic cooling technology from the commercially successful magnetic resonance imaging (MRI) industry will be adapted and utilized in the machine to reduce many of the cryogenics related risks while maintaining high specific power.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819321</AwardID>
+<Investigator>
+<FirstName>Andy</FirstName>
+<LastName>Yoon</LastName>
+<EmailAddress>ayoon@hinetics.com</EmailAddress>
+<StartDate>06/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>HINETICS LLC</Name>
+<CityName>Champaign</CityName>
+<ZipCode>618223563</ZipCode>
+<PhoneNumber>2172391628</PhoneNumber>
+<StreetAddress>1804 Vale St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+</Award>
+</rootTag>

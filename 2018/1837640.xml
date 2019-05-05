@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAPS: Hybrid Instruction for Equity in Computing</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>297343.00</AwardTotalIntnAmount>
+<AwardAmount>297343</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Fay Cobb Payton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is an effort to address computing equity in Atlanta Public Schools. The current national effort to deploy computing education in the K-12 space across the United States is focused on in-service teacher professional development. It is an effort to transform teachers who are not otherwise computer science teachers into subject matter experts to teach high school computer science courses. The Constellations Center for Equity in Computing believes that there simply are not enough teachers in production or in-service that can be trained to be effective computer science teachers, especially in schools that are already distressed serving students of color and poor students of all kinds. Expanding the number of course offerings to include quality high school computer science courses, requires a hybrid instructional model where the specialized subject content is delivered on-line and teacher expertise as facilitator and student guide is maximized. This project will use this strategy to provide highly effective hybrid Advanced Placement Computer Science instruction across the traditional high schools in Atlanta Public Schools.  &lt;br/&gt;&lt;br/&gt;Constellation Fellows, expert computer science teachers who have experience teaching in high school, will implement Advanced Placement Computer Science courses in the target high schools.  Each high school will designate a teacher who will assist with facilitation in the classroom.  The courses will be delivered online.  Additional courses will be added in subsequent years.  The resident teachers will observe and collaborate with the Fellows to acquire the knowledge and skills to teach the courses in future years. They will also be provided with opportunities for professional development and continued Fellow support so that they can become exemplary high school computer science teachers.  Constellation's hybrid instructional model is an effort to not only transform the infrastructure of computer science education, but to directly address the reality of inequity that disproportionately limits access for students of color and poor students whoever they may be.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837640</AwardID>
+<Investigator>
+<FirstName>Lien</FirstName>
+<LastName>Diaz</LastName>
+<EmailAddress>ldiaz@cc.gatech.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kamau</FirstName>
+<LastName>Bobb</LastName>
+<EmailAddress>kamau.bobb@cc.gatech.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

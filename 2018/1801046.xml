@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Highly Frustrated Magnetism 2018 Conference</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>7000.00</AwardTotalIntnAmount>
+<AwardAmount>7000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMR</Abbreviation>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Alexios Klironomos</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NONTECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This award supports the 2018 Conference on Highly Frustrated Magnetism to be held at the University of California at Davis. The award is jointly funded by the Condensed Matter and Materials Theory and the Condensed Matter Physics programs of the Division of Materials Research. The conference will bring together around 250 leading scientists and students in the field of quantum magnetism from around the world, to assess the field and new directions. The new materials and experimental techniques developed in this field are relevant for future quantum technologies, including quantum computers. The conference will contribute to the training of a new generation of scientists in advanced instrumentation and computational methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801046</AwardID>
+<Investigator>
+<FirstName>Rajiv</FirstName>
+<LastName>Singh</LastName>
+<EmailAddress>singh@physics.ucdavis.edu</EmailAddress>
+<StartDate>12/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1765</Code>
+<Text>CONDENSED MATTER &amp; MAT THEORY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>6863</Code>
+<Text>SEBML-MOORE'S LAW</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

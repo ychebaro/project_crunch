@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  The Comake Graph</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to drive economic growth and innovation by increasing a knowledge worker's ease of access to the digital information that is relevant to his/her work. Businesses today are enormously dependent on the archives of files, communication, and other information contained within the systems and services they rely on (networked drives, cloud storage, messaging tools, email, etc.). As these archives grow, they are increasingly hard to standardize and organize so that individuals know where to look for and how to find the information they need to do their jobs. The result is that individual employees waste enormous amounts of time trying to locate files and information fragmented across complex directories and many communication channels. Centralizing access to files and communication within an easily searchable and flexible workspace can unlock several hours of lost productivity and duplicate efforts per knowledge worker per week. Furthermore, presenting all of the relevant context around each file and message, including other file-versions, related files, discussions, activity events, etc., can help knowledge workers today with better version control, an understanding of how projects/ideas unfold, transferring of best practices, and preventing institutional knowledge-loss.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project seeks to further develop a novel method for users to contextually and unobtrusively access all relevant files and information associated with their work. This project focuses on developing software that can automatically map the relationships between digital workflow components (email messages, chat messages, tasks, contacts, files, etc.), and store them in discrete private databases controlled by the users. This project's key technical challenges include: improving the proprietary algorithms that automatically interconnect user information (while the information remains hosted on third party systems/services); improving the scalability of data ingress, processing, indexing, and syncing; and establishing a system capable of hosting and processing a multitude of discrete and disconnected databases of user information. The anticipated outcome of this project is a new type of software platform that can be hosted in private instances and that improves the productivity of its users by: consolidating user information stored on third-party systems/services; making it all easily searchable and manageable; and augmenting every file with additional history and context from all other connected third party systems/services.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1843818</AwardID>
+<Investigator>
+<FirstName>Andres</FirstName>
+<LastName>Gutierrez</LastName>
+<EmailAddress>andres@comake.io</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Comake, Inc</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303093871</ZipCode>
+<PhoneNumber>7703098717</PhoneNumber>
+<StreetAddress>20 10th St NW Unit 2501</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

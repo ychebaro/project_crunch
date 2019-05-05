@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Immersive Augmented Reality Landscape Viewer for Public Space Deployment</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>11/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rajesh Mehta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project will explore the technical, commercial, and educational potentials of bringing augmented reality binocular kiosks to public locations and their ability to create lasting impact on the public's understanding of a place. The proposed research and development phase will focus on the deployment and field testing of a collection of prototypes with partner locations, and examine their efficacy at engaging and informing visitors of those sites. The broader significance of the project is the development of an information device and ecosystem that gives the public a better understanding of notable places and the greater physical world. Deployments will be able to visualize a variety of site-specific data, from environmental conditions, to geological formations and landmark navigation. Potential revenue can be generated in partnership with locations, allowing for sustainable long-term engagements between the project and a site. Direct economic impact is brought to a location and its surroundings through increased foot traffic and the encouragement of additional exploration of a space.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The innovation being proposed is stereoscopic wide-field-of-view see-through augmented reality viewers in the form of landscape binocular kiosks designed to give public spaces a way to engage visitors with the natural, scientific, and historic features of that location. In addition to displaying immersive media experiences optically overlaid onto a view of the real world, this project creates a distributed media network on that location to share data and content for remote viewing and analysis. Goals and scope of research include durability testing of the devices in prolonged public exposure, effectiveness of the user interface and software tools, understanding the range and bandwidth of device-to-device communication, and optimization of the optical, electromechanical, and sensor components. Methods and approaches will include the field testing of prototype units with partner locations, and using survey and analysis techniques to evaluate the overall quantitative and qualitative efficacy of the intervention at those sites.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820238</AwardID>
+<Investigator>
+<FirstName>Ben</FirstName>
+<LastName>Sax</LastName>
+<EmailAddress>ben@perceptoscope.com</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Perceptoscope</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900196602</ZipCode>
+<PhoneNumber>5857496656</PhoneNumber>
+<StreetAddress>1106 S Stanley Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8031</Code>
+<Text>Education Products</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

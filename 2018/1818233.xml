@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>IEEE PerCom 2018 Student Travel Support Request</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal is for support of a travel IEEE (Institute of Electrical and Electronics Engineers) PerCom 2014 to be held in Athens, Greece, March 19 - 23, 2018.  The purpose of this trip is to support approximately 15 - 20 students in the field of Pervasive Computing and Communications. PerCom 2018 will provide a leading edge scholarly forum for researchers, engineers, and students alike to share their state-of-the art research and developmental work in the broad areas of pervasive computing and communications.&lt;br/&gt;&lt;br/&gt;This conference will provide the students with the opportunity to attend presentations of cutting-edge research results representing the state-of-the-art in pervasive computing, systems and applications.  The attendees are offered a diversity of interactive forums, technical sessions, targeted workshops, interesting poster sessions, and exciting demonstrations. Students will have the opportunity to interact with the world's leading researchers in pervasive computing.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818233</AwardID>
+<Investigator>
+<FirstName>Sajal</FirstName>
+<LastName>Das</LastName>
+<EmailAddress>sdas@mst.edu</EmailAddress>
+<StartDate>03/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Missouri University of Science and Technology</Name>
+<CityName>Rolla</CityName>
+<ZipCode>654096506</ZipCode>
+<PhoneNumber>5733414134</PhoneNumber>
+<StreetAddress>300 W 12th Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

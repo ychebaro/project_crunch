@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Elements: Software: Accelerating Discovery of the First Stars through a Robust Software Testing Infrastructure</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>250933</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bogdan Mihaila</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The birth of the first stars and galaxies 13 billions years ago -- our "Cosmic Dawn" -- is one of the last unobserved periods in the history of the Universe. Scientists are working to observe the 21 cm radio light emitted by the primeval neutral hydrogen fog as the first stars formed.  These observations are considered one of the grand challenges of modern astrophysics. This project will provide critical software infrastructure for the field of 21 cm cosmology, enabling rapid vetting of the new analyses and techniques developed for these observations and increasing their robustness, rigor, and reproducibility. Under this project The invetigators will train students in the best practices for software and code development, preparing them to develop robust, reproducible software for their own research, contribute to large open source projects, and develop software in a professional setting.&lt;br/&gt;&lt;br/&gt;One of the biggest challenges for the detection of the Epoch of Reionization is the presence of bright astrophysical foregrounds that obscures the signal of interest, requiring extraordinarily precise modeling and calibration of the radio telescopes performing these observations. The 21 cm cosmology community is rapidly developing new techniques for instrument calibration, foreground removal, and analysis, but thorough testing and integration into existing data analysis pipelines has been slow. This project will provide a software infrastructure that can enable rigorous, seamless testing of novel algorithmic developments within a unified framework. This infrastructure will ensure a level of reliability and reproducibility not possible with current tools and accelerate the speed at which developments become integrated into production level code, providing an invaluable foundation for bringing our field into the next decade and for leveraging the current NSF investments in these experiments.&lt;br/&gt;&lt;br/&gt;This project is supported by the Office of Advanced Cyberinfrastructure in the Directorate for Computer &amp; Information Science &amp; Engineering and the Division of Astronomical Sciences in the Directorate of Mathematical and Physical Sciences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835120</AwardID>
+<Investigator>
+<FirstName>Jonathan</FirstName>
+<LastName>Pober</LastName>
+<EmailAddress>Jonathan_Pober@brown.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brown University</Name>
+<CityName>Providence</CityName>
+<ZipCode>029129002</ZipCode>
+<PhoneNumber>4018632777</PhoneNumber>
+<StreetAddress>BOX 1929</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1798</Code>
+<Text/>
+</ProgramElement>
+<ProgramElement>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7569</Code>
+<Text>CYBERINFRASTRUCTURE/SCIENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8004</Code>
+<Text>Software Institutes</Text>
+</ProgramReference>
+</Award>
+</rootTag>

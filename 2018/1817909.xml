@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Characterizing dynamic properties and responses of an artificial mitotic cell</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>675000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Devaki Bhaya</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mitosis is the important process by which cells divide and proliferate. A cell divides into two, and two into four, and so on. This process is finely controlled by a set of genes and proteins. These are known as the mitotic oscillator. Defects in mitosis are thought to increase the chance of developing cancer. It is difficult to study the oscillator inside the cell, where many other complicated cellular processes are also occurring. This project will build a synthetic mitotic oscillator into tiny droplets to mimic real cells. Without the complicated effects from cell growth and cell divisions, these microdroplets enable quantitative manipulation and characterization of the mitotic oscillator. The knowledge gained through this research will be disseminated to the broader scientific community through publications, conferences, and workshops. The interdisciplinary technologies will be disseminated to youth and the public through proposed outreach activities such as demonstrations and lab open day in collaboration with local professional educators and the museum. These activities will allow us to engage underrepresented minority students in grades 6-9 interested in science, expose them to research excitement, and prepare them for STEM careers.&lt;br/&gt;&lt;br/&gt;The goal of this project is to quantitatively analyze the stochastic dynamics of a minimal mitotic oscillator and its responses to various environmental signals. To constitute a minimal cytoplasmic mitotic oscillator, Xenopus egg cytosolic extracts will be encapsulated in microfluidic water-in-oil emulsions that mimic single cell behaviors. Additionally, a more complicated cell that contains nuclei will be built on top of this minimal oscillator. This will recapitulate complex phenomena in vitro such as nuclear assembly, chromatin condensation, and protein localization. Several questions will be examined in this system, including the role of cell size, temperature, and energy depletion in modulating properties of the oscillator. To achieve these goals, computational modeling, droplet-based microfluidic methods, and time-lapse fluorescence imaging will be integrated. This work will build a cyclic cell bottom-up, ranging from the simplest form containing no nuclei to the complicated ones driving various nuclear activities. The success of this work will provide valuable guidance in search of new targets for drug development and regenerative medicine in preventing and treating mitotic oscillator-related cancerous diseases, and thus be relevant and of great importance to broader communities in cancer biology, and cell and developmental biology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817909</AwardID>
+<Investigator>
+<FirstName>Allen Po-Chih</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>allenliu@umich.edu</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Qiong</FirstName>
+<LastName>Yang</LastName>
+<EmailAddress>qiongy@umich.edu</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

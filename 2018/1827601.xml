@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Motion sickness: The role of control in prediction and prevention</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>616969</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04040000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Behavioral and Cognitive Sci</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Betty H. Tuller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Motion sickness has always accompanied the introduction of new transportation and display technologies. Although the active drivers of vehicles are usually less susceptible to motion sickness than the passive passengers, the development of self-driving cars (autonomous vehicles) makes all of the occupants passengers. One benefit of autonomous vehicles is that they free passengers to perform many activities typically done at their homes or offices. Unfortunately,  when these activities require focused visual attention, such as reading, working, or watching videos,  the likelihood of experiencing motion sickness increases.  The goals of the current project are to identify the key factors that contribute to motion sickness in autonomous vehicles, to identify factors that characterize who will be most susceptible, and to develop ways to reduce motion sickness and declines in performance.&lt;br/&gt;&lt;br/&gt;The project will evaluate three aspects of individuals' responses to stimulation that might provoke motion sickness: 1) the initial sensitivity to a stimulus, 2) the decay of motion sickness severity following discontinuation of stimulation, and 3) the rate of adaptation following repeated stimulation. Of key concern is whether for a given individual, initial sensitivity, decay, and adaptation will be consistent across different types of sickness-inducing stimulation. The approach is based on a mechanistic model of motion sickness derived from neurophysiological and behavioral evidence concerning the relationship between  motion sickness onset and disruptions of vestibulo-ocular and vestibulo-motor control. The role of active control of forthcoming stimulation (the fact that the driver rarely becomes motion sick) will be systematically evaluated to determine the extent to which anticipation plays a role in sickness prevention. The investigators will compare initial sensitivity, decay, and adaptability of motion sickness across stimulation involving a) the semicircular canals of the inner ear, which are sensitive to angular acceleration, b) the otolith organs of the inner ear, which are sensitive to linear acceleration, c) both in combination, and d) vision in order to assess their contributions to an individual's overall pattern of motion sickness vulnerability under active and passive conditions. The aim is to develop predictors of an individual's sensitivity to the factors contributing to motion sickness in autonomous vehicles (control vs. no-control, frequency and amplitude dependent characteristics of vehicle motion, and focal visual attention tasks). This capability would allow remedial steps to be taken to reduce sickness likelihood and optimize the benefits of this new technology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827601</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>DiZio</LastName>
+<EmailAddress>dizio@brandeis.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Lackner</LastName>
+<EmailAddress>lackner@brandeis.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Brandeis University</Name>
+<CityName>WALTHAM</CityName>
+<ZipCode>024532728</ZipCode>
+<PhoneNumber>7817362121</PhoneNumber>
+<StreetAddress>415 SOUTH ST MAILSTOP 116</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>058Y</Code>
+<Text>M3X - Mind, Machine, and Motor</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1397</Code>
+<Text>CROSS-DIRECTORATE  ACTIV PROGR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7252</Code>
+<Text>PERCEPTION, ACTION &amp; COGNITION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7252</Code>
+<Text>Perception, Action and Cognition</Text>
+</ProgramReference>
+</Award>
+</rootTag>

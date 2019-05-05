@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-RP: From the Ground Up: Using Soft Robotic Sensors to Create a Foot and Ankle Wearable that Accurately Captures Real-time, Kinematic and Kinetic Data During Athletic Training</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>749932</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this PFI project will advance the health and welfare of the American public by using a new type of wearable technology solution. This liquid metal sensors-based wearable is designed to move human movement evaluation from laboratory environments to where people normally perform work: the real world. This project will create an affordable foot-ankle wearable to properly assess wearer gait and leg symmetry for people of all shapes and sizes without requiring expensive, bulky equipment or a practitioner's expertise. Moreover, the proposed tool is accurate, yet is also accessible meaning that this capability could improve quality of life via proper prognosis and diagnosis within competitive athletics as well as for medical patients during real-world task assessments. This project can also be used to support the national defense of the United States by providing the ability to assess movement measures, such as step count, acceleration, and ground reaction force estimation of military personnel, aiding in tactical planning and identification of oncoming injuries to limb segments. Over time, joints will fatigue and failure to identify these stressors can have a severe impact on the battlefield just as in the practice courts or industrial environments. &lt;br/&gt;&lt;br/&gt;The proposed project repurposes soft robotic sensors to accurately and noninvasively capture movement and force data in near real-time at the foot-ankle to provide meaningful performance and risk assessment for tailoring training regimens. This wearable solution is in response to collegiate and professional-level strength and conditioning coaches and trainers desire for a precise solution that captures movement data "from the ground up". The proposed solution will accurately capture ankle kinematic and kinetic data outside of the lab, giving coaches, trainers, medical staff, and researches a wealth of information that was previously not available or trusted by field practitioners. Intellectual merits include: (a) expanding state-of-the-art wearable solutions to measure absolute foot-ankle angles, (b) using custom liquid metal sensors to measure foot forces, and (c) combining complex angle and force measurements into machine learning systems estimating ankle injury risk thereby allowing practitioners to effectively monitor repetitive movements. The project goal is to create an accurate yet affordable wearable system that can identify potential risks of the most common injury, ankle strain. Collegiate student athletes will be used for design validation as initial project scope is designed for competitive sports; however, the solution will be expandable to industrial and military repetitive motions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/12/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/12/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827652</AwardID>
+<Investigator>
+<FirstName>Mark</FirstName>
+<LastName>Ronay</LastName>
+<EmailAddress>mark@liquidwire.io</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harish</FirstName>
+<LastName>Chander</LastName>
+<EmailAddress>hchander@colled.msstate.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Ball</LastName>
+<EmailAddress>jeball@ece.msstate.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Reuben</FirstName>
+<LastName>Burch</LastName>
+<EmailAddress>burch@ise.msstate.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rajkumar</FirstName>
+<LastName>Prabhu</LastName>
+<EmailAddress>praj@cavs.msstate.edu</EmailAddress>
+<StartDate>09/12/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Mississippi State University</Name>
+<CityName>MISSISSIPPI STATE</CityName>
+<ZipCode>397629662</ZipCode>
+<PhoneNumber>6623257404</PhoneNumber>
+<StreetAddress>PO Box 6156</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Mississippi</StateName>
+<StateCode>MS</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

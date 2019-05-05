@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Computational Methods for Multiscale Kinetic Systems: Uncertainty, Non-Locality, and Variational Formulation</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardAmount>39769</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuliya Gorb</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Kinetic theory has emerged as a critical tool in studying many-particle systems with random motion, which arise widely in plasma physics, semiconductors, animal swarms, nuclear engineering, among many others. It bridges the gap between microscopic particle system and macroscopic continuum description, and therefore is at the core of multiscale modeling. In addition to its multiscale nature, this project intends to advance the understanding and computation of kinetic theory in new, emerging aspects that involve uncertainties, non-localities, and variational formulations. A parallel educational objective is to prepare and train students at all levels for multi-disciplinary research through advanced courses, topic seminars, and summer programs.&lt;br/&gt;&lt;br/&gt;The specific aims of the project include: (1) utilize the variational formulation of macroscopic and kinetic equations to develop scalable, structure preserving, mathematically justifiable methods via advanced optimization techniques; (2) design multiscale computational methods for nonlocal interacting kinetic systems, with emphases on nonlocal collision and connection to fractional diffusion; (3) develop robust algorithms for hyperbolic equations with uncertainty, especially in treating discontinuous solutions; (4) study the inverse problem for nonlinear kinetic systems, including stability analysis with varying scales, numerical regularization and algorithms. The proposed activity is on an interdisciplinary topic and of general interest to both computational mathematicians and scientists from other areas. The variational methods provide a new perspective in overcoming difficulties that are shared among most partial differential equation (PDE) models nowadays: multiple scales, high dimensionality and necessity in preserving physical quantities. The research outcome will have an impact on other disciplines including computational optimal transport, optimal control theory, mean field games, and machine learning. The fractional diffusion solvers will be equally applicable to photon transport through cosmic dust or atmosphere, electron beam dose calculation, and other nonlocal PDEs arising in material science, finance, and plasma physics. Uncertainties that are omnipresent in kinetic equations have a profound influence on the solution behavior and must be carefully quantified. The analysis and algorithms investigated through this project, in both forward and inverse setting, will facilitate the understanding of sensitivity in the system under random perturbations, and largely advance the modern design of device with optimal performance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/31/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/31/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846854</AwardID>
+<Investigator>
+<FirstName>Li</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>wangli1985@gmail.com</EmailAddress>
+<StartDate>01/31/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Minnesota-Twin Cities</Name>
+<CityName>Minneapolis</CityName>
+<ZipCode>554552070</ZipCode>
+<PhoneNumber>6126245599</PhoneNumber>
+<StreetAddress>200 OAK ST SE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Minnesota</StateName>
+<StateCode>MN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

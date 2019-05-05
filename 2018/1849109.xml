@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Advancing Ion Concentration Polarization to Enrich New Classes of Analytes from Complex Media and to Interface with Analysis: Breaking the Glass Ceiling on Enrichment</AwardTitle>
+<AwardEffectiveDate>02/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardAmount>248000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>George Janini</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Professor Robbyn Anand of Iowa State University is supported by the Chemical Measurement and Imaging Program of the Division of Chemistry to develop analytical techniques that address current limitations to the selective separation and enrichment of chemical compounds from difficult to handle fluids.  The newly developed technique sensitively detects the separated compounds at the site of enrichment.  The focus is on currently inaccessible categories of compounds, including medications, food additives, and clinically-relevant targets present in biological fluids, food, and pharmaceutical formulations.  The project positively impacts society by improving public health through more accurate medical diagnostics and the assurance of high quality food and medications.  The project supports the development of a workshop-style college course to promote diversity in science by engaging students in discussions on topics such as work-life balance, workplace climate, entrepreneurship, and networking.  In addition, case studies are developed to improve learning outcomes in graduate-level electrochemistry educational material. &lt;br/&gt;&lt;br/&gt;The project tackles a major challenge in the field of electrokinetic separations and enrichment.  Namely, its applicability to uncharged species in complex media and the integration of the separation platform with downstream detection and quantification methodologies.  The long-term objective is to broaden the applicability of electrokinetic focusing that is based on the concept of ion concentration polarization through the development and standardization of versatile and reproducible chemical processes.  New ion concentration polarization strategies that address current limitations are investigated.  These strategies take advantage of guest-host interactions that impart charge to neutral species; unique features of ion depleted zone initiation, growth, and stability in viscous fluids; and the enhanced sensitivity of in situ detection with three-dimensional flow-through electrode architectures.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/05/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/05/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849109</AwardID>
+<Investigator>
+<FirstName>Robbyn</FirstName>
+<LastName>Anand</LastName>
+<EmailAddress>rkanand@iastate.edu</EmailAddress>
+<StartDate>02/05/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Iowa State University</Name>
+<CityName>AMES</CityName>
+<ZipCode>500112207</ZipCode>
+<PhoneNumber>5152945225</PhoneNumber>
+<StreetAddress>1138 Pearson</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Iowa</StateName>
+<StateCode>IA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

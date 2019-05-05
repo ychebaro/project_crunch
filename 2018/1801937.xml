@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>A Census of Mass-Transfer, Merger, and Collision Products in Old Open Clusters</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>100000.00</AwardTotalIntnAmount>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Fellowship</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Harshal Gupta</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Emily Leiner is awarded an NSF Astronomy and Astrophysics Postdoctoral Fellowship to conduct a program of research and education at Northwestern University.  Nearly half of the stars similar to the Sun exist in binary star systems.  Leiner will study hundreds of binary stars within ?open clusters?, or groups of stars similar in age and composition.  This study will yield an extensive and well characterized sample of binary stars that could help advance our understanding of binary stellar evolution.  Alongside this research, Leiner will work with local high school students through an outreach program at Northwestern, and she will conduct public outreach at the Adler Planetarium.&lt;br/&gt;&lt;br/&gt;Leiner will perform a census of post-interaction binary stars on the main sequence and giant branches of five open clusters ranging in age from 2.5 to 8 billion years.  She will identify these stars using rotation rates derived from light curves and extensive radial velocity catalogs.  In addition, she will identify exceedingly massive stars from their oscillation frequencies and determine their masses and radii using asteroseismic techniques.  Leiner will use this new census to constrain formation rates and lifetimes for these post-interaction populations, as well as to investigate the physics that sets these rates and lifetimes.  Leiner will also engage Chicago-area high school students to produce 3D-printed models of oscillating red giant stars and interacting binary systems, and she will use these models to enhance the learning experience of visitors to the Adler Planetarium.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801937</AwardID>
+<Investigator>
+<FirstName>Emily</FirstName>
+<LastName>Leiner</LastName>
+<EmailAddress/>
+<StartDate>05/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Leiner                  Emily</Name>
+<CityName>Madison</CityName>
+<ZipCode>537034833</ZipCode>
+<PhoneNumber/>
+<StreetAddress/>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1609</Code>
+<Text>NSF ASTRON &amp; ASTROPHY PSTDC FE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1207</Code>
+<Text>OBSERVATIONAL ASTRONOMY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7480</Code>
+<Text>ARCHIVAL DATA ANALYSIS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRCNS Research Proposal: Collaborative Research: Prioritization of memory reactivation for decision-making</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>378571</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Wendy Nilsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The decisions we make are shaped by memories of our previous experiences. Indeed, what decision you make may ultimately depend on which memories your brain accesses, and which ones you neglect, in contemplating a potential action's outcome. This project aims to measure memory access in support of choices, using functional neuroimaging, so as to study which memories are accessed when, and how retrieving these memories affects the choices people make, either immediately or later on. Understanding these processes will lay the foundation for a better, more unified understanding of many diverse phenomena affecting choices - planning, when habits arise, the role of dreams, and the impacts of advertising. This could also improve our understanding of maladaptive choice in various disorders, such as rumination, compulsion, and craving. The experiments also aim to examine how manipulating the structure of previous experience affects these memory-access patterns, and ultimately choices. In addition to its scientific aims, the project aims to train young scientists in an interdisciplinary range of techniques, combining computational and cognitive neuroscience, and to serve diversity especially by facilitating training of women in these areas.&lt;br/&gt;&lt;br/&gt;Actions can be separated from their consequences by many steps in space and time. Anticipating these consequences so as to choose the best actions requires integrating memories of multiple intermediate events, which often were not originally experienced together. But so far there has been a lack of a principled and unified account of which memories are accessed, when, and which are neglected, to support value-based decisions. This project aims to test a recent computational theory that formalizes the ways in which particular memories are accessed and integrated to evaluate options, and the consequences for choice. The overarching hypothesis is that the brain sequentially integrates multiple memories for separate experiences either retroactively or prospectively, prioritizing the most valuable ones depending on the statistics of previous experience. The project will test this hypothesis using functional Magnetic Resonance Imaging in humans that will be engaged in solving several reinforcement-learning tasks. The project will take advantage of category-specific visual activity to measure memory access at different points during acquisition and deliberation, compare these patterns to subsequent choices, and test whether manipulations of the statistical structure of experience affects both memory access and the resulting choices.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822571</AwardID>
+<Investigator>
+<FirstName>Nathaniel</FirstName>
+<LastName>Daw</LastName>
+<EmailAddress>ndaw@princetion.edu</EmailAddress>
+<StartDate>09/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1699</Code>
+<Text>COGNEURO</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7327</Code>
+<Text>CRCNS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+</Award>
+</rootTag>

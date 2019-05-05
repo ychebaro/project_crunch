@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSR: Large: VarSys: Managing Variability in High-Performance Computing Systems</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>1189778.00</AwardTotalIntnAmount>
+<AwardAmount>583957</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Exascale high-performance computing (HPC) systems are required to meet the demands of many grand challenges for scientific computing and e-commerce in the 21st century. Variability in these systems is growing intractably and leads to performance loss and energy waste. This project is building the Variability System (VarSys) software framework, grounded in fundamental engineering principles, to enable variability management in large-scale advanced computing systems. The intellectual challenges in this work include determining the extent to which variability can be managed and the tradeoffs that result from such management. The work will demonstrate the use of variability management on large scale systems and cloud infrastructures. &lt;br/&gt;&lt;br/&gt;The continuation of the project will endeavor to create methodologies to establish a community ecosystem to benchmark progress and engage a broader community in this research.  Currently, there are over 25 faculty, staff and students (including 6 women and 2 minority students) participating in the project and more than 200 students have been exposed to system variability in the operating system courses. The project will also create additional compelling videos and other media artifacts to describe the progress and capture the excitement inherent to the research.&lt;br/&gt;&lt;br/&gt;Keywords: high-performance computing; statistical and mathematical modeling; variability-performance trade-offs&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838271</AwardID>
+<Investigator>
+<FirstName>Layne</FirstName>
+<LastName>Watson</LastName>
+<EmailAddress>ltwatson@computer.org</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kirk</FirstName>
+<LastName>Cameron</LastName>
+<EmailAddress>cameron@cs.vt.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ali</FirstName>
+<LastName>Butt</LastName>
+<EmailAddress>butta@cs.vt.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Danfeng</FirstName>
+<LastName>Yao</LastName>
+<EmailAddress>danfeng@cs.vt.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yili</FirstName>
+<LastName>Hong</LastName>
+<EmailAddress>yilihong@vt.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Virginia Polytechnic Institute and State University</Name>
+<CityName>BLACKSBURG</CityName>
+<ZipCode>240610001</ZipCode>
+<PhoneNumber>5402315281</PhoneNumber>
+<StreetAddress>Sponsored Programs 0170</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+</Award>
+</rootTag>

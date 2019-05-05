@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: ECS Fellows 2.0: Broadening Participation of Teachers and Students in Computing</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>342488</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janice E. Cuny</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Teach for America (TFA), in collaboration with the Exploring Computer Science (ECS) project team based at the University of Oregon, proposes to build on an existing collaboration -- the ECS Fellowship 1.0 -- that prepared in-service teachers from TFA's network to both advocate for broadened access to CS learning, and to teach an inquiry-based introductory CS course at high-need secondary schools. To date, the ECS Fellowship 1.0 project has prepared 46 TFA teachers from 11 urban and rural regions to teach the ECS course. That project also identified a number of barriers and obstacles that teachers face in advocating for CS instruction including principal de-prioritization of CS, and counselor bias. With the ECS Fellows 2.0 project, the team will shift its focus to understanding how best to recruit teachers of color to teach CS, support them in navigating the identified obstacles associated with advocating for CS in their schools, and help them to create equitable CS learning environments. &lt;br/&gt;&lt;br/&gt;ECS Fellows 2.0 will develop a networked improvement community (NIC) that centers on the experiences of teachers of color and their students while interrogating issues teachers consider central to broadening participation efforts. The project's goals are to: (1) establish a NIC made up of TFA staff, ECS staff, and teachers of color from TFA's network that constantly evolves to address problems of practice related to broadening participation in computing for teachers and students; (2) develop and share strategies that lead to increases in the number of CS teachers that identify as people of color from TFA's network; (3) identify necessary supports that help CS teachers introduce and expand CS learning opportunities for underrepresented students in high-need schools; and (4) identify strategies that CS teachers can use to create equitable CS learning environments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837286</AwardID>
+<Investigator>
+<FirstName>Joanna</FirstName>
+<LastName>Goode</LastName>
+<EmailAddress>goodej@uoregon.edu</EmailAddress>
+<StartDate>09/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Oregon Eugene</Name>
+<CityName>Eugene</CityName>
+<ZipCode>974035219</ZipCode>
+<PhoneNumber>5413465131</PhoneNumber>
+<StreetAddress>5219 UNIVERSITY OF OREGON</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>023Z</Code>
+<Text>Computer Science for All (CS for All)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

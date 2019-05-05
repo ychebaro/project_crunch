@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RAPID: Evaluation of Changes to Soil Hydrologic Properties in Response to Wildfire in a Semi-arid Sagebrush Steppe Environment with Abandoned Mine Pollution ? Perry Canyon, NV</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>31452</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06030000</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Earth Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Holly Barnard</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>On July 27, 2018, an uncontrolled brush fire ignited in the Perry Canyon area of Washoe County, NV 30 miles north of Reno, NV. The fire has burned a total of ~49,000 acres as of August 3 with the fire still in progress. Perry Canyon hosts an abandoned mine land (AML) study area that is operated in collaboration with the Bureau of Land Management (BLM). Pollution transport from various sources in Perry Canyon has been under study for the last three years. The occurrence of the wildfire has presented an opportunity to collect immediate post-fire hydrologic data at an AML, and then subsequent measurements over the next several months to trace the evolution of soil hydrology during the recovery from the fire. Data on the unsaturated and saturated hydraulic conductivity will be collected using a combination of dual-head infiltrometers and minidisc infiltrometers in the field. Laboratory analysis of water retention and hydraulic conductivity will be performed using the HYPROP and pressure plate methods. Hydraulic conductivity testing will be performed with appropriate standardized hydraulic conductivity test methods. Laboratory testing will be on undisturbed core samples to preserve field structure. Three METER Environment Inc. ATMOS 41 weather stations will collect precipitation data and record soil moisture&lt;br/&gt;and soil-water potential data over time to evaluate soil-water storage and retention characteristic changes during post-fire recovery&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1849725</AwardID>
+<Investigator>
+<FirstName>Ronald</FirstName>
+<LastName>Breitmeyer</LastName>
+<EmailAddress>rbreitmeyer@unr.edu</EmailAddress>
+<StartDate>08/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Board of Regents, NSHE, obo University of Nevada, Reno</Name>
+<CityName>Reno</CityName>
+<ZipCode>895570001</ZipCode>
+<PhoneNumber>7757844040</PhoneNumber>
+<StreetAddress>1664 North Virginia Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nevada</StateName>
+<StateCode>NV</StateCode>
+</Institution>
+<ProgramElement>
+<Code>034Y</Code>
+<Text>PREEVENTS - Prediction of and</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

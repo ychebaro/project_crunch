@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Brain Health Monitoring via Phenotyping Electroencephalogram Data</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamular Mccauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This I-Corps project is based on deep learning algorithms developed using data from patients with sleep disorders and other neurological conditions. We created a unique deep neural network, composed of both a convolutional and recurrent  modules, and trained the model on a unique set of 10,000 clinical polysomnography (PSG) results, the world's largest collection of clinical PSGs assembled to date.&lt;br/&gt;&lt;br/&gt;The broader impact/commercial potential of this I-Corps project revolves around its simplicity and accuracy. The benefit for patients is to enable them and their family members to perform accurate home testing with comfort. Meanwhile, physicians would receive real time diagnostic information about their patients, leading to earlier treatment. For insurance providers and hospitals, costs are drastically reduced as outcomes improve and fewer resources and staff are required. Apart from the healthcare industry, our project would also translate well into the general population, where wearables and health tracking devices are becoming commonplace. Being able to review the framework of one's sleep, with an accurate depiction of multiple characteristics including sleep staging, appeals to the consumer.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839478</AwardID>
+<Investigator>
+<FirstName>Jimeng</FirstName>
+<LastName>Sun</LastName>
+<EmailAddress>jsun@cc.gatech.edu</EmailAddress>
+<StartDate>08/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Georgia Tech Research Corporation</Name>
+<CityName>Atlanta</CityName>
+<ZipCode>303320420</ZipCode>
+<PhoneNumber>4048944819</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Georgia</StateName>
+<StateCode>GA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

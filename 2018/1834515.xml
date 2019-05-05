@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Travel Support for Workshop: Rocky Mountain Summit on Quantum Information</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dmitry Maslov</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The purpose of this award is to support student travel to the Rocky Mountain Summit on Quantum Information, which aims to bring together leading scientists in the broad field of quantum information science. The focus of the workshop is on quantum information theory, in particular quantum Shannon theory, as well as quantum information methods employed in high energy physics and condensed matter theory. This is an important emerging research area, with a growing strength in US.  The topic of focus is most closely related to Information Theory.  A major venue in Information Theory, IEEE Symposium on Information Theory (ISIT), also supported by NSF, and this workshop are collocated, providing a unique opportunity to the workshop attendees to benefit from the participation of Information Theory community at large.  &lt;br/&gt;&lt;br/&gt;The award will support travel for up to 15 students and postdoctoral scholars to this workshop, focusing on those needing the support most and giving the priority to underrepresented groups. The workshop is to be held at the University of Colorado Boulder, from June 25 to June 29, 2018.  Workshop website, http://jila.colorado.edu/rmsqi, provides general information about the workshop.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834515</AwardID>
+<Investigator>
+<FirstName>Felix</FirstName>
+<LastName>Leditzky</LastName>
+<EmailAddress>Felix.Leditzky@gmail.com</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Graeme</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>gsbsmith@gmail.com</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1640</Code>
+<Text>INFORMATION TECHNOLOGY RESEARC</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7928</Code>
+<Text>QUANTUM COMPUTING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

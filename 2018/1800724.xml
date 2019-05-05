@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Arizona School of Analysis and Mathematical Physics</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>40000.00</AwardTotalIntnAmount>
+<AwardAmount>40000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Holmer</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding for US participation in the conference "Arizona School of Analysis and Mathematical Physics" that will be held March 5-9, 2018 at the University of Arizona&lt;br/&gt;&lt;br/&gt;The conference focuses on recent developments in Analysis, especially in the fields of mathematical physics and partial differential equations.   A number of distinguished mathematicians have agreed to attend and speak at this conference.  This award gives early career researchers, members of underrepresented groups, researchers not funded by NSF and the like an opportunity to attend and participate in this conference.   The organizing committee will strive to make this funding opportunity known to target groups through a number of different activities.   More information will be made available at:&lt;br/&gt;&lt;br/&gt;http://math.arizona.edu/~mathphys/AZSchool18/</AbstractNarration>
+<MinAmdLetterDate>12/22/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/22/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800724</AwardID>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Sims</LastName>
+<EmailAddress>rsims@math.arizona.edu</EmailAddress>
+<StartDate>12/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amanda</FirstName>
+<LastName>Young</LastName>
+<EmailAddress>amyoung@math.arizona.edu</EmailAddress>
+<StartDate>12/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Houssam</FirstName>
+<LastName>Abdul-Rahman</LastName>
+<EmailAddress>houssam@math.arizona.ed</EmailAddress>
+<StartDate>12/22/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Arizona</Name>
+<CityName>Tucson</CityName>
+<ZipCode>857194824</ZipCode>
+<PhoneNumber>5206266000</PhoneNumber>
+<StreetAddress>888 N Euclid Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Arizona</StateName>
+<StateCode>AZ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

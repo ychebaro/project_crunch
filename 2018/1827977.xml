@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CSR: NeTS: Medium: Achieving High-Availability in the Face of Rapid Network Evolution in Large Content Providers</AwardTitle>
+<AwardEffectiveDate>11/10/2017</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>438561</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Samee Khan</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Global Internet services, such as web search, social networking, video dissemination, and cloud computing are built on data centers that are large warehouses full of computers. The computers in the data centers are connected together, and to the Internet, by a network. If that network goes down then the computers it connects and the Internet services they support also go down. This project aims to decrease, by one to two orders of magnitude, how long those networks are down each month.&lt;br/&gt;&lt;br/&gt;The project will explore the design of two components that can contribute significantly towards decreasing network downtime.  One component will be a new highly-available control plane that will include a new replication protocol that provides strong consistency and resilience to the failure of an external failure detector while retaining as many of the desirable properties of current less-available designs (e.g., small resource footprint) as possible. The other component will be an automated management plane that will raise the level of abstraction of specifying a management operation (MOp) on the network, thereby allowing automated software to  synthesize and manage the sequence of steps necessary to achieve a complex network MOp such as upgrading software on a large network.&lt;br/&gt;&lt;br/&gt;Global Internet services are an integral part of modern life and increasing their availability will benefit society. The project plans include developing software prototypes and working closely with large Internet services to increase the likelihood of technology transfer.  The research in the project will be conducted by graduate students and undergraduate students that will learn how networks work, how to build and improve them, and how to build and improve the computer systems that control them.  Each of these skills is likely to be increasingly important in the coming years.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1827977</AwardID>
+<Investigator>
+<FirstName>Wyatt</FirstName>
+<LastName>Lloyd</LastName>
+<EmailAddress>wlloyd@princeton.edu</EmailAddress>
+<StartDate>03/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7363</Code>
+<Text>Networking Technology and Syst</Text>
+</ProgramElement>
+</Award>
+</rootTag>

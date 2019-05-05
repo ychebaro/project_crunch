@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CIF:Small:Deadline Scheduling and Sensor Fusion</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>490173</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The deadline scheduling problem, in its most generic setting, is the scheduling of jobs with different workloads, costs/rewards, and deadlines for completion.  Today, computerized deadline scheduling permeates in all types of applications, from computer architecture to cyber-physical systems, from communication networks to the Internet of Things. It is not an overstatement that deadline scheduling is at the foundation of real time system theory and applications.  Yet, much is unknown, and the state of the art falls far short of solving an expanding range of real-time deadline scheduling problems.  Missing in particular are a fundamental understanding of the tradeoff between complexity and performance, algorithms that deliver near optimal solutions for very large problems, and techniques capable of dealing with model, data and operational uncertainties. This project seeks to advance the state of the art by addressing these missing elements.&lt;br/&gt;&lt;br/&gt;This research advances the real-time system theory and practice in three directions. First, it pursues a novel ranking-based scheduling methodology that breaks the curse of dimension of scheduling complexity while guaranteeing asymptotically optimal performance for high dimensional deadline scheduling problems. Second, this research advances the frontier of sensor fusion for real-time monitoring and control by developing a decentralize scheduling solution for collecting information with varying degrees of priority and urgency. Third, this research develops online learning techniques to cope with unknown system dynamics and job arrival statistics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816397</AwardID>
+<Investigator>
+<FirstName>Lang</FirstName>
+<LastName>Tong</LastName>
+<EmailAddress>ltong@ece.cornell.edu</EmailAddress>
+<StartDate>05/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

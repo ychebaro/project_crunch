@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Dynamics with a Combinatorial Bent</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>270000.00</AwardTotalIntnAmount>
+<AwardAmount>178454</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yunping Jiang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports the principal investigator's work on a program of research on problems in dynamics, education, and outreach. The research portion is to study the long-term behavior of systems whose dynamics is too complicated to be understood locally.  The problems lie within dynamics, but have strong connections to numerous other fields of mathematics.  The education portion involves directing undergraduates in advanced topics and graduate students in doctoral students, educating researchers in fields with links to dynamics, and organizing interdisciplinary meetings.  The outreach involves conference organization, running mentoring group for women all levels at Northwestern, and working to increase the number of women applying to graduate school in mathematics. &lt;br/&gt;&lt;br/&gt;The principal investigator will work on problems in ergodic theory, studying questions of convergence, recurrence, and equidistribution, and problems in topological dynamics, studying properties of recurrence, shift systems, and complexity. In symbolic and topological dynamics, this will build on past results to further understand relations between complexity, periodicity, dynamical properties of the system, and the algebraic properties of naturally associated groups. In ergodic theory, this will build on previous research in multiple recurrence and convergence, with the study of different averages, equidistribution results, and building of systems with particular properties. The problems proposed lie within dynamics, but there are strong connections to problems from other fields, including combinatorics, number theory, combinatorics of words, and computer science. The goal is to explore these deep links, developing applications to these other areas and making use of recent advances in these other areas to address problems within dynamics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800544</AwardID>
+<Investigator>
+<FirstName>Bryna</FirstName>
+<LastName>Kra</LastName>
+<EmailAddress>kra@math.northwestern.edu</EmailAddress>
+<StartDate>03/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northwestern University</Name>
+<CityName>Evanston</CityName>
+<ZipCode>602013149</ZipCode>
+<PhoneNumber>8474913003</PhoneNumber>
+<StreetAddress>1801 Maple Ave.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1281</Code>
+<Text>ANALYSIS PROGRAM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Field-deployable, hand-held spectrophotometer sensor platform for citrus growers to rapidly screen for HLB disease</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>729737</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Muralidharan Nair</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this project is to increase overall crop health and production with the proposed smartphone compatible crop health sensor. More specifically, crop disease remains a significant threat to global food security, and with the ability to perform pre-visual screening, the proposed platform enables cost efficient, quantitative detection of crop disease, empowering farmers to take action to reduce disease impact. Initially the sensor platform provides a timely solution for cost effective, high throughput, and pre-visual screening of citrus Huanglongbing disease (HLB), enabling citrus growers to effectively manage HLB in their groves and remain profitable. The pre-visual, cost efficient and quantitative detection capability also translates to detection of diseases in other crops. In addition, the sensing technology developed can be used for quantitative assessment of crop nutrient and water stress, enabling farmers to optimally manage crop health, providing a means to optimize profits, increase crop yields, and reduce environmental impacts. This is critical to ensuring national and global food security, and protecting national water supplies by reducing eutrophication of water bodies due to misdiagnosis and mistreatment of crop stressors.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase 2 project is built upon Atoptix?s patented compact self-referenced spectrophotometer design, which reduces the size and cost of an optical spectrophotometer to enable field use and integration with smartphone technology. For each spectral measurement, the sensor simultaneously records a self-referenced spectrum, retaining the sensitivity and reliability generally reserved for costlier and bulkier spectrophotometer designs, but also enabling a non-technical user to collect data in the field at the push of a button. Distinct from surface reflection methods, the proposed sensor enables pre-visual detection of a pathogen, as it only captures light that has penetrated inside of a leaf and interacted with internal structures. By lowering the cost of the optical sensor through patented designs, increasing ease of use via a smartphone, and joining the precision of optical spectroscopy with machine learning based analytics, the proposed sensor can enable widespread adoption by growers in disease prone regions, where community wide screening is key for protecting grower assets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831224</AwardID>
+<Investigator>
+<FirstName>Perry</FirstName>
+<LastName>Edwards</LastName>
+<EmailAddress>perry@atoptix.com</EmailAddress>
+<StartDate>09/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Atoptix, Inc.</Name>
+<CityName>State College</CityName>
+<ZipCode>168036602</ZipCode>
+<PhoneNumber>8148087056</PhoneNumber>
+<StreetAddress>200 Innovation Blvd</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1591</Code>
+<Text>STTR PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4080</Code>
+<Text>ADVANCED COMP RESEARCH PROGRAM</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8034</Code>
+<Text>Hardware Components</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8035</Code>
+<Text>Hardware Devices</Text>
+</ProgramReference>
+</Award>
+</rootTag>

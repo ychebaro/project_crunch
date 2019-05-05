@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Nonlinear biochemical switches for molecular fingerprinting</AwardTitle>
+<AwardEffectiveDate>06/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2024</AwardExpirationDate>
+<AwardAmount>502641</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Screening for biomolecules (DNA, RNA, and proteins) is vital for scientists and clinicians.  Current tests rely on difficult and expensive techniques that are not suitable for clinical use.  The proposed work will create  a new class of diagnostic tests. They will provide a yes or no response to the presence of small amounts of specific biomolecules.  The methods developed could make complex laboratory techniques available to researchers and medical professionals who do not have access to advanced equipment.  Simple diagnostic devices will be made with paper crafting tools. Making these tests affordable could significantly improve health care in areas with limited resources. Incorporating these paper devices into crafting projects that link art, design, science and engineering will engage students in STEM.  Educational kits containing these devices will be distributed to rural Montana schools.&lt;br/&gt;&lt;br/&gt;Information processing in natural systems, such as cell-signaling and genetic regulation, rely on highly nonlinear biochemical reactions. Subthreshold signals will not elicit a response in the system. Synthetic biochemical switches that identify proteins and nucleic acids exist but typically require large input concentrations of target molecules. This is not suitable for many analytical assays and molecular diagnostics. This project will investigate cooperative signal amplification to produce high gain nonlinear reactions triggered by specific RNA, DNA, and protein target molecules. Nonlinear DNA amplification sources will be incorporated with competitive sinks that degrade signals produced at a low rate. The resulting amplification switches can condense abundance or relative abundance of two target molecules into a simple on/off readout. They are designed to be simple, rapid, robust, and specific. The overall goal of this NSF CAREER project is to design universal biochemical switches to rapidly produce a robust molecular fingerprint of specific proteins and nucleic acids using binary readouts. These switches will be validated in 1) high throughput single cell analysis of small RNA and 2) paper-based multiplexed microarrays for simultaneous identification of RNA and proteins.  &lt;br/&gt;&lt;br/&gt;This CAREER award is jointly funded by the Cellular and Biochemical Engineering Program of the Chemical, Bioengineering, Environmental, and Transport Systems Division, and by the Established Program to Stimulate Competitive Research (EPSCoR).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847245</AwardID>
+<Investigator>
+<FirstName>Stephanie</FirstName>
+<LastName>McCalla</LastName>
+<EmailAddress>stephanie.mccalla@coe.montana.edu</EmailAddress>
+<StartDate>12/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Montana State University</Name>
+<CityName>BOZEMAN</CityName>
+<ZipCode>597172470</ZipCode>
+<PhoneNumber>4069942381</PhoneNumber>
+<StreetAddress>309 MONTANA HALL</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Montana</StateName>
+<StateCode>MT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>9150</Code>
+<Text>EPSCoR Co-Funding</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Toward Quantitative Understanding of Tropical Cyclone Intensification: A physically Based Dynamical System Model Approach</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardAmount>123264</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020105</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Chungu Lu</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Over the last few decades forecasts of the tracks of hurricanes, also referred to as tropical cyclones (TCs), have improved steadily due to increased computer power and better forecast models. And yet, there has been little advancement in our ability to predict TC intensity.  This is a particular concern for coastal communities, as preparations for a landfalling hurricane depend as much on its predicted intensity as they do on the track forecast.  A key reason for the limited advancement is that we lack a basic understanding of the processes that control TC intensity.&lt;br/&gt;&lt;br/&gt;This project addresses the intensity question by developing a dynamical system model which captures essential ingredients of intensity evolution.  A novel feature of the model is a dynamical efficiency parameter which governs energy conversion rates in the TC core, and is determined by both internal TC processes and TC interactions with the large-scale environment. Results from the research will help quantify contributions of various factors to TC intensity change, and also provide a physically based model for intensity prediction. &lt;br/&gt;&lt;br/&gt;The work has broader impacts due to the societal value of work leading to improvements in intensity predictions for landfalling TCs.  The project also provides support and training to a graduate student, and research results will be incorporated into the the PI's classroom teaching.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/28/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/28/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834300</AwardID>
+<Investigator>
+<FirstName>Yuqing</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>yuqing@hawaii.edu</EmailAddress>
+<StartDate>01/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222234</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1525</Code>
+<Text>PHYSICAL &amp; DYNAMIC METEOROLOGY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

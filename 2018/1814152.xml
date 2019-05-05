@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF-BSF: III: Small: Collaborative Research: Databases Meet Computational Social Choice</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>265214</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James French</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Social choice underlies the equitable and efficient operation of a society. How does one aggregate preferences of individuals, arriving at a society-wide consensus? This question has been the subject of intense debate throughout history, dating as far back as ancient Greece, and, in the past two decades, has led to the development of computational social choice - an interdisciplinary area of research and practice that combines insights from mathematics, logic, economics, and computer science. One of the main foci of computational social choice are the algorithmic aspects of determining actual or potential winners in a poll or in an election. Moreover, dealing with incompleteness and uncertainty (an inherent characteristic of polling) is an important challenge confronted by computational social choice. In recent years, the data management community embarked on an investigation of preference databases, which extend traditional databases by treating preferences on a par with relational data. This project will bring forth a foundational and systems research agenda that will create bridges between the computational social choice and the data management communities. The main aim of this project is to develop a unifying framework that brings together preferences, rules, outcomes, contextual information, and database query languages.&lt;br/&gt;&lt;br/&gt;This project will enrich the kinds of data analysis tasks that are currently supported by computational social choice methods to include context, going beyond determining winners, and into reasoning about positions and issues that the alternatives represent, as well as information about those choosing. To this effect, this project will develop a query language that will enhance traditional database query languages with special operators for voting rules and winners, thus making it possible to study social choice problems in the context of additional information about voters, candidates, and issues. Furthermore, this language will support sophisticated queries about incomplete or uncertain preferences, rules, and winners in the relational context. Rigorous semantics of queries in this language will be provided and fundamental algorithmic problems, such as query evaluation and reasoning about constraints, will be investigated. The techniques developed in this project will be experimentally evaluated in a query engine prototype using real data sets. By establishing a technical connection between computational social choice and data management and by developing a unifying framework, the computational social choice community will have access to a plethora of methods for managing incomplete and uncertain information that were developed by the database community.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1814152</AwardID>
+<Investigator>
+<FirstName>Phokion</FirstName>
+<LastName>Kolaitis</LastName>
+<EmailAddress>kolaitis@ucsc.edu</EmailAddress>
+<StartDate>07/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Santa Cruz</Name>
+<CityName>Santa Cruz</CityName>
+<ZipCode>950641077</ZipCode>
+<PhoneNumber>8314595278</PhoneNumber>
+<StreetAddress>1156 High Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>014Z</Code>
+<Text>NSF and US-Israel Binational Science Fou</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7364</Code>
+<Text>INFO INTEGRATION &amp; INFORMATICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

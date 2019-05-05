@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Bias Modeling and Estimation of Networked Transportation Data</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>182000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07030000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Civil, Mechanical, &amp; Manufact Inn</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Georgia-Ann Klutke</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award will contribute to national prosperity and economic welfare by advancing data analytics applied to transportation systems.  While big data are increasingly used in transportation and other disciplines in science and engineering, the collected data may come with errors and biases, and therefore may not provide an authentic representation of the entire population.  Biased data can lead to ineffectual policies and suboptimal decisions for transportation infrastructure related investment, planning, and operations.  As the transportation field undergoes a major transformation towards smart and autonomous systems, data quality is critical in ensuring that public welfare results from these investments. This award supports a comprehensive investigation and fundamental understanding of the sources, taxonomy, and modeling approaches of data biases and the PIs will develop novel solutions to address the issues. The project team will work closely with transportation practitioners to test and validate the findings of this research, and transfer scientific knowledge to planning and operation practices. The award also supports efforts to broaden STEM interest in engineering and data sciences through updated curricula and virtual seminars, and to provide opportunities for underrepresented communities.&lt;br/&gt;&lt;br/&gt;This research will develop theories, models, and algorithms of a novel NETwork-based, Data-Assisted Transportation Analysis (NetData) framework for data bias modeling and estimation, which can recognize and utilize the underlying network structure and processes in the data. The NetData framework will explicitly capture bias and integrate data with proper network models, in both deterministic and stochastic settings and under realistic network considerations such as dynamic and multimodal networks. This research fills an important gap in transportation data sciences and practice in modeling and addressing data bias. The analytical framework leverages and extends state-of-the-art techniques from transportation network science, stochastic optimization, and data science. It will produce algorithms to integrate data from multiple sources to help conduct more accurate and reliable analysis of travel patterns and decisions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1825873</AwardID>
+<Investigator>
+<FirstName>Yueyue</FirstName>
+<LastName>Fan</LastName>
+<EmailAddress>yyfan@ucdavis.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Davis</Name>
+<CityName>Davis</CityName>
+<ZipCode>956186134</ZipCode>
+<PhoneNumber>5307547700</PhoneNumber>
+<StreetAddress>OR/Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1631</Code>
+<Text>CIVIL INFRASTRUCTURE SYSTEMS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>029E</Code>
+<Text>INFRASTRUCTURE SYSTEMS MGT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>036E</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1057</Code>
+<Text>CIS BASE RESEARCH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>CVIS</Code>
+<Text>CIVIL INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

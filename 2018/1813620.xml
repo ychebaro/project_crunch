@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Community Input on Long-Term Deployments of Resident Autonomous Undersea Vehicles; University of Washington; April, 2018</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardAmount>49979</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace Binkley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides funding to support a workshop that will focus on getting community input on long-term deployments of Resident-Autonomous Undersea vehicles. (R-AUVs). The workshop will look at the technical challenges and potential benefits of deploying a highly capable, next-generation R-AUV on the Ocean Observatories Initiative (OOI) Cabled Array at Axial Seamount on the Juan de Fuca Ridge off Washington-Oregon. The workshop will serve as a forum for the open exploration of operational concepts and application spaces uniquely suited to R-AUV systems, with a goal of defining a roadmap leading to the deployment of such systems for a broad range of users. The proposed 2.5 day workshop will be held at the University of Washington in April 2018.</AbstractNarration>
+<MinAmdLetterDate>12/12/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>12/12/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1813620</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Delaney</LastName>
+<EmailAddress>jdelaney@u.washington.edu</EmailAddress>
+<StartDate>12/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dana</FirstName>
+<LastName>Manalang</LastName>
+<EmailAddress>danam@apl.uw.edu</EmailAddress>
+<StartDate>12/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Marburg</LastName>
+<EmailAddress>amarburg@apl.washington.edu</EmailAddress>
+<StartDate>12/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anuscheh</FirstName>
+<LastName>Nawaz</LastName>
+<EmailAddress>anuscheh@uw.edu</EmailAddress>
+<StartDate>12/12/2017</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Washington</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981950001</ZipCode>
+<PhoneNumber>2065434043</PhoneNumber>
+<StreetAddress>4333 Brooklyn Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1680</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7398</Code>
+<Text>OCEAN OBSERVATORY SCI &amp; TECH</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

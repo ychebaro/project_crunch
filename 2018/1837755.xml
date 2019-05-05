@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NSF Student Travel Grant for 2018 ACM Conference on Computer and Communications Security (ACM CCS)</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>25000.00</AwardTotalIntnAmount>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides travel support for students attending the 25th ACM (Association for Computing Machinery) Conference on Computer and Communications Security (CCS), to be held in Toronto, Canada from October 15, 2018 to October 19, 2018. This conference is the flag-ship annual conference of the Special Interest Group on Security, Audit and Control (SIGSAC) of the ACM, and brings together information security researchers, practitioners, developers, and users from all over the world to explore cutting-edge ideas and results. Today's students are tomorrow's leaders, and providing them with an opportunity to enhance their skill sets is a direct investment towards a better future. Students benefit from the opportunity to showcase their research and to network with established researchers in the area. The conference organizers actively encourage women and underrepresented minorities to attend CCS, aiming to foster diversity in the community.&lt;br/&gt;&lt;br/&gt;ACM CCS facilitates quick and wide dissemination of cutting-edge research results and ideas in computer and communication security. CCS achieves this by hosting several technical sessions, poster and demo sessions, tutorials, and workshops. Leading researchers are invited each year for keynote talks. Researchers also present seminars on some of the most intriguing and pressing challenges in the discipline and open up avenues for further work in these areas.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1837755</AwardID>
+<Investigator>
+<FirstName>Hassan</FirstName>
+<LastName>Takabi</LastName>
+<EmailAddress>takabi@unt.edu</EmailAddress>
+<StartDate>06/05/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Texas</Name>
+<CityName>Denton</CityName>
+<ZipCode>762035017</ZipCode>
+<PhoneNumber>9405653940</PhoneNumber>
+<StreetAddress>1155 Union Circle #305250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

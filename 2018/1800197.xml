@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Controlling the energy flow in multi-component plasmonic structures for selective catalysis</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>446773</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Moloy</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Catalysts are materials that can activate a chemical transformation. The ability of catalysts to select a desired chemical product while avoiding undesired side reactions is a critical, but difficult objective. Making meaningful contributions in this direction would have a large impact on the field of chemical catalysis and across the field of chemistry generally. It was suggested recently that when illuminated with low intensity ultraviolet-visible light (i.e., from the Sun), small particles of silver and gold known as plasmonic metal nanoparticles can efficiently deposit energy into specific chemical transformations. This is in contrast to conventional, thermally-driven chemical reactions on metals where energy is indiscriminately distributed among every available reaction. In this project, Dr. Suljo Linic of the University of Michigan is developing an understanding of which physical properties govern the energy flow in plasmonic catalysts and how to control these properties. Developing these insights is critical for a targeted design of selective catalysts for specific chemical transformations. Dr. Linic is also engaged in a wide range of educational activities that build upon his research to promote engagement of students in science, technology, engineering and mathematics (STEM) disciplines. These activities include reaching out to high school and undergraduate students from underrepresented groups, as well as less conventional strategies aimed at improving the utilization of the World Wide Web in reaching students and the general public.&lt;br/&gt;&lt;br/&gt;With funding from the Chemical Catalysis Program of the Chemistry Division, Dr. Linic is developing a fundamental understanding of how electromagnetic energy flows through multicomponent plasmonic metal nanostructures. He is working on realizing the concept that light energy can be used to selectively activate specific chemical transformations by designing and controlling optical and electronic properties of multimetallic plasmonic nanostructures. He is testing the hypothesis that this objective can be accomplished by multicomponent plasmonic nanostructures with a relatively large plasmonic (Ag or Au) core (10s of nm), designed to harvest the resonant light energy, surrounded by a thin shell (~1 nm range) of a different material designed to drive specific chemical transformations using the harvested energy. He postulates that these structures would allow for complete control over the resonant energy flow at the nanoscale, funneling it efficiently into desired chemical transformations. He is employing a slate of characterization techniques including atomistic characterization of the geometric structure of the nanostructures, analysis of electronic and optical properties of the multicomponent plasmonic materials as well as vibrational and reaction spectroscopies.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800197</AwardID>
+<Investigator>
+<FirstName>Suljo</FirstName>
+<LastName>Linic</LastName>
+<EmailAddress>linic@umich.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8398</Code>
+<Text>Hydrocarbon Conversion</Text>
+</ProgramReference>
+</Award>
+</rootTag>

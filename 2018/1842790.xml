@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  6crickets Automatic Schedule Recommendation</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Peter Atherton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to disrupt the 1000 hours per child per year where American children have no school and no parents and deserve access to the best enrichment activities. The company plans to build a much-needed technical infrastructure for schools, enrichment providers, and parents. By automating and simplifying the process of providers supplying, parents consuming and schools hosting enrichment activities, the proposed system will remove significant friction and create an efficient market. A key invention is the company's Automatic Schedule Recommendation System which recommends a schedule of classes for a family of one or more children and satisfies constraints such as ages and driving distance, maximizes desirable attributes such as minimal driving and diversity in classes across time, and leverages historical data like classes taken in the past and social data such as classes enjoyed by friends and classmates, to make effective recommendations. The proposed technology removes the most significant friction during parents' purchases of enrichment classes, namely, piecing together a class schedule from classes across different providers. This project is the first interdisciplinary research that strategically combines algorithms from the fields of optimizations and recommender systems to solve the problem and achieve scalability and efficiency.&lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase I project will design, implement and evaluate an Automatic Schedule Recommendation System. Existing recommender systems are insufficient because they largely recommend a single item to a single user; this application requires that a sequence of items (namely, a sequence of classes that fit in a coherent schedule) be recommended and coordinated among a group of users (i.e. children in the same family or set of friends). Existing class scheduling algorithms are insufficient because they find optimal schedules using known preferences; in this problem there is a need to predict preferences. The company will design a fully-automatic schedule recommendation system that predicts the suitability of each session to each user using machine learning techniques and aggregates these predictions over time to propose full schedules that are most appropriate for a parent and satisfy multi-dimensional constraints. The resulting system will be deployed to the company's users along with extensive evaluation of its efficacy.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842790</AwardID>
+<Investigator>
+<FirstName>Helen</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>helen@6crickets.com</EmailAddress>
+<StartDate>12/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Goodwintercrop Inc.</Name>
+<CityName>Bellevue</CityName>
+<ZipCode>980051379</ZipCode>
+<PhoneNumber>4256106035</PhoneNumber>
+<StreetAddress>3225 126th Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+</Award>
+</rootTag>

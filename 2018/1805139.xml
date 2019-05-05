@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Combining metabolic engineering and synthetic biology to engineer natural product synthesis in oleaginous yeast</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>298259</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Plants produce chemicals with medicinal properties. Isolating plant natural products (PNPs) from native sources is difficult due to low concentrations. Chemical synthesis is often not economical because of the structural complexity of PNPs. This project will modify yeast to produce a PNP with anti-cancer properties. This molecule represents a class of PNPs with therapeutic value. If yeast can produce high concentrations of PNPs, these drugs could become more affordable. Outreach activities are also planned. Research opportunities will be offered to minority undergraduates. Teaching demonstrations and science fair presentations will be made in Baltimore and the DC area. The goal of these efforts will be to recruit female high school students and underrepresented minorities to pursue STEM careers. &lt;br/&gt;&lt;br/&gt;To improve the cost-competitiveness of PNP production, the project will address cofactor balance (ATP, NADPH, CoASH et al) and maximize the carbon flow and electron reduction efficiency towards the target pathway. This interdisciplinary approach combines genetic engineering, gene regulation, adaptive lab evolution, tolerance phenotyping, metabolic profiling, and cellular compartmentalization engineering. Biochemical and genetic strategies will abolish HMG-CoA pathway negative feedback control, improve metabolite trafficking, and overexpress plant P450 enzymes.  These efforts should improve pathway efficiency and diversify the chemical structure of PNPs. Our strategy will target pathway yield and the total cost of manufacturing. The goal is to build a cost-competitive cyclic triterpenoids biomanufacturing platform with significantly reduced manufacturing cost. This project will provide a testbed for engineering Y. lipolytica and expanding nature's capacity to produce complex PNPs with pharmaceutical values for clinical trials and treating emerging diseases.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805139</AwardID>
+<Investigator>
+<FirstName>Peng</FirstName>
+<LastName>Xu</LastName>
+<EmailAddress>pengxu@umbc.edu</EmailAddress>
+<StartDate>06/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland Baltimore County</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212500002</ZipCode>
+<PhoneNumber>4104553140</PhoneNumber>
+<StreetAddress>1000 Hilltop Circle</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+</Award>
+</rootTag>

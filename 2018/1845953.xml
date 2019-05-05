@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER:  Elucidating the spatiotemporal dynamics of the cyanobacterial circadian clock</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>736369.00</AwardTotalIntnAmount>
+<AwardAmount>330239</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>MCB</Abbreviation>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steve Clouse</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>We live on a planet that rotates on its axis, creating daily and very predictable changes in our environment; including fluctuations in light intensity, temperature and humidity. In order to cope with these changes many organisms have evolved circadian rhythms, which allow them to coordinate their biological activity over the course of the day. Circadian rhythms, driven by 24-hour biological clocks, are oscillations in biological activity that peak approximately once per day, and are found ubiquitously throughout nature. This project will elucidate how the circadian clock functions in cyanobacteria, which are the simplest organisms and the only bacteria known to possess a robust circadian clock. The aim of this project is to gain a near comprehensive understanding of the cyanobacterial circadian clock, and help set the foundation for leveraging these bacteria for broad ranging applications including bioremediation, biotechnology, and ecological/environmental issues. Additionally the project will provide research training opportunities for students both by providing undergraduate and graduate research assistantships, but will also reach a greater number of students by introducing an element of inquiry-based research into laboratory modules for both introductory and advanced undergraduate courses. These experiences will provide students with hands-on experience in experimental biology, and also the repetitive and progressive development of concepts will allow students to gain a deeper understanding of the material. Moreover, students will present the results of their semester long projects to local elementary and middle school students to promote STEM in K-12 education in the local community. &lt;br/&gt;&lt;br/&gt;The project aims to investigate how the core oscillator of  the cyanobacterium, Synechococcus elongatus PCC 7942,  is integrated into a three-dimensional cell and how changes in the spatiotemporal dynamics of the oscillator contribute to the synchronization and robustness of the circadian clock as well as its integration with other cellular processes. While it is known that the subcellular localization and co-localizations of clock proteins that vary in space and time contribute a level of complexity to the circadian clock mechanism, very little is understood about the biological significance of the observed spatiotemporal dynamics occurring with 24-hour periodicity. The research aims to fill in these gaps by investigating how the changes in subcellular localization are achieved and how spatiotemporal changes in the extended clock network contribute to clock function, by using a combination of molecular genetics, biochemistry and cell biology including fluorescence microscopy to determine the subcellular localization of members of the extended clock network and time-lapse imaging to investigate how the inheritance of clock proteins during cell division contributes to the robustness of the circadian clock and the inheritance of timestamps during cell division. A short list of candidates, identified by immunoprecipitation mass-spectrometry analysis, has been identified for possible contributions to promoting changes in the subcellular localization of the core oscillator proteins and preliminary deletion or depletion of these genes results in various circadian defects. None of these candidates have been previously implicated in the circadian mechanism and thus represent novel avenues for understanding how the clock functions in vivo and how the clock is integrated with various cellular processes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/11/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/11/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845953</AwardID>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>Cohen</LastName>
+<EmailAddress>scohen8@calstatela.edu</EmailAddress>
+<StartDate>02/11/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>California State L A University Auxiliary Services Inc.</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900324221</ZipCode>
+<PhoneNumber>3233433648</PhoneNumber>
+<StreetAddress>5151 State University Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

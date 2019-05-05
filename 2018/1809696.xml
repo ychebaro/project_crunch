@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: In situ Diffraction and Cohesive-Zone Studies of the Fatigue-Crack-Growth Behavior in Mg Alloys</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Gary Shiflet</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical Abstract:&lt;br/&gt; &lt;br/&gt;The accelerated adoption of magnesium alloys as structural components in the automobile and aerospace industry is driven by their unique properties of low density, high strength-to-weight ratio, and high specific stiffness. However, the fatigue properties of magnesium alloys and associated failure mechanisms have not been well-characterized, which severely limits the technological viability of these lightweight alloys. This award supports the fundamental research to provide the microstructural-level understanding of the failure processes, which ultimately govern the fatigue life of magnesium alloys. The research will pave the way towards the intelligent design of advanced, lightweight structural alloys with the improved fatigue life. In the broader sense, this research will impact the aerospace and automotive industries and would help U.S. improve its manufacturing competitiveness. The unique experimental and modeling tools will help enrich the current course curriculum on mechanics and materials at both the University of Tennessee and University of Illinois. A demonstrative toolkit will expose high school students at both universities to concepts of fracture and failure, and how crack stopping mechanisms can be introduced to improve fatigue life.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Technical Abstract:&lt;br/&gt;&lt;br/&gt;The goal of this research is to couple fatigue-crack-growth studies of magnesium alloys, with in situ nondestructive measurements and micromechanical modeling investigations, which will establish the connection between microscopic failure processes and macroscopic fatigue-crack-growth properties. The primary objective is to identify the roles of the surrounding plasticity and crack-tip process zones in the resistance to fatigue-crack growth of magnesium alloys. Within the surrounding plastic zone, in situ neutron-diffraction measurements and high-energy synchrotron X-ray diffraction techniques will provide the unprecedented information on plastic anisotropy, twin polarity, flow non-normality, and texture evolution in magnesium alloys under the arbitrary stress multiaxiality. Within the process zone, which is inaccessible to experimental measurements, a novel nonlinear field projection scheme will be used to inversely reconstruct the cohesive zone laws for fatigue-crack growth uniquely from the surrounding deformation fields that are measured by the diffraction experiments. By linking top-down stress analyses with bottom-up failure mechanisms at inter- and intra-granular scales, this fundamental research can lead to predictive models based on microstructural understanding with which materials scientists can utilize to improve the fatigue life of advanced structural alloys.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1809696</AwardID>
+<Investigator>
+<FirstName>Huck Beng</FirstName>
+<LastName>Chew</LastName>
+<EmailAddress>hbchew@illinois.edu</EmailAddress>
+<StartDate>07/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Urbana-Champaign</Name>
+<CityName>Champaign</CityName>
+<ZipCode>618207406</ZipCode>
+<PhoneNumber>2173332187</PhoneNumber>
+<StreetAddress>1901 South First Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1771</Code>
+<Text>METAL &amp; METALLIC NANOSTRUCTURE</Text>
+</ProgramElement>
+</Award>
+</rootTag>

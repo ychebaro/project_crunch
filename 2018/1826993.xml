@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CC* Networking Infrastructure: North Dakota Internet Leadership Level Infrastructure</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>495524</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kevin L. Thompson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project creates data networking and storage infrastructure dedicated to scientific research and education at North Dakota State University (NDSU) and the University of North Dakota (UND). These network upgrades prioritize science data movement, allowing both institutions to more effectively participate in collaborative research across the globe. The project also prepares both schools for much higher capacity connectivity through North Dakota's research and education (R&amp;E) state network. The networking upgrades enhance efforts to provide a strong and stable workforce equipped with the skills and knowledge necessary to support contemporary advanced research. Examples include the current North Dakota state EPSCoR Track I project, collaborations between researchers at NDSU/UND and the other North Dakota institutions and Tribal College schools, and student internship programs using the research computing facilities on each campus. &lt;br/&gt;&lt;br/&gt;100Gbps connectivity is established from campus HPC systems to the campus network border. Science drivers for this project include Precision Agriculture and Digital Agriculture initiatives studying crop and livestock data collected using drone and satellite technologies; multi-campus research collaboration on 100TB class datasets used by UND?s Center for Regional Climate Studies; and predictive design of materials based in NDSU?s Materials and Nanotechnology program. These enable collaborations between researchers in chemistry, biochemistry, computer science, coatings and polymeric materials and mechanical engineering across the globe. The networking upgrades follow the scienceDMZ model and include perfsonar based end-to-end testing capabilities.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826993</AwardID>
+<Investigator>
+<FirstName>Dana</FirstName>
+<LastName>Skow</LastName>
+<EmailAddress>dane.skow@ndsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aaron</FirstName>
+<LastName>Bergstrom</LastName>
+<EmailAddress>aaron.bergstrom@email.und.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marc</FirstName>
+<LastName>Wallman</LastName>
+<EmailAddress>marc.wallman@ndsu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>North Dakota State University Fargo</Name>
+<CityName>FARGO</CityName>
+<ZipCode>581086050</ZipCode>
+<PhoneNumber>7012318045</PhoneNumber>
+<StreetAddress>Dept 4000 - PO Box 6050</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Dakota</StateName>
+<StateCode>ND</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8080</Code>
+<Text>Campus Cyberinfrastrc (CC-NIE)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

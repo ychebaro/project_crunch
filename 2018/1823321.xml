@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRI: II-NEW: HoloCamera: An Immersive Gigapixel Cyberinstrument for Creating Precision Virtual Environments</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>999885</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tonya Smith-Jackson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Title: HoloCamera: An Immersive Gigapixel Cyberinstrument for Creating Precision Virtual Environments &lt;br/&gt;&lt;br/&gt;Virtual worlds need high-quality realism for effective use. The HoloCamera will meet these needs.  Using several cameras and a computer cluster it will directly create dynamic virtual worlds. Users will be able to freely move about and observe these virtual worlds as if they were actually present there.&lt;br/&gt;&lt;br/&gt;The HoloCamera will advance the state of the art in light field capture and rendering, high-performance computing, and embedded signal processing. The facility will aid medical education and training, interactive imitation learning for robots, and capturing fluent sign-language use in native signers. Virtual and augmented reality offer exciting ways to educate students, particularly those from underrepresented groups in Science, Technology, Engineering and Mathematics (STEM) disciplines.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823321</AwardID>
+<Investigator>
+<FirstName>Matthias</FirstName>
+<LastName>Zwicker</LastName>
+<EmailAddress>zwicker@cs.umd.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amitabh</FirstName>
+<LastName>Varshney</LastName>
+<EmailAddress>varshney@cs.umd.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Hernisa</FirstName>
+<LastName>Kacorri</LastName>
+<EmailAddress>hernisa@umd.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Ja'Ja'</LastName>
+<EmailAddress>joseph@umiacs.umd.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shuvra Shikhar</FirstName>
+<LastName>Bhattacharyya</LastName>
+<EmailAddress>ssb@umd.edu</EmailAddress>
+<StartDate>08/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7359</Code>
+<Text>COMPUTING RES INFRASTRUCTURE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

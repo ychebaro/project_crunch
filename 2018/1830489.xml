@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ATD: New Approaches for Analyzing Spatiotemporal Data for Anomalies</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>124998.00</AwardTotalIntnAmount>
+<AwardAmount>101121</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leland Jameson</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>High population density urban areas have increasingly been the targets of terrorism in recent years due to the possibility of inflicting a large number of casualties in a crowded environment and causing high impact disruption especially in the outdoor environment. The project develops new approaches to complement and validate results produced by existing approaches based on video surveillance and human population density estimation via cellphone usage to monitor anomalies and threat level in urban area. It will benefit agencies and local governments that require the planning and allocation of resources to secure locations with higher levels of threat in a timely manner. The use of the data on shared transportation (e.g., bikesharing, taxi) to monitor anomalies and threats provides additional coverage of an urban area and could capture "blindspots" not covered by the other data sources. Towards this end, the success of a terrorist attack in a city can be significantly reduced. &lt;br/&gt; &lt;br/&gt;The goals of the three-year project are to (i) develop a new data-driven hybrid differential equations (DE) modeling approach for object (e.g., human, bike, etc.) density and flow estimation to model human dynamics, and (ii) develop a real-time anomaly detection algorithm utilizing the DE model and real-time observed data to identify anomalous crowd density and traffic in an urban environment. The main spatiotemporal data used in this project is the publicly available bikesharing data from three US cities. Due to the interdependency of locations when modeling human dynamics, spatiotemporal data are transformed into time-evolving graphs as the data representation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830489</AwardID>
+<Investigator>
+<FirstName>Shen Shyang</FirstName>
+<LastName>Ho</LastName>
+<EmailAddress>hos@rowan.edu</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Min</FirstName>
+<LastName>Wang</LastName>
+<EmailAddress>wangmin@rowan.edu</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rowan University</Name>
+<CityName>Glassboro</CityName>
+<ZipCode>080281701</ZipCode>
+<PhoneNumber>8562564057</PhoneNumber>
+<StreetAddress>Office of Sponsored Programs</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>046Y</Code>
+<Text>ATD-Algorithms for Threat Dete</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>S100</Code>
+<Text/>
+</ProgramElement>
+<ProgramReference>
+<Code>6877</Code>
+<Text>ALGORITHMS IN THREAT DETECTION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

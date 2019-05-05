@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Space Weather Operations-to-Research (O2R): Physics-Based Extension of the Wang-Sheeley-Arge (WSA) Model Capabilities</AwardTitle>
+<AwardEffectiveDate>03/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>02/29/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>249353.00</AwardTotalIntnAmount>
+<AwardAmount>249353</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020200</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Irfan S. Azeem</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This is a 1-year pilot research program to extend the current operational capability of forecasting the solar wind, which drives space weather in the Earth's environment. The research will enhance understanding of the fundamental processes in the solar wind and allow the further Research to Operation (R2O) transition to a predictive tool to simulate and forecast dynamical Space Weather Events. The research project will also provide education and training opportunities for students in Space Weather.&lt;br/&gt;&lt;br/&gt;This is a 1-year pilot research program to extend the current operational capability of forecasting the ambient state of the solar wind. The Wang-Sheeley-Arge (WSA) model is currently used for operational forecasts of the solar wind. The semi-empirical WSA model provides a distribution of the solar wind parameters at a spherical interface between the Solar Corona (SC) and Inner Heliosphere (IH) based on the latest synoptic map for the solar magnetic field. The research will develop a physics-based, self-consistent model to understand and forecast the ambient state of the Solar Corona (SC). The research will (1) enhance understanding of the fundamental processes, (2) improve our capability to model and forecast the ambient state in both SC and IH, and (3) allow the further Research to Operation (R2O) transition to a predictive tool to simulate and forecast dynamical Space Weather Events. The new model for the SC based on the Alfven wave turbulence will be delivered to the Community Coordinated Modeling Center (CCMC) to enable broad use by the heliophysics community. Realtime runs of the model at CCMC will be available to observers, who can use these models results to interpret the observational data. The research project will also provide education and training opportunities for students.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/26/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/26/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836821</AwardID>
+<Investigator>
+<FirstName>Tamas</FirstName>
+<LastName>Gombosi</LastName>
+<EmailAddress>tamas@umich.edu</EmailAddress>
+<StartDate>02/26/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Igor</FirstName>
+<LastName>Sokolov</LastName>
+<EmailAddress>igorsok@umich.edu</EmailAddress>
+<StartDate>02/26/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8089</Code>
+<Text>Space Weather Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>0000</Code>
+<Text>UNASSIGNED</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8092</Code>
+<Text>Space Weather Research</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>OTHR</Code>
+<Text>OTHER RESEARCH OR EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

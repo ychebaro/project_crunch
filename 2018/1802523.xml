@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Exploring the Feasibility of System Support for Managing Risk in Cloud Markets</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>300000.00</AwardTotalIntnAmount>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Cloud computing has become the foundation of our information-based economy, providing  the computing power necessary for advances in transportation, energy, communication, healthcare, science, and entertainment. Early cloud platforms were simple, requiring users to choose from a small number of servers "on-demand" for a fixed per-hour price. However, modern cloud platforms are evolving into full-fledged markets that offer servers under a range of complex contracts that expose applications to different forms of risk, such as the risk of price increases, server revocations, or server shortages.  By offering such contracts, cloud platforms can increase their infrastructure's utilization, revenue, and energy-efficiency, while cloud users can lower their costs by tailoring their contracts to match their applications' requirements.  Unfortunately, given the complexity of cloud contracts and the relationship between risk, application correctness, and performance, developing risk-aware applications represents a significant challenge. To address the challenge, this project will explore the feasibility of system support for managing risk in cloud markets by adapting and extending concepts from economics and finance. A key goal of the project is to elevate risk management to a first-class systems design principle. &lt;br/&gt;&lt;br/&gt;The project includes multiple broader impacts. By enabling better risk management, cloud platforms can significantly increase their utilization and energy-efficiency, while also lowering users' costs. The project will incorporate modules on cloud economics and managing risk in cloud platforms into undergraduate and graduate seminars, which will relate it to core concepts in operating systems, networking, and distributed systems. The researchers also plan to integrate cloud economics topics from the project into seminars on cloud computing for aspiring college students they regularly give. As part of the project's data management plan, the investigators will also collect, aggregate, and archive real-time market data from public cloud platforms and make it publicly available through a web-based data repository.  Finally, the project will emphasize the recruitment of students from under-represented groups.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1802523</AwardID>
+<Investigator>
+<FirstName>Prashant</FirstName>
+<LastName>Shenoy</LastName>
+<EmailAddress>shenoy@cs.umass.edu</EmailAddress>
+<StartDate>04/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Irwin</LastName>
+<EmailAddress>irwin@ecs.umass.edu</EmailAddress>
+<StartDate>04/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

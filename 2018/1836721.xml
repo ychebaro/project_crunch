@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>AccessATE: Making Community College Technician Education More Accessible for Everyone</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardTotalIntnAmount>2477761.00</AwardTotalIntnAmount>
+<AwardAmount>609752</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040100</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Virginia Carter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Research shows that including Universal Design concepts and accessibility standards makes learning resources more usable by those with disabilities and others, including non-native language speakers, low-literacy students, and seniors.  Including University Design concepts at the beginning of the development process can increase the effectiveness of websites, curriculum, documents, and other resources.  The Advanced Technological Education (ATE) program supports projects and centers that develop curricular materials, professional development materials, summer camps, and other resources for educating the skilled technical workforce. ATE Central archives materials developed by the ATE community and provides a open digital portal for finding and downloading these resources.  Having well-designed, accessible resources in the ATE Central archive will enable those who adapt and adopt these materials to reach the broadest possible audience thus broadening the reach of STEM education and opportunities for STEM employment.&lt;br/&gt;&lt;br/&gt;The AccessATE project will help ATE grantees (and other STEM educators) understand the need for accessibility, particularly as it relates to the deliverables of their ATE projects and centers.  It will provide them with support and solutions to meet these accessibility needs and challenges. Project deliverables will include: the AccessATE website, which will provide a platform and central data exchange point; an Accessibility Organization Directory; an Accessibility Tool Directory with a checklist to provide developers with points to consider and tasks to perform to ensure compliance of materials developed; and resources for accessible media creation and for supporting faculty in working with industry partners.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>10/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836721</AwardID>
+<Investigator>
+<FirstName>Donna</FirstName>
+<LastName>Lange</LastName>
+<EmailAddress>dalndp@rit.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rachael</FirstName>
+<LastName>Bower</LastName>
+<EmailAddress>bower@scout.wisc.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>Almasy</LastName>
+<EmailAddress>ealmasy@scout.wisc.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sam Catherine</FirstName>
+<LastName>Johnston</LastName>
+<EmailAddress>sjohnston@cast.org</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rory</FirstName>
+<LastName>Cooper</LastName>
+<EmailAddress>rcooper@pitt.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Wisconsin-Madison</Name>
+<CityName>MADISON</CityName>
+<ZipCode>537151218</ZipCode>
+<PhoneNumber>6082623822</PhoneNumber>
+<StreetAddress>21 North Park Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Wisconsin</StateName>
+<StateCode>WI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7412</Code>
+<Text>ADVANCED TECH EDUCATION PROG</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1032</Code>
+<Text>ADVANCED TECHNOLOGY EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>SMET</Code>
+<Text>SCIENCE, MATH, ENG &amp; TECH EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Chemoenzymatic Synthesis and Biochemical Studies of Glycosphingolipids</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>450000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tarek Sammakia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With funding from the Chemical Synthesis Program of the NSF Division of Chemistry, Dr. Zhongwu Guo of the University of Florida is developing a new, efficient, and widely applicable strategy for the synthesis of molecules called "glycosphingolipids" (GSLs). GSLs are components of the cell membrane and play a vital role in biological processes such as the regulation cell division, recognition,&lt;br/&gt;and adhesion, as well as nerve system development and drug resistance.  Abnormal GSLs were demonstrated to be closely associated with diseases such as cancer, bacterial and viral infections, diabetes, Alzheimer?s disease, and Fabry disease. Detailed investigations of GSLs are critical for understanding their fundamental functions and for the development of new biotechnologies. To this end, a major hurdle in understanding GSLs is obtaining pure and well-defined samples. In the current project, Dr. Guo is developing new strategies to make GSLs, as well as making GSL derivatives for use as tools to study their biochemical properties. This project explores the fundamental reactivity of GSLs in biology, especially diseases related to the human brain. Other activities supported by this award include undergraduate student engagement in scientific research.  New curriculum development targeted at improving chemical education, and interest in carbohydrate chemistry and glycobiology is also a focus of Dr. Guo's outreach and educational activities.  This project advances human health while supporting education at the interface of chemistry and biology.&lt;br/&gt;&lt;br/&gt;Dr. Guo's strategy for the synthesis of glycosphingolipids (GSLs) consists of enzymatic carbohydrate assembly of a substrate bearing a truncated lipid followed by chemoselective lipid elongation via olefin cross-metathesis and other reactions. This approach is addressing issues with the limited water solubility of the fully elongated GSLs and allowing for access to these compounds in pure and structurally defined forms. Dr. Guo is also applying this synthetic strategy to preparing GSL libraries that contain different glycans, lipids, and functional groups. He is employing the functionalized GSLs, especially those with fluorescent labels, to probe their distribution in the cell membrane. This project has a significant and broad impact on many scientific areas including GSL-related biology and biomedical sciences through the use of GSLs as molecular tools. The application of these tools is providing insights into the functions, functional mechanisms, and structure-activity relationships of GSLs. In addition, Dr. Guo is also actively engaged in establishing and enriching the Chemical Biology program at the University of Florida.  He train graduate and undergraduate students at the interface of chemistry and biology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800279</AwardID>
+<Investigator>
+<FirstName>Zhongwu</FirstName>
+<LastName>Guo</LastName>
+<EmailAddress>zguo@chem.ufl.edu</EmailAddress>
+<StartDate>07/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6878</Code>
+<Text>Chemical Synthesis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>068Z</Code>
+<Text>URoL-Understanding Rules of Life</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+</Award>
+</rootTag>

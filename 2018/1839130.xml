@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Commercial Viability Discovery of the Elastic Filament Velocimeetry</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2018</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to provide a novel, unique flow sensor implemented with the Elastic Filament Velocimetry (EFV) technology, to a number of markets and industries that will benefit from its ultra-low cost, ultra-low power consumption, and high precision flow measurements. For example, implementing a network of such inexpensive sensors can provide superior flow monitoring in HVAC ducts, significantly reduces controller costs and allows for improved system control to deliver better comfort to people while increase overall system efficiency. With the EFV sensors embedded in consumer appliances and fire sprinkler systems, early detection of water leakage can be realized, saving valuable clean water resources and reduce potential water damages to building management and homeowners alike. Utilization of the EFV technology in medical injections (such as intravenous injections) will fill the gap for precision real-time monitoring, and at the same time, reduce injection errors, increase patient safety, saving healthcare cost, and improve patient comfort.&lt;br/&gt;&lt;br/&gt;This I-Corps project aims to discover the commercial viability of the Elastic Filament Velocimetry, a nanoscale, MEMS based, strain based technology, for flow velocity / flow rate measurements. Mathematical models suggested that a high aspect-ratio, electrically conductive freestanding structure can be sensitive to extremely small fluid forcing when its size is reduced. Utilizing semiconductor manufacturing techniques, a miniature metallic ribbon was fabricated and tested in fluid flow, and the result matches theoretical prediction. This enables a new concept of flow sensing and measurement using a strain based device. This I-Corps project allows the opportunity to explore, learn, and engage in entrepreneurship discovery activities in a real-world setting. Incorporating the progressive learning techniques used by the program, lessons can be learned at a much faster pace, inspiring entrepreneurship and promoting engagement.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839130</AwardID>
+<Investigator>
+<FirstName>Marcus</FirstName>
+<LastName>Hultmark</LastName>
+<EmailAddress>hultmark@princeton.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Princeton University</Name>
+<CityName>Princeton</CityName>
+<ZipCode>085442020</ZipCode>
+<PhoneNumber>6092583090</PhoneNumber>
+<StreetAddress>Off. of Research &amp; Proj. Admin.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

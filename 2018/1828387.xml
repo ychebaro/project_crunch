@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Physical Properties Measurement System for Research, Education, and Outreach</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>621618</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Guebre X. Tessema</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award from the Division of Materials Research supports the acquisition of a Quantum Design Physical Properties Measurement System (PPMS) at Western Michigan University. The instrument provides a powerful new capability for measurements of the electrical, magnetic, thermal, and optical properties of a wide variety of materials under different conditions.  Materials are being studied which may enable the following: improved electrical transmission and energy storage, quantum computing, molecular electronics, more efficient refrigeration, printed electronics, and new lower cost methods of solar energy conversion. In addition to benefiting four departments in science and engineering at Western Michigan University, the instrument will serve as a local resource for a research hub including five nearby colleges and universities. Students at all these institutions will gain valuable experience using a state-of-the-art instrument for their research and education. Community outreach will engage local high school students in long-term research projects, helping spread the excitement of science to the next generation. &lt;br/&gt;&lt;br/&gt; &lt;br/&gt;With this award from the Division of Materials Research, researchers at Western Michigan University will acquire a system to enable measurements of resistivity, carrier concentration, specific heat, optical properties, and magnetization as a function of temperature (0.05-400K) and magnetic field (0-14T). One major use will be for studies of high temperature and exotic superconductivity.  Studies will explore superconductivity in doped lead chalcogenides, Bi based topological superconductors, and determine how to improve critical current densities in commercial high temperature superconducting wires using vortex pinning. Additional research projects include characterizing the properties of doped lead perovskite semiconductors, exploring the interplay of structure and composition on the magnetocaloric effect in Ni-Mn Heusler alloys, measuring the relation between the magnetic and structural properties of molecular magnets, determining optical properties of nitrogen vacancy centers in diamond, and studying the electrical and magnetic properties of metallic inks for printed electronics. These research projects will benefit society by advancing fundamental understanding of technologically important phenomena. This instrument will significantly improve the education and training for future scientists, engineers, and teachers, including those from underrepresented groups. The project includes local collaborations for research and education for undergraduates and faculty from five nearby universities. The resulting regional research community will benefit smaller institutions where faculty have limited instrumentation and few or no institutional colleagues in their research area. Outreach activities will also provide research opportunities for talented high school students, including populations traditionally underrepresented in science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828387</AwardID>
+<Investigator>
+<FirstName>Ekkehard</FirstName>
+<LastName>Sinn</LastName>
+<EmailAddress>ekk.sinn@wmich.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pnina</FirstName>
+<LastName>Ari-Gur</LastName>
+<EmailAddress>pnina.ari-gur@wmich.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Lisa</FirstName>
+<LastName>Paulius</LastName>
+<EmailAddress>lisa.paulius@wmich.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Clement</FirstName>
+<LastName>Burns</LastName>
+<EmailAddress>clement.burns@wmich.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Asghar</FirstName>
+<LastName>Kayani</LastName>
+<EmailAddress>asghar.kayani@wmich.edu</EmailAddress>
+<StartDate>08/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Western Michigan University</Name>
+<CityName>Kalamazoo</CityName>
+<ZipCode>490085200</ZipCode>
+<PhoneNumber>2693878298</PhoneNumber>
+<StreetAddress>1903 West Michigan Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1750</Code>
+<Text>MPS DMR INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7697</Code>
+<Text>INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

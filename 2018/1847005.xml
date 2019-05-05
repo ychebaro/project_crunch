@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Multimodal Tracking of Mitochondria During Tumor Cell Invasion</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Mitochondria are the intricate power generators of the cell providing the energy needed for most biochemical pathways that regulate cell fate and function. Currently few imaging methods are available to non-invasively detect metabolic changes and track mitochondria simultaneously. This project aims to develop an imaging platform that has a fast orbital tracking technique to follow mitochondria with nanometer precision and, at the same time, non-invasively measure metabolic changes at the local environment in cancer cells. The PI will develop educational and outreach activities that will give students the opportunity to develop their leadership, teaching and training skills that will promote STEM research, and help bridge closer networks with community college STEM program coordinators.&lt;br/&gt;&lt;br/&gt;A light-based technology will provide biophysical information regarding focal adhesion dynamics with changes in matrix density and at invading structures within tumor cells called invadopodia using fluorescence biosensors and an optogenetic protein. The information obtained from organoid tumor models will deepen the understanding of the molecular mechanisms that make some tumor cells more aggressive than others as they respond to local environmental cues.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847005</AwardID>
+<Investigator>
+<FirstName>Michelle</FirstName>
+<LastName>Digman</LastName>
+<EmailAddress>mdigman@uci.edu</EmailAddress>
+<StartDate>12/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

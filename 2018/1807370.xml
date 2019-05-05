@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Integrated Onboard Charger and Auxiliary Load Converter for Electric Vehicles</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Pamular Mccauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to explore the commercialization potential of an integrated converter. The proposed integration not only reduces the weight, volume and cost of onboard power electronic interfaces, but also enhances their efficiencies, and enables bidirectional operation. The team aims at not only fostering the widespread adoption of electric vehicles through improving performance of onboard power electronics, but also looking for other industries that could benefit from this technology. The project has the potential to significantly reduce the cost of electrified transportation systems while enhancing their performance. This work will lead to exploring the commercialization potential of the first integrated onboard charger/converter for plug-in electric vehicles.&lt;br/&gt;&lt;br/&gt;This I-Corps project is aimed at exploring market development and commercialization opportunity of an integrated onboard charger and auxiliary load DC/DC converter for electric vehicles. The proposed technology utilizes silicon carbide (SiC) semiconductors to take full advantage of wide band gap (WBG) SiC switches, to increase the operation switching frequency, reduce the size of passive components, and reduce cooling requirements, without sacrificing the operation efficiency of the converter. This technology also uses a maximum efficiency tracking strategy to enhance the efficiency of the charger not only at full loads but also particularly at medium and light loads. A proof-of-concept prototype of the proposed technology has been designed, developed and shown to have significant improvement in maximum efficiency in small form factors.</AbstractNarration>
+<MinAmdLetterDate>11/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807370</AwardID>
+<Investigator>
+<FirstName>Alireza</FirstName>
+<LastName>Khaligh</LastName>
+<EmailAddress>khaligh@ece.umd.edu</EmailAddress>
+<StartDate>11/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Microbial conversion of pectin-rich agricultural waste into specialty chemicals</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth M. Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the development of yeast fermentation technologies that enable conversion of sugars abundant in pectin-rich agricultural waste into useful specialty chemicals. The U.S. is a leading producer of pectin-rich agricultural wastes including citrus peels (&gt;5 million tons annually), sugar beets (&gt;37 million tons annually), and grape pomace (&gt;1 million tons annually). These peel and pulp byproducts lack value, however, the proposed technologies developed in this project will allow for significantly higher valued products to be produced from these waste streams. The initial target chemical product is used as a chelator in cleaning products and a precursor to plastics. Other chemical products potentially may be produced using this platform. Implementation of this fermentation process offers a lower carbon footprint and emissions compared to petroleum or even other sugar-derived products, and has impact in reducing waste and combating climate change. When implemented at scale, these fermentation processing plants will be co-located with rural agricultural processing plants, adding high-tech jobs in these areas, and offering a means to de-risk historically volatile crop harvests by accessing alternative markets.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to engineer yeast strains capable of converting sugars in pectin-rich agricultural wastes into valuable specialty chemicals. Currently, the fermentation rates for utilizing the primary sugar in pectin, D-galacturonic acid, limits production of these chemicals, including the proposed first product, which is a biodegradable metal chelator. Previous characterization has identified that uptake of the pectin sugars by a transporter as the limiting step. Accordingly, the first objective of this proposal is to characterize this class of transporter to identify new transporters with improved rates. The second objective is to improve the best transporter through protein engineering. Using this improved transporter, the final objective will assess the cellular energy requirements for the fermentation process using bioreactors to control fermenter conditions, as product synthesis and transport is energy-demanding. If successful, this project will enable production of specialty chemicals from pectin-rich agricultural waste.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820038</AwardID>
+<Investigator>
+<FirstName>Luke</FirstName>
+<LastName>Latimer</LastName>
+<EmailAddress>latimer@zestbio.com</EmailAddress>
+<StartDate>06/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>ZestBio, Inc.</Name>
+<CityName>Berkeley</CityName>
+<ZipCode>947051229</ZipCode>
+<PhoneNumber>4106882386</PhoneNumber>
+<StreetAddress>2715 Hillegass Avenue, Unit #1</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

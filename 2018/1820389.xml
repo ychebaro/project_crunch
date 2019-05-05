@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The effect of material properties and scaling on wetting of membranes used in membrane distillation</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>460000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Christina Payne</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Development of energy-efficient treatment methods to treat nonconventional water sources will help to address global water scarcity. Membrane distillation can treat high-salinity and/or highly contaminated waters, for which conventional treatment processes are impractical. Membrane distillation uses low-grade energy, supplied from waste heat and/or solar thermal energy, to vaporize (rather than boil) non-potable water streams. The membrane allows water vapor to pass, while restricting permeation of liquid water and its dissolved solutes.  Design of membrane distillation processes involves a number of simplifying assumptions, in particular, that the membrane is impermeable to liquid water and its dissolved solutes. However, with time, dissolved solutes form a scaling layer on the membrane, compromising the ability of the membrane to exclude liquid water and solutes. This project will develop a new model to address the performance of membrane distillation processes that is consistent with long-term operation of practical, heterogeneous membranes.&lt;br/&gt;&lt;br/&gt;This project will develop a new model for liquid entry pressure that incorporates operating conditions, membrane chemistry, asymmetric membrane properties, and the effect of a scaling layer. The model will incorporate experiments that probe internal and distillate-side membrane properties on pore wetting, simple and complex feed solution chemistries, and consider both single- and multi-component scaling conditions. Both commercial membranes and novel polymer membranes that vary hydrophobicity versus hydrophilicity will be considered. An extended Washburn method will quantify the internal hydrophobicity of the porous membranes. A techno-economic assessment will quantify the key impacts of high-performance membranes for high-salinity applications. The project will support graduate and postdoctoral training, while also expanding educational outreach to underrepresented and low-income high school students on energy-efficient water production. The project will enable better performance, prediction, and identification of membrane design improvements for challenging, high-salinity applications that approach zero liquid discharge.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1820389</AwardID>
+<Investigator>
+<FirstName>Adam</FirstName>
+<LastName>Smith</LastName>
+<EmailAddress>smithada@usc.edu</EmailAddress>
+<StartDate>05/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Amy</FirstName>
+<LastName>Childress</LastName>
+<EmailAddress>amyec@usc.edu</EmailAddress>
+<StartDate>05/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Southern California</Name>
+<CityName>Los Angeles</CityName>
+<ZipCode>900890001</ZipCode>
+<PhoneNumber>2137407762</PhoneNumber>
+<StreetAddress>University Park</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1417</Code>
+<Text>Process Separations</Text>
+</ProgramElement>
+</Award>
+</rootTag>

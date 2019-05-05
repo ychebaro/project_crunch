@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: Adversarial Learning via Modeling Interpretation</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Machine learning (ML) models are increasingly important in society, with applications including malware detection, online content filtering and ranking, and self-driving cars. However, these models are vulnerable to adversaries attacking them by submitting incorrect or manipulated data with the goal of causing errors, causing potential harm to both the decisions the models make and the systems and people who rely on them. Further, many common ML models make decisions in ways that are hard for humans to understand, leading to calls to develop modeling techniques that make the models more explainable and interpretable. This project sits at the intersection of adversarial and explainable ML, with the key insight that as models become more interpretable in terms of both the individual decisions they make and the rules they use to distinguish between different decisions, this interpretability will likely provide additional information that can be used to both create and defend against adversarial attacks.  The overall project goal is to test this insight and contribute to both the security and data mining communities by developing an adversarial learning framework that leverages interpretability of ML models and results to both identify and mitigate the risks of adversarial attacks, especially in the context of big data. The project also contains a significant educational component, including incorporating the research into curriculum development and providing research opportunities to undergraduate and underrepresented students.&lt;br/&gt;&lt;br/&gt;The project consists of three research thrusts. The first is to develop effective attacking strategies by analyzing modeling interpretation from three aspects including instance level, class level, and a specific group of deep neural networks. This enables more effective attacks to be initiated through understanding the underlying working mechanisms of ML models. The second thrust is to focus on developing defensive strategies to improve the robustness of ML models against these adversarial attacks. The proposed defensive strategies are aimed at the three major steps in a typical knowledge discovery pipeline including training data refinement, model architecture modification, and test data filtering. While existing efforts are based on continuously probing built systems and updating model parameters once prediction mistakes are discovered, the proposed work provides a proactive way to tackle the problem. The third thrust is to develop adversarial learning algorithms to deal with challenges and take advantage of opportunities brought by big data. Specifically, the developed adversarial attacking and defensive algorithms will deal with large-scale, heterogeneous, and relational data. This will enable the proposed algorithms to scale to real-world applications demonstrating challenging data characteristics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816497</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Caverlee</LastName>
+<EmailAddress>caverlee@tamu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Guofei</FirstName>
+<LastName>Gu</LastName>
+<EmailAddress>guofei@cse.tamu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Xia</FirstName>
+<LastName>Hu</LastName>
+<EmailAddress>xiahu@tamu.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Texas A&amp;M Engineering Experiment Station</Name>
+<CityName>College Station</CityName>
+<ZipCode>778454645</ZipCode>
+<PhoneNumber>9798477635</PhoneNumber>
+<StreetAddress>TEES State Headquarters Bldg.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

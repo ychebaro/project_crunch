@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER:  Development of a Genetic System Directing Multicellular Development of Myxococcales</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>150000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Clouse</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Myxobacteria are distinguished among bacteria by a multicellular stage in their life cycle known as fruiting bodies. Preliminary evidence suggests that this transition from single cell to multicellular fruiting body is regulated by light. The primary goal of this project is to establish a set of novel, previously untested yet potentially transformative genetic tools that can be applied broadly in bacterial studies but are used here to examine the light induced transition to multicellularity in  Myxobacteria. Determining the mechanisms underlying this multicellular process in Myxobacteria could have important implications for understanding the evolution of more complex pathways seen in multicellular eukaryotes, which include most higher organisms. Undergraduate and graduate students will receive training in multidisciplinary state-of-the-art research methods and techniques including bacterial genetics and structural biochemistry and biophysics. In addition, over 75 students will be exposed to research experiences during completion of undergraduate courses in biochemistry and molecular biology.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The genetic mechanisms underlying fruiting body formation are not conserved in Myxococcales resulting in variations in the fruiting morphology and the role of visible light as an essential environmental signal. The reasons for this relative lack of conservation are unknown. Development of a novel genetic system for examining and testing the plasticity of this unique multicellular program is vital to answering how a complex developmental pathway responds to various genetic changes. The proposed genetic system will be used to support exploratory work on how light controls fruiting body formation in non-photosynthetic Myxobacteria. Genes that code for a) the bacterial photoreceptors that perceive and respond to light and b) the circadian clock KaiC homolog of cyanobacteria are found across all three suborders of Myxococcales, yet their role in non-photosynthetic bacteria remain largely unknown. Genetically, the best characterized M. xanthus doesn't contain either of these genes, but closely related M. fulvus does. How have the two pathways adapted to these differences? By using a comparative analysis of closely related, yet distinctly different species, M. xanthus and M. fulvus, the investigators will be able to approach this question without the complexity inherent with more diverse Myxobacteria. Insertion mutations via plasmid integration mutagenesis and in-frame deletions using insertion-excision mutagenesis, based on tools available for M. xanthus, will be developed in M. fulvus. This genetic system will allow characterization of the biochemical function of the red-light photoreceptor known as bacteriophytochrome and the circadian clock KaiC homolog, to define the role of these proteins in Myxococcales development. In addition, the developmental transcriptome of M. fulvus in the light and dark will be compared along with a comparison of the M. fulvus developmental transcriptome to that of M. xanthus to determine similarities and differences in developmental gene expression between these two close relatives.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839513</AwardID>
+<Investigator>
+<FirstName>Emina</FirstName>
+<LastName>Stojkovic</LastName>
+<EmailAddress>E-Stojkovic@neiu.edu</EmailAddress>
+<StartDate>06/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Northeastern Illinois University</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606254669</ZipCode>
+<PhoneNumber>7734424670</PhoneNumber>
+<StreetAddress>5500 N Saint Louis Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1114</Code>
+<Text>Cellular Dynamics and Function</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>RES EXPER FOR UNDERGRAD-SUPPLT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

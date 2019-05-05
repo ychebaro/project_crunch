@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop: Linking remote animal detection and movement data with macrosystem environmental datasets and networks; September, 2018; Front Royal, VA</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>47604.00</AwardTotalIntnAmount>
+<AwardAmount>47604</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08010000</Code>
+<Directorate>
+<Abbreviation>BIO</Abbreviation>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DEB</Abbreviation>
+<LongName>Division Of Environmental Biology</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Michael Binford</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Technological advances have allowed scientists to collect vast quantities of data on animal occurrences and movements from remote locations in ways that weren?t possible even a generation ago. Examples of technology improving the specificity of animal data are acoustic recordings, camera-traps, radiotelemetry, and geolocators. These data have broadened our knowledge of where individual animals live and their movement patterns. In addition, relatively new technologies such as remote sensing from satellites and aircraft, and observation networks are providing large quantities of environmental data, such as rainfall, vegetation productivity, structure, connectivity and more at landscape and macrosystem scales that were not previously possible. These advances in technology, along with increased connectivity of internet users, have allowed a broader involvement of the public in collecting animal or environmental data. The challenge in many cases has been to link the animal-observations information, being collected by citizens, local groups, as well as national and international agencies, to relevant large-scale environmental datasets. This project addresses these issues in a workshop with experts that have helped advance the new technologies associated with animal detections and environmental data at landscape and macrosystem scales.&lt;br/&gt;&lt;br/&gt;The explicitly inter-disciplinary nature of the workshop will foster linkages and collaborations that aim to alleviate technical barriers for scaling the information from animal observations to environmental datasets at macrosystem scales. Such barriers currently limit researchers from broadening the scale and scope of their research. There will be a two-day workshop that focuses on how new technologies and capabilities that investigate the distribution and movement of animals can be linked to environmental states and environmental changes at the landscape and macrosystem scales. The workshop will bring together experts in the fields of remote sensing and animal detection with the goal of integrating the various technologies and lay the foundation for a review paper on the potential of combined techniques to answer important questions in ecology and conservation biology.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823498</AwardID>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>McShea</LastName>
+<EmailAddress>mcsheaw@si.edu</EmailAddress>
+<StartDate>03/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gil</FirstName>
+<LastName>Bohrer</LastName>
+<EmailAddress>bohrer.17@osu.edu</EmailAddress>
+<StartDate>03/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Luther</LastName>
+<EmailAddress>dluther@gmu.edu</EmailAddress>
+<StartDate>03/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>George Mason University</Name>
+<CityName>FAIRFAX</CityName>
+<ZipCode>220304422</ZipCode>
+<PhoneNumber>7039932295</PhoneNumber>
+<StreetAddress>4400 UNIVERSITY DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Virginia</StateName>
+<StateCode>VA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7959</Code>
+<Text>MACROSYSTEM BIOLOGY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

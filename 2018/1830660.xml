@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>NRI: INT: COLLAB: Shared Autonomy for Unstructured Underwater Environments through Vision and Language</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>313303</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Miller</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Existing underwater robotic systems typically provide one of two operating modes---full teleoperation or full autonomy. Teleoperation is by far the most common, particularly for tasks involving interaction with the environment, such as grasping and manipulation. Autonomy is restricted to non-contact survey missions and to controlled laboratory settings. The ability to operate between teleoperation and autonomy will improve the efficiency and effectiveness of tasks performed in underwater environments. This research will develop and evaluate a novel shared autonomy framework. The research leverages the different nature of humans and robots. This work will reduce the need for multiple, highly trained operators. It has the potential to drastically reduce the cost of underwater missions. The contributions of this research will impact the way in which humans work together with robots within a wide variety of applications, including space exploration, disaster relief, and assistive robotics.&lt;br/&gt;&lt;br/&gt;As robotic systems play an ever-larger role as our surrogates for marine science and exploration, the ability to leverage the complementary nature of humans and robots becomes critical for scientific discovery. This research will develop new models and algorithms that exploit multiple non-commensurate sensing and control modalities to realize intelligent shared autonomy in complex unstructured environments. Novel to this research is the use of natural language and vision as complementary forms of weak supervision to enable robots to learn human-collaborative sensorimotor manipulation policies opportunistically from narrated human demonstrations. Fundamental to these methods is their ability to then refine these policies in situ based upon interaction with a human operator. Together, these models and algorithms will enhance the efficiency and effectiveness of underwater scientific exploration.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1830660</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Walter</LastName>
+<EmailAddress>mwalter@ttic.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Toyota Technological Institute at Chicago</Name>
+<CityName>Chicago</CityName>
+<ZipCode>606372803</ZipCode>
+<PhoneNumber>7738340409</PhoneNumber>
+<StreetAddress>6045 S Kenwood Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>063Z</Code>
+<Text>W-HTF Work at the Human-Technology Front</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

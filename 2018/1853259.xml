@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  A Robust Indoor Localization System For Mobile Devices</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>734023.00</AwardTotalIntnAmount>
+<AwardAmount>734023</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rick Schwerdtfeger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to provide accurate indoor location services to users via existing mobile electronic devices like smartphones and tablets. This technology will bring many of the applications powered by GPS, like navigation, tracking and location-based advertising to indoor markets. We propose using a hybrid ultrasound and RF-based beaconing system to enable sub-20cm location accuracy within large, GPS-denied environments. Our approach is unique in that it is compatible with current smartphones by simply downloading an app. The system uses an infrastructure comprised of beacons, which can be powered through indoor solar energy-harvesting instead of requiring expensive electrical wiring. Accurate indoor location-aware mobile applications can enhance applications ranging from retail, healthcare and manufacturing, all the way to building navigation, asset tracking and aiding the visually impaired.&lt;br/&gt;&lt;br/&gt;The proposed project aims to develop a robust localization platform which can localize off-the-shelf devices like smartphones and tablets as well as low-cost radio frequency (RF) tags to better than 20cm accuracy in indoor locations that do not have access to GPS. Current indoor localization technologies for smartphones often fall short in terms of accuracy, especially in highly dynamic environments with obstructions. Our system utilizes energy harvesting beacons with an array of speakers to transmit time-of-flight ranging signals in the near-ultrasound spectrum. These signals can be recorded and demodulated in software by commodity smartphones, while being inaudible to humans. The research in this phase will aim to develop the methods and technologies required to streamline installation to support large facilities like airports and convention centers that would require tens to hundreds of beacons. This involves the development of a mapping and commissioning system as well as hardware beacon modules for integration of our technology into the products of third parties (e.g. smart camera systems, building sensors, etc). We will also integrate the ability to track tagged assets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/08/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>04/08/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1853259</AwardID>
+<Investigator>
+<FirstName>Patrick</FirstName>
+<LastName>Lazik</LastName>
+<EmailAddress>plazik@andrew.cmu.edu</EmailAddress>
+<StartDate>04/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Yodel Labs Inc</Name>
+<CityName>Pittsburgh</CityName>
+<ZipCode>152171345</ZipCode>
+<PhoneNumber>4125195223</PhoneNumber>
+<StreetAddress>6401 Wilkins Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8033</Code>
+<Text>Hardware Software Integration</Text>
+</ProgramReference>
+</Award>
+</rootTag>

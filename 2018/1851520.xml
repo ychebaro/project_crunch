@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Marginal instability and deep-cycle turbulence during an extreme El Nino event</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>473725.00</AwardTotalIntnAmount>
+<AwardAmount>473725</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Baris Uz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The El Nino is an inter-annual coupled ocean-atmosphere phenomenon, focused in the equatorial Pacific, that influences weather patterns around the world. While the 2015-16 El Nino was the strongest on record, the best available climate models failed to predict it (as well as falsely predicting an event a year earlier that failed to materialize). This project will address the interactions of wind and large-scale oceanic variability with small-scale turbulence and its effect on sea surface temperature in the eastern equatorial Pacific Ocean. The project will use existing observations of ocean structure and turbulence along with high resolution numerical simulations to understand the deep cycling of turbulent mixing and its relation to El Nino. The results will be used to formulate new methods for capturing the effects of turbulence in ocean and climate models.&lt;br/&gt;&lt;br/&gt;This project involves analysis of existing data sets and numerical simulations to study deep cycle turbulence under the Equatorial Pacific Cold Tongue during the El Nino Southern Oscillation (ENSO). Data from TAO moorings, deployments of chi-pods, and Large Eddy Simulation (LES) modeling will be used to examine marginal instability and deep-cycle turbulence (DCT) during different phases of ENSO. The results will be used to formulate a new parameterization for turbulent mixing in the upper equatorial ocean. The PIs will also address the interactions and roles of tropical instability waves (TIW) and Kelvin waves on DCT and mixing beneath the cold tongue.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/28/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>03/28/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1851520</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Moum</LastName>
+<EmailAddress>moum@coas.oregonstate.edu</EmailAddress>
+<StartDate>03/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>William</FirstName>
+<LastName>Smyth</LastName>
+<EmailAddress>smyth@coas.oregonstate.edu</EmailAddress>
+<StartDate>03/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sally</FirstName>
+<LastName>Warner</LastName>
+<EmailAddress>swarner@coas.oregonstate.edu</EmailAddress>
+<StartDate>03/28/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Oregon State University</Name>
+<CityName>Corvallis</CityName>
+<ZipCode>973318507</ZipCode>
+<PhoneNumber>5417374933</PhoneNumber>
+<StreetAddress>OREGON STATE UNIVERSITY</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

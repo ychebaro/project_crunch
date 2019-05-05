@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CRII: CHS: Examining a Multimodal Approach to Lowering the Burden of Food Journaling</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>174999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>People use personal journaling methods to develop better habits and make informed decisions about health and well-being. Activities such as food journaling become burdensome, inaccurate, or incomplete over time due to poor design of supportive devices and single-platform constraints. In this project, the investigator plans to use internet-of-things (IoT) functionality to develop a system with integrated and multimodal input capabilities to support food journaling. An integrated device platform will be developed to support data input from multiple devices such as smart phones, wearables, and laptops. An iterative, user-centered design methodology will be applied. Prospective users will be selected for usability studies, and the prototype will be validated by comparing multimodal IoT-enabled food journaling to other common food journaling applications. Benefits include more usable technologies for personal journaling to support mental and physical health, stress management, and personal wellbeing. &lt;br/&gt;&lt;br/&gt;This project will center around two participatory design investigations. The research team (1) will examine how people with healthy eating goals use lightweight technology probes developed for journaling food via voice description, photography, or text description. This probe deployment will inform recommendations for how platforms can support collecting data collaboratively across input modalities. These recommendations, and an iterative design process to improve usability, will inform a full-featured multimodal food journaling tool. The research team (2) will then compare the developed tool against design strategies typical of commercial and research food journals, again with people who have healthy eating goals. The comparison will be mixed-methods, combining perceptions of the value and burden of the technology through validated survey instruments with semi-structured interviews discussing the challenges of each approach.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/15/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/15/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1850389</AwardID>
+<Investigator>
+<FirstName>Daniel</FirstName>
+<LastName>Epstein</LastName>
+<EmailAddress>epstein@ics.uci.edu</EmailAddress>
+<StartDate>02/15/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Irvine</Name>
+<CityName>Irvine</CityName>
+<ZipCode>926173213</ZipCode>
+<PhoneNumber>9498247295</PhoneNumber>
+<StreetAddress>141 Innovation Drive, Ste 250</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7367</Code>
+<Text>Cyber-Human Systems (CHS)</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7367</Code>
+<Text>Cyber-Human Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8228</Code>
+<Text>CISE Resrch Initiatn Initiatve</Text>
+</ProgramReference>
+</Award>
+</rootTag>

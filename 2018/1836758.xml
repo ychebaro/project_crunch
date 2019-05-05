@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: BRAIDING: High order non-Abelian excitations for topologically protected qubits</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Abstract: Quantum statistics is central to the quantum mechanical understanding of the world. All known particles have so-called Abelian statistics, meaning that result of several consecutive particle exchanges does not depend on the order of the exchanges. Recently it has been proposed that particles with non-Abelian statistics can be realized in some exotic systems, and signatures of simplest such non-Abelian particles - Majorana fermions - have been reported. The main driving force in the search for these elusive excitations, apart from scientific curiosity, is a possibility to realize a fault tolerant quantum computer. Qubits based on Majorana fermions have their limitations, and the main objective on this proposal is to develop a new system where more computationally useful higher order non-Abelian excitations can be realized. &lt;br/&gt;&lt;br/&gt;Technical Abstract: The main objective of the proposed research is to develop a system where high-order non-Abelian excitations can be realized and manipulated. The non-Abelian statistics (the notion that a result of consecutive exchanges of several identical particles depends on the order of the exchanges) is at the heart of a revolutionary concept to realize a fault-tolerant quantum computer. Current efforts are focused on the development of Majorana-based qubits, the simplest non-Abelian particles. Majorana-based qubits are not computationally universal, though, and higher order non-Abelions are required to realize a universal gate. Specifically, spin transitions in the fractional quantum Hall effect regime will be explored to realize a reconfigurable network of helical channels with fractionalized charged excitations. Demonstration of induced superconductivity in these channels will be the major milestone. Quantum statistics of excitations formed at a boundary of trivial and topologically non-trivial superconductors will be investigated in multi-gate devices, where network of topological channels can be reconfigured within a two-dimensional plane.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836758</AwardID>
+<Investigator>
+<FirstName>Leonid</FirstName>
+<LastName>Rokhinson</LastName>
+<EmailAddress>leonid@purdue.edu</EmailAddress>
+<StartDate>07/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1712</Code>
+<Text>DMR SHORT TERM SUPPORT</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PFI-TT: Development of a C. elegans-based Technology to Enhance the Drug Discovery Process and to Predict Preclinical Efficiency</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>200000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Jesus Soriano Molla</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Broader Impact/commercial potential of the PFI project resides in its potential to both expedite and increase the efficiency of developing new therapeutic drugs by the pharmaceutical industry. This technology not only holds immense commercial potential but also serves to help address unmet health challenges of the American public. Given the time and resources needed to develop new drugs, our technology has the potential to become a major tool for the industry while stimulating economic activity. In turn, this project can indirectly help advance the treatment for debilitating medical conditions and thus improve the health and welfare of the American people. In addition, this project will provide an unique opportunity for the students to not only gain innovation experience beyond their normal research activities but further, to receive guidance and training to help them enter the workforce upon graduation. Thus they may be more competitive in their pursuit of careers in this space.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The proposed project is aimed at enhancing the efficiency of the preclinical drug discovery process which is a major unmet need of the pharmaceutical industry. The objective of this project is to validate a technology utilizing C. elegans worms as an intermediary system to de-risk compounds during the early phases of the drug discovery process. The technology exposes a potential therapeutic drug to stress responses that are elicited in the worm and evaluates its ability to mitigate them as a proxy of its therapeutic potential. We will use an integrated approach that includes microscopy, genetics, and pharmacology to fully develop the technology. The project encompasses 3 milestones. The goal of Milestone 1 is to validate the technology by testing it in an environment that mimics an industrial setting. The goal of milestone 2 is to develop the technology to become fully automated. The goal of Milestone 3 is to establish mechanistic links between the test compounds and their biological targets. If successful, this project may provide a major efficacy enhancement in drug discovery.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1826496</AwardID>
+<Investigator>
+<FirstName>Federico</FirstName>
+<LastName>Sesti</LastName>
+<EmailAddress>sestife@rwjms.rutgers.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rutgers, The State University of New Jersey-RBHS-Robert Wood</Name>
+<CityName>Piscataway</CityName>
+<ZipCode>088543925</ZipCode>
+<PhoneNumber>8489320150</PhoneNumber>
+<StreetAddress>33 Knightsbridge Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1662</Code>
+<Text>PARTNRSHIPS FOR INNOVATION-PFI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

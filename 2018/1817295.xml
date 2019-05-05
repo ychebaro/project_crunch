@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>PREEVENTS Track 1: A transdisciplinary approach to next-gen natural hazard modeling: Improving accuracy and usability of earth surface process models for pre-event risk assessment</AwardTitle>
+<AwardEffectiveDate>02/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>49839.00</AwardTotalIntnAmount>
+<AwardAmount>49839</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06010000</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ICER</Abbreviation>
+<LongName>ICER</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Justin Lawrence</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Natural hazards impact thousands of people every year; floods, droughts, extreme storms, landslides, wildfires, and permafrost erosion all change the Earth's surface and inflict tremendous damage to human infrastructure. Most often, humans respond to disasters "after the fact" and a paradigm shift is needed to a strategy of resilience that would provide a way to reduce vulnerability to disasters and their impacts before they occur. This workshop will focus disparate efforts in natural hazard modeling in the earth surface processes towards a common goal of modeling for risk assessment. A resulting white paper will provide policy makers, funding agencies, and the science community with a clear agenda and timeline on needs for improving modeling fundamentals, and needs for modeling cyberinfrastructure and model-data couplings and high performance computing capability as needed to inform natural hazard occurrence. &lt;br/&gt;&lt;br/&gt;This workshop aims at bringing in a diverse group of scientists and students across career stages to work towards the problem of natural hazard modeling. The workshop will build on the momentum of several existing modeling and data communities; Community Surface Dynamics Modeling System, EarthCube, and Natural Hazards Engineering Research Infrastructure DesignSafe. The organizers will bring together leading representatives of these initiatives for keynotes, clinics and extensive break-out discussions. Explicitly, they will aim for inclusivity by striving for gender balance in keynotes and clinic leaders, and make a dedicated effort to bring students from underrepresented groups through a Student Modeler Award competition and several diversity stipends.</AbstractNarration>
+<MinAmdLetterDate>02/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817295</AwardID>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Tucker</LastName>
+<EmailAddress>gtucker@colorado.edu</EmailAddress>
+<StartDate>02/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Irina</FirstName>
+<LastName>Overeem</LastName>
+<EmailAddress>irina.overeem@colorado.edu</EmailAddress>
+<StartDate>02/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Albert</FirstName>
+<LastName>Kettner</LastName>
+<EmailAddress>kettner@colorado.edu</EmailAddress>
+<StartDate>02/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>034Y</Code>
+<Text>PREEVENTS - Prediction of and</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8074</Code>
+<Text>EarthCube</Text>
+</ProgramElement>
+</Award>
+</rootTag>

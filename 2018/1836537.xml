@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>QLC: EAGER: Toward Magnetic Selectivity with Molecular Clock Qubits</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this project, funded by the Chemical Structure, Dynamic &amp; Mechanism B Program of the Chemistry Division, Professor Joseph M. Zadrozny of the Department of Chemistry at Colorado State University is developing new classes of metal complexes for the detection of physiological magnetic phenomena. These complexes are designed as molecular analogues to spin-based quantum bits (qubits) of a quantum computer. Molecular qubits are extremely sensitive to their local environment, a sensitivity that is to be suppressed for quantum computing applications. The proposed work will embark in a different direction by asking the fundamental question:  Can the inherent sensitivity of molecular qubits be embraced to create new bioimaging sensors? Toward such application, it is desirable to focus the extreme sensitivity of a qubit toward specific environmental factors. This program will take the first fundamental steps toward that vision of selective sensitivity. Outreach activities as part of this project include the creation of a learning kit to instruct students at the K-12 level on fundamental magnetic phenomena.&lt;br/&gt; &lt;br/&gt;A nascent type of molecular qubits are the so-called clock qubits, which possess long spin-lattice and spin-spin relaxation times that result from a strong insensitivity to magnetic phenomena. This insensitivity stands as a stark counterpoint to conventional molecular qubits, which possess relaxation times that are strongly affected by local magnetism. The relative sensitivity of the two classes of qubits indicates an inherent tunability of susceptibility to nearby magnetism, potentially enabling relaxation-time-based sensing probes to be targeted toward only specific classes of environmental spins, e.g. those that occur in different types of biomolecules. In this work, a model system based on a V(IV) molecule qubit will explore fundamental questions at the heart of clock qubit behavior: (1) How do these systems interact with different classes of environmental nuclear spins? (2) How do these clock qubits interact with different classes of proximate electronic spins? Finally, (3) Is this interaction at all favored for certain classes of spins over others, and what are the factors that govern that favor? Each of these fundamental questions underlies the eventual development of targeted sensitivity toward specific types of spin-bearing biologically relevant molecules.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836537</AwardID>
+<Investigator>
+<FirstName>Sandra</FirstName>
+<LastName>Eaton</LastName>
+<EmailAddress>seaton@du.edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gareth</FirstName>
+<LastName>Eaton</LastName>
+<EmailAddress>geaton@du.edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Joseph</FirstName>
+<LastName>Zadrozny</LastName>
+<EmailAddress>joe.zadrozny@colostate.edu</EmailAddress>
+<StartDate>07/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Colorado State University</Name>
+<CityName>Fort Collins</CityName>
+<ZipCode>805232002</ZipCode>
+<PhoneNumber>9704916355</PhoneNumber>
+<StreetAddress>601 S Howes St</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9102</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7234</Code>
+<Text>SENSORS NON-SOLICITATION RESEA</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

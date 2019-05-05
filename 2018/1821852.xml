@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Using Virtual Humans in 360-degree Immersive Digital Sites to Practice Communication Skills within Complex Spatiotemporal Contexts</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2020</AwardExpirationDate>
+<AwardAmount>300000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Abby Ilumoka</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Direct observation of professionals and communication with them in real-life environments is a beneficial experience for students in engineering fields ranging from aeronautical to chemical and construction engineering. Although in-person site visits can be arranged to achieve this objective, the visits present significant logistical and safety challenges. In addition, financial, legal, and time constraints are inherent in organizing site visits, especially for educational institutions and faculty. One alternative is to use virtual reality to provide students with immersive digital learning experiences that are close to real life, but that do not have the expense and constraints of in-person field trips. In this project, the University of Florida will explore this novel paradigm in construction engineering instruction.  The goal of the project is to teach construction engineering using an immersive digital environment called iVisit, which features virtual human professionals working collaboratively with students on virtual construction sites. &lt;br/&gt;&lt;br/&gt;This project will provide engineering students with the opportunity to navigate the complex, data-rich environment of a construction site at which they can interact with virtual human professionals, engineering structures, and equipment. Students will observe design challenges and communicate with virtual human professionals to better understand and resolve those challenges. A quasi-experimental and qualitative educational research design will compare the impact of virtual site visits to in-person site visits.  These results are anticipated to generate knowledge about the impact of this immersive virtual environment on student learning, communication, and spatio-temporal skills.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821852</AwardID>
+<Investigator>
+<FirstName>R. Raymond</FirstName>
+<LastName>Issa</LastName>
+<EmailAddress>raymond-issa@ufl.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Benjamin</FirstName>
+<LastName>Lok</LastName>
+<EmailAddress>lok@cise.ufl.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pasha</FirstName>
+<LastName>Antonenko</LastName>
+<EmailAddress>p.antonenko@coe.ufl.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Masoud</FirstName>
+<LastName>Gheisari</LastName>
+<EmailAddress>masoud@ufl.edu</EmailAddress>
+<StartDate>08/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8244</Code>
+<Text>EHR CL Opportunities (NSF 14-302)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Operation of a Hydrographic Data Office at UCSD/SIO, 2019-2023</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>3050000.00</AwardTotalIntnAmount>
+<AwardAmount>593238</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>OCE</Abbreviation>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Baris Uz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project is to continue to operate the CLIVAR and Carbon Hydrographic Data Office (CCHDO) at the UCSD Scripps Institution of Oceanography funded by NSF previously. The CCHDO's primary mission is to deliver the highest possible quality global Conductivity-Temperature- Depth (CTD) and hydrographic data to users. These data are a product of decades of observations from multiple programs, past and present, around the world. The project will enhance research infrastructure, disseminate results broadly, and integrate research and education. While the CCHDO does not generate new data, it improves data quality, usability, and accessibility, thus widening the reach of the data and its scientific and social relevance. CTD, routine hydrography, ocean carbon, and tracer ocean profile data are gathered, quality controlled, and put in a standardized format all located on one website so that the data is usable to a much wider audience in the research, educational, and broader communities who do not employ data specialists. The CCHDO puts into play the fundamental concept that ocean data belongs to the community, and should be available to the community. The CCHDO directly contributes to research of high societal importance, such as the ocean's response to and role in climate change. The CCHDO contributes to education and STEM activities, including training of undergraduate research assistants and enhancing the oceanographic aspects of their experience, and participation of the CCHDO leadership in STEM and Career Day events in the San Diego area. Commitment to broadening the participation of underrepresented groups extends to every aspect of the CCHDO.&lt;br/&gt;&lt;br/&gt;The CCHDO performs meticulous curation and dissemination of the highest quality CTD, hydrographic, carbon and tracer water column data. The CCHDO supports climate and ocean carbon science programs, and is a critical component of a global observing system for the physical climate/CO2 system. It is the official international GO-SHIP data center for CTD and water sample profile data and related documentation. In addition, the CCHDO is responsible for data from WOCE, CLIVAR, the International Ocean Carbon Coordination Project, and other oceanographic research programs. The CCHDO's user-oriented data management structure and functions were developed to pull together and verify data and information from diverse, disparate sources, placing the data into near lock-step agreement with community-agreed standards, and organize the documentation to make information about the data complete and easy to locate. The users of CCHDO data benefit from the CCHDO's activities, saving them from performing these time-consuming, expertise needing tasks. This "data assembly center" structure thus facilitates gaining broader scientific understanding well beyond the collection and interpretation that can be gained from individual data sets. The CCHDO assures that these data and their associated documentation are readily available for immediate research and education uses, easily accessible through an intuitive and well known online search and download site, can be used in a variety of applications, and are promptly provided to NOAA's NCEI for long-term archive. This ensures that these data have maximum utility to the scientific community and a long service life.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/27/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/27/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829814</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Swift</LastName>
+<EmailAddress>jswift@ucsd.edu</EmailAddress>
+<StartDate>08/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Bruce</FirstName>
+<LastName>Appelgate</LastName>
+<EmailAddress>bappelgate@ucsd.edu</EmailAddress>
+<StartDate>08/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Karen</FirstName>
+<LastName>Stocks</LastName>
+<EmailAddress>kstocks@ucsd.edu</EmailAddress>
+<StartDate>08/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sarah</FirstName>
+<LastName>Purkey</LastName>
+<EmailAddress>spurkey@ucsd.edu</EmailAddress>
+<StartDate>08/27/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego Scripps Inst of Oceanography</Name>
+<CityName>LA JOLLA</CityName>
+<ZipCode>920930210</ZipCode>
+<PhoneNumber>8585341293</PhoneNumber>
+<StreetAddress>8602 La Jolla Shores Dr</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1610</Code>
+<Text>PHYSICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8074</Code>
+<Text>EarthCube</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1324</Code>
+<Text>CLIMATE VARIABILITY AND PREDICTABILITY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

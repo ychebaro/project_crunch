@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RUI:  Molecular Design for Redox Active Deep Eutectic Solvents</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>245000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tingyu Li</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this project, funded by the Chemical Structure, Dynamic &amp; Mechanism B Program of the Chemistry Division, Professor John Goeltz of the School of Natural Sciences at California State University, Monterey Bay is developing new classes of liquids for applications in energy fields.  This research targets liquids that can store charge without the addition of any active materials for development of new capabilities for existing battery materials such as fast charging without reduced battery lifetimes and a chemical method of protecting against failure due to overcharging.  This project is especially well suited to the training of undergraduate scientists with diverse interests and career goals.  Development of student researchers' writing and assessment techniques will also be part of the funded project as the students develop and deploy training materials to enable other undergraduate scientists to advance beyond a first-year level skill set in electrochemistry.&lt;br/&gt;&lt;br/&gt;Solvents that exhibit reversible redox activity hold promise in energy conversion and storage yet remain relatively uncommon.  This project involves application of chemical design principles to low-temperature ionic melts known as deep eutectic solvents (DESs) and related materials. Researchers will synthesize and characterize precursor molecules and prepare redox-active liquid ionic materials. They are characterizing these materials by rheology, voltammetry, UV-vis spectroelectrochemistry, and 2-dimensional NMR techniques. Undergraduate researchers are: 1. thermally and electrochemically characterizing a solvent in multiple oxidation states; 2. measuring the energetics of hydrogen bonded assemblies that define the solvents through voltammetry and NMR; and 3. demonstrating the first bifunctional redox active solvents that can be reversibly reduced or oxidized and isolated in any of three oxidation states.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/24/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800177</AwardID>
+<Investigator>
+<FirstName>John</FirstName>
+<LastName>Goeltz</LastName>
+<EmailAddress>jgoeltz@csumb.edu</EmailAddress>
+<StartDate>07/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University Corporation at Monterey Bay</Name>
+<CityName>seaside</CityName>
+<ZipCode>939558001</ZipCode>
+<PhoneNumber>8315823089</PhoneNumber>
+<StreetAddress>100 Campus Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>9102</Code>
+<Text>Chem Struct,Dynmcs&amp;Mechansms B</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9229</Code>
+<Text>RES IN UNDERGRAD INST-RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SaTC: CORE: Small: Adversarial ML in Traffic Analysis</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Dan Cosley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Surveillance and tracking on the Internet are growing more pervasive and threaten privacy and freedom of expression. The Tor anonymity system protects the privacy of millions of users, including ordinary citizens, journalists, whistle-blowers, military intelligence, police, businesses, and people living under censorship and surveillance. Unfortunately, Tor is vulnerable to website fingerprinting (WF) attacks in which an eavesdropper uses a machine learning (ML) classifier to identify which website the user is visiting from its traffic patterns. The research team's state-of-the-art WF attack using a deep learning classifier reaches 98% accuracy, which is deeply concerning to Tor and its users. The goal of this project is to explore the new landscape of WF attacks and defenses in light of the team's findings with deep learning. A key aspect of the work is to build upon recent advances in fooling deep learning classifiers and apply these new findings to the context of anonymity systems. Based on this focus on adversarial machine learning, the project will create a new course and an accessible summer camp module on the topic, as well as launch a podcast on Cybersecurity Research featuring interviews with top researchers in the fields of adversarial machine learning and anonymity.&lt;br/&gt;&lt;br/&gt;The research has three thrusts. First, the team is exploring the impact that these attacks can have for Tor users by addressing how the attacks can generalize to different network conditions and Tor versions, how they can be better adapted to realistic settings, and how they are impacted by real-world user behaviors in Tor. Second, since recent work has shown that it is possible to reliably fool deep learning classifiers, the team is studying how to adapt these techniques for robust and efficient defense. Prior work has primarily been in the image classification domain, whereas network traffic is more challenging to manipulate, so the team is designing new methods that account for this difference. In the third thrust, recognizing that researchers are actively seeking robust classifiers that are harder to fool, the team aims to understand new ways to build robust classifiers and explore their properties. While this aspect of the project means potentially finding stronger WF attacks against Tor, robust classifiers would be helpful for the myriad applications of deep learning, such as self-driving cars, stylometry, malware detection, processing drone and satellite imagery, and more.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816851</AwardID>
+<Investigator>
+<FirstName>Matthew</FirstName>
+<LastName>Wright</LastName>
+<EmailAddress>matthew.wright@rit.edu</EmailAddress>
+<StartDate>08/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Rochester Institute of Tech</Name>
+<CityName>ROCHESTER</CityName>
+<ZipCode>146235603</ZipCode>
+<PhoneNumber>5854757987</PhoneNumber>
+<StreetAddress>1 LOMB MEMORIAL DR</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>075Z</Code>
+<Text>Artificial Intelligence (AI)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Statistical Inference Under Information Constraints: Efficient Algorithms and Fundamental Limits</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2024</AwardExpirationDate>
+<AwardAmount>85491</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Data science and machine learning systems have to optimize constraints on the availability of data, computation time, memory for storage, and privacy concerns. For example, while performing web search on mobile devices, one would like the applications to be small in size, communicate as little data as possible, and leak as little about the user as possible. These constraints are often at odds with each other. A system that provides strong privacy guarantees might require more data and computation, and a system that uses little data might require more computation. A fundamental understanding of the limits and trade-offs between constrained resources such as samples, time, memory, communication, and privacy is critical for tackling the many challenges in data science that lay ahead. In spite of many success stories of data science, these trade-offs are poorly understood even in some of the simplest settings. This project aims to establish the fundamental trade-offs between these resources, as well as design efficient schemes that achieve them. The project outcomes can help design faster, communication-frugal, privacy-preserving, and space-efficient learning systems. The project seeks to involve the participation of a diverse group of researchers in this project through outreach activities that target undergraduate students and under-represented communities.&lt;br/&gt;&lt;br/&gt;The investigator will formulate and study fundamental statistical inference tasks such as distribution estimation, hypothesis testing, and distribution property estimation under the information constraints mentioned above. A particular direction of interest is the impact of the availability of shared randomness on the other constraints for distributed machine learning systems. While the role of randomness has been studied in problems in communication complexity, its role in machine learning systems is often overlooked. The project will integrate ideas from computer science, information theory, machine learning, and statistics, seeking to bridge researchers from these communities. All findings of this project will be disseminated through publications, and will be made publicly available on the investigator's website.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1846300</AwardID>
+<Investigator>
+<FirstName>Jayadev</FirstName>
+<LastName>Acharya</LastName>
+<EmailAddress>acharya@cornell.edu</EmailAddress>
+<StartDate>12/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+</Award>
+</rootTag>

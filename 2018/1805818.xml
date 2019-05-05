@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: US-Ireland: Thermoelectric Concrete Envelope (ThermoConc)</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>205591.00</AwardTotalIntnAmount>
+<AwardAmount>205591</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Bruce Hamilton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With building heating and cooling systems accounting for a very significant portion of US energy consumption, a nation-wide focus is on developing renewable energy-based heating and cooling. While thermoelectric (TE) and solid state TE heat pumps (TEHP) are key options for energy generation, a significant gap remains in reducing inefficient system complexities. The objective of this project is to address the systems-level challenge by developing proof-of-concept TE concrete material that innately possesses TE properties and might result in an independent, comprehensive, and renewably sourced heating and cooling system.&lt;br/&gt;&lt;br/&gt;The international team for this project will leverage advances in thermoelectric materials, conductive concrete, and building model predictive control to create a three-in-one thermoelectric concrete, called ThermoConc, as a building envelope for electricity generation and space heating and cooling. The goal is to develop fundamental understanding of the characteristics, behaviors, operations, and controls of a thermoelectric generation and heat pumping system as an energy efficient means to both passively and actively control building interior temperature and harvest waste heat while enhancing human thermal comfort. Objectives will be to: 1) identify optimal&lt;br/&gt;design and control of ThermoConc and establish mathematical models for performance evaluation; 2) characterize the new TE concrete and evaluate the performance of ThermoConc both theoretically and practically; and 3) assess environmental and economic benefits and quantify energy-saving potentials of ThermoConc through full-scale testing and climate-sensitivity case study. The vision is that ThermoConc will facilitate savings in building sector energy consumption and accelerate adoption of&lt;br/&gt;renewable energy-based heating and cooling systems.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1805818</AwardID>
+<Investigator>
+<FirstName>Ming</FirstName>
+<LastName>Qu</LastName>
+<EmailAddress>mqu@purdue.edu</EmailAddress>
+<StartDate>05/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Kazuaki</FirstName>
+<LastName>Yazawa</LastName>
+<EmailAddress>kyazawa@purdue.edu</EmailAddress>
+<StartDate>05/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7643</Code>
+<Text>ENVIRONMENTAL SUSTAINABILITY</Text>
+</ProgramElement>
+</Award>
+</rootTag>

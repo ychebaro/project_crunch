@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Arctic Research Support on I/B ODEN</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>2500000</AwardAmount>
+<AwardInstrument>
+<Value>Contract Interagency Agreement</Value>
+</AwardInstrument>
+<Organization>
+<Code>06090100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Polar Programs (OPP)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Frank Rack</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration/>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838294</AwardID>
+<Investigator>
+<FirstName>Katarina</FirstName>
+<LastName>Gardfeldt</LastName>
+<EmailAddress>katarina.gardfeldt@polar.se</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>SWEDISH POLAR RESEARCH SECRETARIAT</Name>
+<CityName>Sweden</CityName>
+<ZipCode/>
+<PhoneNumber/>
+<StreetAddress>BOX 50003</StreetAddress>
+<CountryName>Sweden</CountryName>
+<StateName/>
+<StateCode/>
+</Institution>
+<ProgramElement>
+<Code>5205</Code>
+<Text>ARCTIC RESRCH SUPPRT &amp; LOGISTI</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1079</Code>
+<Text>ARCTIC RESEARCH</Text>
+</ProgramReference>
+</Award>
+</rootTag>

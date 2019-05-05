@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Hawaii Ocean Time-series -- Life Aquatic in the Volcanic Aftermath (HOT-LAVA), RAPID Response Research to the 2018 Kilauea Eruption</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>184884</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040300</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henrietta N. Edmonds</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Kilauea volcano began an eruption in May 2018. This project would mount a rapid response effort to understand how iron and phosphorus in the volcanic ash acts as fertilizer for ocean ecosystems. The investigators propose to conduct an oceanographic expedition to the regions east of Kapoho Bay and west (downwind) of the summit to collect samples and conduct experiments that will lead to a more comprehensive understanding of the marine biogeochemistry of the 2018 Kilauea eruption. This project will complement the ongoing long-term observations at the NSF-supported Hawaii Ocean Time-series (HOT) Station ALOHA.  The eruption of Kilauea is much more than a major geological event. It is an issue of local and global societal interest and has attracted significant interest and press coverage. The investigators plan to engage the public about the interactions of land and sea, and more broadly hope to promote a greater understanding of science. This will be achieved through interviews for public radio and other news outlets, through blogs and web-based information about the expedition, and by the publication and dissemination of knowledge gained through this study. &lt;br/&gt;&lt;br/&gt;The proposed study will include: (1) satellite-based observations of ash plume trajectories, dispersion, and deposition, (2) analysis of collected ash samples, and ash-seawater leaching and incubation studies to determine the effects of simulated ash deposition on a variety of microbial rates and processes, (3) field observations and sample collections at the lava-seawater contact zone near Kapoho Bay and in the ash deposition region downwind of Halema'uma'u, west of the island of Hawaii, and (4) deployment of an autonomous long-term (3-month) experiment consisting of a Wave Glider and a Seaglider working in a coordinated manner to record processes that occur over time as the ecosystem responds to the wet and dry deposition of volcanic ash over larger spatial and longer temporal scales. The region will be revisited approximately 2-3 months after the initial survey to obtain a second set of observations and to recover the autonomous vehicles. Incubation experiments will also be conducted at the HOT program Station ALOHA where NSF has supported a benchmark site for assessing ocean variability over the past three decades. Based on the long-term observations at Station ALOHA, the investigators have established an inextricable linkage between iron and phosphorus dynamics, and the controls on nitrogen fixation and particle export. Studies of the response of microbial communities to the Kilauea eruption will improve understanding of oceanic processes at Station ALOHA and lead to better carbon cycle models for the oligotrophic North Pacific Ocean.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/25/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/25/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842012</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Karl</LastName>
+<EmailAddress>dkarl@hawaii.edu</EmailAddress>
+<StartDate>07/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Edward</FirstName>
+<LastName>DeLong</LastName>
+<EmailAddress>edelong@hawaii.edu</EmailAddress>
+<StartDate>07/25/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Hawaii</Name>
+<CityName>HONOLULU</CityName>
+<ZipCode>968222234</ZipCode>
+<PhoneNumber>8089567800</PhoneNumber>
+<StreetAddress>2440 Campus Road, Box 368</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Hawaii</StateName>
+<StateCode>HI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1670</Code>
+<Text>CHEMICAL OCEANOGRAPHY</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7914</Code>
+<Text>RAPID</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SHF: Small: Lightweight Virtualization Driven Elastic Memory Management and Cluster Scheduling</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>376000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Yuanyuan Yang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Data-centers are evolving to host heterogeneous workloads on shared clusters to reduce the operational cost and achieve high resource utilization. However, it is challenging to schedule heterogeneous workloads with diverse resource requirements and performance constraints on heterogeneous hardware. Data parallel processing often suffers from interference and significant memory pressure, resulting in excessive garbage collection and out-of-memory errors that harm application performance and reliability. Cluster memory management and scheduling is still inefficient, leading to low utilization and poor multi-service support. Existing approaches either focus on application awareness or operating system awareness, thus are not well positioned to address the semantic gap between application run-times and the operating system. This project aims to improve application performance and cluster efficiency via lightweight virtualization-enabled elastic memory management and cluster scheduling. It combines system experimentation with rigorous design and analyses to improve performance and efficiency, and tackle memory pressure of data-parallel processing. Developed system software will be open-sourced, providing opportunities to foster a large ecosystem that spans system software providers and customers. &lt;br/&gt;&lt;br/&gt;Enabled by lightweight containers, cluster scheduling and the underlying operating system can cooperate synergistically, such that, the dynamic resource demand of an application can be exposed to the operating system, and the cluster memory manager and scheduler can be assisted with rich run-time information retrieved from performance counters and operating system.  Towards this end, the project aims to devise a distributed memory manager for data-parallel programs that can survive from memory pressure and enable elastic cluster memory management with architecture-aware container placement, design a cooperative paging to improve performance of memory swapping by extending the current virtual memory reclaim mechanism in Linux kernel, enable memory over-commitment for elastic cluster scheduling with a new service that can detect and exploit the over-commitment opportunities, and design a multi-queue based distributed task scheduler to manage performance interference and hardware heterogeneity. The contributions include a library of developed mechanisms and open-source system software at cluster and kernel levels that can significantly improve cluster utilization and application performance.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816850</AwardID>
+</Award>
+</rootTag>

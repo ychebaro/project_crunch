@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Travel Grant Proposal for Signal Processing Advances in Wireless Communications (SPAWC) 2018</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>15000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides travel support for graduate students from US institutions, who are co- authors of one or more accepted papers, to participate and present their work at 2018 IEEE International Workshop on Signal Processing Advances for Wireless Communications (SPAWC), to be held in Kalamata Greece, June 25-28, 2018. This is the 19th workshop in the SPAWC series, and is devoted to advances in signal processing for wireless communications, networking, and information theory.&lt;br/&gt;&lt;br/&gt;The proposed graduate student participation is poised to have a positive impact on signal processing for wireless communications research in US institutions. The workshop will be a great opportunity for graduate students to learn about emerging areas, and meet with worldwide experts. More importantly, the students will gain new ideas leading to stronger and more complete entrepreneurial learning, and will put their contributions in perspective to ongoing research activities at the international level.The broader impact of the proposed student participation will materialize as these students joining the US workforce will be better positioned to spearhead research and development activities in diverse industrial sectors, such as those serving wireless communications, homeland security, defense, and the automotive industries. The gender diversity of the plenary and thematic oral session presenters will inspire female graduate students to remain and pursue careers in the field of signal processing for wireless communications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829678</AwardID>
+<Investigator>
+<FirstName>Piya</FirstName>
+<LastName>Pal</LastName>
+<EmailAddress>pipal@eng.ucsd.edu</EmailAddress>
+<StartDate>05/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

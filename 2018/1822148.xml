@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Planning IUCRC at University of Tennessee/Knoxville:  Center for [Digital Composite Joining and Repair]</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>14999.00</AwardTotalIntnAmount>
+<AwardAmount>14999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andre Marshall</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award supports a planning workshop for an Industry-University Cooperative Research Center (IUCRC) aimed at improving composite material joining and repair (CJAR) technologies. Composite materials are vital to the competitiveness of several sectors, including automotive, manufacturing, energy, biomedical, defense and aerospace. Current CJAR practices are highly specialized, labor-intensive, and require experienced technicians for critical inspection, maintenance and repair. Partner institutions including The University of Tennessee-Knoxville, Georgia Institute of Technology and Oakland University will collaborate with various industrial companies, in the automotive, aerospace, defense, energy, and biomedical sectors of the US economy. The University of Tennessee site of D-CJAR will engage the Institute for Advanced Composites Manufacturing Innovation (IACMI), Oak Ridge National Laboratory (ONR) - (Manufacturing Demonstration Facility (MDF) and Carbon Fiber Technology Facility (CFTF)), material suppliers, equipment manufacturers and end users.  Examples include Magnum Venus Products (MVP), Resource Fiber, Mini-Fibers, HTS IC among others. Faculty and student teams at the partner universities will work with industry members to conduct pre-competitive research to develop and disseminate basic and applied technologies/knowledge to facilitate rapid, reliable, and cost-effective composite joining and repair, with an overall goal of significantly reducing costs, cycle time, and variation of CJAR operations within ten (10) years.&lt;br/&gt;&lt;br/&gt;With the goal of transforming the current labor-intensive and specialized processes into science-based, automated, and digital CJAR processes, the University of Tennessee site of D-CJAR will primarily focus on developing CJAR technologies for multi-material joining and repair of advanced composites, metals and hybrids. We expect advances in several fields and knowledge domains around CJAR, including (1) design and analysis of multi-materials joining, (2) process innovations, (3) materials and process engineering, and (4) testing and nondestructive evaluation (NDE). We will apply advanced digital techniques, including advanced computational modeling, sensing, materials characterization, and machine learning to practical CJAR cases that will also advance the education and workforce preparedness of students working on projects at the partner universities. Development of new materials and processes would facilitate standardization, modeling, and automation of many CJAR tasks and processes, producing cost savings, faster cycle times, and enhanced performance for industry partners across the entire composites supply chain, contributing to the maintenance of U.S. global leadership in this growing sector.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1822148</AwardID>
+<Investigator>
+<FirstName>Dibyendu</FirstName>
+<LastName>Mukherjee</LastName>
+<EmailAddress>dmukherj@utk.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Uday</FirstName>
+<LastName>Vaidya</LastName>
+<EmailAddress>uvaidya@utk.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elizabeth</FirstName>
+<LastName>Barker</LastName>
+<EmailAddress>mjm@utk.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5761</Code>
+<Text>INDUSTRY/UNIV COOP RES CENTERS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

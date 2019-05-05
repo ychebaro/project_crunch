@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Doctoral Dissertation Research in Economics: Convex Preferences Over Lotteries</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>17000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>04050000</Code>
+<Directorate>
+<LongName>Direct For Social, Behav &amp; Economic Scie</LongName>
+</Directorate>
+<Division>
+<LongName>Divn Of Social and Economic Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy A. Lutz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award funds research that the coPI will undertake as part of his doctoral dissertation. He will conduct decision making experiments in a laboratory environment. The goal is to test whether the participants behave in the specific ways predicted by economic theory. The coPI will use a new experimental design to test hypotheses drawn from different models of choice under risk that are used in behavioral economics. This new design has more power and does not require specific assumptions that are needed by other experimental designs. The experiments can be adapted to investigate a wide variety of issues, from decision making over time to the effect of altruism on economic decisions. The project will help us better understand how people make important economic decisions. The results could improve our understanding of how to encourage Americans to plan for retirement and contribute to their communities.&lt;br/&gt;&lt;br/&gt;The project seeks to test competing theories of decision making under risk, theories that are alternatives to the standard expected utility theory. The coPI plans to use an elicitation and testing procedure to acquire choices from a convex lottery space. The design will allow him to discriminate between competing theories. The design elicits the convex lower contour set of indifference curves in the probability simplex. This works because many properties of preferences over lotteries can be studied in the probability simplex with "budget lines" in this space. The experiments will test to see whether or not agents strictly prefer more prizes to fewer prizes, and therefore they will provide new evidence on whether or not strict quasiconcavity is a reasonable assumption on individual preferences over lotteries.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824121</AwardID>
+<Investigator>
+<FirstName>Paul</FirstName>
+<LastName>Feldman</LastName>
+<EmailAddress>pfeldman@ucsd.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Charles</FirstName>
+<LastName>Sprenger</LastName>
+<EmailAddress>csprenger@ucsd.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-San Diego</Name>
+<CityName>La Jolla</CityName>
+<ZipCode>920930621</ZipCode>
+<PhoneNumber>8585344896</PhoneNumber>
+<StreetAddress>Office of Contract &amp; Grant Admin</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1320</Code>
+<Text>ECONOMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9179</Code>
+<Text>GRADUATE INVOLVEMENT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

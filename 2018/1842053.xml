@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Advancing Oceanographic Methane Sensing Through a Partnership Approach</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>498701</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06040100</Code>
+<Directorate>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Ocean Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kandace S. Binkley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The development of new deep-sea chemical sensors will enable an improved understanding of ocean chemistry.  The researchers will develop a new sensor to measure methane within the ocean. This sensor will be designed to be deployable on a range of underwater and surface vehicles.  This sensor will provide the oceanographic community with a new tool for measuring methane across a range of environments from estuaries to the deep sea.&lt;br/&gt;&lt;br/&gt;The goal of the project is to develop an oceanographic mid-infrared methane sensor capable of measuring methane throughout the water column. There is a strong demand for sensors to be sensitive enough to characterize water column levels of methane, opening the door for improved understanding of methane dynamics across all ocean environments. Field tests of this sensor will take place on a test cruise to Guaymas Basin using a range of oceanographic platforms.  This research project is a partnership between academia and industry.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842053</AwardID>
+<Investigator>
+<FirstName>Anna</FirstName>
+<LastName>Michel</LastName>
+<EmailAddress>amichel@whoi.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Scott</FirstName>
+<LastName>Wankel</LastName>
+<EmailAddress>sdwankel@whoi.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jason</FirstName>
+<LastName>Kapit</LastName>
+<EmailAddress>jkapit@whoi.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Woods Hole Oceanographic Institution</Name>
+<CityName>WOODS HOLE</CityName>
+<ZipCode>025431041</ZipCode>
+<PhoneNumber>5082893542</PhoneNumber>
+<StreetAddress>183 OYSTER POND ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1680</Code>
+<Text>OCEAN TECH &amp; INTERDISC COORDIN</Text>
+</ProgramElement>
+</Award>
+</rootTag>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Targeted Infusion Project: A Multidisciplinary Approach to Infusing Data Science and Analytics into the Undergraduate Curriculum at Bowie State University</AwardTitle>
+<AwardEffectiveDate>06/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>399843.00</AwardTotalIntnAmount>
+<AwardAmount>399843</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11060000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>HRD</Abbreviation>
+<LongName>Division Of Human Resource Development</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Claudia Rankins</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The Historically Black Colleges and Universities Undergraduate Program (HBCU-UP) through Targeted Infusion Projects supports the development, implementation, and study of evidence-based innovative models and approaches for improving the preparation and success of HBCU undergraduate students so that they may pursue science, technology, engineering or mathematics (STEM) graduate programs and/or careers. The project at Bowie State University seeks to to integrate the advancement of big data technologies and analytics into the areas of Computer Science and Information Systems as well as apply big data and analytics to the disciplines of Economics, Biology, Chemistry and others. The activities and strategies are evidence-based and a strong plan for formative and summative evaluation is part of the project. Undergraduate students are included in the project and will be provided with summer research opportunities. &lt;br/&gt;&lt;br/&gt;This project has the objectives to: develop data science and analytics (DSA) course modules and deliver them in the disciplines of Chemistry, Biology, Computer Science, Information Systems, and Economics; create new courses and integrate the DSA modules into existing courses that will lead to an undergraduate certificate in DSA; offer undergraduate research opportunities; and establish a faculty training and learning community. This project will impact over 700 students per semester and several faculty. Opportunity are provided for minorities in STEM fields to address social and scientific issues impacting minority communities locally, nationally, and globally using big data and analytics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1818669</AwardID>
+<Investigator>
+<FirstName>Azene</FirstName>
+<LastName>Zenebe</LastName>
+<EmailAddress>azenebe@bowiestate.edu</EmailAddress>
+<StartDate>05/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Eric</FirstName>
+<LastName>Bonsu</LastName>
+<EmailAddress>ebonsu@bowiestate.edu</EmailAddress>
+<StartDate>05/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>LaTanya</FirstName>
+<LastName>Brown-Robertson</LastName>
+<EmailAddress>lnbrown@bowiestate.edu</EmailAddress>
+<StartDate>05/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Augustin</FirstName>
+<LastName>Ntembe</LastName>
+<EmailAddress>nntembe@bowiestate.edu</EmailAddress>
+<StartDate>05/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Bowie State University</Name>
+<CityName>BOWIE</CityName>
+<ZipCode>207159465</ZipCode>
+<PhoneNumber>3018604399</PhoneNumber>
+<StreetAddress>14000 Jericho Park Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1594</Code>
+<Text>HIST BLACK COLLEGES AND UNIV</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

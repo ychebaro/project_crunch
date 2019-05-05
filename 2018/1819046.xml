@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Tracing the Origins of the Chaperonin (CCT) Complex in Eukaryotes</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>100000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Through recent metagenomic analysis, it has become clear that the root of eukaryotes lies among microbes in the kingdom archaea. This project will explore the origins of an ancient protein family that assists with protein folding and stability, the chaperones (CPNs), to track their evolution into the eukaryotes. Recent identification of CPN encoding genes within the genomes of the so-called Asgard archaea will be utilized in order to gain structural insights into the biochemical function of these proteins, which have previously not been available due to the unculturability of the organisms. The project will utilize gene synthesis and expression of protein from metagenomic assembled genomes (MAGs). The main scientific benefit will be through the application of synthetic biology to gain insights into their ancestral protein folding functions and the development of eukaryotes from their prokaryotic ancestors.  Proper  protein folding is essential to all life processes and has implications in health and disease.  Broader impacts will be through the training of a staff scientist and and undergraduates, as well as through outreach activities. &lt;br/&gt;&lt;br/&gt;The main goal of the project is the discovery of quantitative biochemical insights into the functions of proteins in the newly discovered deepest branch of the CPN60 phylogenetic tree.  Rapidly accumulating genome sequences and Single Amplified Genomes (SAGS) from the deepest branches of the archaea reveal lineages with increases in genome complexity and gene duplication. The investigators have identified divergent CPN60 genes in the ASGARD archaea which appear to be ancestral to the CCT subunits of the proteins found in extant eukarya. CPN60 from both the archaea and eukaryotes show cooperative allosteric effects in response to an obligate folding substrate such as tubulin. To explore the functional progression towards the eukaryotic CCT complex, this work will assess the function of these ancient CPN genes and the complex chaperones in terms of their ATP binding and ATPase activity and protein folding ability. Because there are also tubulin homologs in the Asgard Archaea Single Amplified Genomes, the project will address the exciting hypothesis that archaeal proteostasis was the ancestral proving ground for the detailed chaperone/client protein interaction networks found in eukaryotes, and will trace the functional advances of the chaperone complex from a putative ancestor with rudimentary biochemical features to the highly specialized and differentiated eukaryotic CCT complex shared by modern eukaryotes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/10/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/10/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819046</AwardID>
+<Investigator>
+<FirstName>Frank</FirstName>
+<LastName>Robb</LastName>
+<EmailAddress>frobb@som.umaryland.edu</EmailAddress>
+<StartDate>07/10/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland at Baltimore</Name>
+<CityName>Baltimore</CityName>
+<ZipCode>212011508</ZipCode>
+<PhoneNumber>4107063559</PhoneNumber>
+<StreetAddress>620 W Lexington St, 4th Floor</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

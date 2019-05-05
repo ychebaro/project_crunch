@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps:  Pneu Haptics: malleable materials for tactile interaction</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to improve the literacy of blind people by enabling improved access to digital content. Currently blind people rely heavily on text-to-speech software and audiobooks to digest digital context. However, listening does not delivery the same sense of immediacy and literacy as reading braille. Also, audio technology and single line displays cannot deliver spatial information, e.g. mathematical equations, diagrams, and graphs, which are critical to literacy in science, technology, and math-related subjects.  Commercial electronic tactile displays exist, but due to the complexity and cost of the underlying technology, the devices are prohibitively expensive and are limited to a single line of braille. An affordable full-page tactile display delivering multiple lines of braille and tactile graphics would significantly improve blind people's access to digital technology. New technology can improve literacy rates, education outcomes and overall lifestyle of blind people. &lt;br/&gt;&lt;br/&gt;The I-Corps project will assess the commercial viability of using a patented microfluidic technology for developing a full-page tactile display. Based on the technology, a microfluidic chip can reduce the complexity and cost of controlling a large number of densely-packed pneumatic actuators. A large array of thousands of individually controllable features is possible. The pneumatic actuators are integrated directly into the microfluidic chip using large-scale integration, making the device low-cost and highly scalable. Pressure-based actuation ensures that even tightly placed features will maintain relatively high force outputs. These are all essential features for building dense-array tactile displays, particularly ones that are low-cost and suitable for rendering braille and tactile graphics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/09/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/09/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1824635</AwardID>
+<Investigator>
+<FirstName>Sile</FirstName>
+<LastName>O'Modhrain</LastName>
+<EmailAddress>sileo@umich.edu</EmailAddress>
+<StartDate>03/09/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

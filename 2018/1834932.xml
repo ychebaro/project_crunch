@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Inclusion @ Robotics: Science and Systems (RSS) 2018</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>24900.00</AwardTotalIntnAmount>
+<AwardAmount>24900</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Reid Simmons</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project supports travel for 27 students in robotics from traditionally underrepresented groups, including minorities and people with disabilities. The researchers will participate in the Robotics: Science and Systems (RSS) conference, along with its associated workshops, which runs June 26-30, 2018 in Pittsburgh, PA. The students will be mentored both through being paired with senior PhD students and postdocs and participation in a mentorship breakfast led by the RSS conference chair.  By exposing early career researchers from underrepresented groups to this type of intellectual environment, they will be better able to be situated in the robotics field and get better ideas for the type and quality of research needed to have impact in the field.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/17/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/17/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1834932</AwardID>
+<Investigator>
+<FirstName>Hadas</FirstName>
+<LastName>Kress Gazit</LastName>
+<EmailAddress>hadaskg@cornell.edu</EmailAddress>
+<StartDate>05/17/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Cornell University</Name>
+<CityName>Ithaca</CityName>
+<ZipCode>148502820</ZipCode>
+<PhoneNumber>6072555014</PhoneNumber>
+<StreetAddress>373 Pine Tree Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7680</Code>
+<Text>ENG DIVERSITY ACTIVITIES</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8013</Code>
+<Text>National Robotics Initiative</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8086</Code>
+<Text>Natl Robotics Initiative (NRI)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

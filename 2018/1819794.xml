@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I: A bacterial intracellular delivery platform for liver cancer</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Henry Ahn</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This SBIR Phase I project develops a bacterial platform for intracellular drug delivery to solid tumors, with a primary focus on liver cancer. Every year, 30,000 men and women are diagnosed with unresectable hepatocellular carcinoma (HCC), which has a 5-year survival rate of 17.6 %. The prognosis for these patients is poor. Currently, there are no curative treatments for these patients. The current standard-of-care only increases overall survival by months and has toxic side effects, with a cost to the US healthcare system of $1.5B per year. This technology is based on the inherent feature of bacteria to colonize solid tumors throughout the body in ratios of 100,000 to 1 compared to healthy tissue. Due to this specificity, the developed bacterial platform has the potential to increase dosage specifically in tumors, while reducing toxic side effects in healthy tissues. This platform will be a toolbox that can target intracellular pathways that are currently considered undruggable and deliver potent doses of biologicals directly into tumor cells. The affinity of bacteria for solid tumors, independent of organ localization, enables the extension of this delivery method to other hard-to-treat tumor types, such as pancreas, ovarian and gastric cancer. &lt;br/&gt;&lt;br/&gt;Systemic cancer therapies have many obstacles, such as stability in the blood, traversing the cellular membrane, internalization and endosomal release. These processes impede the use of RNAi and peptides in humans and hamper the targeting of intracellular pathways with monoclonal antibodies. The development of a bacterial drug delivery platform can optimize drug potency in tumors and reduce side effects in healthy tissue. In this SBIR phase I, efficacy of this platform will be measured in HCC by targeting intracellular pathways essential for cell survival, for which no systemic therapy exists. A bacterial strain will be created according to FDA guidelines that can be manufactured reliably without loss of activity. An optimized preservation protocol will be developed to ensure maximal bacterial fitness and maximal delivery efficacy after administration. This bacterial delivery system has the potential to accelerate the translation of fundamental cancer research into clinical therapies. Discoveries could be genetically translated directly into protein, antibody or shRNA therapies that regulate mammalian gene expression and function.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819794</AwardID>
+<Investigator>
+<FirstName>Nele</FirstName>
+<LastName>Van Dessel</LastName>
+<EmailAddress>vandessel@ernestpharma.com</EmailAddress>
+<StartDate>05/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Ernest Pharmaceuticals</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010353512</ZipCode>
+<PhoneNumber>4133450378</PhoneNumber>
+<StreetAddress>2 Ladyslipper Ln.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>ELEMENTS: DATA: HDR: SWIM to a Sustainable Water Future</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>599451</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Amy Walton</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The project develops a system that automates ingestion of data into models, the integration of decoupled models, and the dynamic generation and interpretation of models.  The focus is on water resources.  The team leverages software development from an ongoing USDA-funded project, and the expertise of an interdisciplinary, international team of scientists and students who are investigating future scenarios of water availability and use in the Middle Rio Grande valley of southern New Mexico, west Texas, and northern Chihuahua (Mexico).&lt;br/&gt;&lt;br/&gt;This project advances water sustainability research capabilities by creating a Sustainable Water through Integrated Modeling (SWIM) framework that automates ingestion of data into models, facilitates integration of decoupled models, and supports dynamic generation and interpretation of models. The four objectives are to: &lt;br/&gt;1) foster use of water models by stakeholders (non-modelers) through direct participation enabled by a web-based interface and provenance capture; &lt;br/&gt;2) enable seamless model-to-model integration through service-driven data exchange and transformation; &lt;br/&gt;3) develop data- and technology-enabled approaches for reasoning with biophysical and social models; and &lt;br/&gt;4) engage data providers, modelers and stakeholders in conceiving and testing the framework.&lt;br/&gt;The research and products of this project contribute to advanced research capabilities on water sustainability.  By providing seamless integration of scientific data and models, and generating provenance data to create dynamic user interfaces, the project instills trust in the models generated through participatory analysis.   This approach is built around a strong appreciation of the value of stakeholder engagement and alignment to achieving the described goals.  The research is carried out by a diverse and experienced team, and will contribute to understanding of how to more effectively conduct convergent research with researchers and stakeholders.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/06/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/06/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835897</AwardID>
+<Investigator>
+<FirstName>Deana</FirstName>
+<LastName>Pennington</LastName>
+<EmailAddress>ddpennington@utep.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Natalia</FirstName>
+<LastName>Villanueva Rosales</LastName>
+<EmailAddress>nvillanuevarosales@utep.edu</EmailAddress>
+<StartDate>09/06/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Texas at El Paso</Name>
+<CityName>El Paso</CityName>
+<ZipCode>799680001</ZipCode>
+<PhoneNumber>9157475680</PhoneNumber>
+<StreetAddress>ADMIN BLDG RM 209</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Texas</StateName>
+<StateCode>TX</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7726</Code>
+<Text>DATANET</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>077Z</Code>
+<Text>CSSI-1: Cyberinfr for Sustained Scientif</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+</Award>
+</rootTag>

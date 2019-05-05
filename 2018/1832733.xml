@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>The Emergence of Ferroic Phenomena and Size-Effects in Fluorite-Based Nanoparticles</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2022</AwardExpirationDate>
+<AwardAmount>575026</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lynnette Madsen</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL DESCRIPTION: &lt;br/&gt;The push for miniaturization of memory devices in the electronics industry has driven significant interest in the size-dependent properties of nanoparticles and films that provide the required performance for these devices. One key property that enables these devices is ferroelectricity, where a material stores energy upon exposure to an electric field, which can be used to save electronic information. However, this ferroelectric behavior tends to disappear as materials and devices shrink. The search for ferroelectricity in the smallest of nanoparticles has spanned several decades with limited success. Instead, a loss of ferroelectric behavior has been observed for small particle/grain sizes in traditional materials. However, there are promising new materials, including those containing the element hafnium, that have recently displayed ferroelectric behavior at very small sizes. This project seeks to elucidate the emergence of this ferroelectric behavior with decreasing size in hafnium-based nanoparticles. This research is accomplished by fostering collaboration and diversity with a team of graduate students and faculty spanning materials science and chemical engineering. In addition, this work involves high school students and undergraduate students, aiming to broaden participation through the inclusion of underrepresented groups. A seminar series that promotes and highlights diversity is underway to help increase retention of underrepresented groups. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL DETAILS:&lt;br/&gt;The overarching goal of this project is to utilize novel synthesis methods to synthesize hafnia and hafnia-based nanoparticles. Recent computational work has predicted that the ferroelectric orthorhombic phase will be stabilized due to surface energetics for particles between 3 to 5 nm or 8 to 16 nm for hafnia and hafnium-zirconium oxide, respectively. This research seeks to experimentally validate these (and other) hypotheses and demonstrate ferroic properties in both free-standing and consolidated nanoparticles of hafnia-based systems. In addition to novel synthesis, advanced characterization will be employed to confirm crystal structure and electronic properties at both local and bulk length scales.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832733</AwardID>
+<Investigator>
+<FirstName>Carlos</FirstName>
+<LastName>Rinaldi</LastName>
+<EmailAddress>carlos.rinaldi@ufl.edu</EmailAddress>
+<StartDate>07/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jennifer</FirstName>
+<LastName>Andrew</LastName>
+<EmailAddress>jandrew@mse.ufl.edu</EmailAddress>
+<StartDate>07/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1774</Code>
+<Text>CERAMICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

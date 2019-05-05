@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Real-Time: Intelligent Mitigation of Low-Frequency Oscillations in Smart Grid Using Real-time Learning</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2020</AwardExpirationDate>
+<AwardAmount>275762</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anil Pahwa</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As a critical underpinning of modern society, the electric power grid is one of the most complex and man-made dynamic systems in the world. Numerous real-time data of different types, different components, and various locations are generated to monitor and control power grids. Currently, the control of large-scale power grids is still mainly based on the physical system model, while the hidden knowledge in the abovementioned large-volume data has not been fully exploited. This project selects one typical control function in smart grids, low-frequency oscillation control, to explore the potential to enhance smart grid controls using the hidden knowledge. &lt;br/&gt;Low-frequency oscillation is a common phenomenon in operation of large-scale power systems. If not controlled properly, these oscillations may degrade power system security and make a large number of customers lose their power. This project aims at developing an intelligent controller to mitigate these low-frequency oscillations using data and machine learning technologies. If successful, it will advance the technology in smart grid, and remove obstacles for application of machine learning technologies in smart grid control. The proposed approach will contribute to more secure, reliable and economic operations of U.S. power grids. For example, the risk of blackout can be significantly mitigated; and thus outage cost could be saved, e.g., more than $1 billion for U.S. western grid collapse in 1996. The proposed project is also coupled with a broad dissemination of research findings and a strong educational component to engage students from underrepresented groups. &lt;br/&gt;&lt;br/&gt;The proposed research effort focuses on a completely new design methodology of intelligent oscillation damping control using the data-driven models. These data-driven models of power grids derive from synchronized measurement data using machine learning technologies, in conjunction with power grid domain knowledge. Specifically, this project will: (1) build a self-evolving dynamic knowledge base based on historical measurement data under different oscillation scenarios; (2) extract the critical features from historical and real-time data, and select the optimal features to improve data-driven model prediction accuracy; (3) develop machine learning algorithms to predict data-driven models for oscillation damping control design; and (4) validate and demonstrate the proposed methodology via computer simulations and hardware testbed experiments. This advanced approach will contribute to the energy security and efficiency of the U.S. electric power grids. This project will expose both undergraduate and graduate students to the state-of-the-art machine learning education and workforce training program. By coordinating with an established outreach program in an existing NSF/DOE engineering research center, the research results will be integrated into weekly seminars and short courses that are accessible to four partner universities, nine affiliate universities and more than 35 industry partners. Moreover, this project will encourage students to get involved with STEM (Science, Technology, Engineering and Mathematics) courses early in their pre-college years to prepare for STEM careers.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1839684</AwardID>
+<Investigator>
+<FirstName>Lin</FirstName>
+<LastName>Zhu</LastName>
+<EmailAddress>lzhu12@utk.edu</EmailAddress>
+<StartDate>09/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yilu</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>liu@utk.edu</EmailAddress>
+<StartDate>09/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Tennessee Knoxville</Name>
+<CityName>KNOXVILLE</CityName>
+<ZipCode>379960003</ZipCode>
+<PhoneNumber>8659743466</PhoneNumber>
+<StreetAddress>1 CIRCLE PARK</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Tennessee</StateName>
+<StateCode>TN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>155E</Code>
+<Text>Electric power networks</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1653</Code>
+<Text>Adaptive &amp; intelligent systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

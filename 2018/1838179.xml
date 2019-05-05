@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>BIGDATA: F: Random and Adaptive Projections for Scalable Optimization and Learning</AwardTitle>
+<AwardEffectiveDate>01/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2021</AwardExpirationDate>
+<AwardAmount>1000000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rahul Shah</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Massive data sets typically have structure that allows them to be compressed with little loss in information. Examples include image, video, and audio data, as reflected by the ubiquitous .jpg, .mpeg, and .mp3 file formats, respectively. A major goal of modern data science is to exploit this compressibility to enable data processing algorithms to run more efficiently, thereby reducing the amount of data that is discarded or left unanalyzed. In other words, data scientists aim to adapt their algorithms to operate directly on the compressed data without loss in performance. Projections are important computational tool for effecting compression, but thus far they have only been incorporated into a handful of data processing algorithms. This project aims to substantially increase the range of data processing algorithms that can benefit from projections, and is specifically motivated by applications to medical image processing, computational biology, and analysis of surveillance video. The project will result in algorithms that are broadly applicable across the whole of data science. Furthermore, this research will support the cross-disciplinary development of a diverse cohort of PhD and undergraduate students at the University of Michigan, and the development of a graduate-level course on large-scale optimization for machine learning at the University of Michigan.&lt;br/&gt;&lt;br/&gt;The technical aims of the project are divided into two thrusts. The first thrust develops a general approach for incorporating random projections into iterative optimization solvers for broad classes of optimization problems arising in machine learning. Our work focuses on nonconvex problems such as matrix factorization, manifold optimization, and training neural networks, building on recent work by the project team and others on convex problems. In particular, we will extend the principle of iterative sketching, which has been developed for convex optimization, to nonconvex problems. This principle finds ways to insert sketches (random projections) into iterative algorithms so as to reduce memory or computational complexity, while leveraging structures in the data to avoid losses in performance. The second thrust develops new adaptive projections for improved statistical and computational performance in big data, leveraging the algorithms developed under the first thrust. In particular, this thrust will develop new methods for supervised and streaming principle components analysis, and for learning sketches for optimization problems that must be solved repeatedly, as in medical image formation.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/11/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1838179</AwardID>
+<Investigator>
+<FirstName>Mert</FirstName>
+<LastName>Pilanci</LastName>
+<EmailAddress>pilanci@stanford.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Clayton</FirstName>
+<LastName>Scott</LastName>
+<EmailAddress>clayscot@umich.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Jeffrey</FirstName>
+<LastName>Fessler</LastName>
+<EmailAddress>fessler@umich.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Laura</FirstName>
+<LastName>Balzano</LastName>
+<EmailAddress>girasole@umich.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>062Z</Code>
+<Text>Harnessing the Data Revolution</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8083</Code>
+<Text>Big Data Science &amp;Engineering</Text>
+</ProgramReference>
+</Award>
+</rootTag>

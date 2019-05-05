@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Workshop on Artificial Intelligence and the "Barrier of Meaning"</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>20088</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Donlon</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This workshop brings together eminent scholars in the fields of computer science, psychology, biology, neuroscience, and others to address the topic of "understanding" in artificial intelligence.  In this activity, participants will consider what it would mean for advanced computer systems to possess human-like understanding, explore how necessary it is for intelligent systems to exhibit such understanding, and discuss approaches to imbuing these systems with such a capability.  Engagement of a multidisciplinary community will develop new and actionable insight into how we define, design, implement, and control complex systems that overcome this barrier of meaning.  The workshop will likely also lead to outcomes and follow-on activities to benefit AI education and public awareness regarding the state of current artificial intelligence, including its limitations and potential vulnerabilities.&lt;br/&gt;&lt;br/&gt;The approach in this workshop is to explore how complex systems extract meaning from the information they encounter. Workshop participants will engage questions about the function and mechanisms of "understanding" or "extracting meaning" in complex systems across many disciplines, and focus specifically on the relevance of human-like understanding for creating artificial intelligence systems that are reliable, adaptable to novel situations, and robust against adversarial attacks.  Understanding the nature and necessity of understanding remains among the deepest intellectual challenges in AI research. Workshop discussions will be aimed at clarifying common questions and identifying possible novel pathways to answering these questions. Organizers will publish both technical and general-readership summaries communicating the results of the workshop discussions concerning the notions of understanding or meaning as phenomena in diverse disciplines, and how these phenomena relate to, or enable, the robustness that will be needed for safe and trustworthy AI in the real world.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832717</AwardID>
+<Investigator>
+<FirstName>Melanie</FirstName>
+<LastName>Mitchell</LastName>
+<EmailAddress>mm@cs.pdx.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Santa Fe Institute</Name>
+<CityName>SANTA FE</CityName>
+<ZipCode>875018943</ZipCode>
+<PhoneNumber>5059462727</PhoneNumber>
+<StreetAddress>1399 HYDE PARK ROAD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

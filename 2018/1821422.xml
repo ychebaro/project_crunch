@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Developing a Computing Application Minor and an Inclusive Learning Environment to Build the Diverse, Multidisciplinary Computer Science Workforce of the Future</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2023</AwardExpirationDate>
+<AwardTotalIntnAmount>1307351.00</AwardTotalIntnAmount>
+<AwardAmount>1307351</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11040000</Code>
+<Directorate>
+<Abbreviation>EHR</Abbreviation>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DUE</Abbreviation>
+<LongName>Division Of Undergraduate Education</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Mark Pauley</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project aims to address two pressing needs in STEM education: 1) increasing the number of students graduating with expertise in data and computer science; and 2) improving diversity in STEM fields. The project team at San Francisco State University (SFSU) will achieve these goals by developing and implementing a Computing Application minor.  This minor will use evidence-based approaches to attract, retain, and support students, with attention to students from groups that are underrepresented in computer/data science, including female students. By tailoring activities to students' majors, the project expects to increase student engagement and help students experience how data and computer science are applied in their majors and future professions. Students in the minor will have opportunities to work with local industry and governmental agencies.  In addition, this project will link to the NSF INCLUDES project at SFSU.  As a result, the Computing Application minors will be able to work with high school students as computer science mentors and role models. These experiences can support development of critical skills, including leadership.  The project aims to provide a sustainable and scalable model for introducing data and computer science to science majors that can be adopted by other institutions, and that can broaden participation in those fields.&lt;br/&gt;&lt;br/&gt;The Computing Application minor will be a four-semester, five-course sequence designed for STEM students who have no prior computer/data science knowledge and who are taking a full course load in their major. The project will provide participating students with learning experiences related to their majors, train computer science faculty in evidence-based science teaching methods, and invite students to share their knowledge with the K-12 community. To reduce stereotype threat and imposter syndrome, the project will employ a cohort-based structure that uses peer, faculty, and industry mentors to create a nurturing and supportive community of learners. The project will identify pedagogies that promote students' interest in computer/data science and their motivation to use it in their majors.  These research results can inform other efforts to broaden the diversity of people who have computational expertise, and who decide to pursue graduate degrees and careers in computer/data science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1821422</AwardID>
+<Investigator>
+<FirstName>Ilmi</FirstName>
+<LastName>Yoon</LastName>
+<EmailAddress>ilmi@sfsu.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Aura</FirstName>
+<LastName>Eroy-Reveles</LastName>
+<EmailAddress>alegraer@sfsu.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate>01/30/2019</EndDate>
+<RoleCode>Former Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Anagha</FirstName>
+<LastName>Kulkarni</LastName>
+<EmailAddress>ak@sfsu.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Pleuni</FirstName>
+<LastName>Pennings</LastName>
+<EmailAddress>pennings@sfsu.edu</EmailAddress>
+<StartDate>08/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rorianne</FirstName>
+<LastName>Rohlfs</LastName>
+<EmailAddress>rrohlfs@sfsu.edu</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Shasta</FirstName>
+<LastName>Ihorn</LastName>
+<EmailAddress>sihorn@sfsu.edu</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>San Francisco State University</Name>
+<CityName>San Francisco</CityName>
+<ZipCode>941321722</ZipCode>
+<PhoneNumber>4153387090</PhoneNumber>
+<StreetAddress>1600 Holloway Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1998</Code>
+<Text>IUSE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8209</Code>
+<Text>Improv Undergrad STEM Ed(IUSE)</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9178</Code>
+<Text>UNDERGRADUATE EDUCATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

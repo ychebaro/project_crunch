@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Higher Enumerative Geometry via Representation Theory and Mathematical Physics</AwardTitle>
+<AwardEffectiveDate>07/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>400000.00</AwardTotalIntnAmount>
+<AwardAmount>116706</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>James Matthew Douglass</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will enhance the understanding of enumerative invariants, which are important numbers that arise both in the mathematical study of various geometries, as well as fundamental physical quantities in quantum physical theories, through the study of the underlying symmetries of the geometry itself. Enumerative geometry is connected with many other parts of mathematics and physics, with concrete applications to fields from knot theory to combinatorics. As such, the field is of interest to graduate students from a variety of backgrounds, and to this end the PI will organize yearly summer schools on topics connected with the project.&lt;br/&gt;&lt;br/&gt;The spaces whose geometry to be studied fall into one of two major classes. First, quiver varieties that are built from the combinatorial datum of a graph. Symmetries of quiver varieties are connected to Kac-Moody Lie algebras, Yangians and quantum groups. Second, moduli spaces of sheaves on surfaces and threefolds, especially in the important example of Hilbert schemes, parametrize global objects, and their study involves different techniques. The intersection of the two classes of spaces consists of local geometries such as the plane or toric surfaces, wherein many physical quantities can be explicitly computed. In this context, the enumerative invariants of interest are obtained by integrating cohomology classes over the space, taking the Euler characteristic of line bundles, or at a higher level even studying the derived categories of the spaces themselves. This project will study all three approaches.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/13/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/13/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1845034</AwardID>
+</Award>
+</rootTag>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Modulation Nanospectroscopy for Characterization of Local Electronic Properties</AwardTitle>
+<AwardEffectiveDate>01/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2023</AwardExpirationDate>
+<AwardAmount>248000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With support from the Chemical Measurement and Imaging Program in the Division of Chemistry, Professor Joanna Atkin and her group at the University of North Carolina - Chapel Hill are devising tools that can better characterize the performance of semiconducting devices.  These tools probe the semiconductor's structure and electronic properties on the atomic and molecular (nanometer) length scale.  In particular, the researchers seek to understand how nanoscale crystal structure and the deliberate or inadvertent incorporation of impurities impact electronic function and device performance. Semiconductors are used as the building blocks of logic gates, which are fundamental in the design of digital circuits for computer microprocessors.  Graduate, undergraduate, and high school students contribute to this interdisciplinary research, gaining experience in building instrumentation, optical spectroscopy, nanofabrication, and computational modeling. The group partners with the Morehead Planetarium and Science Center to develop demonstrations illustrating optical, quantum mechanical, and nanotechnological concepts, with an aim of effectively communicating the scientific underpinnings of this research to the general public. Dr. Atkin's research group also partners with existing outreach programs on campus that target underserved populations, to engage high schoolers in scientific research and provide mentorship and resources for pursuing a STEM career. Finally, a website and mentoring network is established to bring together researchers who experience health and disability challenges to improve diversity and inclusion in STEM.&lt;br/&gt; &lt;br/&gt;Optical techniques are uniquely sensitive to electronic and structural parameters, but are inherently diffraction-limited and therefore generally probe averaged behavior for materials that are heterogeneous in order, grain boundaries, and interfaces at the nanoscale. The Atkin group is developing "modulation nanospectroscopy" - a new sub-diffraction-limit technique for characterizing semiconducting materials and devices. Specifically, they are combining atomic force microscopy-based optical microscopy with field and optical modulation to reveal otherwise inaccessible information about free and bound charge carrier excitations on 10 nm length scales. Both inorganic and organic test systems are being considered, covering a range of transport regimes, in order to explore local structure-conductivity relations. Quasiparticle excitations such as excitons and polarons are being probed on their natural length scales, to explore non-equilibrium properties over timescales from femtoseconds to seconds. The techniques can be applied to understanding function in a wide variety of electronic and photonic materials, from 2D heterostructure devices to hybrid organic-inorganic photovoltaics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>12/20/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>12/20/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1848278</AwardID>
+<Investigator>
+<FirstName>Joanna</FirstName>
+<LastName>Atkin</LastName>
+<EmailAddress>jatkin@live.unc.edu</EmailAddress>
+<StartDate>12/20/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of North Carolina at Chapel Hill</Name>
+<CityName>CHAPEL HILL</CityName>
+<ZipCode>275991350</ZipCode>
+<PhoneNumber>9199663411</PhoneNumber>
+<StreetAddress>104 AIRPORT DR STE 2200</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

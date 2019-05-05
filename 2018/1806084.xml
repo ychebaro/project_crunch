@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Relativistic Nonthermal Particle Acceleration in Kinetic Turbulence and Magnetic Reconnection:  Connecting Simulations and Theory</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>646762.00</AwardTotalIntnAmount>
+<AwardAmount>646762</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03020000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AST</Abbreviation>
+<LongName>Division Of Astronomical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nigel Sharp</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Highly magnetized plasmas are implicated in accelerating charged particles to very high speeds in astrophysical systems as diverse as pulsar wind nebulae, accretion disk coronae, and relativistic jets.  Much recent progress has been numerical, but these large and complex simulations need to be connected to a coherent theoretical picture, which also requires updating theories which predate many of the insights gained from computation.  This is exactly what this project will provide, advancing our understanding of acceleration under various physical conditions, extending to space and solar plasmas closer to home, and thus helping to build intellectual bridges between plasma physics, astrophysics, and heliospheric physics.  The study includes training, support, and mentoring for a graduate student as well as varied research opportunities for undergraduates.  Visually arresting graphics presented through collaboration with the University of Colorado Fiske Planetarium will contribute to the public understanding of modern science.&lt;br/&gt;&lt;br/&gt;Relativistic charged particles with extended power-law energy distributions are inferred to exist in many astrophysical systems, but the mechanisms for non-thermal particle acceleration (NTPA) are poorly understood.  Only recently have first-principles kinetic particle-in-cell (PIC) simulations suggested that reconnection and turbulence in highly magnetized plasmas can efficiently cause relativistic NTPA.  The challenge of translating the accumulated numerical results into a coherent theoretical picture is exacerbated by the size and complexity of modern PIC simulations, and the fact that theoretical models predate the simulations and have not been updated.  Many theories of NTPA are tied to the Fokker-Planck (FP) equation, but without numerical confirmation.  This project will combine PIC simulations with analytical theory, determine whether the FP equation approach is applicable and measure the diffusion and advection coefficients, going beyond FP if necessary, and elucidate the deeper connections between reconnection and turbulence.  This project will advance theoretical understanding of relativistic NTPA in collisionless magnetic reconnection and turbulence under a variety of physical conditions, and contribute significantly to understanding the relativistic plasma environments around neutron stars and black holes.  By influencing thinking about NTPA in other space and solar plasmas, this work will help to connect plasma physics, astrophysics, and heliospheric physics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1806084</AwardID>
+<Investigator>
+<FirstName>Mitchell</FirstName>
+<LastName>Begelman</LastName>
+<EmailAddress>mitch@jila.colorado.edu</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dmitri</FirstName>
+<LastName>Uzdensky</LastName>
+<EmailAddress>uzdensky@colorado.edu</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Gregory</FirstName>
+<LastName>Werner</LastName>
+<EmailAddress>greg.werner@colorado.edu</EmailAddress>
+<StartDate>07/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Colorado at Boulder</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803031058</ZipCode>
+<PhoneNumber>3034926221</PhoneNumber>
+<StreetAddress>3100 Marine Street, Room 481</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1217</Code>
+<Text>EXTRAGALACTIC ASTRON &amp; COSMOLO</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1242</Code>
+<Text>PLASMA PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1253</Code>
+<Text>OFFICE OF MULTIDISCIPLINARY AC</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>026Z</Code>
+<Text>NSCI: National Strategic Computing Initi</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057P</Code>
+<Text>WINDOWS TO THE UNIVERSE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1062</Code>
+<Text>BASIC PLASMA SCIENCE &amp; ENGINEERING</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>1206</Code>
+<Text>THEORETICAL &amp; COMPUTATIONAL ASTROPHYSICS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8084</Code>
+<Text>CDS&amp;E</Text>
+</ProgramReference>
+</Award>
+</rootTag>

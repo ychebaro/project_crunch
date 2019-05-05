@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>XI International Symposium on the Plant Hormone Ethylene; June 2-6, Crete, Greece</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>08070000</Code>
+<Directorate>
+<LongName>Direct For Biological Sciences</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Molecular and Cellular Bioscience</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>David Rockcliffe</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Ethylene is a plant hormone that has profound effects on growth and development. The way that hormones act in an organism and in the cell is very complex, and we are only beginning to understand the complex web of interacting molecules that are unleashed by the action of a hormone such as ethylene. This meeting will bring together a wide range of scientists, including early career scientists at the level of graduate students and post-doctoral fellows, to discuss the cellular and molecular systems that cause the release of ethylene and the systems that react to that release. The work that will be discussed at this conference is directly relevant to US agriculture, to the US economy, and to the US food supply and food security.&lt;br/&gt;&lt;br/&gt;The proposed program for the conference covers ethylene signaling across a range of scales, from molecular to organismal, and will discuss ethylene signaling at the cell biology level, integrating molecular and cell biological studies in a way that will help develop the systems biology of ethylene signaling in the cell. There will also be sessions on the computational modeling of ethylene signaling networks and interdisciplinary studies using a combination of biology, biophysics and computational approaches to model ethylene receptor structure. In addition, much of the conference will discuss the current understanding of ethylene signaling as it is developing in non-model (i.e. non-Arabidopsis) crop plants, microbes and algae ? increasing our understanding of non-model organisms, an important area as we try to apply lessons from model species studies to a more diverse range of organisms.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/22/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/22/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819145</AwardID>
+<Investigator>
+<FirstName>Caren</FirstName>
+<LastName>Chang</LastName>
+<EmailAddress>carenc@umd.edu</EmailAddress>
+<StartDate>03/22/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8011</Code>
+<Text>Systems and Synthetic Biology</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7465</Code>
+<Text>NANOSCALE BIO CORE</Text>
+</ProgramReference>
+</Award>
+</rootTag>

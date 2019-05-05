@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of an accelerated solvent extractor (ASE) for undergraduate research and teaching  at Pace University</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>48388</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Carlos A. Murillo</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award is supported by the Major Research Instrumentation and the Chemistry Research Instrumentation programs. Professor Elmer-Rico Mojica from Pace University and colleagues Zhaohua Dai, Nigel Yarlett, Rita Upmacis and Jaime-Lee Rizzo have acquired an accelerated solvent extractor (ASE). This instrument allows extraction of substance of interest from mixtures of compounds with the aid of high temperatures and high pressures that make the various substances more soluble. Once the materials are dissolved, the mixtures are separated with the use of columns. In the column, there are substances that interact differently with the various components, thus allowing separation. Because of the high temperature and pressures, the system allows (much like a pressure cooker) the use of small volumes of liquids in the separation. This makes these systems environmentally friendly since they produce little waste. Common applications are in extraction of pesticides, herbicides, flame retardants, active ingredients in medicines, vitamins, dietary supplements, detergents and textiles. The instrument is used to train students in research at the host institution and the Navarro Borough Manhattan Community College. The solvent extractor serves many underrepresented students and facilitates retention in STEM fields.&lt;br/&gt;&lt;br/&gt;The award of this accelerated solvent extractor is aimed at enhancing research and education at all levels. It especially impacts the characterization of natural materials, such as bee propolis, and their use as antimicrobial and antiprotozoal agents, the analyses of organic micropollutants and the presence of pharmaceuticals and personal care products in various types of sediments from New York City. The instrument is also used for investigating the presence of pollutants and pesticide residues in commercial tea samples, fruits, vegetables, honey and milk and for improving the sample preparation methods in the analysis of illicit drugs. In addition, it benefits  the development of molecular imprinted xerogels materials designed by computational methods.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828320</AwardID>
+<Investigator>
+<FirstName>Zhaohua</FirstName>
+<LastName>Dai</LastName>
+<EmailAddress>zdai@pace.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Nigel</FirstName>
+<LastName>Yarlett</LastName>
+<EmailAddress>nyarlett@pace.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Rita</FirstName>
+<LastName>Upmacis</LastName>
+<EmailAddress>rupmacis@pace.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elmer-Rico</FirstName>
+<LastName>Mojica</LastName>
+<EmailAddress>emojica@pace.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>JaimeLee</FirstName>
+<LastName>Rizzo</LastName>
+<EmailAddress>jrizzo@pace.edu</EmailAddress>
+<StartDate>06/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pace University New York Campus</Name>
+<CityName>New York</CityName>
+<ZipCode>100381502</ZipCode>
+<PhoneNumber>2123461200</PhoneNumber>
+<StreetAddress>1 Pace Plaza</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+</Award>
+</rootTag>

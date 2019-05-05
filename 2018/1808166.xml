@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Space Weather Workshop 2018; Westminster, Colorado; April 16-20, 2018</AwardTitle>
+<AwardEffectiveDate>03/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>24999.00</AwardTotalIntnAmount>
+<AwardAmount>24999</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>06020202</Code>
+<Directorate>
+<Abbreviation>GEO</Abbreviation>
+<LongName>Directorate For Geosciences</LongName>
+</Directorate>
+<Division>
+<Abbreviation>AGS</Abbreviation>
+<LongName>Div Atmospheric &amp; Geospace Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lisa Winter</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This grant is to organize the 2018 Space Weather Workshop held April 16-20, 2018 at the Westin Westminster Hotel in Westminster, Colorado.  This is a four-day workshop that focuses on the impacts of space weather and explores recent scientific advances in predicting and forecasting. Space weather originates at the sun, which is constantly emitting material and electromagnetic waves. Impacts in the near-Earth space environment stimulates a complex response including geomagnetic storms, induction of the aurorae, ionospheric disturbances, and a variety currents are induced on the ground. There are resulting impacts to infrastructure such as satellite drag, disruptions to electronic components in space assets, induced currents in the power grid, and many others which will be discussed at the workshop. The participants are expected to be (based on past workshops) a mixture of scientists, and representatives from industries impacted by space weather, including those from electric power, commercial airlines, satellite operations, and navigation/ communication.  The workshop is intended to foster collaboration across academia, industry and government on space weather issues, and promote an active forum among science, technology, economic, policy and security communities. &lt;br/&gt;&lt;br/&gt;The organizing committee is comprised of representatives from federal agencies, knowledgeable experts from the academic community and from the private sector, and includes student representatives.  The organizing committee is responsible for identifying and recruiting speakers for workshop sessions on the basis of qualities of merit, educational career objectives, and potential contribution to the overall conference experience. The workshop is structured around plenary sessions, poster sessions, and a roundtable discussion. Undergraduate and graduate students are encouraged to participate and present posters at the workshop. A website for the workshop has been created at https://www.cpaess.ucar.edu/events/space-weather-workshop for handling meeting logistics, registration, and coordinating multimedia activities.&lt;br/&gt; &lt;br/&gt;Space Weather Workshop 2018 is co-sponsored by interested units in several different agencies, including the NOAA Space Weather Prediction Center, NASA Heliophysics Division, and the NSF Division of Atmospheric and Geospace Science.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808166</AwardID>
+<Investigator>
+<FirstName>Hanne</FirstName>
+<LastName>Mauriello</LastName>
+<EmailAddress>hanne@ucar.edu</EmailAddress>
+<StartDate>03/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University Corporation For Atmospheric Res</Name>
+<CityName>Boulder</CityName>
+<ZipCode>803012252</ZipCode>
+<PhoneNumber>3034971000</PhoneNumber>
+<StreetAddress>3090 Center Green Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Colorado</StateName>
+<StateCode>CO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8089</Code>
+<Text>Space Weather Research</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>4444</Code>
+<Text>INTERDISCIPLINARY PROPOSALS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

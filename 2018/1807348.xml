@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CCSS: Communicating with Implanted Energy Harvesting Devices under Temperature Constraints</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>360000.00</AwardTotalIntnAmount>
+<AwardAmount>360000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>ECCS</Abbreviation>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Lawrence Goldberg</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Energy harvesting is a paradigm shift for several important reasons: reducing the use of conventional energy and thus benefiting the environment; enabling energy self-sufficient, energy self-sustaining, perpetual operation; and furnishing wireless devices with true mobility by cutting the cord for recharging. Another important aspect of energy harvesting that we particularly highlight in this project is that it enables technological applications which are otherwise impossible or extremely impractical with a conventional battery-powered operation. The most prominent examples of such applications are in-body and on-body medical and wellness applications, where devices are either implanted in the human body or mounted closely on the human body. Many of such life-critical applications are simply impossible or extremely difficult to deploy without energy harvesting devices. This project focuses on communication and computation aspects of such devices. When devices are implanted in or placed on the human body, a new physical phenomenon becomes critical: temperature increases and heating of the surrounding tissues due to transmission and processing of data. This project addresses this important issue, and develops communication and computation schemes that optimize the operation of the device while keeping the temperature within safe limits. &lt;br/&gt;&lt;br/&gt;In this research, we combine bio-heat models that relate power with temperature, communication-theoretic models that relate power with throughput, and energy harvesting constraints that relate power used with energy harvested, to construct an optimization framework to determine the optimum operating principles for such systems. The goal of this framework is to determine optimum power control mechanisms, optimum energy harvesting and energy transfer schemes, and optimum data processing methods (sampling, distributed compression, coding, decoding) such that the overall system operates most efficiently for its data processing and data transmission goals, while ensuring that the temperature remains within pre-specified safe limits. In this project, we consider four major research directions: 1) Understanding spatial distribution of heat and developing methods to guarantee location- and tissue-specific temperature guarantees. 2) Determining optimum operating principles for multiple simultaneously active devices; developing joint power control mechanisms; designing cooperation schemes; developing distributed source coding methods. 3) Developing optimum processing mechanisms to determine the optimum on and off times for circuits; optimum compression, encoding and decoding power allocations; and optimum energy harvesting amounts. 4) Determining optimum energy transfer rates for remote wireless charging of these devices, and optimum energy and information transfer schemes, under temperature constraints.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/15/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/15/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807348</AwardID>
+<Investigator>
+<FirstName>Sennur</FirstName>
+<LastName>Ulukus</LastName>
+<EmailAddress>ulukus@umd.edu</EmailAddress>
+<StartDate>08/15/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maryland College Park</Name>
+<CityName>COLLEGE PARK</CityName>
+<ZipCode>207425141</ZipCode>
+<PhoneNumber>3014056269</PhoneNumber>
+<StreetAddress>3112 LEE BLDG 7809 Regents Drive</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maryland</StateName>
+<StateCode>MD</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7564</Code>
+<Text>COMMS, CIRCUITS &amp; SENS SYS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>153E</Code>
+<Text>Wireless comm &amp; sig processing</Text>
+</ProgramReference>
+</Award>
+</rootTag>

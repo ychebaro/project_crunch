@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Dual adaptive self-centering system for mitigating earthquake-induced damage and wind induced vibrations of structures</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>12/31/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>50000.00</AwardTotalIntnAmount>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project relates to a control system for mitigating earthquake-induced damage and wind-induced vibrations in buildings. The estimated long-term value of the loss of building stock in the USA in a year, due to earthquakes (Annualized Earthquake Loss), is $5.3 billion. This project's technology has the potential to prevent loss of human life and property from earthquakes. Although windstorms do not typically cause damage to tall buildings, they can produce considerable vibrations. Prolonged exposure to such vibrations has been known to lead to nausea and even migraines among inhabitants of tall buildings. This project's technology may eliminate the side effects of wind vibrations for a large segment of people.&lt;br/&gt;&lt;br/&gt;This I-Corps project is focused on an adaptive control system for controlling vibrations of structures. The control system is friction based, leading to low cost fabrication and maintenance. The system can be installed in a newly built building, as well as can be retrofitted in an existing building. The state-of-art adaptive seismic energy dissipaters limit structural deformations by increasing their stiffness with displacement. This project's technology can outperform current systems as it limits the structural deformation by increasing both stiffness and energy dissipation with displacement. Seismic waves have higher energy content at higher frequencies (around 1 Hz), while windstorms have higher energy content at lower frequencies (0.001-0.1 Hz). The energy dissipation capability of the proposed technology is frequency independent. Hence it can absorb both forced and free vibrations of tall buildings at all frequencies of wind loading.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/18/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/18/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836746</AwardID>
+<Investigator>
+<FirstName>Tathagata</FirstName>
+<LastName>Ray</LastName>
+<EmailAddress>rayt@nmsu.edu</EmailAddress>
+<StartDate>06/18/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New Mexico State University</Name>
+<CityName>Las Cruces</CityName>
+<ZipCode>880038002</ZipCode>
+<PhoneNumber>5756461590</PhoneNumber>
+<StreetAddress>Corner of Espina St. &amp; Stewart</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Mexico</StateName>
+<StateCode>NM</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

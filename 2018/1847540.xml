@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CAREER: Fast optical voltage imaging for detailing bursts of neural activity</AwardTitle>
+<AwardEffectiveDate>04/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>03/31/2024</AwardExpirationDate>
+<AwardTotalIntnAmount>500000.00</AwardTotalIntnAmount>
+<AwardAmount>500000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CBET</Abbreviation>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Leon Esterowitz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The next step toward understanding the brain is to reveal how the different regions of the brain interact. This proposal creates an interdisciplinary set of protein and microscopy tools that optically captures and then interprets movies of the entire zebrafish brain. These large-scale recordings will help understand the relationship between different brain regions, especially during fast neural activity patterns associated with specific neural disorders. The technological and scientific products of this proposal will result in training materials that educate and inspire the next generation of neural engineers.&lt;br/&gt;&lt;br/&gt;Neuroscience requires a mesoscopic study of the brain to define the functional relationships between different brain regions. This proposal creates a series of fluorescent genetically encoded voltage sensors, optical microscopes, and signal processing tools to optically extract the millisecond waveforms of targeted neural populations simultaneously over the entire zebrafish brain. These recordings will help characterize the cascade of fast, millisecond timescale bursts of neural activity expanding through multiple brain regions that underlie neural disorders. The broader impact goals of this proposal will fold these technological tools into educational and research training materials targeted to a diverse array of students in the STEM pipeline.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/22/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/22/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1847540</AwardID>
+<Investigator>
+<FirstName>Yiyang</FirstName>
+<LastName>Gong</LastName>
+<EmailAddress>yiyang.gong@duke.edu</EmailAddress>
+<StartDate>02/22/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Duke University</Name>
+<CityName>Durham</CityName>
+<ZipCode>277054010</ZipCode>
+<PhoneNumber>9196843030</PhoneNumber>
+<StreetAddress>2200 W. Main St, Suite 710</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>North Carolina</StateName>
+<StateCode>NC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7236</Code>
+<Text>BIOPHOTONICS, IMAGING &amp;SENSING</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1045</Code>
+<Text>CAREER-Faculty Erly Career Dev</Text>
+</ProgramReference>
+</Award>
+</rootTag>

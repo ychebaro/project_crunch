@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  4th-Phase Water Technology</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is to optimize water utilization, thereby improving agricultural production. It is projected that the human population will exceed 9 billion by 2050.  To meet the expected demand, global food production must increase by more than 50% by 2050. This SBIR project will have impact not only in expanding fundamental knowledge of plant utilization of water but also in contributing to agricultural productivity, an urgent and practical need for human survival, in a sustainable manner.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to commercialize the advanced water-treatment technology that could enhance plant growth, and therefore improve crop output in agricultural applications. In short, a thin layer (about 100 microns, as thin as a human hair) of interfacial water was found to exist with a slightly higher pH, net negative charge, and a tendency to exclude impurities. These findings were similar to those found by other independent research groups working with xylem cells in plants and muscle cells in animals. Several hydrogels and polymers were also found to contain interfacial water with similar properties. Initial studies regarding the practical use of the interfacial water were conducted in a plant system. On average, initial results show a rapid growth rate of around 10% to 20% improvement compared to the control group; preliminary findings that have now been confirmed to be similar amongst four different plants, namely chick pea, wheatgrass, basil, and pea shoots. This SBIR will enable continued testing and scale up the interfacial water generator to meet water demands for customer validations.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/21/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/21/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819846</AwardID>
+<Investigator>
+<FirstName>Chien-Chang</FirstName>
+<LastName>Kung</LastName>
+<EmailAddress>kurt.kung@4th-phase.com</EmailAddress>
+<StartDate>06/21/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>4th-Phase Inc.</Name>
+<CityName>Seattle</CityName>
+<ZipCode>981157301</ZipCode>
+<PhoneNumber>2064078945</PhoneNumber>
+<StreetAddress>6545 34th Ave NE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Washington</StateName>
+<StateCode>WA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

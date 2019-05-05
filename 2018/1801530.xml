@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Cohomological Invariants and Motives of Classifying Spaces</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>330000.00</AwardTotalIntnAmount>
+<AwardAmount>220000</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Janet Striuli</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Algebraic geometry is the study of shapes, called algebraic varieties, defined by polynomial equations. This project develops methods of algebraic geometry for the study of algebraic varieties with a large set of symmetries using the theory of invariants. The results obtained by these methods may provide a new insight into the rationality problem of algebraic varieties that measures the complexity of algebraic objects. Much of this project concerns the development of algebraic techniques to obtain a better understanding of certain problems in geometry.&lt;br/&gt;&lt;br/&gt;The project covers a wide range of aspects in algebra such as algebraic geometry, algebraic groups and motivic cohomology. The classifying spaces of certain algebraic groups classify classical objects such as simple algebras, algebras with involutions, and quadratic forms. The PI will study cohomological invariants of algebraic groups. There are two applications of cohomological invariants. The first application is related to the classification of algebraic objects when the objects are determined up to isomorphism by their cohomological invariants. The second application considered in the project is the rationality problem for classifying spaces of algebraic groups. In particular, an old problem on the rationality of classifying spaces of connected algebraic groups is addressed. The problems to be studied require elaborate techniques including representation theory of algebraic groups, motivic cohomology, algebraic cycles and Chern classes.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/24/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/23/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1801530</AwardID>
+<Investigator>
+<FirstName>Alexander</FirstName>
+<LastName>Merkurjev</LastName>
+<EmailAddress>merkurev@math.ucla.edu</EmailAddress>
+<StartDate>04/24/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1264</Code>
+<Text>ALGEBRA,NUMBER THEORY,AND COM</Text>
+</ProgramElement>
+</Award>
+</rootTag>

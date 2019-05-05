@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>EAGER: Universal, programmable sensor-regulator elements for dynamic control and optimization of microbial biomanufacturing</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2019</AwardExpirationDate>
+<AwardAmount>99208</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Microbes can produce many valuable products. One obstacle to making these products economically is our inability to easily redirect metabolism. This project will evaluate a specific class of proteins as a metabolic switch. If successful, the strategy could greatly expand our ability to manufacture chemicals biologically. This project will also develop a diverse biotechnology workforce through the involvement of underrepresented graduate and undergraduate students. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The project will construct and characterize novel temperature and pH responsive transcriptional regulators that are of broad interest to the greater scientific community. The project also establishes the potential of these systems as tunable, synthetic dynamic regulators of metabolic pathways. A modular approach whose elements can be easily swapped and tuned for full control of performance is proposed. Synthetic elastin-like proteins (ELPs), are applied in a novel context to recognize generic indicators of cellular stress. As sensor sensitivity is programmed by ELP sequence, sensing elements are readily adapted to a number of processes. Similarly, the transcription factor controller element may be swapped with different species- specific transcriptional activators or repressors to effect control in diverse production species and control modes. This project is expected to help transform microbial chemical factory design by introducing a new tool for the optimization of novel production pathways, thus broadening the portfolio of feasible products.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/02/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/02/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836654</AwardID>
+<Investigator>
+<FirstName>Kevin</FirstName>
+<LastName>Solomon</LastName>
+<EmailAddress>kvs@purdue.edu</EmailAddress>
+<StartDate>08/02/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Purdue University</Name>
+<CityName>West Lafayette</CityName>
+<ZipCode>479072114</ZipCode>
+<PhoneNumber>7654941055</PhoneNumber>
+<StreetAddress>Young Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Indiana</StateName>
+<StateCode>IN</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7916</Code>
+<Text>EAGER</Text>
+</ProgramReference>
+</Award>
+</rootTag>

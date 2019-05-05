@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Student Travel Support for the 17th Workshop on the Economics of Information Security (WEIS 2018)</AwardTitle>
+<AwardEffectiveDate>05/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>04/30/2019</AwardExpirationDate>
+<AwardAmount>12000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sara Kiesler</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The 17th Workshop on the Economics of Information Security (WEIS) will be held at the University of Innsbruck, on June 18-19, 2018. WEIS is an annual event which acts as a leading forum for interdisciplinary scholarship on information security, combining expertise from the fields of computer science and electrical engineering, economics, social science, business, law, and policy. The event will feature keynotes from experts in privacy and security research, as well as speakers with research experience in interdisciplinary topics of interest to WEIS (e.g., behavioral economics and cognitive science). This award supports graduate and undergraduate students (who are US citizens or based at US Universities) to travel to the conference.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1832821</AwardID>
+<Investigator>
+<FirstName>Serge</FirstName>
+<LastName>Egelman</LastName>
+<EmailAddress>egelman@icsi.berkeley.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>International Computer Science Institute</Name>
+<CityName>Berkeley</CityName>
+<ZipCode>947044115</ZipCode>
+<PhoneNumber>5106662900</PhoneNumber>
+<StreetAddress>1947 CENTER ST STE 600</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8060</Code>
+<Text>Secure &amp;Trustworthy Cyberspace</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>025Z</Code>
+<Text>SaTC: Secure and Trustworthy Cyberspace</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7434</Code>
+<Text>CNCI</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

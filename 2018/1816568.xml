@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>RI: Small: Computational and Physiological Studies of Complex Neural Codes in the Early Visual Cortex</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>499994.00</AwardTotalIntnAmount>
+<AwardAmount>513994</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05020000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIS</Abbreviation>
+<LongName>Div Of Information &amp; Intelligent Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Whang</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this interdisciplinary project, machine learning approaches are coupled with neurophysiological studies of primate early visual cortex  to investigate the functional, coding and computational benefits of the observed neural representation and computing architecture.  Neural models, with recurrent connections and the proposed dual-code strategy, will be developed to solve multiple vision problems simultaneously and to fit neurophysiological data.  The representations will be studied from both coding perspectives and computational perspectives, based on scene statistics and their relevance for solving vision problems. The research program will be facilitated by international collaboration and tightly integrated with undergraduate and graduate education in neural computation.   The proposed project wide provide new insights to the computations and functions of the biological visual system, as well as new ideas and inspirations for developing machine learning systems that can learn from limited data and function robustly and flexibly in novel complex situations, potentially with broad societal and technological impact.&lt;br/&gt;&lt;br/&gt;Current deep learning neural networks utilize tens or hundreds of layers to learn solutions for specific computer vision problems. The mammalian visual system has much fewer layers, and yet can solve many tasks in a variety of novel and complex situations. The nervous system might achieve this feat by having neuronal circuits with loops and recurrent connections, and with order of magnitude more neurons in each "layer." Recent neurophysiological findings suggest that neurons in the primary visual cortex (V1) of primates are not simply oriented edge and bar detectors as described in textbooks, but respond strongly to highly specific complex local patterns, although they also respond to many other patterns with much weaker responses.  The PI proposed that the individual neurons are not amorphous entities, functioning facelessly in a large population, but are distinct and unique individuals that serve as specialists for some specific tasks and as generalists in other tasks. They participate in population encoding of  information with strong sparse codes or weak distributed codes respectively, depending on the functional roles they serve.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/18/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1816568</AwardID>
+<Investigator>
+<FirstName>Tai Sing</FirstName>
+<LastName>Lee</LastName>
+<EmailAddress>tai@cnbc.cmu.edu</EmailAddress>
+<StartDate>08/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Carnegie-Mellon University</Name>
+<CityName>PITTSBURGH</CityName>
+<ZipCode>152133815</ZipCode>
+<PhoneNumber>4122688746</PhoneNumber>
+<StreetAddress>5000 Forbes Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>8624</Code>
+<Text>IntgStrat Undst Neurl&amp;Cogn Sys</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7495</Code>
+<Text>ROBUST INTELLIGENCE</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8089</Code>
+<Text>Understanding the Brain/Cognitive Scienc</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8091</Code>
+<Text>BRAIN Initiative Res Support</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

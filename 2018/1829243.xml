@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps Sites: Type I - Florida Atlantic University I-Corps Site for Advancing Entrepreneurship and Innovation</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardAmount>84999</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anita J. LaSalle</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project will create an NSF I-Corps Site at Florida Atlantic University (FAU) as a component of the FAU Tech Runway (FAUTR), the university's early-stage business incubator/ accelerator. &lt;br/&gt;&lt;br/&gt;Innovation Corps (I-Corps) Sites are NSF-funded entities established at universities whose purpose is to nurture and support multiple, local teams to transition their technology concepts into the marketplace. Sites provide infrastructure, advice, resources, networking opportunities, training and modest funding to enable groups to transition their work into the marketplace or into becoming I-Corps Team applicants. I-Corps Sites also strengthen innovation locally and regionally and contribute to the National Innovation Network of mentors, researchers, entrepreneurs and investors.&lt;br/&gt;&lt;br/&gt;The I-Corps Site will significantly enhance the existing FAUTR's ability to positively impact the local innovation ecosystem. This project enhances the continuous development of expert entrepreneurs that will ultimately cultivate a strong local innovation ecosystem in one of the most densely populated areas of the country. At FAU, a designated Hispanic Serving Institution (HSI), the I-Corps Site program also helps increase the participation of Hispanic entrepreneurs in STEM innovation. The long-term objective of this project is to increase and retain the number of newly formed innovative companies capable of accelerating innovations to the market and attracting investors and industry partners to the region.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/11/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>09/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1829243</AwardID>
+<Investigator>
+<FirstName>Rhys</FirstName>
+<LastName>Williams</LastName>
+<EmailAddress>williamsr@fau.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ken</FirstName>
+<LastName>Dawson-Scully</LastName>
+<EmailAddress>ken.dawson-scully@fau.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Dimitris</FirstName>
+<LastName>Pados</LastName>
+<EmailAddress>dpados@fau.edu</EmailAddress>
+<StartDate>09/11/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Florida Atlantic University</Name>
+<CityName>BOCA RATON</CityName>
+<ZipCode>334316424</ZipCode>
+<PhoneNumber>5612970777</PhoneNumber>
+<StreetAddress>777 GLADES RD</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8046</Code>
+<Text>I-Corps - Sites</Text>
+</ProgramElement>
+</Award>
+</rootTag>

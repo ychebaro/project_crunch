@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Embedded Machine Vision for Accurate Gait Analyses and Body Movement Measurements</AwardTitle>
+<AwardEffectiveDate>04/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2019</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Nancy Kamei</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to revolutionize conventional rehabilitation assistant and body movement assessment tools with low-cost machine vision based solutions by maximizing the capability of ubiquitous tablets and 2D cameras, which have significant cost and accessibility advantage over more expensive 3D cameras. A set of tablet/smartphone Apps can be developed base on the embedded machine vision technology, and the team plan to create related services using a subscription model. This innovation will benefit broad healthcare market, which includes rehab facilities, surgery/neurology outpatient clinics, physical therapy clinics, stroke centers, and individuals. Overall, the innovation will make embedded machine vision technology accessible to and serve many population groups in the society. &lt;br/&gt;&lt;br/&gt;This I-Corps project is based on preliminary results that we obtained on a PC platform to identify and track human body joint points in close to real-time. The prototype leverages novel machine learning algorithms and high performance processors (graphics processing units). Our next phase of research is to generate depth map from a 2D camera, recognize and track body joint points, and score body movements, all on a tablet platform. The challenges include depth generation with 2D images and efficient models and algorithms to execute on a resource constraint embedded platform. The team will leverage embedded deep learning techniques to optimize the algorithms towards an embedded processor architecture on modern tablets so that the proof-of-concept can deliver satisfactory performance. The team also plan to work with a medical doctor and a rehabilitation facility advisor to review and refine the software features and validate the early prototype.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>03/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1823766</AwardID>
+<Investigator>
+<FirstName>Yan</FirstName>
+<LastName>Luo</LastName>
+<EmailAddress>Yan_Luo@uml.edu</EmailAddress>
+<StartDate>03/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Lowell</Name>
+<CityName>Lowell</CityName>
+<ZipCode>018543643</ZipCode>
+<PhoneNumber>9789344170</PhoneNumber>
+<StreetAddress>600 Suffolk Street</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

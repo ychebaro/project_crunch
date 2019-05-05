@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>REU Site: High Performance Computing with Engineering Applications</AwardTitle>
+<AwardEffectiveDate>02/15/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2022</AwardExpirationDate>
+<AwardAmount>359931</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05090000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Office of Advanced Cyberinfrastructure (OAC)</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Sushil K Prasad</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This award provides support for a three-year REU Site at Clarkson University, Potsdam, New York, in High Performance Computing (HPC), a field critical to national security, scientific discovery, and technological innovation. The goal of this project is to encourage 30 talented undergraduate students to pursue graduate study and careers in HPC by engaging them in exciting, ongoing research projects and by cultivating their talents during ten-week summer research experiences and beyond. Sixteen ongoing research projects available for students are innovative and share the common theme of societally relevant engineering applications that originate from disciplines as diverse as aeronautical engineering, chemical engineering, civil engineering, electrical and computer engineering, software engineering, and applied mathematics.  The project thus serves the national interest, as stated by NSF's mission: to promote the progress of science; to advance the national health, prosperity and welfare; or to secure the national defense.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Students are recruited from targeted institutions that offer limited or no research opportunities in HPC, such as historically minority colleges and universities. Emphasis is placed on attracting underrepresented minority and female students.  Faculty with expertise in HPC applications mentor the students to be researchers and provide them with specialized training in the design and development of HPC applications that are rooted in and motivated by engaging engineering innovations. This specialized training provides the students with technical and analytical skills in mathematical modeling, algorithmic development, and parallel and distributed programming, which benefit them in future pursuits such as graduate study or industry work. The quality of this training is further reinforced by additional professional development activities, including an HPC crash course, field trips, invited speakers, weekly group meetings, and a mentor training workshop for faculty.  Seminars in career development, literature search, technical writing, and graduate school advisement, are also integrated into the program, and all student participants are given the opportunity to attend and present in professional conferences.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/04/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/04/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1852102</AwardID>
+<Investigator>
+<FirstName>Daqing</FirstName>
+<LastName>Hou</LastName>
+<EmailAddress>dhou@clarkson.edu</EmailAddress>
+<StartDate>02/04/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Yu</FirstName>
+<LastName>Liu</LastName>
+<EmailAddress>yuliu@clarkson.edu</EmailAddress>
+<StartDate>02/04/2019</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Clarkson University</Name>
+<CityName>Potsdam</CityName>
+<ZipCode>136761401</ZipCode>
+<PhoneNumber>3152686475</PhoneNumber>
+<StreetAddress>8 Clarkson Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1139</Code>
+<Text>RSCH EXPER FOR UNDERGRAD SITES</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9250</Code>
+<Text>REU SITE-Res Exp for Ugrd Site</Text>
+</ProgramReference>
+</Award>
+</rootTag>

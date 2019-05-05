@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>K-theory of Operator Algebras and Invariants of Elliptic Operators</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>196506.00</AwardTotalIntnAmount>
+<AwardAmount>196506</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomek Bartoszynski</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>A fundamental idea in classical geometry is the correspondence between geometric spaces and algebras of coordinate functions. Descartes' remarkable insight was that any equation gives rise to a geometric object. This insight was further developed, first notably in algebraic geometry, later progressing to geometry and topology. For a classical geometric space, the multiplication of its coordinates is commutative, namely, the multiplication does not depend on the order of operation.  However, there are many natural "geometric objects" in both mathematics and physics, especially quantum mechanics, where the coordinates no longer commute. Noncommutative geometry is a branch of mathematics that is designed to handle just such noncommutative "geometric objects". Invariants of differential equations and more generally K-theory of operator algebras are a central part of noncommutative geometry. The principal investigator intends to study a certain class of invariants of differential equations and apply them to study problems in geometry and topology.&lt;br/&gt;&lt;br/&gt;A long term research goal of the principal investigator is to use methods from K-theory of operator algebras and more generally noncommutative geometry to study higher index theoretic invariants of elliptic operators and their applications to geometry and topology. The principal investigator was able to use these methods to obtain various geometric applications such as in the case of positive scalar curvature metrics problems in geometry and in the case of the manifold rigidity problem in topology. In this project, the principal investigator plans to extend these methods to obtain new geometric and topological applications, which include (1) the higher homotopy groups of the space of positive scalar curvature metrics on a given spin manifold; (2) surgery theory of singular spaces; (3) the Grothendieck-Riemann-Roch theorem for singular varieties; (4) quantitative algebraic K-theory and its applications.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/05/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/05/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800737</AwardID>
+</Award>
+</rootTag>

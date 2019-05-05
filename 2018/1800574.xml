@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>New Approaches to Catalyst Screening and Development</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>470000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tarek Sammakia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>With funding from the Chemical Catalysis Program of the Division of Chemistry, Dr. David Berkowitz of the University of Nebraska-Lincoln is developing new reactions to help chemists in the industrial and pharmaceutical sectors and in academia.  The target molecules have applications in drug discovery and the synthesis of new materials.  The reactions that he and his team explore incorporate aspects of biology to get information on how fast reactions are going.  These reactions also incorporate biology to make a large array of specific products.  Dr. Berkowitz is actively engaged in outreach activities that promote the engagement of students in science, technology, engineering and mathematics (STEM) disciplines. These activities, which include undergraduate research internships in Dr. Berkowitz's laboratory, and open house presentations to high school students and their parents from a four-state area, are exposing students to STEM research early in their educational development.&lt;br/&gt;&lt;br/&gt;Dr. Berkowitz and co-workers develop a catalyst screening process, termed In Situ Enzymatic Screening (ISES). The method utilizes "reporting enzymes" to provide real time information on relative rate, stereoselectivity and substrate scope for a set of parallel organic/organometallic reactions of interest. Dr. Berkowitz is studying the first catalytic asymmetric allylic amination reaction with Ni and promising new chiral salen ligands that derive from beta-pinene- and beta-D-(carba)fructopyranose-derived-1,2-diamines. A promising new formal thiocyanopalladation/carbocyclization transformation has been discovered and is being applied to the construction of densely functionalized and polycyclic libraries for diversity-oriented synthesis (DOS). Throughput is addressed with the development of alternative spectroscopic read-outs and screening arrays.  Temperature variation is being expanded via the development of "thermal-ISES" through the introduction of thermophilic "reporting enzymes." New transition metal-ligand combinations are explored toward the stereocontrolled construction of quaternary, beta,gamma-unsaturated amino acid targets of interest to synthetic chemists, medicinal chemists, and chemical biologists. In support of the broader impacts of the project, Dr. Berkowitz mentors female students and members of traditionally underreperesented groups in his laboratory. The interdisciplinary training that students receive at the chemistry/biology interface includes significant exposure to spectroscopy and kinetics.  These skills is equiping these students for  careers in both modern industrial and academic chemistry settings.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/19/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/19/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800574</AwardID>
+<Investigator>
+<FirstName>David</FirstName>
+<LastName>Berkowitz</LastName>
+<EmailAddress>dberkowitz1@unl.edu</EmailAddress>
+<StartDate>07/19/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Nebraska-Lincoln</Name>
+<CityName>Lincoln</CityName>
+<ZipCode>685031435</ZipCode>
+<PhoneNumber>4024723171</PhoneNumber>
+<StreetAddress>151 Prem S. Paul Research Center</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Nebraska</StateName>
+<StateCode>NE</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8037</Code>
+<Text>Advanced Manufacturing</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8650</Code>
+<Text>Sustainable Chemistry</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

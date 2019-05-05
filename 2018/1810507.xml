@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Integrate high Z and low Z compound semiconductors for 60 keV spectrometry</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>385000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Non-Technical:&lt;br/&gt;The detection and identification of radioactive isotopes is important for national security and medical imaging. Different isotopes can be distinguished from one another by the energy of gamma rays that they emit during radioactive decay. Efficient, high-resolution detection of gamma rays requires semiconductors with high atomic number (Z). However, these materials have low band-gaps and device based on such materials have high electronic noise. A high electric field in the junction regions of such detectors significantly increases this noise. Precision radiation detectors therefore require significant cooling to reduce electronic noise. The extensive cooling required can be both expensive and unreliable. The investigators propose to achieve gamma-ray detection with high energy resolution in a compact package at room temperature. These detectors will integrate a high-Z low band-gap semiconductor with a low-Z, high band-gap semiconductor. The high-Z material detects gamma rays efficiently and the low-Z material provides low electronic noise in the high field region. This approach exploits the relative benefits of the two materials. The team brings world-renowned expertise in growth of semiconductor materials and fabrication of gamma-ray detectors to bear on the challenges associated with this project. The multidisciplinary research team has an established track record of investing in underrepresented minority graduate students and undergraduate researchers, including women. The proposed work will form the basis for a new program at UCLA in which students take part in cross-disciplinary workshops and laboratory tours. This program aims to bridge the gaps between material science, electrical engineering, and biomedical physics.&lt;br/&gt;&lt;br/&gt;Technical:&lt;br/&gt;A fundamental need exists for compact, low-power and high-resolution radiation detectors that can operate near room temperature to provide X-ray to gamma-ray spectroscopy for civil security, radiation surveillance, and radiological imaging applications. By combining world-renowned expertise in epitaxial growth and device fabrication of III-As/Sb structures, sensing devices, and gamma-ray detection, this project plans to achieve direct detection of 60 keV gamma-rays with energy resolution &lt;1% in a compact package. A novel integration of high atomic number (Z) gamma-ray absorbers with low-noise junction regions is proposed to construct an energy-sensitive radiation detector that will exploit the relative benefits of the two materials, to achieve high energy resolution gamma-ray detection with low background noise. The technical approach is designed and organized to achieve the concept of integrating gamma ray detector structures, and will deliver comprehensive experimental investigations of material and device parameters that are of fundamental importance to the field of X-ray and gamma-ray spectroscopy. A team is brought together with a unique combination of experience and knowledge to bear on the challenges associated with this project. The broader impacts arise in part from the multidisciplinary nature of the research team, which has an established track record of investing in underrepresented minority graduate students and undergraduate researchers, including women. The proposed work will form the basis for a new program at UCLA in which students take part in cross-disciplinary workshops and laboratory tours aimed at bridging the gaps between material science, electrical engineering, and biomedical physics.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/07/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1810507</AwardID>
+<Investigator>
+<FirstName>Diana</FirstName>
+<LastName>Huffaker</LastName>
+<EmailAddress>huffaker@ee.ucla.edu</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Baolai</FirstName>
+<LastName>Liang</LastName>
+<EmailAddress>bliang@cnsi.ucla.edu</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Arion-Xenofon</FirstName>
+<LastName>Chatziioannou</LastName>
+<EmailAddress>ArChatziioann@mednet.ucla.edu</EmailAddress>
+<StartDate>08/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of California-Los Angeles</Name>
+<CityName>LOS ANGELES</CityName>
+<ZipCode>900951406</ZipCode>
+<PhoneNumber>3107940102</PhoneNumber>
+<StreetAddress>10889 Wilshire Boulevard</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>100E</Code>
+<Text>Novel devices &amp; vacuum electronics</Text>
+</ProgramReference>
+</Award>
+</rootTag>

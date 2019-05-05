@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase II:  Robust Medical Data Aggregation to Enable Advanced Approaches to Precision Medicine</AwardTitle>
+<AwardEffectiveDate>08/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2020</AwardExpirationDate>
+<AwardAmount>747352</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to increase the impact of precision medicine by simultaneously addressing large-scale medical data aggregation and analytics. Patient medical information comes in many forms: DNA sequences, medical images, clinical observations, etc. Integration of these various data sources across large patient populations can reveal novel insights into clinical disease and inform new treatment options. There is a growing need for scalable data integration to support the delivery of precision medicine. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research (SBIR) Phase II project will build on the data Framework that was created during Phase I work. This Framework supports the aggregation of different types of medical data into a single data core ?pool?, and computation on the pooled data in a scalable cloud environment. The Framework includes a custom database for genomic sequencing data. During Phase II of this project, this custom (sparse matrix) approach to data storage will be adapted to handle microscopy images of cancer and other diseased tissues. The Framework, with its integrated genomic and image databases, will be marketed to healthcare systems, biotechnology companies, and pharmaceutical companies interested in applying advanced analytics on large, complex datasets.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/16/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/16/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1831085</AwardID>
+<Investigator>
+<FirstName>Ganapati</FirstName>
+<LastName>Srinivasa</LastName>
+<EmailAddress>gans@omicsautomation.com</EmailAddress>
+<StartDate>08/16/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Omics Data Automation, Inc.</Name>
+<CityName>Beaverton</CityName>
+<ZipCode>970052129</ZipCode>
+<PhoneNumber>5034756660</PhoneNumber>
+<StreetAddress>12655 Beaverdam Road</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5373</Code>
+<Text>SMALL BUSINESS PHASE II</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8018</Code>
+<Text>Smart and Connected Health</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8023</Code>
+<Text>Health Care Enterprise Systems</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8032</Code>
+<Text>Software Services and Applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8042</Code>
+<Text>Health and Safety</Text>
+</ProgramReference>
+</Award>
+</rootTag>

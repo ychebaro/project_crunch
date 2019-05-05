@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>IEEE Nano Materials &amp; Devices Conference - NMDC-2018 To Be Held In Portland OR, October 14-17, 2018.</AwardTitle>
+<AwardEffectiveDate>07/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2019</AwardExpirationDate>
+<AwardAmount>10000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul Lane</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The proposed project will provide support to young student and scientist participation, in a conference to be held in the Embassy Suites Downtown, Portland OR, USA, during October 14-17, 2018. The "13th IEEE Nano Materials &amp; Devices Conference (NMDC 2018)" will focus on the development of nanomaterials and nanodevices for space, electronic, magnetic, sensor, photonic systems and biomedical applications. The Symposium will host world-renowned scientists in academia and national labs, industry workers, entrepreneurs, and funding agency leaders in the general area of nanotechnology. Student Fellowships will support domestic student presenters to attend the meeting. The program provides the opportunity for scientific exchanges and discussions. There will be a vigorous exchange of new ideas on materials and devices that will benefit enormously students and young scholars in their pursuit of high-quality research.  There will be conference proceedings available to the public through the archival IEEE Xplore. Selected papers will also be invited for publication in the IEEE Transactions on Nanotechnology, the IEEE Nanotechnology Magazine and possibly other journals.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836104</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Morris</LastName>
+<EmailAddress>jmorris@pdx.edu</EmailAddress>
+<StartDate>07/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Malgorzata</FirstName>
+<LastName>Chrzanowska-Jeske</LastName>
+<EmailAddress>jeske@ece.pdx.edu</EmailAddress>
+<StartDate>07/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Zhiqiang</FirstName>
+<LastName>Chen</LastName>
+<EmailAddress>zhiqiang.chen@pdx.edu</EmailAddress>
+<StartDate>07/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Marilyn</FirstName>
+<LastName>Mackiewicz</LastName>
+<EmailAddress>mackiewi@pdx.edu</EmailAddress>
+<StartDate>07/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Portland State University</Name>
+<CityName>Portland</CityName>
+<ZipCode>972070751</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress>1600 SW 4th Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1517</Code>
+<Text>ELECT, PHOTONICS, &amp; MAG DEVICE</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

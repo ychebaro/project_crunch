@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Second Trans-Atlantic Symposium on Information and Communication Technology (ICT),To Be Held at the Woodrow Wilson Center for Scholars, in Washington DC, June 18-19, 2018.</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2019</AwardExpirationDate>
+<AwardAmount>44954</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07010000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Electrical, Commun &amp; Cyber Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Radhakisan S. Baheti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>New and emerging Information and Communications Technologies (ICT) developments have the potential to accelerate scientific discovery and industrial growth with positive social impacts. However, big picture assessments of new and emerging ICT are often lacking, particularly from an international perspective. The European Commission, under its Horizon 2020 program, launched a 2016 project on ICT Policy, Research and Innovation for a Smart Society: Towards New Avenues in EU-US ICT Collaboration (the PICASSO project). Under this proposal, NSF will provide co-funding for US researchers to participate in a PICASSO project symposium focused on exploring emerging areas of ICT relevant to cooperation between researchers in the US and EU. This workshop, the 2nd Trans-Atlantic Symposium on ICT Technology and Policy, will be held at the Woodrow Wilson International Center for Scholars (the Wilson Center) in Washington, DC, on June 18-19, 2018.  The symposium will result in greater awareness of shared US/EU priorities and needs in ICT technology and policy and in enhanced collaborations. Attendance of approximately 100 is anticipated, with outreach designed to facilitate participation from groups that are historically under-represented in STEM.&lt;br/&gt;&lt;br/&gt;Pervasive sensing and connectivity, large-scale secure data repositories, high-performance analytics in distributed and cloud platforms, real-time closed-loop applications, and robotics all offer individual advances in research and application areas, and will enable social, environmental, and economic benefits on unprecedented levels as the impacts of these technologies converge. Taking an international perspective, the goal of this workshop is to convene representatives from academia, industry, and government seeking to identify and advance collaborative research in new and emerging ICT areas. Specific thematic areas to be explored include Cyber Physical Systems (CPS), Internet of Things (IoT), big data, 5G and beyond, the future of automation, and cyber-resiliency, all of which are a high priority for the US and EU. The symposium will predominately feature a mix of keynote speeches and plenary panel discussions, through breakout sessions on the second day will allow researchers to discuss key technical aspects of different thematic areas in detail. This workshop will provide inputs to help define opportunities for US/ EU collaboration from a high-level road-mapping perspective. A final report will be prepared for NSF and the European Commission, and a version of this report will also be made publically available on websites of the Wilson Center and PICASSO project. The symposium will also identify opportunities for and advance collaborative research through networking participants from the US and EU.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1836572</AwardID>
+<Investigator>
+<FirstName>Anne</FirstName>
+<LastName>Bowser</LastName>
+<EmailAddress>anne.bowser@wilsoncenter.org</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Tariq</FirstName>
+<LastName>Samad</LastName>
+<EmailAddress>tsamad@umn.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Woodrow Wilson International Center for Scholars</Name>
+<CityName>Washington</CityName>
+<ZipCode>200043027</ZipCode>
+<PhoneNumber>2026914200</PhoneNumber>
+<StreetAddress>1300 Pennsylvania Ave., NW</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>District of Columbia</StateName>
+<StateCode>DC</StateCode>
+</Institution>
+<ProgramElement>
+<Code>033Y</Code>
+<Text>S&amp;CC: Smart &amp; Connected Commun</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7607</Code>
+<Text>ENERGY,POWER,ADAPTIVE SYS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7798</Code>
+<Text>SOFTWARE &amp; HARDWARE FOUNDATION</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>042Z</Code>
+<Text>S&amp;CC: Smart and Connected Communities</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>092E</Code>
+<Text>Control systems &amp; applications</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7918</Code>
+<Text>CYBER-PHYSICAL SYSTEMS (CPS)</Text>
+</ProgramReference>
+</Award>
+</rootTag>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Research Summit on "Thought to Speech" for People with Cerebral Palsy</AwardTitle>
+<AwardEffectiveDate>03/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>02/28/2019</AwardExpirationDate>
+<AwardAmount>59985</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Aleksandr Simonian</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NSF has made an award in support of participant travel costs with the initial "Research Summit on 'Thought to Speech' for People with Cerebral Palsy" being held in San Francisco, CA, on May 3-4, 2018. This meeting will bring together experts in Brain Computer Interfaces (BCI), cerebral palsy, neuroscience, language development, and related fields to identify the challenges and path forward to developing a BCI system that will allow individuals who have not previously developed spoken language to communicate with the broader society.  &lt;br/&gt;&lt;br/&gt;The workshop will be organized as an intensive 2-day meeting organized around three stages: 1) review of current knowledge relevant for real time speech generation; 2) identification of theoretical and practical barriers to new systems; 3) identification of solutions to overcoming barriers; and 4) developing a specific research roadmap to advance the start of the science and engineering in this field.  Results of the Summit will be disseminated through a developed white paper, to be made publically available by the Cerebral Palsy Alliance Research Foundation, and the publication of a reviewed journal article on the conclusions reached.  Invited participants will be selected based on their expertise, paying attention to including individuals from underrepresented groups, including those with disabilities, and inviting several early career researchers to prime a pipeline within the field.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/26/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1817353</AwardID>
+<Investigator>
+<FirstName>Jane</FirstName>
+<LastName>Huggins</LastName>
+<EmailAddress>janeh@umich.edu</EmailAddress>
+<StartDate>01/26/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Michigan Ann Arbor</Name>
+<CityName>Ann Arbor</CityName>
+<ZipCode>481091274</ZipCode>
+<PhoneNumber>7347636438</PhoneNumber>
+<StreetAddress>3003 South State St. Room 1062</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Michigan</StateName>
+<StateCode>MI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5342</Code>
+<Text>Disability &amp; Rehab Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

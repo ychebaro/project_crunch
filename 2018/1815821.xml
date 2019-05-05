@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>CIF:  Small:  An Information Theoretic Framework for Web Privacy</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>487080</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05010000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division of Computing and Communication Foundations</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Phillip Regalia</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Internet users reasonably expect their online identities and web browsing activities to remain private. Unfortunately, this is far from the case in practice; in reality, users are constantly tracked on the internet. As web tracking technologies become more sophisticated and pervasive, there is a critical need to understand and quantify web users' privacy risk, that is, what is the likelihood that users on the internet can be uniquely identified from their online activities?&lt;br/&gt;&lt;br/&gt;This project addresses web privacy from an information theoretic perspective.  Based on statistical models for online activity and social network connections, the project develops a unified information theoretic framework to quantify the privacy risk that web users face from online attacks. The proposed research addresses internet privacy through three interrelated thrusts focusing on fingerprinting, social network de-anonymization and synergistic attacks, and provides an evaluation plan to experiment with real-world networks.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>05/30/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>05/30/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1815821</AwardID>
+<Investigator>
+<FirstName>Farhad</FirstName>
+<LastName>Shirani Chaharsooghi</LastName>
+<EmailAddress>fsc265@nyu.edu</EmailAddress>
+<StartDate>05/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Elza</FirstName>
+<LastName>Erkip</LastName>
+<EmailAddress>elza@nyu.edu</EmailAddress>
+<StartDate>05/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Siddharth</FirstName>
+<LastName>Garg</LastName>
+<EmailAddress>sg175@nyu.edu</EmailAddress>
+<StartDate>05/30/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>New York University</Name>
+<CityName>NEW YORK</CityName>
+<ZipCode>100121019</ZipCode>
+<PhoneNumber>2129982121</PhoneNumber>
+<StreetAddress>70 WASHINGTON SQUARE S</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New York</StateName>
+<StateCode>NY</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7797</Code>
+<Text>COMM &amp; INFORMATION FOUNDATIONS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7923</Code>
+<Text>SMALL PROJECT</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>7935</Code>
+<Text>COMM &amp; INFORMATION THEORY</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9102</Code>
+<Text>WOMEN, MINORITY, DISABLED, NEC</Text>
+</ProgramReference>
+</Award>
+</rootTag>

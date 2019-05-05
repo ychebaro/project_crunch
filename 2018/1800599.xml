@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research: Design and Study of Chalcogen-Containing Cationic Dyes for Photocatalysis</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardAmount>291677</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kenneth Moloy</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The development of methods to transform molecules into useful materials and products is a key challenge facing chemists. One common transformation is an oxidation reaction, where oxygen is added to or electrons are removed from a molecule. Oxidation reactions often rely on toxic reagents that produce a large amount of waste.  The use of molecular oxygen could reduce both the cost of these reactions and the amount of waste produced. Molecular oxygen is also abundant in air.  Scientists generally do not know how to use atmospheric oxygen to transform molecules into desired products. In this project, Dr. McCormick of Portland State University and Drs. Detty and Cook of the University at Buffalo are investigating dyes that can use energy from light to make desirable molecular transformations with atmospheric oxygen. By understanding how changing the structure of a dye influences its reactivity, it may be possible to control and target these oxidation reactions. Drs. McCormick, Detty, and Cook are dedicated to increasing education in areas of sustainability via the implementation of new courses. They provide research internships to students to increase their awareness of the impact of development on the environment and their role as scientists in creating sustainable solutions.  The curriculum revisions may increase student engagement in issues of sustainability and photochemistry. The modules are disseminated to allow schools across the country to adopt the curriculum, which focuses on on principles of green chemistry, environmental protection, and renewable energy. A more engaged and informed science workforce may be better able to solve current and future problems of sustainability.&lt;br/&gt;&lt;br/&gt;Drs. McCormick, Detty, and Cook are supported by the Chemical Catalysis Program of the Chemistry Division to investigate chalcogen-containing dyes as photosensitizers for photocatalytic redox reactions. The use of photo-induced redox catalysis for synthetic transformations is of interest due to its potential for the green production of small molecules at both laboratory and industrial scale. The interchange of the chalcogen atoms (O, S, or Se to Te) in the xanthylium or pyrylium core of the dyes allows control of redox behavior in the dyes, as well as wavelengths of absorption, fluorescence yields and lifetimes, and triplet yields and lifetimes. The chalcogen-containing dyes function as photo-oxidants in that the excited state can accept an electron to give a one-electron oxidation of a substrate. The excited state can also intersystem-cross from singlet to triplet and then interact with ground-state oxygen to generate singlet-oxygen, which can function as a potent oxidant.  This research may result in a decreased reliance on fossil fuels by providing a route to hydrogen peroxide production, decreasing carbon emissions.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/03/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/03/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800599</AwardID>
+<Investigator>
+<FirstName>Theresa</FirstName>
+<LastName>McCormick</LastName>
+<EmailAddress>t.m.mccormick@pdx.edu</EmailAddress>
+<StartDate>07/03/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Portland State University</Name>
+<CityName>Portland</CityName>
+<ZipCode>972070751</ZipCode>
+<PhoneNumber>5037259900</PhoneNumber>
+<StreetAddress>1600 SW 4th Ave</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Oregon</StateName>
+<StateCode>OR</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6884</Code>
+<Text>Chemical Catalysis</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8604</Code>
+<Text>Fuel Cells</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8607</Code>
+<Text>Solar Energy Capture&amp;Conver</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

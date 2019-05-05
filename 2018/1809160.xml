@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Design and Characterization of Novel Superconducting Topological Semimetals</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>444163</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Tomasz Durakiewicz</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Nontechnical Abstract: Solids can be classified as insulators, semimetals, or metals. Recently, topological semimetals have emerged as a new frontier in the research field of electronic materials. Novel phenomena they exhibit are not only of fundamental interest, but may hold great potential for technological applications. For example, superconducting topological semimetals can potentially host a new type of electronic state, Majorana bound state, which is believed to be the key ingredient for fault-tolerant quantum computation. However, it is challenging to synthesize such complicated quantum materials in the laboratory. This project uses advanced atomic-scale techniques to fabricate and characterize superconducting topological semimetals. The goal of this project is to achieve a thorough understanding of the growth mechanism and electronic character of topological semimetals and to provide a rich materials base for practical device applications in quantum computation. The proposed research also aims to involve a wide range of students, including middle school, high school, undergraduate and graduate students, and offer them ample opportunities to engage in vibrant lab activities. Finally, this project is fully committed to broadening participation of under-represented groups in education and research of advanced materials science.&lt;br/&gt; &lt;br/&gt;Technical Abstract: Since the discovery of the first Weyl semimetal in TaAs, a significant research interest emerged in realizing topological semimetallic phases. The topological semimetals extend the territory of topological materials beyond the insulating phases such as topological insulators and topological crystalline insulators. Many extraordinary properties have been found and realized in topological semimetals, including massless Weyl fermions, chiral anomalies, Fermi arc surface states, and nonlocal electrodynamics. Those findings are not only of fundamental scientific importance, but also hold promise for practical device applications. Introducing superconductivity to topological semimetals opens the door to many novel phenomena that are unavailable in conventional superconductors. The pairing of the topological bulk and surface states in topological semimetals can potentially generate non-s-wave superconductivity, which is the key ingredient for realizing new types of quasiparticles such as Majorana bound states. However, up to date, superconducting topological semimetals are still very rare. This project uses a combination of molecular beam epitaxy, angle-resolved photoemission spectroscopy, and scanning tunneling microscopy to synthesize and explore novel topological semimetals that intrinsically host superconductivity. Specifically, the project aims to create new superconducting topological semimetals such as PbTaSe2, TlTaSe2, MoC, NbC, Mg2Pb(Sn), and Mg3Bi2 under the guidance of first-principles simulations. The superconducting materials are grown by the method of molecular beam epitaxy at controlled doping levels and characterized through photoemission and scanning tunneling microscopy/spectroscopy. The goal of this project is to identify exotic superconducting topological semimetals and to form a solid foundation for studying rich physics from the interplay of topological nodal fermions and superconductivity&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/23/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/23/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1809160</AwardID>
+<Investigator>
+<FirstName>Guang</FirstName>
+<LastName>Bian</LastName>
+<EmailAddress>biang@missouri.edu</EmailAddress>
+<StartDate>07/23/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Missouri-Columbia</Name>
+<CityName>COLUMBIA</CityName>
+<ZipCode>652110001</ZipCode>
+<PhoneNumber>5738827560</PhoneNumber>
+<StreetAddress>115 Business Loop 70 W</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Missouri</StateName>
+<StateCode>MO</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>053Z</Code>
+<Text>Quantum Leap Materials</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>057Z</Code>
+<Text>(QL) Quantum Leap</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

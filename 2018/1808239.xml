@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Understanding Surface-Mediated Hyperpolarization of Water and other Neat Liquids from Parahydrogen</AwardTitle>
+<AwardEffectiveDate>08/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>07/31/2021</AwardExpirationDate>
+<AwardAmount>470000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03090000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Chemistry</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Kelsey Cook</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>In this project funded by the Chemical Measurements and Imaging program of the Chemistry Division, Professors Clifford R Bowers and Wenyu Huang and their groups at the University of Florida and Iowa State University seek to understand the SWAMP effect (surface waters are magnetized by parahydrogen), a recently discovered phenomenon which could significantly increase the sensitivity of molecular analysis by magnetic resonance in aqueous media - a key challenge for improving, for example, medical magnetic resonance imaging (MRI). The SWAMP effect could provide an inexpensive, portable, and continuously generated source of "hyper-magnetized" water needed for some types of MRI, offering an alternative to the expensive, high-maintenance approaches normally used. Hence, the SWAMP effect could facilitate medical diagnostic MRI in remote or impoverished areas. The concepts are adapted for outreach presentations to high school students through coordination with several programs in the University of Florida?s Center for Precollegiate Education and Training (CPET). At Iowa State, related outreach activities include science shows and involvement of undergraduates and high school students in suitable research activities.&lt;br/&gt;&lt;br/&gt;This project is inspired by the recent discovery of surface-mediated proton hyperpolarization of liquid water, methanol, and ethanol by heterogeneous catalysis over Pt3Sn intermetallic nanoparticles (iNPs) sheathed in mesoporous silica (Pt3Sn@mSiO2). Guided by theory, structure/activity correlations are systematically studied as a function of the catalyst properties (e.g. surface structure, composition, particle sizes, encapsulation shell termination) and reaction conditions (temperature, magnetic field, solvent composition (chemical and isotopic)). Variation of catalyst properties is based on well-established principles of heterogeneous catalysis involving the d-band center and electronegativity properties of the constituent atoms. The goals of this project are to (1) understand the mechanism underpinning the SWAMP effect, (2) use the mechanistic understanding to develop new catalysts to increase the efficiency of the SWAMP process, (3) explore the generality of the NMR signal enhancement on a variety of neat liquids and solutions, and (4) investigate potential applications. The research and outreach plans are being carried out by an interdisciplinary team of chemists ? a catalyst materials specialist (Wenyu Huang, Iowa State University), an NMR spectroscopist (Russ Bowers, University of Florida), and a computational chemist (Graeme Henkelman, University of Texas, Austin).&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>07/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>07/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1808239</AwardID>
+<Investigator>
+<FirstName>Clifford</FirstName>
+<LastName>Bowers</LastName>
+<EmailAddress>bowers@chem.ufl.edu</EmailAddress>
+<StartDate>07/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Florida</Name>
+<CityName>GAINESVILLE</CityName>
+<ZipCode>326112002</ZipCode>
+<PhoneNumber>3523923516</PhoneNumber>
+<StreetAddress>1 UNIVERSITY OF FLORIDA</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Florida</StateName>
+<StateCode>FL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>6880</Code>
+<Text>Chemical Measurement &amp; Imaging</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+</Award>
+</rootTag>

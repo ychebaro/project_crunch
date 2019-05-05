@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Multigrid Methods and Machine Learning</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>350000.00</AwardTotalIntnAmount>
+<AwardAmount>113936</AwardAmount>
+<AwardInstrument>
+<Value>Continuing grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03040000</Code>
+<Directorate>
+<Abbreviation>MPS</Abbreviation>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<Abbreviation>DMS</Abbreviation>
+<LongName>Division Of Mathematical Sciences</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Miao-Jung Ou</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The goal of this project is to merge advanced tools from multigrid (MG) methods and machine learning (ML) towards the development of a novel class of numerical techniques targeting the data intensive applications emerging in physical, biological and social sciences.  Multigrid methods, including both geometric and algebraic multigrid (GMG and AMG) methods, are effective tools for solving linear as well as nonlinear algebraic system of equations arising from scientific and engineering computing.  On the other hand, there is a significant advancement in machine learning (ML) techniques, especially convolutional neural networks (CNN), which have successful applications in many areas such as image classification and processing.  The proposed project is to explore the resemblances and differences between these two different technologies so that more efficient multigrid methods as well more efficient deep learning models are developed.  The existing rich theory of multigrid method is expected to shed new light to the theoretical understanding of deep neural networks whereas the numerous empirical techniques used in the vast and ever-growning deep learning literature can be used to design general multigrid methods with wider range of applications.  This interdisciplinary research project is expected to have a direct impact to both the scientific computing community and the artificial intelligence industry.&lt;br/&gt;&lt;br/&gt;More specifically, MG and CNN are similar for the use of multilevel hierarchy and the use of many technical components such as smoothers (MG) versus convolutions (CNN), restriction (MG) versus convolution with stride (CNN). But they also have some major differences: CNN has multiple channels of convolutions to be trained whereas MG often has one single smoother given a priori. Such relationships motivate the design of new multigrid methods with more general smoothers and restrictions that are subject training in different ways and, as a result, multigrid methods will become more adaptive and robust in its application to different practical problems.  The well-understood MG structure and theory can be adapted to understand and improve the existing deep learning model such as residual neural networks.  Furthermore, multilevel iterative techniques used in MG will also be investigated to speed up the stochastic gradient descent method that is now the standard training algorithm for most deep neural networks in machine learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/14/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/14/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819157</AwardID>
+<Investigator>
+<FirstName>Jinchao</FirstName>
+<LastName>Xu</LastName>
+<EmailAddress>xu@math.psu.edu</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Ludmil</FirstName>
+<LastName>Zikatanov</LastName>
+<EmailAddress>ltz1@psu.edu</EmailAddress>
+<StartDate>06/14/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Pennsylvania State Univ University Park</Name>
+<CityName>UNIVERSITY PARK</CityName>
+<ZipCode>168027000</ZipCode>
+<PhoneNumber>8148651372</PhoneNumber>
+<StreetAddress>110 Technology Center Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Pennsylvania</StateName>
+<StateCode>PA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1271</Code>
+<Text>COMPUTATIONAL MATHEMATICS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9263</Code>
+<Text>COMPUTATIONAL SCIENCE &amp; ENGING</Text>
+</ProgramReference>
+</Award>
+</rootTag>

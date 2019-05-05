@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Ionic Transport in Ion Containing Copolymer-Grafted Nanoparticle Structures</AwardTitle>
+<AwardEffectiveDate>06/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>05/31/2021</AwardExpirationDate>
+<AwardAmount>404637</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew Lovinger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;The fundamental understanding gained from this project will provide the scientific basis for designing new materials for next-generation energy devices such as batteries, fuel-cell membranes, supercapacitors, and electroactive actuators. The project aims to synthesize polymer-functionalized spherical magnetic nanoparticles known as "polymer-grafted nanoparticles" by growing polymers with asymmetric composition onto these nanoparticles.  A special feature of their molecular architecture is the presence of ion-containing molecules in the end of the polymer chains. These functional, particle-based nanomaterials will be studied as solid-state electrolytes, which can be used in fuel-cell electrolyte membranes. The PI aims to understand the relationship between nanoparticle structures in "ionic liquids" (which are salts in a liquid state) and ionic conductivity.  The resulting nanomaterials are leak- and vapor-free and non-flammable solid electrolytes with ion-conducting network structures. Furthermore, they also hold various advantages such as high mechanical stability since the material is composed of inorganic particles; they also have low ionic content in the polymer chains and low water uptake. The nanomaterials are designed so as to control ion aggregation, enable study of confinement of ionic liquids within nanostructured particles, enhance ionic mobility, and unravel ion transport mechanisms. The project will train graduate and undergraduate students and schoolteachers in the broad area of materials for energy applications.  A Nanoscience Educator Workshop will be organized for high-school science teachers in the New Jersey/New York area, aiming to help teachers to integrate nanoscale science concepts and applications into their courses.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;TECHNICAL SUMMARY&lt;br/&gt;&lt;br/&gt;This project aims to explore ion transport in nanoparticle-based polyelectrolytes. The PI proposes a comprehensive research plan to underpin the fundamental mechanism of conductivity in the nanoparticles grafted with poly(methyl methacrylate-b-styrenesulfonate) chains with low sulfonation amounts in ionic liquids. It is hypothesized that ionic aggregation and ionic cluster sizes can be controlled by the organization of ion-containing copolymer-grafted nanoparticles into strings, percolated and dispersed systems. The PI will study segmental chain dynamics and ion transport of the synthesized grafted nanoparticle films using the quasi-elastic neutron scattering experiments. The measured chain and ion mobility will be combined with the structural information obtained from X-ray scattering, transmission electron microscopy, and tomography. The major objectives of the project are to understand the assembly of poly(methyl methacrylate)-grafted iron oxide nanoparticles in various solvents and ionic liquids under confinement; and to determine the effect of styrenesulfonate chain end groups on the assembly of poly(methyl methacrylate)-grafted particles and measure its impact on chain dynamics and conductivity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>04/13/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>04/13/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1807802</AwardID>
+<Investigator>
+<FirstName>Pinar</FirstName>
+<LastName>Akcora</LastName>
+<EmailAddress>Pinar.Akcora@stevens.edu</EmailAddress>
+<StartDate>04/13/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Stevens Institute of Technology</Name>
+<CityName>HOBOKEN</CityName>
+<ZipCode>070305991</ZipCode>
+<PhoneNumber>2012168762</PhoneNumber>
+<StreetAddress>CASTLE POINT ON HUDSON</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>New Jersey</StateName>
+<StateCode>NJ</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1773</Code>
+<Text>POLYMERS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7237</Code>
+<Text>NANO NON-SOLIC SCI &amp; ENG AWD</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8396</Code>
+<Text>Clean Energy Technology</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8399</Code>
+<Text>Energy Storage or Transmission</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8614</Code>
+<Text>Nanomaterials</Text>
+</ProgramReference>
+</Award>
+</rootTag>

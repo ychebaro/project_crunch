@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>MRI: Acquisition of a Composable Platform as a Service Instrument for Deep Learning &amp; Visualization (COMPaaS DLV)</AwardTitle>
+<AwardEffectiveDate>10/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>09/30/2021</AwardExpirationDate>
+<AwardTotalIntnAmount>997363.00</AwardTotalIntnAmount>
+<AwardAmount>1013363</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<Abbreviation>CSE</Abbreviation>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<Abbreviation>CNS</Abbreviation>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Rita Rodriguez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This project is about acquiring a much-in-demand Graphics Processing Unit (GPU)-based instrument, to develop a Service Instrument for Deep Learning and Visualization called "COMPaaS DLV: COMposable Platform".  The project aims to complement available campus computing resources via the campus's research network. It will be able to access local and remote computing and storage facilities funded, including XSEDE, Blue Waters, Deep Learning Instrument and Chameleon. This critical instrumentation will provide a platform to pursue fundamental science and engineering research training in deep learning (data mining and data analytics, computer vision, natural language processing, artificial intelligence), visualization (simulation, rendering, visual analytics, video steaming, image processing), and a combination of deep learning and visualization (e.g., when data is so large that it cannot be easily visualized, then deep learning is used to extract features of interest to be visualized). The instrumentation also enables investigation and contribution to societal issues in disciplines such as anthropology, biology, cybersecurity, data-literacy, fraud detection, healthcare, manufacturing, urban sustainability, and cyber-physical systems (e.g., autonomous cars). &lt;br/&gt;&lt;br/&gt;Its design utilizes state-of-the-art computer architecture, known as composable architecture, in which the computer's components (traditional processor, GPU, storage, and networking) form a fluid pool of resources, such that different applications with different workflows can be run simultaneously, with each configuring the resources it requires almost instantaneously, at any time. Given composable infrastructure scalability and agility, it is more beneficial than traditional clouds and clusters that are rigid, overprovisioned, and expensive.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>09/07/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>03/14/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1828265</AwardID>
+<Investigator>
+<FirstName>Maxine</FirstName>
+<LastName>Brown</LastName>
+<EmailAddress>maxine@uic.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Robert</FirstName>
+<LastName>Kenyon</LastName>
+<EmailAddress>kenyon@uic.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Andrew</FirstName>
+<LastName>Johnson</LastName>
+<EmailAddress>ajohnson@uic.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Georgeta-Elisab</FirstName>
+<LastName>Marai</LastName>
+<EmailAddress>gmarai@uic.edu</EmailAddress>
+<StartDate>09/07/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Illinois at Chicago</Name>
+<CityName>CHICAGO</CityName>
+<ZipCode>606124305</ZipCode>
+<PhoneNumber>3129962862</PhoneNumber>
+<StreetAddress>809 S. Marshfield Avenue</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Illinois</StateName>
+<StateCode>IL</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1714</Code>
+<Text>SPECIAL PROJECTS - CISE</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7484</Code>
+<Text>IIS SPECIAL PROJECTS</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1189</Code>
+<Text>MAJOR RESEARCH INSTRUMENTATION</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9251</Code>
+<Text>REU SUPP-Res Exp for Ugrd Supp</Text>
+</ProgramReference>
+</Award>
+</rootTag>

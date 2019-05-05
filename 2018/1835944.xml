@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>2019 GRC Complex Active and Adaptive Material Systems: Exploiting the Functionality of Soft Materials</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>10420</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>03070000</Code>
+<Directorate>
+<LongName>Direct For Mathematical &amp; Physical Scien</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Materials Research</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Andrew J. Lovinger</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>NON-TECHNICAL AND TECHNICAL ABSTRACT: &lt;br/&gt;&lt;br/&gt;This award provides partial support for participants to the 2019 GRC/GRS conference on "Complex Active and Adaptive Material Systems: Exploiting the Functionality of Soft Materials", to be held January 26-27 (GRS) and January 27-February 1st  (GRC) in Ventura, CA. The aim of the GRC is to stimulate the soft-materials community to discuss ideas from nature (materials occurring in nature), and state-of the-art soft-materials science and technologies that can be used to design new materials for a broad range of applications such as soft robotics, sensors, smart materials, and adaptive surfaces. These discussions are intended to lead to the exploration of transformative concepts in a range of fields encompassing materials science and engineering (soft matter, biomaterials, biophysics, chemical engineering), as well as theoretical and computational modeling.  An overall intended hallmark of this GRC  is to address the barriers to practical applications of exotic and complex materials, including consideration and adoption of nature-inspired self-assembly processes apparent in many biological systems.  The themed GRC technical sessions will cover the following areas: Building with structured fluids; Self-assembling complex materials; The cellular machine; Taming active matter; Structured surfaces; Responsive materials; Biomimetics: exploiting evolution; and Soft machines.  The GRS organized by graduate students and postdocs will be held the weekend prior to the GRC when talks based on selected submitted abstracts will be delivered by the graduate students and postdocs.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/28/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/28/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1835944</AwardID>
+<Investigator>
+<FirstName>Richard</FirstName>
+<LastName>Vaia</LastName>
+<EmailAddress>richard.vaia@us.af.mil</EmailAddress>
+<StartDate>06/28/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Gordon Research Conferences</Name>
+<CityName>West Kingston</CityName>
+<ZipCode>028921502</ZipCode>
+<PhoneNumber>4017834011</PhoneNumber>
+<StreetAddress>512 Liberty Lane</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Rhode Island</StateName>
+<StateCode>RI</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1710</Code>
+<Text>CONDENSED MATTER PHYSICS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>1773</Code>
+<Text>POLYMERS</Text>
+</ProgramElement>
+<ProgramElement>
+<Code>7623</Code>
+<Text>BIOMATERIALS PROGRAM</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

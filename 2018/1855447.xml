@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Travel Grants for The International Conference on Architecture Support for Programming Languages and Operating Systems</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardAmount>25000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>05050000</Code>
+<Directorate>
+<LongName>Direct For Computer &amp; Info Scie &amp; Enginr</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Computer and Network Systems</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Marilyn McClure</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>This proposal is for support of a travel to the 24th International Conference on Architecture Support for Programming Languages and Operating Systems (ASPLOS).  ASPLOS is a premier forum for multidisciplinary systems research spanning computer architecture and hardware, programming languages and compilers, operating systems and networking, as well as applications and user interfaces. The research may target diverse goals such as performance, energy and thermal efficiency, resiliency, security, and sustainability. The importance of such cross-cutting research continues to grow as we grapple with the end of Dennard scaling, the explosion of big data, scales ranging from ultra-low-power wearable devices to exascale parallel and cloud computers, the need for sustainability, and increasingly human-centered applications. ASPLOS embraces systems research that directly targets these new problems in new ways. &lt;br/&gt;&lt;br/&gt;This proposal aims to support 25 students to attend the conference. The intent is to provide travel support for both the main conference, and the affiliated workshops. The funding provided to students will enable much broader participation by students, especially by those who may not have adequate support at their educational institution and those underrepresented groups in the fields related with the conference.  Applications for travel support to ASPLOS will specifically encourage underrepresented groups of students to apply.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/01/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/01/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1855447</AwardID>
+<Investigator>
+<FirstName>Tali</FirstName>
+<LastName>Moreshet</LastName>
+<EmailAddress>talim@bu.edu</EmailAddress>
+<StartDate>02/01/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Trustees of Boston University</Name>
+<CityName>BOSTON</CityName>
+<ZipCode>022151300</ZipCode>
+<PhoneNumber>6173534365</PhoneNumber>
+<StreetAddress>881 COMMONWEALTH AVE</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>7354</Code>
+<Text>Computer Systems Research (CSR</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>7556</Code>
+<Text>CONFERENCE AND WORKSHOPS</Text>
+</ProgramReference>
+</Award>
+</rootTag>

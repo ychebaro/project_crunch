@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>I-Corps: Direct Characterization of Electrothermal Properties of Roll-to-Roll-Manufactured Materials</AwardTitle>
+<AwardEffectiveDate>01/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2018</AwardExpirationDate>
+<AwardAmount>50000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Cindy WalkerPeach</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this I-Corps project is to enable the commercialization of a multi-property measurement apparatus for use in energy materials manufacturing diagnostics. The smart phone, and electric vehicle, and waste heat recovery markets will be the major opportunities for this project. A vast number of commercial and industrial processes rely on accurate temperature and electrical measurements for diagnosing problems during the manufacturing process and certifying performance. How temperature and electrical performance are measured and what degree of accuracy is required are two very important questions that need to be answered for every application and product. Initial commercialization review of the instrument is supported by the needs for the manufacturing sector to accurately measure temperature while cycling energy storage devices such as lithium-ion batteries operating under direct current extreme fast charging.&lt;br/&gt;&lt;br/&gt;This I-Corps project presents a feasible solution to the difficulty of accurately measuring multiple transport properties without material/device exchange, and is the first system capable consecutive measurement of intrinsic electrical conductivity, thermal conductivity, ionic conductivity, and spatial temperature distribution. The most critically lacking capability in current instrumentation is the ability to accurately measure thermal properties, which is addressed here. The unique enabling design in this apparatus is an actively heated thermal guard with feedback controlled zones, which allows for the elimination of parasitic heat loss channels that prevent competing technologies from accurately determining the thermal conduction through a material.</AbstractNarration>
+<MinAmdLetterDate>11/17/2017</MinAmdLetterDate>
+<MaxAmdLetterDate>11/17/2017</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1811480</AwardID>
+<Investigator>
+<FirstName>Michael</FirstName>
+<LastName>Pettes</LastName>
+<EmailAddress>michael.pettes@uconn.edu</EmailAddress>
+<StartDate>11/17/2017</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Connecticut</Name>
+<CityName>Storrs</CityName>
+<ZipCode>062691133</ZipCode>
+<PhoneNumber>8604863622</PhoneNumber>
+<StreetAddress>438 Whitney Road Ext.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Connecticut</StateName>
+<StateCode>CT</StateCode>
+</Institution>
+<ProgramElement>
+<Code>8023</Code>
+<Text>I-Corps</Text>
+</ProgramElement>
+</Award>
+</rootTag>

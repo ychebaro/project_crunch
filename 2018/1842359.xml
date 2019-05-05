@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Integrating Computation into Science Teaching and Learning in Grades 6-8</AwardTitle>
+<AwardEffectiveDate>09/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>1250000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>11090000</Code>
+<Directorate>
+<LongName>Direct For Education and Human Resources</LongName>
+</Directorate>
+<Division>
+<LongName>Division Of Research On Learning</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Paul W. Jennings</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>As a result of the powerful innovation and application of computing in STEM disciplines, the STEM+C program addresses an urgent need for real-world, interdisciplinary, and computational preparation of students from the early grades through high school (pre-K-12). This project will advance research and development of new transdisciplinary approaches to computational STEM teaching and learning that will integrate the fields of education at the middle grade levels in earth, life, and physical sciences. This project will address the rural education issue of access to STEM by rural schools. Moreover, both students and teachers will be brought up to speed in computational phenomena applied to middle school youth in one of the most rural locations in the State of Maine. &lt;br/&gt;&lt;br/&gt;This project will investigate the professional learning experiences and pedagogical content knowledge that teachers need in order to integrate computing in their teaching of science. The research will lead to an evidence-based model of professional development and curricular supports for STEM+C integration at the middle level. A randomized controlled trial will provide knowledge about the impacts of this integration on student learning of computing and STEM. The work will include creation of three vetted modules to integrate computing with middle-school science and a graduate course to help prepare future will teachers for effective integration. Findings and products from this study will be disseminated to researchers and practitioner communities working to understand and implement integration of computing with STEM teaching and learning.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/29/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/29/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1842359</AwardID>
+<Investigator>
+<FirstName>James</FirstName>
+<LastName>Fratini</LastName>
+<EmailAddress>fratinij@hermon.net</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Mitchell</FirstName>
+<LastName>Bruce</LastName>
+<EmailAddress>mbruce@maine.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Sara</FirstName>
+<LastName>Lindsay</LastName>
+<EmailAddress>slindsay@maine.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Susan</FirstName>
+<LastName>McKay</LastName>
+<EmailAddress>susan.mckay@maine.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Investigator>
+<FirstName>Harlan</FirstName>
+<LastName>Onsrud</LastName>
+<EmailAddress>harlan.onsrud@maine.edu</EmailAddress>
+<StartDate>08/29/2018</StartDate>
+<EndDate/>
+<RoleCode>Co-Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Maine</Name>
+<CityName>ORONO</CityName>
+<ZipCode>044695717</ZipCode>
+<PhoneNumber>2075811484</PhoneNumber>
+<StreetAddress>5717 Corbett Hall</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Maine</StateName>
+<StateCode>ME</StateCode>
+</Institution>
+<ProgramElement>
+<Code>005Y</Code>
+<Text>STEM + Computing (STEM+C) Part</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>9150</Code>
+<Text>EXP PROG TO STIM COMP RES</Text>
+</ProgramReference>
+</Award>
+</rootTag>

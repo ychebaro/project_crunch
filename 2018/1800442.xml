@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>Collaborative Research:  Improving protein stability with non-traditional solvents</AwardTitle>
+<AwardEffectiveDate>09/15/2018</AwardEffectiveDate>
+<AwardExpirationDate>08/31/2021</AwardExpirationDate>
+<AwardAmount>272835</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07020000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Chem, Bioeng, Env, &amp; Transp Sys</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Steven Peretti</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>Vaccines and antibodies are proteins. The effectiveness of every dose depends on maintaining the three-dimensional structure of the protein. At room temperature, dissolved in water, proteins can rearrange their structure, possibly denaturing them. The strategy most often employed to preserve protein structure is refrigeration. This slows but does not stop denaturing. The shelf-life of any vaccine is therefore limited, leading to spoilage of millions of dollars of vaccines and antibodies each year. Improving protein stability would provide a great benefit to human health, especially if high stability could be achieved at room temperature. This project will evaluate the use of novel solvents, called ionic liquids, as a means to stabilize proteins in solution. The ultimate goal is to maintain protein activity for extended periods of time. This project will provide research experiences to undergraduates and high school students, with a focus on recruiting participants from underrepresented populations. This outreach will strengthen the pipeline of students entering and remaining in science, engineering and technology (STEM) programs. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;The state of a protein is defined by its local intra- and inter-molecular interactions. These include the effects of the solvent environment. The addition of ionic liquids (ILs) to the solution might further stabilize the protein. The project objectives are to determine the solvent role (i.e., IL-water composition) on protein stability and structure using spectroscopy and atomistic simulations, to understand protein solubility behavior, and to determine the activity of IL-recovered proteins. Specific goals include extending the time-window of protein stability at both ambient and elevated temperatures and increasing the retention of protein activity after extended storage in IL-containing solutions. This project should provide molecular-level insights into specific effects on protein structure and stability.  Simulations will amplify the interpretation of experimental results and also serve as a guide to future experiments.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>08/31/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>08/31/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1800442</AwardID>
+<Investigator>
+<FirstName>Harry</FirstName>
+<LastName>Bermudez</LastName>
+<EmailAddress>bermudez@umass.edu</EmailAddress>
+<StartDate>08/31/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>University of Massachusetts Amherst</Name>
+<CityName>Hadley</CityName>
+<ZipCode>010359450</ZipCode>
+<PhoneNumber>4135450698</PhoneNumber>
+<StreetAddress>Research Administration Building</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Massachusetts</StateName>
+<StateCode>MA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>1491</Code>
+<Text>Cellular &amp; Biochem Engineering</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>1757</Code>
+<Text>Quantitative sys bio and biotech</Text>
+</ProgramReference>
+</Award>
+</rootTag>

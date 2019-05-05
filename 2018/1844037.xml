@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Subspace: A Decentralized Database of End-User Devices</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>225000.00</AwardTotalIntnAmount>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader market impact/commercial potential of this Small Business Innovation Research (SBIR) project is to foster the mainstream use of decentralized database solutions in place of centrally owned and operated data centers and cloud services offered by companies like Amazon, Google and Facebook. Data security breaches involving tens or hundreds of millions of customers are now commonplace, as are high-profile news stories related to questionable uses of customer-supplied data.&lt;br/&gt;&lt;br/&gt;This SBIR Phase I project proposes to solve the key problem of developing a new network protocol that allows for a low-latency, secure, persistent and highly-available, decentralized No-SQL database which may operate at Internet scale. Key objectives include: development of a novel P2P overlay network which combines a zero-hop Distributed Hash Table (DHT) as a base routing layer and any number of traditional Kademlia DHTs as application specific leaf networks, all of which may communicate through a variety of transport protocols; constructing a new proof-of-space for use  both as the consensus layer of a proof-of-space blockchain and as a proof-of-capacity for storage nodes; creating a secure Decentralized Storage Network utilizing a proof of replication based on verifiable delay functions; and implementing and testing the protocol across common host devices and client runtimes. The end goal of the project is to validate the technical feasibility, scalability, and market interest for the subspace protocol.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>02/08/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>02/08/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844037</AwardID>
+<Investigator>
+<FirstName>Jeremiah</FirstName>
+<LastName>Wagstaff</LastName>
+<EmailAddress>jeremiah@omnibuilds.com</EmailAddress>
+<StartDate>02/08/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Subspace Labs, Inc.</Name>
+<CityName>Menlo Park</CityName>
+<ZipCode>940250000</ZipCode>
+<PhoneNumber>5129947799</PhoneNumber>
+<StreetAddress>1259 El Camino Real Ste B</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

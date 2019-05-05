@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Novel microalgae for high yield hydrogen production</AwardTitle>
+<AwardEffectiveDate>07/01/2018</AwardEffectiveDate>
+<AwardExpirationDate>06/30/2019</AwardExpirationDate>
+<AwardAmount>225000</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Ruth M. Shuman</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is the development of a microalgae-based commercial hydrogen production process that will surpass current or developing technologies. By 2022, the global hydrogen generation market by value is projected to reach $154.7 billion. A technology for low-cost, high purity, renewable, scalable hydrogen production will accelerate transition to a hydrogen economy, thus facilitating domestic energy independence and creating new economic opportunities. Many industries, such as the petro-chemical, chemical, and electronics industries, would benefit from low cost industrial hydrogen. Transportation and electric power generation industries also would benefit from increased fuel efficiency. Environmental benefits include replacement of fossil fuels, switching hydrogen production from natural gas to sunlight and water, and substantial reduction of harmful emissions. The goal of this project is to incorporate proprietary, metabolically engineered, photosynthetic algae in combination with recent advances in bioprocessing and hardware engineering to manufacture clean, renewable hydrogen. &lt;br/&gt;&lt;br/&gt;This Small Business Innovation Research Phase I project proposes to develop microalgae strains that generate high hydrogen yields using a novel metabolic engineering strategy. To pursue this strategy, a suitable parental strain must be developed, combining intact hydrogen production genes with improved stability of introduced genes (transgenes). Despite the availability of genetic transformation methods, transgene stability in wild type strains remains poor. This seriously limits development of commercial strains. Two algal UV mutants with greatly improved transgene stability are available, but both have impaired hydrogen production genes. The proposed investigation will assess the feasibility of creating a suitable parental strain. The objectives are: 1) determine differences between genes of the best wild type hydrogen producing strain and the UV mutants; 2) introduce candidate genes into the UV mutants to restore hydrogen production metabolism; 3) knock out candidate genes involved in transgene inactivation in the wild type strain; and 4) test the ability of the engineered strains to generate hydrogen and retain transgenes. This project will produce the desired parental strain and enable implementation of the innovative strategy for developing production strains with greatly increased hydrogen rates in the target commercial process.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>06/08/2018</MinAmdLetterDate>
+<MaxAmdLetterDate>06/08/2018</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1819274</AwardID>
+<Investigator>
+<FirstName>Svetlana</FirstName>
+<LastName>Oard</LastName>
+<EmailAddress>svoard@gmail.com</EmailAddress>
+<StartDate>06/08/2018</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>BHO Technology, LLC</Name>
+<CityName>Baton Rouge</CityName>
+<ZipCode>708105200</ZipCode>
+<PhoneNumber>2252704499</PhoneNumber>
+<StreetAddress>612 Highlnad Knoll Ct.</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>Louisiana</StateName>
+<StateCode>LA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8038</Code>
+<Text>Biotechnology</Text>
+</ProgramReference>
+</Award>
+</rootTag>

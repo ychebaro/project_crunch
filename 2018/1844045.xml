@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootTag>
+<Award>
+<AwardTitle>SBIR Phase I:  Low-cost ethylene CS-FET gas sensors for applications in the cold-chain logistics industry</AwardTitle>
+<AwardEffectiveDate>02/01/2019</AwardEffectiveDate>
+<AwardExpirationDate>01/31/2020</AwardExpirationDate>
+<AwardTotalIntnAmount>224996.00</AwardTotalIntnAmount>
+<AwardAmount>224996</AwardAmount>
+<AwardInstrument>
+<Value>Standard Grant</Value>
+</AwardInstrument>
+<Organization>
+<Code>07070000</Code>
+<Directorate>
+<Abbreviation>ENG</Abbreviation>
+<LongName>Directorate For Engineering</LongName>
+</Directorate>
+<Division>
+<Abbreviation>IIP</Abbreviation>
+<LongName>Div Of Industrial Innovation &amp; Partnersh</LongName>
+</Division>
+</Organization>
+<ProgramOfficer>
+<SignBlockName>Anna Brady-Estevez</SignBlockName>
+</ProgramOfficer>
+<AbstractNarration>The broader impact/commercial potential of this Small Business Innovation Research (SBIR) project is in contributing towards the global effort in minimizing food spoilage and combating world hunger. The worldwide cold-chain freight and logistics industry deals with the storage and transportation of more than 100 million metric tons of fresh produce annually. In this industry, there is currently an urgent need to continuously monitor the air quality in shipping containers where large volumes of perishable food items (fresh fruits and vegetables) are stored. Poor environmental conditions in these containers such as unregulated or high temperatures and low humidity can trigger early ripening of fruits and vegetables, leading to the efflux of specific volatile organic compounds; predominantly ethylene. Due to large volume of produce stored in these containers, if gone unchecked, the environment inside can quickly accumulate high levels of ethylene leading to accelerated ageing and subsequently spoilage. As one can imagine, an appropriate gas sensing technology to continuously monitor ethylene levels would allow adaptive climate control inside the containers, thereby ensuring produce freshness on arrival and preventing billions of dollars in loss and reducing food waste.&lt;br/&gt;&lt;br/&gt;This SBIR phase I project proposes to develop a low-cost ethylene sensing technology using bulk silicon transistor technology (also called CS-FET or chemical sensitive field effect transistor), for mass-deployment in refrigerated containers transporting fresh produce to different parts of the world. This innovation will address an unmet need in the cold-chain logistics industry where continuous monitoring of fruits and vegetables is required to ensure quality and freshness on-arrival. Existing technologies are either too expensive or have poor sensitivity for deployment in large-scale sensing operations. Specifically, Phase I seeks to identify and engineer a sensitive nanoscale catalyst/sensing-layer that will respond to ethylene. To develop the ethylene sensing layers, this effort will pursue the screening of various nanomaterial systems such as ultra-thin layers of noble and transition metals, their composites, sub-oxides, as well as polymeric films using the silicon CS-FET as the backbone technology platform. Additionally, the proposal will also seek to develop a scientific understanding of the interaction mechanism between ethylene and the target sensing layer at both standard ambient conditions as well as conditions prevalent in reefer containers, i.e. low temperature and high humidity.&lt;br/&gt;&lt;br/&gt;This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.</AbstractNarration>
+<MinAmdLetterDate>01/30/2019</MinAmdLetterDate>
+<MaxAmdLetterDate>01/30/2019</MaxAmdLetterDate>
+<ARRAAmount/>
+<AwardID>1844045</AwardID>
+<Investigator>
+<FirstName>HOSSAIN</FirstName>
+<LastName>FAHAD</LastName>
+<EmailAddress>serinuslabs.inc@gmail.com</EmailAddress>
+<StartDate>01/30/2019</StartDate>
+<EndDate/>
+<RoleCode>Principal Investigator</RoleCode>
+</Investigator>
+<Institution>
+<Name>Serinus Labs, Inc.</Name>
+<CityName>BERKELEY</CityName>
+<ZipCode>947041370</ZipCode>
+<PhoneNumber>5123516068</PhoneNumber>
+<StreetAddress>2150 SHATTUCK AVE PH</StreetAddress>
+<CountryName>United States</CountryName>
+<StateName>California</StateName>
+<StateCode>CA</StateCode>
+</Institution>
+<ProgramElement>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramElement>
+<ProgramReference>
+<Code>5371</Code>
+<Text>SMALL BUSINESS PHASE I</Text>
+</ProgramReference>
+<ProgramReference>
+<Code>8030</Code>
+<Text>Chemical Technology</Text>
+</ProgramReference>
+</Award>
+</rootTag>
