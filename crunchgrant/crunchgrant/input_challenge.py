@@ -14,10 +14,10 @@ import requests_cache
 
 def process_data(file_mutation, file_cna):
     # Get mutations data
-    mut_df = pd.read_csv("mutations_p53.txt", sep='\t')
+    mut_df = pd.read_csv(file_mutation, sep='\t')
 
     # Get copy-number alterations
-    cna_df = pd.read_csv("cna_p53.txt", sep='\t')
+    cna_df = pd.read_csv(file_cna, sep='\t')
 
     # Make dictionnary of mutations and CNA
     gene_mutations = {col: mut_df[col].count() for col in mut_df.columns[2:]}
@@ -34,40 +34,6 @@ def process_data(file_mutation, file_cna):
     mutations = {col: list(mut_df[col].dropna()) for col in mut_df.columns[2:]}
 
     return gene_cna, gene_cna_per, gene_mutations, gene_mutations_per, genes, gene_modifs_ratio, mutations
-
-# # Get data for cell cycle
-# gene_cna, gene_cna_per, gene_mutations, gene_mutations_per, genes, gene_modifs_ratio, mutations = process_data('mutations_p53.txt', 'cna_p53.txt')
-
-# colors = [
-#      "#%02x%02x%02x" % (int(r), int(g), int(b)) for r, g, b, _ in 255*mpl.cm.viridis(mpl.colors.Normalize()(gene_modifs_ratio))
-#   ]
-
-# # Create source for plotting, useful for Labeling afterwards
-# source = ColumnDataSource(data=dict(cna=gene_cna_per, 
-#                                     mut=gene_mutations_per,
-#                                     gene_names=genes,
-#                                     gene_modif=gene_modifs_ratio,
-#                                     col=colors))
-
-# # Formatting title and labels
-# p = figure(title='Gene alterations in the cell cycle pathway')
-# p.xaxis[0].axis_label = '% copy-number alterations'
-# p.yaxis[0].axis_label = '% mutations'
-
-# p.scatter('cna', 'mut', source=source, alpha=0.6, radius='gene_modif', fill_color='col', line_color=None)
-# labels = LabelSet(x='cna', y='mut', text='gene_names', source=source)
-# p.add_layout(labels)
-
-# # Map gene name to alternative names from the NCBI (mapping downloaded from HUGO)
-mapping = pd.read_csv('gene_ncbi_uniprot.tsv', sep='\t')
-
-# # Scrap NCBI to get alternative names for the genes, i.e. encoded proteins
-# gene_ncbi = {gene: int(mapping.NCBI_Gene_ID[mapping[mapping.Approved_symbol == str(gene)].index.tolist()[0]]) for gene in genes}
-
-cache_name = 'project_crunchbase'
-MAX_RETRIES = 5
-session = requests_cache.core.CachedSession(cache_name, backend='sqlite', expire_after=None)
-session.mount('http://', requests.adapters.HTTPAdapter(max_retries=MAX_RETRIES))
 
 def get_gene_add_names(session, gene_names, gene_ncbi):
 
@@ -137,93 +103,26 @@ def get_nsf_data(filenames, gene_add_names):
 
     return citing_grants
 
-# filenames = glob("2018/*.xml")
-# genes_add_names = get_gene_add_names(session, genes, gene_ncbi)
-
-# citing_grants = get_nsf_data(filenames, genes_add_names)
-
-
-# liste_nsf_id = []
-# liste_nsf_pi = []
-# liste_nsf_emails =[]
-# liste_nsf_uni = []
-# liste_nsf_amount = []
-# liste_colors = []
-
-# for gene in genes:
-#     if gene not in citing_grants:
-#         liste_nsf_id.append('NA')
-#         liste_nsf_pi.append('NA')
-#         liste_nsf_emails.append('NA')
-#         liste_nsf_uni.append('NA')
-#         liste_nsf_amount.append('NA')
-#         liste_colors.append('blue')
-#     else:
-#         liste_nsf_id.append(citing_grants[gene][0])
-#         liste_nsf_pi.append(citing_grants[gene][1])
-#         liste_nsf_emails.append(citing_grants[gene][2])
-#         liste_nsf_uni.append(citing_grants[gene][3])
-#         liste_nsf_amount.append(citing_grants[gene][4])
-#         liste_colors.append('red')
-
-# # Plotting NSF grant in gene representation
-# p2 = figure(title='NSF grants on genes altered in cell cycle pathway altered in cancers')
-
-# source2 = ColumnDataSource(data=dict(cna=gene_cna_per, 
-#                             mut=gene_mutations_per,
-#                             gene_names=genes,
-#                             gene_modif=gene_modifs_ratio,
-#                             liste_nsf_id=liste_nsf_id,
-#                             liste_nsf_pi=liste_nsf_pi,
-#                             liste_nsf_emails=liste_nsf_emails,
-#                             liste_nsf_uni=liste_nsf_uni,
-#                             liste_nsf_amount=liste_nsf_amount,
-#                             col=liste_colors))
-
-# tooltips = [('NSF Award ID', '@liste_nsf_id'), ('Investigators', '@liste_nsf_pi'), 
-#             ('Emails', '@liste_nsf_emails'), ('University', '@liste_nsf_uni'), ('Amount', '@liste_nsf_amount')]
-
-# p2.scatter('cna', 'mut', source=source2, alpha=0.6, fill_color='col', line_color=None)
-# p2.xaxis[0].axis_label = '% copy-number alterations'
-# p2.yaxis[0].axis_label = '% mutations'
-
-# labels = LabelSet(x='cna', y='mut', text='gene_names', source=source2, text_font_size="8pt")
-
-# p2.add_tools(HoverTool(tooltips=tooltips))
-# p2.add_layout(labels)
 
 # Get data for p53 signaling
-gene_cna, gene_cna_per, gene_mutations, gene_mutations_per, genes, gene_modifs_ratio, mutations = process_data('mutations_p53.txt', 'cna_p53.txt')
+gene_cna, gene_cna_per, gene_mutations, gene_mutations_per, 
+    genes, gene_modifs_ratio, mutations = process_data('mutations_p53.txt', 'cna_p53.txt')
 
-# colors = [
-#      "#%02x%02x%02x" % (int(r), int(g), int(b)) for r, g, b, _ in 255*mpl.cm.viridis(mpl.colors.Normalize()(gene_modifs_ratio))
-#   ]
-
-# # Create source for plotting, useful for Labeling afterwards
-# source3 = ColumnDataSource(data=dict(cna=gene_cna_per, 
-#                                     mut=gene_mutations_per,
-#                                     gene_names=genes,
-#                                     gene_modif=gene_modifs_ratio,
-#                                     col=colors))
-
-# # Formatting title and labels
-# p3 = figure(title='Cancer associated gene alterations in the p53 signaling pathway')
-# p3.xaxis[0].axis_label = '% copy-number alterations'
-# p3.yaxis[0].axis_label = '% mutations'
-
-# p3.scatter('cna', 'mut', source=source3, alpha=0.6, radius='gene_modif', fill_color='col', line_color=None)
-# labels = LabelSet(x='cna', y='mut', text='gene_names', source=source3)
-# p3.add_layout(labels)
+# Map gene name to alternative names from the NCBI (mapping downloaded from HUGO)
+mapping = pd.read_csv('gene_ncbi_uniprot.tsv', sep='\t')
 
 # Scrap NCBI to get alternative names for the genes, i.e. encoded proteins
 gene_ncbi = {gene: int(mapping.NCBI_Gene_ID[mapping[mapping.Approved_symbol == str(gene)].index.tolist()[0]]) for gene in genes}
 
+cache_name = 'project_crunchbase'
+MAX_RETRIES = 5
+session = requests_cache.core.CachedSession(cache_name, backend='sqlite', expire_after=None)
+session.mount('http://', requests.adapters.HTTPAdapter(max_retries=MAX_RETRIES))
 
 filenames = glob("2018/*.xml")
-gene_add_names = get_gene_add_names(session, genes, gene_ncbi)
-citing_grants = get_nsf_data(filenames, gene_add_names)
+genes_add_names = get_gene_add_names(session, genes, gene_ncbi)
 
-print(citing_grants)
+citing_grants = get_nsf_data(filenames, genes_add_names)
 
 liste_nsf_id = []
 liste_nsf_pi = []
@@ -248,76 +147,3 @@ for gene in genes:
         liste_nsf_amount.append(','.join(citing_grants[gene][4]))
         liste_colors.append('red')
 
-output_file("label2.html", title='test merde')
-
-print(liste_nsf_amount)
-print(liste_nsf_emails)
-print(liste_nsf_id)
-# Plotting NSF grant in gene representation
-# p4 = figure(title='NSF grants on genes altered in the p53 signaling pathway altered in cancers')
-
-# source4 = ColumnDataSource(data=dict(cna=gene_cna_per, 
-#                             mut=gene_mutations_per,
-#                             gene_names=genes,
-#                             liste_nsf_id=liste_nsf_id,
-#                             liste_nsf_pi=liste_nsf_pi,
-#                             liste_nsf_emails=liste_nsf_emails,
-#                             liste_nsf_uni=liste_nsf_uni,
-#                             liste_nsf_amount=liste_nsf_amount,
-#                             col=liste_colors))
-
-# tooltips = [('NSF Award ID', '@liste_nsf_id'), ('Investigators', '@liste_nsf_pi'), 
-#             ('Emails', '@liste_nsf_emails'), ('University', '@liste_nsf_uni'), ('Amount', '@liste_nsf_amount')]
-
-# p4.scatter('cna', 'mut', source=source4, alpha=0.6, fill_color='col', line_color=None)
-# p4.xaxis[0].axis_label = '% copy-number alterations'
-# p4.yaxis[0].axis_label = '% mutations'
-
-# labels = LabelSet(x='cna', y='mut', text='gene_names', source=source4, text_font_size="8pt")
-
-# p4.add_tools(HoverTool(tooltips=tooltips))
-# p4.add_layout(labels)
-
-# show(p4)
-
-# for gene in genes:
-#     if gene not in citing_grants:
-#         liste_nsf_id.append('NA')
-#         liste_nsf_pi.append('NA')
-#         liste_nsf_emails.append('NA')
-#         liste_nsf_uni.append('NA')
-#         liste_nsf_amount.append('NA')
-#         liste_colors.append('blue')
-#     else:
-#         liste_nsf_id.append(citing_grants[gene][0])
-#         liste_nsf_pi.append(citing_grants[gene][1])
-#         liste_nsf_emails.append(citing_grants[gene][2])
-#         liste_nsf_uni.append(citing_grants[gene][3])
-#         liste_nsf_amount.append(citing_grants[gene][4])
-#         liste_colors.append('red')
-
-# # Plotting NSF grant in gene representation
-# p2 = figure(title='NSF grants on genes altered in cell cycle pathway altered in cancers')
-
-# source2 = ColumnDataSource(data=dict(cna=gene_cna_per, 
-#                             mut=gene_mutations_per,
-#                             gene_names=genes,
-#                             gene_modif=gene_modifs_ratio,
-#                             liste_nsf_id=liste_nsf_id,
-#                             liste_nsf_pi=liste_nsf_pi,
-#                             liste_nsf_emails=liste_nsf_emails,
-#                             liste_nsf_uni=liste_nsf_uni,
-#                             liste_nsf_amount=liste_nsf_amount,
-#                             col=liste_colors))
-
-# tooltips = [('NSF Award ID', '@liste_nsf_id'), ('Investigators', '@liste_nsf_pi'), 
-#             ('Emails', '@liste_nsf_emails'), ('University', '@liste_nsf_uni'), ('Amount', '@liste_nsf_amount')]
-
-# p2.scatter('cna', 'mut', source=source2, alpha=0.6, fill_color='col', line_color=None)
-# p2.xaxis[0].axis_label = '% copy-number alterations'
-# p2.yaxis[0].axis_label = '% mutations'
-
-# labels = LabelSet(x='cna', y='mut', text='gene_names', source=source2, text_font_size="8pt")
-
-# p2.add_tools(HoverTool(tooltips=tooltips))
-# p2.add_layout(labels)
